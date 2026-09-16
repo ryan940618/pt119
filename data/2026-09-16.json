@@ -875,7 +875,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉四維國小/操場[屏東縣萬丹鄉四維東路",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已離院",
@@ -884,6 +884,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:49:18.072576"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T11:52:18.079563"
       }
     ]
   }
