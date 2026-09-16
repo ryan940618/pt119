@@ -890,5 +890,19 @@
         "timestamp": "2026-09-16T11:52:18.079563"
       }
     ]
+  },
+  "4ff01c075fadc2c98f8f5c360d371882": {
+    "time": "2026/09/16 11:52:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮志成路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T11:54:18.144557"
+      }
+    ]
   }
 }
