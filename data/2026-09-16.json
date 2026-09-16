@@ -1019,7 +1019,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉崑崙路45巷",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1032,6 +1032,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-16T13:01:18.605111"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T13:14:19.021980"
       }
     ]
   },
@@ -1081,7 +1085,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮太平路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1090,6 +1094,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-16T13:12:18.656057"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T13:14:19.021980"
       }
     ]
   },
@@ -1131,11 +1139,15 @@
     "sub_category": "",
     "location": "屏東縣南州鄉民生路",
     "units": "南州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T13:13:18.803474"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T13:14:19.021980"
       }
     ]
   },
