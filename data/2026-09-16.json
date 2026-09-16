@@ -1168,5 +1168,19 @@
         "timestamp": "2026-09-16T13:13:18.803474"
       }
     ]
+  },
+  "cda63cdfdf8838c71c84a11fc691bd4f": {
+    "time": "2026/09/16 13:17:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉泗溝大橋/萬巒側",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T13:19:18.657778"
+      }
+    ]
   }
 }
