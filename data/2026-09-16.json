@@ -901,7 +901,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮志成路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -914,6 +914,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-16T12:24:18.356577"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T12:26:18.360918"
       }
     ]
   },
