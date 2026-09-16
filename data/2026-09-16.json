@@ -1299,7 +1299,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市台糖二街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1308,6 +1308,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-16T14:18:18.233307"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T14:19:18.042808"
       }
     ]
   },
@@ -1354,6 +1358,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T14:12:18.255512"
+      }
+    ]
+  },
+  "7d0d1a0f9e1ebb6dd6c9bb6fc4726216": {
+    "time": "2026/09/16 14:18:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T14:19:18.042808"
       }
     ]
   }
