@@ -1420,5 +1420,19 @@
         "timestamp": "2026-09-16T14:22:18.145813"
       }
     ]
+  },
+  "553aff181b8567e6121845fb157e42ef": {
+    "time": "2026/09/16 14:22:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮恆公路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T14:23:18.082804"
+      }
+    ]
   }
 }
