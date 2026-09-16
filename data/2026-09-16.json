@@ -560,5 +560,19 @@
         "timestamp": "2026-09-16T10:05:19.093089"
       }
     ]
+  },
+  "446753cbe0c46c534f0e8dadef17f5de": {
+    "time": "2026/09/16 10:10:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市林森路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:12:18.192381"
+      }
+    ]
   }
 }
