@@ -1204,5 +1204,19 @@
         "timestamp": "2026-09-16T13:24:18.833054"
       }
     ]
+  },
+  "db69a724a2f4e512c4560bbf6311e2d5": {
+    "time": "2026/09/16 13:43:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉興中一巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T13:44:18.960960"
+      }
+    ]
   }
 }
