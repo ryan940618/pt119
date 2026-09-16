@@ -489,11 +489,75 @@
     "sub_category": "",
     "location": "屏東縣屏東市華正路",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T09:50:51.100418"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T10:07:17.967708"
+      }
+    ]
+  },
+  "23bc02c6e416059fa7bfb3455f6365b6": {
+    "time": "2026/09/16 09:56:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉台1線450公里南下",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:02:48.639173"
+      }
+    ]
+  },
+  "d9d01f91c5ed8e5675cdf588979a545a": {
+    "time": "2026/09/16 09:53:43",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉中正路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:02:48.639173"
+      }
+    ]
+  },
+  "3f0a62849e4ce45404d1173ff1439c92": {
+    "time": "2026/09/16 09:53:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉載興路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:02:48.639173"
+      }
+    ]
+  },
+  "46858a9400f8efcf512fec817b8d06f3": {
+    "time": "2026/09/16 09:51:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬新路1065巷",
+    "units": "萬丹分隊",
+    "current_status": "返隊中",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:02:48.639173"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T10:05:19.093089"
       }
     ]
   }
