@@ -258,7 +258,7 @@
                 <tr>
                     <th width="12%">受理時間</th>
                     <th width="8%">案類</th>
-                    <th width="10%">案別</th>
+                    <!--<th width="10%">案別</th>-->
                     <th width="20%">發生地點</th>
                     <th width="15%">派遣分隊</th>
                     <th width="10%">狀態</th>
@@ -356,7 +356,6 @@
             tr.innerHTML = `
                 <td data-label="受理時間">${event.time}</td>
                 <td data-label="案類">${event.category}</td>
-                <td data-label="案別">${event.sub_category}</td>
                 <td data-label="發生地點">${event.location}</td>
                 <td data-label="派遣分隊">${event.units}</td>
                 <td data-label="狀態" class="status-highlight">${event.current_status}</td>
