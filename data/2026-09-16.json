@@ -997,7 +997,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉萬安路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1006,6 +1006,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:23:18.343103"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T12:58:18.509100"
       }
     ]
   },
@@ -1080,6 +1084,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-16T12:48:18.505946"
+      }
+    ]
+  },
+  "6cf7d39e6760dea0f91e2553c860ea67": {
+    "time": "2026/09/16 12:57:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉洽興路",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:58:18.509100"
       }
     ]
   }
