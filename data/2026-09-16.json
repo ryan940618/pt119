@@ -1041,7 +1041,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉復興路",
     "units": "琉球分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1050,6 +1050,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-16T13:01:18.605111"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T13:06:18.623093"
       }
     ]
   },
