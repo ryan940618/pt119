@@ -919,7 +919,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮水源二街",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -928,6 +928,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:04:18.316969"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T12:22:18.304518"
       }
     ]
   },
@@ -964,6 +968,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:18:18.186425"
+      }
+    ]
+  },
+  "9577e0e06065a2ed1dee170272492d3c": {
+    "time": "2026/09/16 12:21:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉萬安路",
+    "units": "新埤分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:22:18.304518"
+      }
+    ]
+  },
+  "da989f46df9e67c2847ba87587695d65": {
+    "time": "2026/09/16 12:21:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉崑崙路45巷",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:22:18.304518"
       }
     ]
   }
