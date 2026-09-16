@@ -773,7 +773,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉三多路221巷",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -786,6 +786,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-16T11:47:18.057812"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T12:03:18.232225"
       }
     ]
   },
@@ -906,6 +910,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:55:18.085536"
+      }
+    ]
+  },
+  "f648655200aead7b6c71f02d3f4cd6a0": {
+    "time": "2026/09/16 12:02:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮水源二街",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T12:03:18.232225"
       }
     ]
   }
