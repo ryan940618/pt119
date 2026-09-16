@@ -549,7 +549,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬新路1065巷",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -558,6 +558,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-16T10:05:19.093089"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T10:12:50.326553"
       }
     ]
   },
@@ -572,6 +576,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T10:12:18.192381"
+      }
+    ]
+  },
+  "dabde2d0e9b2a8d10c6f17dc455a5bf1": {
+    "time": "2026/09/16 09:53:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉中正路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T10:12:50.326553"
       }
     ]
   }
