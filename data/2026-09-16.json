@@ -5,7 +5,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市華盛街",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -14,6 +14,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T09:50:26.604123"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T10:42:19.500830"
       }
     ]
   },
