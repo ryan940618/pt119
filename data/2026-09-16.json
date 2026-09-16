@@ -919,11 +919,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮水源二街",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-16T12:03:18.232225"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T12:04:18.316969"
       }
     ]
   }
