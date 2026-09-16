@@ -37,11 +37,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T09:48:54.488166"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T10:15:18.060959"
       }
     ]
   },
