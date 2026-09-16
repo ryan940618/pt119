@@ -705,11 +705,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮和平路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T10:41:37.592234"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T11:14:18.848779"
       }
     ]
   },
@@ -788,6 +792,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:07:19.020539"
+      }
+    ]
+  },
+  "5e5f430a67d4e696d2e215f05bd1cd68": {
+    "time": "2026/09/16 11:12:37",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉上蚶路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-16T11:14:18.848779"
       }
     ]
   }
