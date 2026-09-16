@@ -1169,11 +1169,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉三和路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:13:18.803474"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T13:55:18.057652"
       }
     ]
   },
@@ -1201,7 +1205,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉中興路",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1210,6 +1214,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T13:24:18.833054"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T13:55:18.057652"
       }
     ]
   },
