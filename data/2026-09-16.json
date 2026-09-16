@@ -1239,7 +1239,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉興中一巷",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1248,6 +1248,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-16T14:11:18.391093"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T14:22:18.145813"
       }
     ]
   },
@@ -1386,6 +1390,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T14:20:18.114006"
+      }
+    ]
+  },
+  "dba67ae423689983ee5a42b149022127": {
+    "time": "2026/09/16 14:21:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市工業二路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T14:22:18.145813"
+      }
+    ]
+  },
+  "684e4fa20aa296aa4515f9f9fd44a8c8": {
+    "time": "2026/09/16 14:21:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市工業二路",
+    "units": "高級救護隊,麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T14:22:18.145813"
       }
     ]
   }
