@@ -755,11 +755,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉成功街",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:01:18.662096"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-16T11:15:19.665944"
       }
     ]
   },
