@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>屏縣消防局報案紀錄追蹤</title>
+    <style>
+        :root {
+            --primary: #1D3557;
+            --secondary: #E63946;
+            --bg-main: #F1FAEE;
+            --bg-card: #FFFFFF;
+            --border-color: #A8DADC;
+            --text-main: #333333;
+            --text-muted: #666666;
+        }
+
+        body {
+            font-family: "Segoe UI", "Trebuchet MS", "微軟正黑體", Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: var(--bg-main);
+            color: var(--text-main);
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            color: var(--primary);
+            border-bottom: 3px solid var(--secondary);
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+
+        .disclaimer {
+            background-color: #FFF3CD;
+            color: #856404;
+            padding: 10px 15px;
+            border-radius: 6px;
+            border-left: 4px solid #FFEEBA;
+            margin-bottom: 20px;
+            font-size: 0.95em;
+        }
+        
+        .disclaimer a {
+            color: #0056B3;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+        .disclaimer a:hover {
+            text-decoration: underline;
+        }
+
+        .controls {
+            margin-bottom: 20px;
+            background: var(--bg-card);
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 15px;
+        }
+
+        button, input[type="date"] {
+            padding: 10px 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 15px;
+            outline: none;
+        }
+
+        button {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #2a4b7c;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .divider {
+            border-left: 1px solid #ccc;
+            height: 30px;
+        }
+
+        #statusMessage {
+            margin-bottom: 15px;
+            font-weight: bold;
+            color: var(--primary);
+            font-size: 1.1em;
+        }
+
+        .table-container {
+            overflow-x: auto;
+            background: var(--bg-card);
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            min-width: 800px;
+        }
+
+        th, td {
+            border-bottom: 1px solid var(--border-color);
+            padding: 15px 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: var(--primary);
+            color: white;
+            position: sticky;
+            top: 0;
+            font-weight: 500;
+        }
+
+        tr:nth-child(even) {
+            background-color: #F8FBFB;
+        }
+
+        tr:hover {
+            background-color: #E8F0F2;
+        }
+
+        .history-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            font-size: 0.9em;
+        }
+
+        .history-item {
+            margin-bottom: 6px;
+            padding-bottom: 6px;
+            border-bottom: 1px dashed #ccc;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .history-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            font-weight: bold;
+            color: var(--secondary);
+        }
+
+        .time-badge {
+            color: white;
+            font-size: 0.85em;
+            background: #457B9D;
+            padding: 3px 6px;
+            border-radius: 4px;
+            white-space: nowrap;
+        }
+
+        .status-highlight {
+            font-weight: bold;
+            color: var(--secondary);
+        }
+
+        @media screen and (max-width: 768px) {
+            .divider {
+                display: none;
+            }
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .controls > div {
+                display: flex;
+                flex-direction: column;
+                gap: 10px;
+            }
+            
+            table, thead, tbody, th, td, tr {
+                display: block;
+            }
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+            table {
+                min-width: auto;
+            }
+            tr {
+                margin-bottom: 15px;
+                border: 1px solid var(--border-color);
+                border-radius: 8px;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            }
+            td {
+                border: none;
+                border-bottom: 1px solid #eee;
+                position: relative;
+                padding-left: 35%;
+                text-align: left;
+            }
+            td:last-child {
+                border-bottom: 0;
+            }
+            td::before {
+                content: attr(data-label);
+                position: absolute;
+                left: 15px;
+                width: 30%;
+                font-weight: bold;
+                color: var(--primary);
+                white-space: nowrap;
+            }
+            .history-list {
+                margin-top: 5px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>屏縣消防局報案紀錄追蹤</h1>
+
+    <div class="disclaimer">
+        此處僅做資訊紀錄，不一定準確，請以官方來源為主。資料來源：<a href="https://210.241.33.174:8080/DTS/caselist/html" target="_blank">屏東縣政府消防局即時案件連結</a>
+    </div>
+
+    <div class="controls">
+        <button onclick="loadDefaultView()">重新整理</button>
+        <div class="divider"></div>
+        <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; flex-grow: 1;">
+            <label for="datePicker" style="font-weight: bold;">以日期查詢：</label>
+            <input type="date" id="datePicker">
+            <button onclick="fetchSpecificDate()">查詢</button>
+        </div>
+    </div>
+
+    <div id="statusMessage">載入中...</div>
+
+    <div class="table-container">
+        <table id="dataTable">
+            <thead>
+                <tr>
+                    <th width="12%">受理時間</th>
+                    <th width="8%">案類</th>
+                    <th width="10%">案別</th>
+                    <th width="20%">發生地點</th>
+                    <th width="15%">派遣分隊</th>
+                    <th width="10%">狀態</th>
+                    <th width="25%">時間軸</th>
+                </tr>
+            </thead>
+            <tbody id="eventBody">
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script>
+    const dataFolder = './data/';
+
+    function getLocalYYYYMMDD(date) {
+        const y = date.getFullYear();
+        const m = String(date.getMonth() + 1).padStart(2, '0');
+        const d = String(date.getDate()).padStart(2, '0');
+        return `${y}-${m}-${d}`;
+    }
+
+    async function fetchJsonSafely(dateStr) {
+        try {
+            const response = await fetch(`${dataFolder}${dateStr}.json`);
+            if (!response.ok) throw new Error('Not Found');
+            return await response.json();
+        } catch (error) {
+            console.warn(`找不到 ${dateStr} 的資料`);
+            return {};
+        }
+    }
+
+    async function loadDefaultView() {
+        document.getElementById('statusMessage').innerText = "資料載入中...";
+        const today = new Date();
+        const yesterday = new Date();
+        yesterday.setDate(today.getDate() - 1);
+
+        const todayStr = getLocalYYYYMMDD(today);
+        const yesterdayStr = getLocalYYYYMMDD(yesterday);
+
+        const [todayData, yesterdayData] = await Promise.all([
+            fetchJsonSafely(todayStr),
+            fetchJsonSafely(yesterdayStr)
+        ]);
+
+        const mergedData = { ...yesterdayData, ...todayData };
+        renderTable(mergedData, `目前顯示區間：${yesterdayStr} - ${todayStr}`);
+    }
+
+    async function fetchSpecificDate() {
+        const dateStr = document.getElementById('datePicker').value;
+        if (!dateStr) {
+            alert("請先選擇日期!");
+            return;
+        }
+        document.getElementById('statusMessage').innerText = "載入中...";
+        const data = await fetchJsonSafely(dateStr);
+        renderTable(data, `目前顯示區間：${dateStr}`);
+    }
+
+    function renderTable(dataObj, statusText) {
+        const tbody = document.getElementById('eventBody');
+        tbody.innerHTML = ''; 
+
+        const events = Object.values(dataObj);
+
+        if (events.length === 0) {
+            document.getElementById('statusMessage').innerText = `${statusText} (目前無資料)`;
+            tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding: 30px; color: #888;">選定之日期無案件紀錄</td></tr>';
+            return;
+        }
+
+        document.getElementById('statusMessage').innerText = `${statusText} (共 ${events.length} 筆)`;
+
+        events.sort((a, b) => new Date(b.time) - new Date(a.time));
+
+        events.forEach(event => {
+            const tr = document.createElement('tr');
+
+            const historyHtml = event.status_history.map(hist => {
+                const dateObj = new Date(hist.timestamp);
+                const timeStr = dateObj.toLocaleTimeString('zh-TW', { 
+                    hour12: false, 
+                    hour: '2-digit', 
+                    minute: '2-digit' 
+                });
+                return `<li class="history-item">
+                            <span class="time-badge">${timeStr}</span> 
+                            <span>${hist.status}</span>
+                        </li>`;
+            }).join('');
+
+            tr.innerHTML = `
+                <td data-label="受理時間">${event.time}</td>
+                <td data-label="案類">${event.category}</td>
+                <td data-label="案別">${event.sub_category}</td>
+                <td data-label="發生地點">${event.location}</td>
+                <td data-label="派遣分隊">${event.units}</td>
+                <td data-label="狀態" class="status-highlight">${event.current_status}</td>
+                <td data-label="時間軸"><ul class="history-list">${historyHtml}</ul></td>
+            `;
+            tbody.appendChild(tr);
+        });
+    }
+
+    window.onload = loadDefaultView;
+</script>
+</body>
+</html>
