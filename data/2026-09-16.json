@@ -746,5 +746,19 @@
         "timestamp": "2026-09-16T11:01:18.662096"
       }
     ]
+  },
+  "173fca077230ee8689fb80251390273e": {
+    "time": "2026/09/16 11:04:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中華路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T11:05:18.740686"
+      }
+    ]
   }
 }
