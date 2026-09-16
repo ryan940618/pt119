@@ -1019,7 +1019,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉崑崙路45巷",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1028,6 +1028,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:23:18.343103"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T13:01:18.605111"
       }
     ]
   },
@@ -1037,11 +1041,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉復興路",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T12:24:18.356577"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T13:01:18.605111"
       }
     ]
   },
