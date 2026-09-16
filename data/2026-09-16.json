@@ -1284,5 +1284,47 @@
         "timestamp": "2026-09-16T14:00:18.260044"
       }
     ]
+  },
+  "ffb5f80a586ca95921c610882de886d2": {
+    "time": "2026/09/16 14:08:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市台糖二街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T14:09:18.392285"
+      }
+    ]
+  },
+  "d3a12cf463b26e8dead79e614f5076f7": {
+    "time": "2026/09/16 14:08:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉文化街",
+    "units": "新埤分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-16T14:09:18.392285"
+      }
+    ]
+  },
+  "f09ac43cbde1bbd761ad5e03fc154367": {
+    "time": "2026/09/16 14:07:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮墾丁路",
+    "units": "墾丁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-16T14:09:18.392285"
+      }
+    ]
   }
 }
