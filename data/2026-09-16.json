@@ -823,11 +823,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市天津街",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-16T11:07:19.020539"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-16T11:43:18.112249"
       }
     ]
   },
