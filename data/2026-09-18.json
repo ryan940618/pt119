@@ -323,7 +323,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉縣立全德國小[[929]屏東縣琉球鄉杉福村復興路",
     "units": "琉球分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -332,6 +332,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T02:22:20.219817"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T02:24:20.476130"
       }
     ]
   },
@@ -408,6 +412,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T02:23:20.298109"
+      }
+    ]
+  },
+  "d60966ceecb1ce80dde3b1092dbf4280": {
+    "time": "2026/09/18 02:22:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉鹽埔漁港/交通船碼頭[屏東縣新園鄉鹽埔漁港]",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T02:24:20.476130"
       }
     ]
   }
