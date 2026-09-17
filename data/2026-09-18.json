@@ -673,11 +673,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉南興路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T06:22:20.802092"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T06:38:20.877049"
       }
     ]
   },
