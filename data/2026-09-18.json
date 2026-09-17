@@ -765,11 +765,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉青山路",
     "units": "高樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T07:01:20.021376"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T07:02:20.431732"
       }
     ]
   }
