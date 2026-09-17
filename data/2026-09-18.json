@@ -1,0 +1,226 @@
+{
+  "752385f5170b5968cffe1cedb916bfe7": {
+    "time": "2026/09/17 23:46:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市高屏大橋/屏東往高雄[屏東縣屏東市建國路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "c0929c286d51a45f4a1be310a9b1d747": {
+    "time": "2026/09/17 23:26:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉洛陽村四維路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "3672005879643f2cbbde8604730ed638": {
+    "time": "2026/09/17 23:11:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉田南路",
+    "units": "新園分隊",
+    "current_status": "返隊中",
+    "status_history": [
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "abb9c67399fe5893dea48294b27d09d4": {
+    "time": "2026/09/17 17:12:24",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣里港鄉轄區",
+    "units": "里港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "d32553a14144f5bc0d89fc71e64bb4f6": {
+    "time": "2026/09/12 15:39:53",
+    "category": "災害搶救",
+    "sub_category": "",
+    "location": "屏東縣東港鎮鎮海公園",
+    "units": "佳冬分隊,新園分隊,東港分隊,林邊分隊,第三大隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "e017fb57ed4aebd52568ef2181b35f10": {
+    "time": "2026/09/06 09:11:56",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬新路",
+    "units": "第三大隊,第二大隊,萬丹分隊",
+    "current_status": "返隊中",
+    "status_history": [
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "3e3487dc4ba044952a74697c1f9c2642": {
+    "time": "2026/09/05 18:56:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉復興路",
+    "units": "佳冬分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "6d9ac816c9e81c710b1719d1bba75683": {
+    "time": "2026/09/03 19:09:31",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉世一路",
+    "units": "第一大隊,高樹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "6e04b22df88c34a64387e4557ff718f9": {
+    "time": "2026/08/29 10:03:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮墾丁分隊",
+    "units": "墾丁分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "efe21d47ecbe4284c370a7527a99aebb": {
+    "time": "2026/08/28 19:26:16",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬丹路三段220巷",
+    "units": "內埔分隊,公館分隊,屏東分隊,新園分隊,竹田分隊,第二大隊,萬丹分隊,麟洛分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "1092359d4bbdb2668c8c10bddd986e43": {
+    "time": "2026/08/24 14:32:17",
+    "category": "災害搶救",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬新路",
+    "units": "內埔分隊,新園分隊,東港分隊,潮州分隊,特搜大隊,第三大隊,第二大隊,萬丹分隊",
+    "current_status": "返隊中",
+    "status_history": [
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "4cbb3bce77eae53d11001b6ba20de82a": {
+    "time": "2026/08/13 21:40:40",
+    "category": "災害搶救",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉里德村欖仁溪往出風谷方向",
+    "units": "墾丁分隊,恆春分隊,滿州分隊,特搜大隊,第四大隊",
+    "current_status": "返隊中",
+    "status_history": [
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "00a187907f4c39f46137219f0a7660a0": {
+    "time": "2026/07/26 03:43:43",
+    "category": "災害搶救",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉楓港溪出水口",
+    "units": "枋山分隊,獅子分隊,第四大隊,車城分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "6fdfec9a833e1cde56080703af5d5e32": {
+    "time": "2026/07/07 21:29:21",
+    "category": "災害搶救",
+    "sub_category": "",
+    "location": "屏東縣車城鄉海岸景觀大橋/福安大橋",
+    "units": "恆春分隊,第四大隊,車城分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "6a211adcbb3950fb6e7814a00aca47bb": {
+    "time": "2026/07/05 15:25:32",
+    "category": "災害搶救",
+    "sub_category": "",
+    "location": "屏東縣東港鎮南平路",
+    "units": "佳冬分隊,東港分隊,特搜大隊,第三大隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  },
+  "cdf8d937aec6285ff0303833470858b9": {
+    "time": "2026/07/02 01:39:17",
+    "category": "災害搶救",
+    "sub_category": "",
+    "location": "屏東縣屏東市高屏大橋上[屏東縣屏東市建國路",
+    "units": "公館分隊,特搜大隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  }
+}
