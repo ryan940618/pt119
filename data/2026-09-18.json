@@ -274,5 +274,19 @@
         "timestamp": "2026-09-18T01:04:20.669012"
       }
     ]
+  },
+  "2285e0def605ed80f2427f4f964485f4": {
+    "time": "2026/09/18 01:05:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市太原一路",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T01:06:20.661329"
+      }
+    ]
   }
 }
