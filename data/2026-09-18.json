@@ -827,11 +827,15 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉玉環路",
     "units": "新埤分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T07:15:20.102483"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T07:19:20.391924"
       }
     ]
   },
