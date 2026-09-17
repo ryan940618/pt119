@@ -242,5 +242,19 @@
         "timestamp": "2026-09-18T00:00:59.706590"
       }
     ]
+  },
+  "cf9692a1b9341fb55b3f9f438e256c9d": {
+    "time": "2026/09/18 00:55:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉福德路",
+    "units": "滿州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T00:56:20.446218"
+      }
+    ]
   }
 }
