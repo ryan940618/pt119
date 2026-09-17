@@ -429,7 +429,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽埔漁港/交通船碼頭[屏東縣新園鄉鹽埔漁港]",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -438,6 +438,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T03:20:20.404530"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T03:28:20.518698"
       }
     ]
   },
