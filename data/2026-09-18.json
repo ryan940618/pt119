@@ -550,5 +550,19 @@
         "timestamp": "2026-09-18T04:18:20.868702"
       }
     ]
+  },
+  "2128f499eded44b933da79942f988435": {
+    "time": "2026/09/18 04:28:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣泰武鄉獅子26號之1",
+    "units": "泰武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T04:30:20.906299"
+      }
+    ]
   }
 }
