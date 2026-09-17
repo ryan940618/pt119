@@ -320,5 +320,19 @@
         "timestamp": "2026-09-18T01:32:21.319414"
       }
     ]
+  },
+  "8f46d92f95795bab4adc25456f1d3ab4": {
+    "time": "2026/09/18 01:32:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市棒球路180巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T01:34:20.686939"
+      }
+    ]
   }
 }
