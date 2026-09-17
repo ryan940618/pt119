@@ -666,5 +666,19 @@
         "timestamp": "2026-09-18T06:19:20.769660"
       }
     ]
+  },
+  "e40fc3e004e26258230c3d5353a61ae7": {
+    "time": "2026/09/18 06:21:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉南興路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T06:22:20.802092"
+      }
+    ]
   }
 }
