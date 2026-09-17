@@ -620,5 +620,19 @@
         "timestamp": "2026-09-18T05:34:20.510135"
       }
     ]
+  },
+  "0b4c9dde9dac2f529db7625609172dc3": {
+    "time": "2026/09/18 05:58:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉三和路305巷",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T06:00:20.744642"
+      }
+    ]
   }
 }
