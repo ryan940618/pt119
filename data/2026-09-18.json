@@ -306,5 +306,19 @@
         "timestamp": "2026-09-18T01:24:20.853596"
       }
     ]
+  },
+  "41f6a3edf830fa7183e8d1b2d1777b7e": {
+    "time": "2026/09/18 01:29:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T01:32:21.319414"
+      }
+    ]
   }
 }
