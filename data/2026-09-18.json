@@ -535,7 +535,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉北興路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -544,6 +544,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T03:35:20.683949"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T04:18:20.868702"
       }
     ]
   }
