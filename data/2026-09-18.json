@@ -609,7 +609,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉南進路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -618,6 +618,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T05:34:20.510135"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T06:42:20.877675"
       }
     ]
   },
@@ -627,7 +631,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉三和路305巷",
     "units": "瑪家分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -636,6 +640,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T06:04:20.615767"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T06:42:20.877675"
       }
     ]
   },
