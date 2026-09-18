@@ -2609,7 +2609,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉自行車道/距離瑞光路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2618,6 +2618,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T15:53:20.291314"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T16:04:20.791558"
       }
     ]
   },
@@ -2718,6 +2722,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T15:59:20.286247"
+      }
+    ]
+  },
+  "dae7b4af72ac92ff7c4dbb24c9092d4d": {
+    "time": "2026/09/18 16:02:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮光復路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T16:04:20.791558"
       }
     ]
   }
