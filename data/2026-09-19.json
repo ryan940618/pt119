@@ -4346,5 +4346,19 @@
         "timestamp": "2026-09-19T02:30:20.130386"
       }
     ]
+  },
+  "1107fd9e1282b9a1cd3be59c1e84f6ff": {
+    "time": "2026/09/19 02:35:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉黃金路15巷",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T02:37:20.212898"
+      }
+    ]
   }
 }
