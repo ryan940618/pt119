@@ -1411,11 +1411,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉忠英路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T09:07:20.918257"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T09:49:22.768500"
       }
     ]
   },
@@ -1448,6 +1452,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T09:40:20.039730"
+      }
+    ]
+  },
+  "3905e6650fe91da337632b47c91a94e5": {
+    "time": "2026/09/18 09:48:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉東寧路",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T09:49:22.768500"
+      }
+    ]
+  },
+  "f0a154e5e583aa5be785f167ca98d787": {
+    "time": "2026/09/18 09:36:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉全德國小對面",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T09:49:22.768500"
       }
     ]
   }
