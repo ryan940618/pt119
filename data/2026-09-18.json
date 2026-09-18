@@ -3265,7 +3265,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉德協路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3274,6 +3274,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T18:39:20.170503"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T18:48:20.355287"
       }
     ]
   },
