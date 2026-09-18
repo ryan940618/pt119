@@ -2653,7 +2653,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉麟洛果菜市",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2662,6 +2662,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T16:07:20.304785"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T16:14:20.412351"
       }
     ]
   },
@@ -2774,6 +2778,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T16:12:20.416254"
+      }
+    ]
+  },
+  "6d024dfbb202d7360c1e87b9d0719326": {
+    "time": "2026/09/18 16:13:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市成功路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T16:14:20.412351"
       }
     ]
   }
