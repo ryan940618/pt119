@@ -1927,11 +1927,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市光明街",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T12:05:20.835255"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T12:06:20.944731"
+      }
+    ]
+  },
+  "57929ceb66a4ac0abc1106625e46de6e": {
+    "time": "2026/09/18 12:05:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉舊庄路",
+    "units": "枋山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T12:06:20.944731"
       }
     ]
   }
