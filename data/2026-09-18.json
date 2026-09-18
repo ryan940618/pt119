@@ -4049,11 +4049,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉安全路45巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T22:40:20.806431"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T23:31:20.823717"
       }
     ]
   },
