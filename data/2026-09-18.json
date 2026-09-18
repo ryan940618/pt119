@@ -3386,5 +3386,19 @@
         "timestamp": "2026-09-18T18:40:20.311410"
       }
     ]
+  },
+  "933d21f23a9ab34e7f20acbe8a1842a6": {
+    "time": "2026/09/18 18:40:18",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮永春路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T18:41:20.166444"
+      }
+    ]
   }
 }
