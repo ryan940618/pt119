@@ -897,7 +897,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉保生路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -906,6 +906,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T08:10:20.404254"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T08:26:20.592787"
       }
     ]
   },
@@ -1197,11 +1201,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉美華路",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T08:25:21.049447"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T08:26:20.592787"
       }
     ]
   }
