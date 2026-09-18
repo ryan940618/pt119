@@ -3375,11 +3375,15 @@
     "sub_category": "",
     "location": "屏東縣春日鄉自強一路",
     "units": "春日分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T18:38:20.423507"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T18:40:20.311410"
       }
     ]
   }
