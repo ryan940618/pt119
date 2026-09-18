@@ -4448,5 +4448,19 @@
         "timestamp": "2026-09-19T04:09:20.701336"
       }
     ]
+  },
+  "e6b1a9a8c18cdea9a9cc7e8c69c8df8e": {
+    "time": "2026/09/19 04:07:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮石光巷",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T04:10:20.637266"
+      }
+    ]
   }
 }
