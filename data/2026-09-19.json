@@ -4737,11 +4737,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉柑園路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T06:56:20.858721"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T07:49:20.178084"
       }
     ]
   },
