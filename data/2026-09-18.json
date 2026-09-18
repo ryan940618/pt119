@@ -1608,5 +1608,19 @@
         "timestamp": "2026-09-18T10:21:20.244460"
       }
     ]
+  },
+  "b8c40b5e2b501c8acbed7c5165314e3a": {
+    "time": "2026/09/18 10:34:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中柳路30巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:36:20.291646"
+      }
+    ]
   }
 }
