@@ -4461,7 +4461,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉台9線伊屯文健站附近/往台東方向",
     "units": "獅子分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4470,6 +4470,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T04:18:20.709497"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T05:04:20.036607"
       }
     ]
   },
