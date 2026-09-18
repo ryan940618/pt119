@@ -1301,11 +1301,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉農場街",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:48:20.751703"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T09:01:20.906633"
       }
     ]
   },
