@@ -4240,5 +4240,19 @@
         "timestamp": "2026-09-19T01:30:20.709760"
       }
     ]
+  },
+  "be1da3f3eec1e50c78078dbfc1fce00e": {
+    "time": "2026/09/19 01:38:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮墾丁路潭子巷",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T01:40:20.796999"
+      }
+    ]
   }
 }
