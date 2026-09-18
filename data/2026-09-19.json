@@ -4586,5 +4586,33 @@
         "timestamp": "2026-09-19T05:30:20.127495"
       }
     ]
+  },
+  "c49defda3a9056b4b3a507b529001ff3": {
+    "time": "2026/09/19 05:44:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路450巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T05:45:20.245187"
+      }
+    ]
+  },
+  "6f64649a68de820fb86daa05f37bf992": {
+    "time": "2026/09/19 05:39:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉旭海路",
+    "units": "牡丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T05:45:20.245187"
+      }
+    ]
   }
 }
