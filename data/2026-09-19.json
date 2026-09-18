@@ -4265,11 +4265,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉東寧村勝利路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T01:53:20.930274"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T02:00:20.903988"
       }
     ]
   }
