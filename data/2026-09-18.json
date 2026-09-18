@@ -3029,11 +3029,29 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉仁愛路",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T17:06:21.050230"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:08:20.724680"
+      }
+    ]
+  },
+  "64d8182d4a7f9bd1cf104a8030820499": {
+    "time": "2026/09/18 17:07:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉美華路和榮農路5巷",
+    "units": "林邊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T17:08:20.724680"
       }
     ]
   }
