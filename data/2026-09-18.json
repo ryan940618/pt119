@@ -1743,7 +1743,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民享路179巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1752,6 +1752,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T11:39:20.761438"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T11:45:20.789912"
       }
     ]
   },
@@ -1835,11 +1839,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮明禮路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:33:20.678300"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T11:45:20.789912"
       }
     ]
   },
@@ -1868,6 +1876,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:44:20.929440"
+      }
+    ]
+  },
+  "6b1067ef6df12262f6aeef541a686fde": {
+    "time": "2026/09/18 11:44:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉溝底路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T11:45:20.789912"
       }
     ]
   }
