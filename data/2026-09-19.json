@@ -4791,11 +4791,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉產業路",
     "units": "高樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T07:43:20.124249"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T07:44:20.158899"
       }
     ]
   }
