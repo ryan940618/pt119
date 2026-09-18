@@ -2799,7 +2799,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市成功路",
     "units": "屏東分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2812,6 +2812,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-18T16:26:20.511980"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T16:27:20.475580"
       }
     ]
   },
