@@ -1289,7 +1289,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉赤山往五溝水/土地公廟",
     "units": "萬巒分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1302,6 +1302,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T09:03:20.835142"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T09:07:20.918257"
       }
     ]
   },
@@ -1362,6 +1366,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:53:20.822166"
+      }
+    ]
+  },
+  "462bf50717a9fb09c01edd25c8997536": {
+    "time": "2026/09/18 09:05:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉忠英路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T09:07:20.918257"
       }
     ]
   }
