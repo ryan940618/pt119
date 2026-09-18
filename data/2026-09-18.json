@@ -2575,11 +2575,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉安平路",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T14:54:20.746312"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T15:33:20.135702"
       }
     ]
   },
