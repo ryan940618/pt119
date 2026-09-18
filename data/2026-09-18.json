@@ -2504,5 +2504,19 @@
         "timestamp": "2026-09-18T14:52:20.869613"
       }
     ]
+  },
+  "ba7cf9cb574cc8e2115a61d1c0c131bd": {
+    "time": "2026/09/18 14:52:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興南路一段93巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T14:53:20.825670"
+      }
+    ]
   }
 }
