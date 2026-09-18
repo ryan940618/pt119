@@ -2288,5 +2288,19 @@
         "timestamp": "2026-09-18T13:41:20.440843"
       }
     ]
+  },
+  "8014d6847aa5e541cab060a4ff46a1ca": {
+    "time": "2026/09/18 13:41:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉東寧路",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T13:42:20.503040"
+      }
+    ]
   }
 }
