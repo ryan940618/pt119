@@ -1581,11 +1581,15 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉青山村民族巷",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T10:17:20.321091"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T10:44:20.413928"
       }
     ]
   },
