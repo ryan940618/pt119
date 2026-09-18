@@ -1607,11 +1607,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉康寧路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T10:19:20.542783"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T11:11:20.952540"
       }
     ]
   },
@@ -1734,6 +1738,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:01:20.498633"
+      }
+    ]
+  },
+  "8a41c96d2e0f92210ec1161eb141f0d4": {
+    "time": "2026/09/18 11:10:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉仕絨路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T11:11:20.952540"
       }
     ]
   }
