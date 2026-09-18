@@ -2518,5 +2518,33 @@
         "timestamp": "2026-09-18T14:53:20.825670"
       }
     ]
+  },
+  "90a91e758c321bebdbf04ac5b10c9c6e": {
+    "time": "2026/09/18 14:53:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉射寮路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T14:54:20.746312"
+      }
+    ]
+  },
+  "8e025f9329fc31ae9d267393b78227c4": {
+    "time": "2026/09/18 14:53:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉安平路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T14:54:20.746312"
+      }
+    ]
   }
 }
