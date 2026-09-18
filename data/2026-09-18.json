@@ -1415,7 +1415,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉忠英路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1424,6 +1424,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T09:49:22.768500"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T10:12:20.236365"
       }
     ]
   },
