@@ -2615,7 +2615,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮新生一路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2624,6 +2624,24 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T15:40:20.217470"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T15:42:20.219541"
+      }
+    ]
+  },
+  "aabbffe44959b6254ecfdbf2a6c21f77": {
+    "time": "2026/09/18 15:40:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉麟洛果菜市",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T15:42:20.219541"
       }
     ]
   }
