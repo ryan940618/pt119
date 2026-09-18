@@ -3684,5 +3684,19 @@
         "timestamp": "2026-09-18T20:30:20.927929"
       }
     ]
+  },
+  "1c3d8122de5438a0e2fc0ed8920dd56d": {
+    "time": "2026/09/18 20:33:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T20:35:21.162317"
+      }
+    ]
   }
 }
