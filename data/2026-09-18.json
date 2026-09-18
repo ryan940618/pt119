@@ -2125,7 +2125,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉泉發街",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2142,6 +2142,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T13:38:20.514145"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T14:11:20.504897"
       }
     ]
   },
@@ -2385,11 +2389,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉定遠路",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T14:08:20.571586"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T14:11:20.504897"
       }
     ]
   },
