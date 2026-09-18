@@ -3284,5 +3284,19 @@
         "timestamp": "2026-09-18T18:03:20.077227"
       }
     ]
+  },
+  "ba680c0a3f6bdf02d5d93f749db88592": {
+    "time": "2026/09/18 18:02:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉清潔隊",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T18:04:20.163967"
+      }
+    ]
   }
 }
