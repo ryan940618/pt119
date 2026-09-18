@@ -4189,7 +4189,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉草埔七巷",
     "units": "獅子分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -4198,6 +4198,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T01:30:20.709760"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T01:56:20.908273"
       }
     ]
   },
