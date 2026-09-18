@@ -1617,11 +1617,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉樹山路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T10:21:20.244460"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T10:51:20.378768"
       }
     ]
   },
