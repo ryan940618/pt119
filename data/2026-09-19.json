@@ -4593,7 +4593,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市自由路450巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -4606,6 +4606,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T06:20:20.532139"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T06:23:20.512447"
       }
     ]
   },
