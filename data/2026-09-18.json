@@ -2957,11 +2957,43 @@
     "sub_category": "",
     "location": "屏東縣屏東市中山路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T16:53:20.669492"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T16:54:20.618096"
+      }
+    ]
+  },
+  "4469559d2baa490fdc8a75a6328d3514": {
+    "time": "2026/09/18 16:53:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉保生路",
+    "units": "枋寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T16:54:20.618096"
+      }
+    ]
+  },
+  "cfa13385b53973b2d1edb9528e39196a": {
+    "time": "2026/09/18 16:50:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉透過經緯度轉換GIS座標(22.725,120.6342)/新七彩鳳梨田",
+    "units": "三地門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T16:54:20.618096"
       }
     ]
   }
