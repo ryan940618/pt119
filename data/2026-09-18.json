@@ -1879,7 +1879,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉大仁技術學院[屏東縣鹽埔鄉維新路",
     "units": "鹽埔分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1888,6 +1888,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-18T11:47:20.785141"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-18T11:57:20.840886"
       }
     ]
   },
