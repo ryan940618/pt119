@@ -4711,7 +4711,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉啟南路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -4724,6 +4724,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T07:27:20.966208"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T07:43:20.124249"
       }
     ]
   },
@@ -4778,6 +4782,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T07:31:20.104338"
+      }
+    ]
+  },
+  "a48622aded2e4cd8b6bdd581a635c042": {
+    "time": "2026/09/19 07:41:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉產業路",
+    "units": "高樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T07:43:20.124249"
       }
     ]
   }
