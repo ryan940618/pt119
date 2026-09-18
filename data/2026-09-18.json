@@ -1021,11 +1021,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉九如路二段322巷",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T07:35:20.188308"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T08:24:20.527409"
       }
     ]
   },
