@@ -1290,5 +1290,19 @@
         "timestamp": "2026-09-18T08:46:20.715562"
       }
     ]
+  },
+  "2bbe78bb660e1394e803ac19b2ec0a53": {
+    "time": "2026/09/18 08:46:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉農場街",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T08:48:20.751703"
+      }
+    ]
   }
 }
