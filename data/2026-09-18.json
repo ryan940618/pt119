@@ -3695,11 +3695,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:35:21.162317"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T20:41:19.956641"
       }
     ]
   },
@@ -3714,6 +3718,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:39:21.006010"
+      }
+    ]
+  },
+  "ec2ff8cb8ca54ef5f2f3b4928b83a253": {
+    "time": "2026/09/18 20:40:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮復興路112巷",
+    "units": "恆春分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T20:41:19.956641"
       }
     ]
   }
