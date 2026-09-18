@@ -1544,5 +1544,19 @@
         "timestamp": "2026-09-18T10:09:20.711494"
       }
     ]
+  },
+  "8bc86e0b297aef462e9e5feeb8fd7a20": {
+    "time": "2026/09/18 09:36:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉中華路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:11:20.341548"
+      }
+    ]
   }
 }
