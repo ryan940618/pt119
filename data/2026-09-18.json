@@ -2490,5 +2490,19 @@
         "timestamp": "2026-09-18T14:46:20.798935"
       }
     ]
+  },
+  "44b9589f7bc10f6cf178ebd49d0c235e": {
+    "time": "2026/09/18 14:50:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉大仁科技大學健康中心",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T14:52:20.869613"
+      }
+    ]
   }
 }
