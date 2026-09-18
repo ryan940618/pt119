@@ -4103,7 +4103,7 @@
     "sub_category": "",
     "location": "屏東縣春日鄉力里村6-1號",
     "units": "春日分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -4116,6 +4116,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-18T23:46:20.109798"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T23:55:20.176028"
       }
     ]
   }
