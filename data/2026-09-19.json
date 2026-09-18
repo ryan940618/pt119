@@ -4636,5 +4636,19 @@
         "timestamp": "2026-09-19T06:00:20.403972"
       }
     ]
+  },
+  "36e28db39aa019a0ca4b5bff3f79538b": {
+    "time": "2026/09/19 06:04:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉塔樓路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T06:05:20.326211"
+      }
+    ]
   }
 }
