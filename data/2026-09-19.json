@@ -4351,7 +4351,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉南進路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -4360,6 +4360,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T02:30:20.130386"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T04:26:20.758059"
       }
     ]
   },
