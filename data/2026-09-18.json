@@ -1439,11 +1439,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉全德國小",
     "units": "琉球分隊",
-    "current_status": "已受理",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-09-18T09:39:19.983068"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T09:40:20.039730"
       }
     ]
   }
