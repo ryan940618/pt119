@@ -1576,5 +1576,19 @@
         "timestamp": "2026-09-18T10:17:20.321091"
       }
     ]
+  },
+  "df4b5974c2da55f2478d1e7f5381d355": {
+    "time": "2026/09/18 10:17:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉康寧路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:19:20.542783"
+      }
+    ]
   }
 }
