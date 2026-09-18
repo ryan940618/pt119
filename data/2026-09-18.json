@@ -2525,11 +2525,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉大仁科技大學健康中心",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T14:52:20.869613"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T15:47:20.235006"
       }
     ]
   },
@@ -2656,6 +2660,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T15:45:20.242457"
+      }
+    ]
+  },
+  "9944938aedd9d95093c8d4dc97ef762e": {
+    "time": "2026/09/18 15:46:45",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣東港鎮興東路",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T15:47:20.235006"
       }
     ]
   }
