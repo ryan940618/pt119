@@ -2477,7 +2477,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉中興路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2486,6 +2486,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T15:11:21.001076"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T15:24:20.089785"
       }
     ]
   },
