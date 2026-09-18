@@ -3166,5 +3166,19 @@
         "timestamp": "2026-09-18T17:45:20.859326"
       }
     ]
+  },
+  "2d2023642437fa1a9d0d5534cf658c4a": {
+    "time": "2026/09/18 17:45:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉維新路21巷",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:47:20.932127"
+      }
+    ]
   }
 }
