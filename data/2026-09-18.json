@@ -2099,7 +2099,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉中山路",
     "units": "新埤分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2112,6 +2112,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T13:16:20.301251"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T13:30:20.467422"
       }
     ]
   },
