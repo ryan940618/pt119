@@ -3419,11 +3419,29 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉壽比路361巷",
     "units": "龍泉分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T18:49:20.260583"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T18:50:20.461331"
+      }
+    ]
+  },
+  "d4904a492473593fca409d727b534582": {
+    "time": "2026/09/18 18:48:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉南興路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T18:50:20.461331"
       }
     ]
   }
