@@ -4740,5 +4740,19 @@
         "timestamp": "2026-09-19T06:56:20.858721"
       }
     ]
+  },
+  "bfecafb380138f54049d49fe432da34e": {
+    "time": "2026/09/19 07:27:32",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉民眾路",
+    "units": "新埤分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T07:28:20.885621"
+      }
+    ]
   }
 }
