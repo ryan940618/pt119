@@ -1677,7 +1677,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉仕絨路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1686,6 +1686,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T11:22:20.594319"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T11:44:20.929440"
       }
     ]
   },
@@ -1850,6 +1854,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T11:43:20.805529"
+      }
+    ]
+  },
+  "e26984d24b7669cbec74fe3e8451d237": {
+    "time": "2026/09/18 11:43:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉大仁技術學院[屏東縣鹽埔鄉維新路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T11:44:20.929440"
       }
     ]
   }
