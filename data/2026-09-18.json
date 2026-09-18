@@ -983,11 +983,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉港墘路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T07:30:20.244165"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T08:06:20.438031"
       }
     ]
   },
