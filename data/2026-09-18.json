@@ -3033,7 +3033,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉透過經緯度轉換GIS座標(22.725,120.6342)/新七彩鳳梨田",
     "units": "三地門分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3042,6 +3042,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T17:34:20.970892"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T17:58:20.362597"
       }
     ]
   },
@@ -3232,6 +3236,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-18T17:56:20.362942"
+      }
+    ]
+  },
+  "2ac16d9f9b6f95404f70616b0b5b1250": {
+    "time": "2026/09/18 17:57:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉德協路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:58:20.362597"
+      }
+    ]
+  },
+  "d2b048bbcce818b732da7cc2acd60661": {
+    "time": "2026/09/18 17:56:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮四維路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:58:20.362597"
       }
     ]
   }
