@@ -4259,7 +4259,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮墾丁路潭子巷",
     "units": "恆春分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -4268,6 +4268,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T02:27:20.031371"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T02:40:20.357548"
       }
     ]
   },
