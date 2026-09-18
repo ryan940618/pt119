@@ -2975,11 +2975,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉保生路",
     "units": "枋寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T16:54:20.618096"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T16:55:20.686914"
       }
     ]
   },
