@@ -4287,11 +4287,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中華路農田巷",
     "units": "麟洛分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T02:04:21.312675"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T02:05:21.074325"
       }
     ]
   }
