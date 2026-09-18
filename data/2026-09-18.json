@@ -1095,7 +1095,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮四維路507巷",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1108,6 +1108,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T08:33:20.591250"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T08:40:20.879662"
       }
     ]
   },
@@ -1248,6 +1252,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:35:20.667898"
+      }
+    ]
+  },
+  "abb6654c1657fa0e3624df8724915cfd": {
+    "time": "2026/09/18 08:37:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉赤山往五溝水/土地公廟",
+    "units": "萬巒分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T08:40:20.879662"
       }
     ]
   }
