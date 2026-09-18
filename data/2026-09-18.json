@@ -3843,7 +3843,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉中庄街41巷",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3852,6 +3852,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:55:20.088067"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T21:42:20.494807"
       }
     ]
   },
@@ -3920,6 +3924,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T21:37:20.353312"
+      }
+    ]
+  },
+  "84d7d021b64a12f992a3cd104f3cb15c": {
+    "time": "2026/09/18 21:41:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉南北路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T21:42:20.494807"
       }
     ]
   }
