@@ -2253,7 +2253,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉福安宮香客大樓第3停車場",
     "units": "車城分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2270,6 +2270,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T13:52:20.576925"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T14:08:20.571586"
       }
     ]
   },
@@ -2355,11 +2359,43 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮西門路",
     "units": "恆春分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T14:07:20.679942"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T14:08:20.571586"
+      }
+    ]
+  },
+  "f96159f64919eafaf5cc8e21fe7b5022": {
+    "time": "2026/09/18 14:07:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉定遠路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T14:08:20.571586"
+      }
+    ]
+  },
+  "4383f35f49e767646b9cdf109a834793": {
+    "time": "2026/09/18 14:07:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮中正路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T14:08:20.571586"
       }
     ]
   }
