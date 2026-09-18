@@ -2795,11 +2795,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市成功路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T16:14:20.412351"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-18T16:18:20.411437"
+      }
+    ]
+  },
+  "675d3fe1efa14c93de445f1c58a09166": {
+    "time": "2026/09/18 16:17:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市成功路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-18T16:18:20.411437"
       }
     ]
   }
