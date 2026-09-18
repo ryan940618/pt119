@@ -3787,7 +3787,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮復興路112巷",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3796,6 +3796,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T20:42:20.047186"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T21:19:20.227486"
       }
     ]
   },
