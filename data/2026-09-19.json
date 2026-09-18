@@ -4824,5 +4824,19 @@
         "timestamp": "2026-09-19T07:50:20.166083"
       }
     ]
+  },
+  "e2e568ca092b6d1f61e53814b5cbe6c8": {
+    "time": "2026/09/19 07:50:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市旭東巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T07:51:20.242641"
+      }
+    ]
   }
 }
