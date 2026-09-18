@@ -4176,5 +4176,19 @@
         "timestamp": "2026-09-19T00:20:20.329669"
       }
     ]
+  },
+  "35dc04b7a3379ab05f4056a10a8b92d4": {
+    "time": "2026/09/19 00:38:18",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣屏東市永吉街",
+    "units": "屏東分隊,長治分隊,麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T00:39:20.458373"
+      }
+    ]
   }
 }
