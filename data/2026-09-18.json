@@ -3569,11 +3569,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉復興路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-18T19:49:20.595735"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T20:25:21.008805"
       }
     ]
   },
@@ -3583,7 +3587,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉林森路",
     "units": "九如分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3592,6 +3596,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T20:16:20.933394"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T20:25:21.008805"
       }
     ]
   },
@@ -3634,6 +3642,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-18T20:16:20.933394"
+      }
+    ]
+  },
+  "0aeba83580e4b7f27fadab097e7b59c2": {
+    "time": "2026/09/18 20:24:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市海豐街",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T20:25:21.008805"
       }
     ]
   }
