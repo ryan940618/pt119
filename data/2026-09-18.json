@@ -3209,11 +3209,29 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉連成路",
     "units": "竹田分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-18T17:55:21.032603"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T17:56:20.362942"
+      }
+    ]
+  },
+  "ffaca032bab5cd246508fd42ea1e4609": {
+    "time": "2026/09/18 17:54:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉壽比路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-18T17:56:20.362942"
       }
     ]
   }
