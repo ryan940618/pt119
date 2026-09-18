@@ -1688,5 +1688,19 @@
         "timestamp": "2026-09-18T10:50:21.314477"
       }
     ]
+  },
+  "bc260a6dccfce888fc09939d5a80ac0a": {
+    "time": "2026/09/18 10:54:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民享路179巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T10:55:20.437409"
+      }
+    ]
   }
 }
