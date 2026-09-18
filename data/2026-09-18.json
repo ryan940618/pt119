@@ -1135,7 +1135,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉惠崙路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1144,6 +1144,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-18T08:49:20.775809"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T09:03:20.835142"
       }
     ]
   },
@@ -1241,7 +1245,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉美華路",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1250,6 +1254,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:26:20.592787"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T09:03:20.835142"
       }
     ]
   },
@@ -1273,7 +1281,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉赤山往五溝水/土地公廟",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1282,6 +1290,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-18T08:41:20.675284"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T09:03:20.835142"
       }
     ]
   },
