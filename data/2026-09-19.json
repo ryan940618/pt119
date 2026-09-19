@@ -5499,7 +5499,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉豊作路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -5508,6 +5508,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T11:44:20.902726"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T12:10:20.895713"
       }
     ]
   },
@@ -5697,7 +5701,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中正路688巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5706,6 +5710,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T11:34:20.776242"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T12:10:20.895713"
       }
     ]
   },
