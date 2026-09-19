@@ -5995,7 +5995,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉枋山大橋北上車道",
     "units": "枋山分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6004,6 +6004,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:04:20.962932"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T13:33:20.521221"
       }
     ]
   },
@@ -6081,11 +6085,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉維新路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:29:20.433041"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T13:33:20.521221"
       }
     ]
   },
@@ -6109,11 +6117,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮中山路",
     "units": "滿州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T13:32:20.454899"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T13:33:20.521221"
       }
     ]
   },
