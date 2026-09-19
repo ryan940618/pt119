@@ -4965,7 +4965,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮壽福路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -4974,6 +4974,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T08:55:20.663615"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T08:58:20.618685"
       }
     ]
   },
