@@ -8289,11 +8289,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉平和路",
     "units": "新園分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T02:49:20.335933"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-20T02:50:20.297927"
       }
     ]
   }
