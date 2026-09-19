@@ -7072,5 +7072,33 @@
         "timestamp": "2026-09-19T17:41:20.862660"
       }
     ]
+  },
+  "7a18a384f7455516e0093603395f094e": {
+    "time": "2026/09/19 17:47:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉長治鄉公所[屏東縣長治鄉潭頭路",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T17:48:21.344006"
+      }
+    ]
+  },
+  "be15e4a57b944e691d2d2c9eec57ae94": {
+    "time": "2026/09/19 17:47:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉五房路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:48:21.344006"
+      }
+    ]
   }
 }
