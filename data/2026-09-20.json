@@ -8159,11 +8159,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉長興路",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T00:49:20.446783"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T00:58:20.472339"
       }
     ]
   }
