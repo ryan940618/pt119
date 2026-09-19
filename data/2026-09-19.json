@@ -7765,7 +7765,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐華街",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -7774,6 +7774,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T21:38:20.256021"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T21:45:20.305774"
       }
     ]
   }
