@@ -6855,11 +6855,29 @@
     "sub_category": "",
     "location": "屏東縣東港鎮朝隆路",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T17:13:21.448732"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:14:21.379736"
+      }
+    ]
+  },
+  "308c83224209d9f22a6fab54f25870d4": {
+    "time": "2026/09/19 17:14:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮中山路",
+    "units": "恆春分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T17:14:21.379736"
       }
     ]
   }
