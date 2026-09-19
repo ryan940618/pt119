@@ -8452,5 +8452,19 @@
         "timestamp": "2026-09-20T04:28:21.003352"
       }
     ]
+  },
+  "e022db00a528953804ca4ded2f86fcca": {
+    "time": "2026/09/20 04:35:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市安心四橫巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T04:37:21.060493"
+      }
+    ]
   }
 }
