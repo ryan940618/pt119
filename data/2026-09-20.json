@@ -8733,11 +8733,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T06:25:20.640505"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-20T06:48:20.769200"
       }
     ]
   },
