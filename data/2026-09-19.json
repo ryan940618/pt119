@@ -6535,11 +6535,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮虎頭路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T15:06:21.047268"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T16:06:20.329902"
       }
     ]
   },
@@ -6567,7 +6571,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉自強巷",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -6580,6 +6584,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T16:02:20.398150"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T16:06:20.329902"
       }
     ]
   },
