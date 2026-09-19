@@ -8559,7 +8559,7 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉都魯路",
     "units": "滿州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -8572,6 +8572,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T06:07:20.573558"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T06:18:20.747231"
       }
     ]
   },
@@ -8644,6 +8648,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T06:15:20.605033"
+      }
+    ]
+  },
+  "6cb2b26e589aa48bcf3736653da6b370": {
+    "time": "2026/09/20 06:13:54",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣南州鄉南州國中對面",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T06:18:20.747231"
       }
     ]
   }
