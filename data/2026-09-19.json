@@ -4946,5 +4946,19 @@
         "timestamp": "2026-09-19T08:19:20.327553"
       }
     ]
+  },
+  "eec72db23e249a5aa3a267c8cd55afcc": {
+    "time": "2026/09/19 08:35:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮壽福路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T08:37:20.468391"
+      }
+    ]
   }
 }
