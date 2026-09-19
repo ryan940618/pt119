@@ -6450,5 +6450,33 @@
         "timestamp": "2026-09-19T14:56:21.164252"
       }
     ]
+  },
+  "d3d9eff065ad2b97c51d3ddd986e6fd5": {
+    "time": "2026/09/19 15:05:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉永全路",
+    "units": "萬巒分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T15:06:21.047268"
+      }
+    ]
+  },
+  "798d9118e281041c79e594faff1046ec": {
+    "time": "2026/09/19 15:05:15",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮虎頭路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T15:06:21.047268"
+      }
+    ]
   }
 }
