@@ -5257,11 +5257,29 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮新生路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已受理",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T10:23:20.175205"
+      },
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-19T10:26:20.127725"
+      }
+    ]
+  },
+  "6e4c32e05addd2329ecb18c06397a9bf": {
+    "time": "2026/09/19 10:25:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民學路41巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T10:26:20.127725"
       }
     ]
   }
