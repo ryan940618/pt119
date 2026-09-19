@@ -4999,11 +4999,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉和平路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:53:20.561238"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T09:36:20.783629"
       }
     ]
   },
@@ -5058,6 +5062,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:27:20.745317"
+      }
+    ]
+  },
+  "b9399add992e51b53e29a96f7364199c": {
+    "time": "2026/09/19 09:35:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:36:20.783629"
       }
     ]
   }
