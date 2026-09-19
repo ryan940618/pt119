@@ -4856,5 +4856,19 @@
         "timestamp": "2026-09-19T07:53:20.194543"
       }
     ]
+  },
+  "eece83ec4ad6f6bc0bb40e017eaed682": {
+    "time": "2026/09/19 08:03:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大連路13巷",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T08:05:20.195786"
+      }
+    ]
   }
 }
