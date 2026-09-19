@@ -9017,11 +9017,29 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽琉線碼頭[新園鄉新興路",
     "units": "新園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T07:34:20.008404"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T07:35:19.982950"
+      }
+    ]
+  },
+  "e1fa8d205a16a7fbcc65e41f42e32690": {
+    "time": "2026/09/20 07:33:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮通潮路150巷",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T07:35:19.982950"
       }
     ]
   }
