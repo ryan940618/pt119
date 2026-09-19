@@ -7743,7 +7743,7 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉牡丹分隊[屏東縣牡丹鄉牡丹路",
     "units": "牡丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -7756,6 +7756,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T21:27:20.227191"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T21:57:20.365393"
       }
     ]
   },
@@ -7846,6 +7850,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T21:52:20.380868"
+      }
+    ]
+  },
+  "c97dccd03ddb53f96a7d8923955513c0": {
+    "time": "2026/09/19 21:56:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉炯興路",
+    "units": "佳冬分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T21:57:20.365393"
       }
     ]
   }
