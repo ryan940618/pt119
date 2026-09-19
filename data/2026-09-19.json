@@ -5509,11 +5509,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉大憲街117巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T11:12:20.756434"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T11:16:20.737806"
       }
     ]
   },
@@ -5523,11 +5527,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建興南路33巷",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T11:15:20.606796"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:16:20.737806"
       }
     ]
   },
