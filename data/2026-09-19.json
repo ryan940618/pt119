@@ -5377,7 +5377,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市海豐街",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -5386,6 +5386,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T10:57:20.454868"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T11:02:20.529233"
       }
     ]
   },
@@ -5400,6 +5404,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T10:59:20.369685"
+      }
+    ]
+  },
+  "40c5b28e5c6b80c97222c1ff27345909": {
+    "time": "2026/09/19 11:00:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉仙吉路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:02:20.529233"
+      }
+    ]
+  },
+  "16fbb10e4243c3b28e4eef77e192cd1b": {
+    "time": "2026/09/19 10:59:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉豊作路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:02:20.529233"
       }
     ]
   }
