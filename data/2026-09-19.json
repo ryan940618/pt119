@@ -5299,7 +5299,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民學路41巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5308,6 +5308,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T10:27:20.182624"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T11:12:20.756434"
       }
     ]
   },
@@ -5488,6 +5492,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T11:11:20.897043"
+      }
+    ]
+  },
+  "dcbb77ebb59c1cdcecfb71d4bd3ff8d2": {
+    "time": "2026/09/19 11:11:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉大憲街117巷",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:12:20.756434"
       }
     ]
   }
