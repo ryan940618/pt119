@@ -7926,5 +7926,19 @@
         "timestamp": "2026-09-19T22:34:20.677028"
       }
     ]
+  },
+  "db861531776cf96ca93b7b080023d403": {
+    "time": "2026/09/19 22:41:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉耆老路190巷",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T22:43:20.660682"
+      }
+    ]
   }
 }
