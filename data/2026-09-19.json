@@ -7875,7 +7875,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉炯興路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -7888,6 +7888,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T22:32:20.597374"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T22:34:20.677028"
       }
     ]
   },
@@ -7902,6 +7906,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T22:13:20.534830"
+      }
+    ]
+  },
+  "d797ccbd7c003d6be6a1e935ab4212a1": {
+    "time": "2026/09/19 22:33:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉民生路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T22:34:20.677028"
       }
     ]
   }
