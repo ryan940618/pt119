@@ -7613,11 +7613,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉新鐘路750巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T20:16:20.829514"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T20:43:20.928808"
       }
     ]
   },
