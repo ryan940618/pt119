@@ -5516,5 +5516,33 @@
         "timestamp": "2026-09-19T11:12:20.756434"
       }
     ]
+  },
+  "0e21de4ef448fbab1cafba9608038413": {
+    "time": "2026/09/19 11:14:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建興南路33巷",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T11:15:20.606796"
+      }
+    ]
+  },
+  "dda1e5880bbe57a3270d6c1d121eaa2e": {
+    "time": "2026/09/19 11:12:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉新埤大橋上往南",
+    "units": "新埤分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T11:15:20.606796"
+      }
+    ]
   }
 }
