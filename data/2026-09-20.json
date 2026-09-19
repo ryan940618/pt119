@@ -8289,7 +8289,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉平和路",
     "units": "新園分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -8298,6 +8298,38 @@
       {
         "status": "",
         "timestamp": "2026-09-20T02:50:20.297927"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T02:53:20.342214"
+      }
+    ]
+  },
+  "3108c5051a591300a528763c337ae11a": {
+    "time": "2026/09/20 02:52:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉田中街23巷",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T02:53:20.342214"
+      }
+    ]
+  },
+  "3863d863d07efd05f1e4fa33640355af": {
+    "time": "2026/09/20 02:51:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉美人路",
+    "units": "琉球分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T02:53:20.342214"
       }
     ]
   }
