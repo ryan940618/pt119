@@ -8241,11 +8241,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮堯舜街",
     "units": "潮州分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T02:19:20.056914"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-20T02:20:20.143989"
       }
     ]
   }
