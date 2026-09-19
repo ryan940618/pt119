@@ -7165,7 +7165,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉五房路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -7174,6 +7174,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T18:31:20.223116"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T18:37:20.355496"
       }
     ]
   },
@@ -7298,6 +7302,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:35:20.318151"
+      }
+    ]
+  },
+  "720ad009502294d49cf369cd7a72b4db": {
+    "time": "2026/09/19 18:34:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市歸仁路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T18:37:20.355496"
       }
     ]
   }
