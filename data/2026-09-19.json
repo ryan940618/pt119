@@ -5387,7 +5387,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉文學街45巷",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -5396,6 +5396,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T10:57:20.454868"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T11:56:21.055093"
       }
     ]
   },
@@ -5686,6 +5690,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T11:34:20.776242"
+      }
+    ]
+  },
+  "2bffbad9ab5de2b299642960963a07a5": {
+    "time": "2026/09/19 11:54:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉永光路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:56:21.055093"
       }
     ]
   }
