@@ -5867,11 +5867,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮四春路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:43:20.166443"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T13:10:20.301979"
       }
     ]
   },
@@ -5995,11 +5999,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉新隆路",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:05:20.336727"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T13:10:20.301979"
       }
     ]
   }
