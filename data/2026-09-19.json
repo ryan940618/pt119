@@ -5739,7 +5739,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉永光路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -5748,6 +5748,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T12:40:20.040506"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T13:03:20.264851"
       }
     ]
   },
@@ -5873,7 +5877,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉潭頭路",
     "units": "長治分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -5882,6 +5886,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T12:59:20.306792"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-19T13:03:20.264851"
       }
     ]
   },
@@ -5938,6 +5946,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:02:20.241593"
+      }
+    ]
+  },
+  "ff80f6f4706bef19461fc5bf0ada5a87": {
+    "time": "2026/09/19 13:02:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉枋山大橋北上車道",
+    "units": "枋山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T13:03:20.264851"
       }
     ]
   }
