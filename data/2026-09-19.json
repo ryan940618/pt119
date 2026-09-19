@@ -5575,7 +5575,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建興南路33巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -5588,6 +5588,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T11:46:20.950097"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T11:55:20.883123"
       }
     ]
   },
