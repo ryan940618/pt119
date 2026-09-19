@@ -8942,5 +8942,19 @@
         "timestamp": "2026-09-20T07:12:20.907808"
       }
     ]
+  },
+  "00f42eb9fb3254abe474ebf95bc396c4": {
+    "time": "2026/09/20 07:11:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉相埔路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T07:14:20.963687"
+      }
+    ]
   }
 }
