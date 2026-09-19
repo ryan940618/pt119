@@ -6635,7 +6635,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉中林路",
     "units": "林邊分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -6644,6 +6644,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T16:27:20.487966"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T16:42:20.387178"
       }
     ]
   },
