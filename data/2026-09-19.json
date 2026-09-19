@@ -6577,11 +6577,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市莊敬街二段118巷",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T15:47:20.336072"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T15:55:20.302296"
       }
     ]
   },
