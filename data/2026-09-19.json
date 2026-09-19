@@ -5913,11 +5913,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮民榮街",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T13:01:20.355881"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T13:04:20.962932"
       }
     ]
   },
@@ -5955,11 +5959,29 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉枋山大橋北上車道",
     "units": "枋山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T13:03:20.264851"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T13:04:20.962932"
+      }
+    ]
+  },
+  "dd722af05a40b63fae08fc26bea7d260": {
+    "time": "2026/09/19 13:03:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉來義高中[屏東縣來義鄉中正路",
+    "units": "來義分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T13:04:20.962932"
       }
     ]
   }
