@@ -4903,7 +4903,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市大連路13巷",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -4912,6 +4912,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T08:18:20.264250"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T08:59:20.648850"
       }
     ]
   },
@@ -4992,6 +4996,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:53:20.561238"
+      }
+    ]
+  },
+  "e8f79f2c6ae3ab9f36c10a72697d8e3e": {
+    "time": "2026/09/19 08:58:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市忠孝路",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T08:59:20.648850"
       }
     ]
   }
