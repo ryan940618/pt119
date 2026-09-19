@@ -8297,7 +8297,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉平和路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -8310,6 +8310,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T02:53:20.342214"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T03:27:20.522432"
       }
     ]
   },
