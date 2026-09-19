@@ -8678,5 +8678,33 @@
         "timestamp": "2026-09-20T06:19:20.732596"
       }
     ]
+  },
+  "dd5b493ddde925c997cb0d83220eba82": {
+    "time": "2026/09/20 06:20:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮紅柴路",
+    "units": "恆春分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T06:21:20.738689"
+      }
+    ]
+  },
+  "f7b6119a733ac566c160264b6cfb9904": {
+    "time": "2026/09/20 06:17:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬丹鄉納骨塔附近田厝橋",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T06:21:20.738689"
+      }
+    ]
   }
 }
