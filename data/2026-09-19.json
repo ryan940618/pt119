@@ -7259,7 +7259,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉勝利路47巷",
     "units": "長治分隊,鹽埔分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -7268,6 +7268,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T18:32:20.340604"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-19T18:40:20.344546"
       }
     ]
   },
