@@ -6997,7 +6997,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市龍華路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -7006,6 +7006,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T17:59:21.144361"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T18:14:20.036950"
       }
     ]
   },
@@ -7015,7 +7019,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市金城街",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -7028,6 +7032,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T17:58:20.980538"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T18:14:20.036950"
       }
     ]
   },
