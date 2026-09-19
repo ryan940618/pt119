@@ -8358,5 +8358,19 @@
         "timestamp": "2026-09-20T03:09:20.444732"
       }
     ]
+  },
+  "3f6cfb6d0ccf0cff877d1e85887107ad": {
+    "time": "2026/09/20 03:17:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮榮田路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T03:19:20.452524"
+      }
+    ]
   }
 }
