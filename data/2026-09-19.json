@@ -5299,7 +5299,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民學路41巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -5312,6 +5312,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T11:12:20.756434"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T11:14:20.710198"
       }
     ]
   },
@@ -5415,7 +5419,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉中林路",
     "units": "林邊分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -5424,6 +5428,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T11:06:33.740729"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-19T11:14:20.710198"
       }
     ]
   },
