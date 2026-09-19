@@ -7500,5 +7500,19 @@
         "timestamp": "2026-09-19T19:29:20.614288"
       }
     ]
+  },
+  "5321d08cae00294f53f1ab309172489d": {
+    "time": "2026/09/19 19:29:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市勝利路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T19:30:20.570167"
+      }
+    ]
   }
 }
