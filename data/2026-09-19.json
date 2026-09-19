@@ -5475,7 +5475,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉興安路250巷",
     "units": "崁頂分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -5484,6 +5484,10 @@
       {
         "status": "",
         "timestamp": "2026-09-19T11:08:21.725170"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T11:11:20.897043"
       }
     ]
   }
