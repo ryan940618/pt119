@@ -4890,5 +4890,33 @@
         "timestamp": "2026-09-19T08:18:20.264250"
       }
     ]
+  },
+  "199c3474d993247fcd5a1787e5bf697e": {
+    "time": "2026/09/19 08:17:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市歸仁南路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T08:19:20.327553"
+      }
+    ]
+  },
+  "ec11feffd65bc6b0175802a4921b473d": {
+    "time": "2026/09/19 08:17:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市成功路",
+    "units": "屏東分隊,長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T08:19:20.327553"
+      }
+    ]
   }
 }
