@@ -5069,11 +5069,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮中山路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T09:27:20.745317"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T10:11:20.051228"
       }
     ]
   },
@@ -5097,7 +5101,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市屏東火車站前站[屏東縣屏東市光復路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -5106,6 +5110,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T09:53:21.262274"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T10:11:20.051228"
       }
     ]
   },
