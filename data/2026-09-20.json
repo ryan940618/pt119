@@ -8773,7 +8773,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉下寮巷",
     "units": "長治分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
@@ -8786,6 +8786,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T06:53:20.833329"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-20T07:01:20.927646"
       }
     ]
   },
@@ -8860,6 +8864,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T06:53:20.833329"
+      }
+    ]
+  },
+  "bba4958a206b50dce04ff9c9d073d2b5": {
+    "time": "2026/09/20 07:00:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉仁愛街",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T07:01:20.927646"
       }
     ]
   }
