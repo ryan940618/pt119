@@ -8754,5 +8754,33 @@
         "timestamp": "2026-09-20T06:39:20.704279"
       }
     ]
+  },
+  "757f060db83f9b395ad519297211484c": {
+    "time": "2026/09/20 06:43:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉下寮巷",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T06:44:20.723823"
+      }
+    ]
+  },
+  "0cf112a726d32e151cde2dde1f4ab01a": {
+    "time": "2026/09/20 06:42:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉青豆巷",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T06:44:20.723823"
+      }
+    ]
   }
 }
