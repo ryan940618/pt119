@@ -7812,5 +7812,33 @@
         "timestamp": "2026-09-19T21:50:20.306325"
       }
     ]
+  },
+  "35f62eb645eb66831ee94401484ca4a6": {
+    "time": "2026/09/19 21:51:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市歸仁路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T21:52:20.380868"
+      }
+    ]
+  },
+  "c0ed7285d3eddbe8b4b53ada218678c2": {
+    "time": "2026/09/19 21:51:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉庄內路",
+    "units": "滿州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T21:52:20.380868"
+      }
+    ]
   }
 }
