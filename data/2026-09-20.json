@@ -8153,7 +8153,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中和街",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -8162,6 +8162,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T01:17:20.715790"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T01:30:20.698473"
       }
     ]
   },
