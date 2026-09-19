@@ -7939,7 +7939,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉民生路",
     "units": "佳冬分隊",
-    "current_status": "已離院",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -7952,6 +7952,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-19T23:08:20.840405"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T23:27:21.060139"
       }
     ]
   },
@@ -8024,6 +8028,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T23:26:20.956293"
+      }
+    ]
+  },
+  "205ec9cdffa4e007588cb8a382edb692": {
+    "time": "2026/09/19 23:26:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉七塊路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T23:27:21.060139"
       }
     ]
   }
