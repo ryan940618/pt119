@@ -5005,11 +5005,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市忠孝路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-19T08:59:20.648850"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-19T09:02:20.778781"
       }
     ]
   }
