@@ -5797,7 +5797,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉新勢路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -5806,6 +5806,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T12:54:20.173884"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T13:01:20.355881"
       }
     ]
   },
@@ -5892,6 +5896,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T12:53:20.263849"
+      }
+    ]
+  },
+  "71efa998ada85391a825909423857bf9": {
+    "time": "2026/09/19 13:01:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮民榮街",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T13:01:20.355881"
+      }
+    ]
+  },
+  "bfc457f05509e509da1ba3066a8ac6db": {
+    "time": "2026/09/19 13:00:40",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉測試",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T13:01:20.355881"
       }
     ]
   }
