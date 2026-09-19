@@ -7061,7 +7061,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉忠孝街",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -7070,6 +7070,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T18:23:20.230520"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T18:39:20.345546"
       }
     ]
   },
@@ -7219,7 +7223,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆春國中前[屏東縣恆春鎮文化路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -7228,6 +7232,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:19:20.225415"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T18:39:20.345546"
       }
     ]
   },
