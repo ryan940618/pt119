@@ -8739,11 +8739,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉中山路",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T06:37:20.742742"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T06:39:20.704279"
       }
     ]
   }
