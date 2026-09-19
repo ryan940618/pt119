@@ -6841,7 +6841,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉忠孝路",
     "units": "琉球分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -6850,6 +6850,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T17:38:20.885629"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T17:43:20.890695"
       }
     ]
   },
@@ -7035,7 +7039,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉鹽埔分隊[屏東縣鹽埔鄉鹽北村勝利路",
     "units": "鹽埔分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -7044,6 +7048,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-19T17:39:20.926109"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T17:43:20.890695"
       }
     ]
   },
