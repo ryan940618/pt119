@@ -6951,7 +6951,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市大豐路",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -6964,6 +6964,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T17:36:20.826013"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T18:27:20.260050"
       }
     ]
   },
@@ -7236,6 +7240,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:26:20.352153"
+      }
+    ]
+  },
+  "209951b67f54b35f27a9cf59c8ba7d91": {
+    "time": "2026/09/19 18:26:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市光復路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T18:27:20.260050"
+      }
+    ]
+  },
+  "a43008969fa53d5ad803c512cb4270a5": {
+    "time": "2026/09/19 18:26:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮南門路2巷",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T18:27:20.260050"
       }
     ]
   }
