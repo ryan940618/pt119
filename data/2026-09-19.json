@@ -7291,7 +7291,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉勝利路47巷",
     "units": "長治分隊,鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -7308,6 +7308,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T18:41:20.365395"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T19:16:20.542826"
       }
     ]
   },
