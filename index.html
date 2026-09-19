@@ -59,41 +59,64 @@
         .controls {
             margin-bottom: 20px;
             background: var(--bg-card);
-            padding: 15px;
+            padding: 15px 20px;
             border-radius: 8px;
             box-shadow: 0 4px 6px rgba(0,0,0,0.05);
             display: flex;
-            flex-wrap: wrap;
             align-items: center;
             gap: 15px;
+            flex-wrap: wrap;
         }
 
-        button, input[type="date"] {
+        .query-label {
+            font-weight: bold;
+            color: var(--primary);
+            white-space: nowrap;
+        }
+
+        input[type="date"] {
             padding: 10px 15px;
             border: 1px solid #ccc;
             border-radius: 5px;
             font-size: 15px;
             outline: none;
+            flex-grow: 1;
+            max-width: 200px;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
         }
 
         button {
-            background-color: var(--primary);
-            color: white;
+            padding: 10px 20px;
             border: none;
-            cursor: pointer;
+            border-radius: 5px;
+            font-size: 15px;
             font-weight: bold;
+            cursor: pointer;
+            color: white;
             transition: all 0.3s ease;
         }
 
-        button:hover {
+        .btn-search {
+            background-color: var(--primary);
+        }
+        .btn-search:hover {
             background-color: #2a4b7c;
             transform: translateY(-1px);
             box-shadow: 0 2px 4px rgba(0,0,0,0.2);
         }
 
-        .divider {
-            border-left: 1px solid #ccc;
-            height: 30px;
+        .btn-refresh {
+            background-color: var(--primary);
+        }
+        .btn-refresh:hover {
+            background-color: #2a4b7c;
+            transform: translateY(-1px);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
         }
 
         #statusMessage {
@@ -176,17 +199,26 @@
         }
 
         @media screen and (max-width: 768px) {
-            .divider {
-                display: none;
-            }
             .controls {
                 flex-direction: column;
-                align-items: stretch;
+                align-items: flex-start;
+                gap: 12px;
             }
-            .controls > div {
+            
+            input[type="date"] {
+                max-width: 100%;
+                width: 100%;
+                box-sizing: border-box;
+            }
+            
+            .button-group {
+                width: 100%;
                 display: flex;
-                flex-direction: column;
-                gap: 10px;
+                flex-direction: row;
+            }
+            
+            .button-group button {
+                flex: 1;
             }
             
             table, thead, tbody, th, td, tr {
@@ -240,13 +272,13 @@
         此處僅做資訊紀錄，不一定準確，請以官方來源為主。資料來源：<a href="https://ptloc119.ptfire.gov.tw/DTS/caselist/html" target="_blank">屏東縣政府消防局即時案件連結</a>
     </div>
 
-    <div class="controls">
-        <button onclick="loadDefaultView()">重新整理</button>
-        <div class="divider"></div>
-        <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap; flex-grow: 1;">
-            <label for="datePicker" style="font-weight: bold;">以日期查詢：</label>
-            <input type="date" id="datePicker">
-            <button onclick="fetchSpecificDate()">查詢</button>
+     <div class="controls">
+        <label for="datePicker" class="query-label">以日期查詢：</label>
+        <input type="date" id="datePicker">
+        
+        <div class="button-group">
+            <button class="btn-search" onclick="fetchSpecificDate()">查詢</button>
+            <button class="btn-refresh" onclick="loadDefaultView()">重新整理</button>
         </div>
     </div>
 
