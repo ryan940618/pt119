@@ -8564,5 +8564,19 @@
         "timestamp": "2026-09-20T05:53:20.480819"
       }
     ]
+  },
+  "f9f4269ec2a685ffef746d2714f4bc33": {
+    "time": "2026/09/20 05:54:05",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興南路一段108巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T05:55:20.542989"
+      }
+    ]
   }
 }
