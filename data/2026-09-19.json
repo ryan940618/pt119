@@ -5348,5 +5348,33 @@
         "timestamp": "2026-09-19T10:38:20.211152"
       }
     ]
+  },
+  "5ae6101560dbefcb310510497b600e0c": {
+    "time": "2026/09/19 10:55:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉文學街45巷",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T10:56:20.515383"
+      }
+    ]
+  },
+  "faf01ece3d1a19dc67ce7510280076b4": {
+    "time": "2026/09/19 10:55:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市海豐街",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-19T10:56:20.515383"
+      }
+    ]
   }
 }
