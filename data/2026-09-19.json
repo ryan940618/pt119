@@ -6295,7 +6295,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉泉興路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -6304,6 +6304,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T14:04:20.937446"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T15:04:21.559283"
       }
     ]
   },
