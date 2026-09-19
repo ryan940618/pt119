@@ -7175,11 +7175,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆春國中前[屏東縣恆春鎮文化路",
     "units": "恆春分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-19T18:18:20.156764"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T18:19:20.225415"
       }
     ]
   }
