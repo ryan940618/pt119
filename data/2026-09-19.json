@@ -5139,7 +5139,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮新生三路",
     "units": "東港分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -5152,6 +5152,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T09:57:20.932725"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T09:59:20.908770"
       }
     ]
   },
