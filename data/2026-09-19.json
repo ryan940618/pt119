@@ -5443,7 +5443,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉中林路",
     "units": "林邊分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -5460,6 +5460,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T11:42:20.823681"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T11:59:20.903205"
       }
     ]
   },
@@ -5469,7 +5473,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉仙吉路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -5478,6 +5482,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T11:48:20.997813"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T11:59:20.903205"
       }
     ]
   },
