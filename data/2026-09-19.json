@@ -7679,7 +7679,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中山路",
     "units": "瑪家分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -7692,6 +7692,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-19T20:53:20.009830"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-19T20:56:20.088510"
       }
     ]
   }
