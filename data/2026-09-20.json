@@ -8525,7 +8525,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉賽嘉巷",
     "units": "三地門分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -8542,6 +8542,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-20T06:03:20.601134"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T06:14:20.677622"
       }
     ]
   },
