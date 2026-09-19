@@ -7497,7 +7497,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉冬根路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -7510,6 +7510,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T20:04:20.759851"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T20:26:20.922211"
       }
     ]
   },
@@ -7559,7 +7563,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市昆明街",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -7568,6 +7572,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-19T20:17:20.767449"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-19T20:26:20.922211"
       }
     ]
   },
