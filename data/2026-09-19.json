@@ -7051,7 +7051,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉鹽埔分隊[屏東縣鹽埔鄉鹽北村勝利路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -7064,6 +7064,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-19T17:43:20.890695"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-19T18:07:20.087204"
       }
     ]
   },
