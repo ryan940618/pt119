@@ -10409,7 +10409,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市公民街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -10418,6 +10418,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T14:01:20.658204"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T14:02:20.587965"
       }
     ]
   }
