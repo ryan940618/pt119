@@ -12559,7 +12559,7 @@
     "sub_category": "",
     "location": "屏東縣春日鄉圓山路",
     "units": "春日分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -12576,6 +12576,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-21T06:21:20.195285"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T06:32:20.198381"
       }
     ]
   },
