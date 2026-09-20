@@ -11959,11 +11959,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "",
-    "current_status": "已受理",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-09-20T22:19:20.539557"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T22:20:20.489405"
       }
     ]
   }
