@@ -10827,11 +10827,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮新生一路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T15:34:20.531606"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T15:52:20.367938"
       }
     ]
   },
