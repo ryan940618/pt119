@@ -9344,5 +9344,47 @@
         "timestamp": "2026-09-20T09:42:20.825322"
       }
     ]
+  },
+  "3ea9f5f37dd94c6428d162a6895ca420": {
+    "time": "2026/09/20 09:42:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T09:43:20.924669"
+      }
+    ]
+  },
+  "6ca79ac66f8032e809d17e1b65ea93e3": {
+    "time": "2026/09/20 09:41:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉霧台鄉文化街",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T09:43:20.924669"
+      }
+    ]
+  },
+  "9dbd385cdf0527215895cd335e740655": {
+    "time": "2026/09/20 09:41:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市武愛街88巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T09:43:20.924669"
+      }
+    ]
   }
 }
