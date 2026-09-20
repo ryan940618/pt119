@@ -12439,11 +12439,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉清聖街26巷",
     "units": "九如分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T05:38:19.967157"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T05:39:20.732946"
       }
     ]
   }
