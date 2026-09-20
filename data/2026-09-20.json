@@ -9535,11 +9535,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉大昌路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T10:06:21.018139"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T10:39:20.307797"
       }
     ]
   },
