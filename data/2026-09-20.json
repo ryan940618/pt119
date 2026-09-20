@@ -11485,11 +11485,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉新圍國小旁",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T19:19:20.393978"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T19:21:20.529415"
       }
     ]
   },
@@ -11499,11 +11503,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉和平路",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T19:20:20.626019"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T19:21:20.529415"
       }
     ]
   }
