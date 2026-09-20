@@ -9287,7 +9287,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉中正大路",
     "units": "枋寮分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -9296,6 +9296,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T09:37:20.773325"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T09:40:20.981601"
       }
     ]
   },
