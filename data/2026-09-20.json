@@ -11518,5 +11518,33 @@
         "timestamp": "2026-09-20T19:21:20.529415"
       }
     ]
+  },
+  "5a9d89d3beb2adb86e0486c8b58bda48": {
+    "time": "2026/09/20 19:24:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉平和路",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T19:25:20.558506"
+      }
+    ]
+  },
+  "7557033b5217827c56024c01115b1fe0": {
+    "time": "2026/09/20 19:24:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉廈南路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T19:25:20.558506"
+      }
+    ]
   }
 }
