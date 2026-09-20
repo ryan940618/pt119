@@ -9037,7 +9037,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽琉線碼頭[新園鄉新興路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -9050,6 +9050,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T08:26:20.317056"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T08:28:20.339567"
       }
     ]
   },
@@ -9109,11 +9113,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建國路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T08:14:20.166467"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T08:28:20.339567"
       }
     ]
   },
