@@ -11517,7 +11517,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉新圍國小旁",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -11534,6 +11534,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T19:29:20.696450"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T19:57:20.842082"
       }
     ]
   },
