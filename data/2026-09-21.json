@@ -12655,7 +12655,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉德協路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -12668,6 +12668,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T07:06:20.562822"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T07:40:20.674773"
       }
     ]
   },
@@ -12770,6 +12774,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T07:33:20.631607"
+      }
+    ]
+  },
+  "a89f999b80759a29f3765959335e68c1": {
+    "time": "2026/09/21 07:39:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮屏187線 潮州往崁頂 666小吃部斜對面附近",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T07:40:20.674773"
       }
     ]
   }
