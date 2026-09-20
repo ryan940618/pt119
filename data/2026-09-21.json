@@ -12345,11 +12345,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉東都街45巷",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T04:29:20.741631"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T05:10:20.722362"
       }
     ]
   },
