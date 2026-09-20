@@ -11393,11 +11393,29 @@
     "sub_category": "",
     "location": "屏東縣里港鄉814大門前左側",
     "units": "九如分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T19:00:20.827581"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T19:01:20.435635"
+      }
+    ]
+  },
+  "5e358f7ebdafe7ffa04fd5b676e9f45a": {
+    "time": "2026/09/20 19:00:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉中興路1巷",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T19:01:20.435635"
       }
     ]
   }
