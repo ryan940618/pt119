@@ -11418,5 +11418,19 @@
         "timestamp": "2026-09-20T19:01:20.435635"
       }
     ]
+  },
+  "e553fd48a29f3a413660ca17ec38d34e": {
+    "time": "2026/09/20 19:01:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉黃金路1巷",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T19:02:20.296509"
+      }
+    ]
   }
 }
