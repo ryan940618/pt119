@@ -12117,11 +12117,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮福星路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T01:40:20.746933"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T03:15:20.167517"
       }
     ]
   },
