@@ -10821,7 +10821,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -10830,6 +10830,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T16:05:20.453791"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T16:16:20.765532"
       }
     ]
   },
@@ -10861,7 +10865,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉大同路四段東金巷",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -10870,6 +10874,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T16:02:20.655105"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T16:16:20.765532"
       }
     ]
   },
