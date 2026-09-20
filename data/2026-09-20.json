@@ -10998,5 +10998,19 @@
         "timestamp": "2026-09-20T16:54:20.932126"
       }
     ]
+  },
+  "7209fb347a740035bbfc8b21d0b55dfa": {
+    "time": "2026/09/20 16:57:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉透過經緯度轉換GIS座標(22.4256,120.6168)",
+    "units": "春日分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T16:58:20.954620"
+      }
+    ]
   }
 }
