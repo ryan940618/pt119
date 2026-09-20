@@ -10919,7 +10919,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市清寧街130巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -10932,6 +10932,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T16:51:20.889952"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T16:54:20.932126"
       }
     ]
   },
@@ -10974,6 +10978,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T16:53:20.921907"
+      }
+    ]
+  },
+  "313b77c679a463890d33026217ad1304": {
+    "time": "2026/09/20 16:53:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民族路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T16:54:20.932126"
       }
     ]
   }
