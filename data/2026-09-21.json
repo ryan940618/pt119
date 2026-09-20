@@ -12522,5 +12522,33 @@
         "timestamp": "2026-09-21T05:59:20.096010"
       }
     ]
+  },
+  "3463be9c1fbf32de4bee58e481646f76": {
+    "time": "2026/09/21 06:07:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉昌隆村中正路",
+    "units": "佳冬分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T06:08:20.126740"
+      }
+    ]
+  },
+  "a681f7fcb17e4eb5cac7d22cd9b868d7": {
+    "time": "2026/09/21 06:06:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣春日鄉圓山路",
+    "units": "春日分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T06:08:20.126740"
+      }
+    ]
   }
 }
