@@ -9639,11 +9639,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮中正路一段339巷",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T10:47:20.427911"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T10:48:20.464916"
       }
     ]
   }
