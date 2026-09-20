@@ -9917,11 +9917,15 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉竹站路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:36:20.639803"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T12:11:21.038630"
       }
     ]
   },
@@ -9991,11 +9995,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉保生路",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:50:20.795652"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T12:11:21.038630"
       }
     ]
   },
@@ -10024,6 +10032,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:07:21.001164"
+      }
+    ]
+  },
+  "28da408e4fec5ddc09906111cac1f74a": {
+    "time": "2026/09/20 12:09:09",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉聯夏食品附近農地",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:11:21.038630"
       }
     ]
   }
