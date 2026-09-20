@@ -10007,7 +10007,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉舊寮村大同路",
     "units": "高樹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -10016,6 +10016,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T12:37:20.148387"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T12:57:20.292275"
       }
     ]
   },
@@ -10250,6 +10254,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:55:20.341851"
+      }
+    ]
+  },
+  "0dd8c2f3b573cfb550c008e664c03968": {
+    "time": "2026/09/20 12:56:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉福寧路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:57:20.292275"
+      }
+    ]
+  },
+  "823ec5edd122c687fd80b0c5fe2cae67": {
+    "time": "2026/09/20 12:55:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉東興村文昌路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:57:20.292275"
       }
     ]
   }
