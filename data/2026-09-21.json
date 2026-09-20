@@ -12562,5 +12562,19 @@
         "timestamp": "2026-09-21T06:13:20.119436"
       }
     ]
+  },
+  "82b53f84f5497050eb56f77762008bc1": {
+    "time": "2026/09/21 06:14:15",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣屏東市中華路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T06:16:20.198713"
+      }
+    ]
   }
 }
