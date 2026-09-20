@@ -11247,7 +11247,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉慈惠醫護管理專校對面萊爾富",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11256,6 +11256,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:16:20.082232"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T18:39:20.238731"
       }
     ]
   },
