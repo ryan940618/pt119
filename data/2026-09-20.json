@@ -10051,7 +10051,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市協和路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -10064,6 +10064,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:16:20.948898"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T12:26:20.210563"
       }
     ]
   },
@@ -10078,6 +10082,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:11:21.038630"
+      }
+    ]
+  },
+  "584e62b23acd80ba7fd6862d89dc4e28": {
+    "time": "2026/09/20 12:25:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮西門路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:26:20.210563"
       }
     ]
   }
