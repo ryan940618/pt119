@@ -11009,7 +11009,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉透過經緯度轉換GIS座標(22.4256,120.6168)",
     "units": "春日分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -11018,6 +11018,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T17:00:20.920459"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-20T17:08:20.702153"
       }
     ]
   },
