@@ -11016,5 +11016,19 @@
         "timestamp": "2026-09-20T17:00:20.920459"
       }
     ]
+  },
+  "c2e979a6bb9d9238cb3f50aec459444e": {
+    "time": "2026/09/20 16:52:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉西盛路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T17:02:20.936847"
+      }
+    ]
   }
 }
