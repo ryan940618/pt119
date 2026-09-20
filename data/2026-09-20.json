@@ -9893,7 +9893,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉四環路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -9906,6 +9906,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T12:18:21.015812"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T12:33:20.062990"
       }
     ]
   },
@@ -9937,7 +9941,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉竹站路",
     "units": "新埤分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -9946,6 +9950,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T12:11:21.038630"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T12:33:20.062990"
       }
     ]
   },
@@ -10009,11 +10017,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉新生路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:49:20.863686"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T12:33:20.062990"
       }
     ]
   },
@@ -10122,6 +10134,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:32:20.214530"
+      }
+    ]
+  },
+  "760c3e8da9ea25defc3f2842a3c5c95b": {
+    "time": "2026/09/20 12:32:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉玉田路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T12:33:20.062990"
       }
     ]
   }
