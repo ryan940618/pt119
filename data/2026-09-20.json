@@ -10305,11 +10305,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉東興村文昌路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T12:57:20.292275"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T13:16:20.261581"
       }
     ]
   }
