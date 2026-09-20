@@ -9201,7 +9201,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉南進路",
     "units": "萬巒分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -9210,6 +9210,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T09:21:20.677836"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T09:31:20.807699"
       }
     ]
   },
@@ -9260,6 +9264,20 @@
       {
         "status": "已返隊",
         "timestamp": "2026-09-20T09:17:20.695593"
+      }
+    ]
+  },
+  "2d0168976bc4dcb888ff5664f5128612": {
+    "time": "2026/09/20 09:30:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉信敏路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T09:31:20.807699"
       }
     ]
   }
