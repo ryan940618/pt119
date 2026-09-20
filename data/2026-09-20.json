@@ -9721,7 +9721,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉興店路",
     "units": "高樹分隊,鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -9730,6 +9730,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T11:25:20.557698"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T12:05:20.931134"
       }
     ]
   },
