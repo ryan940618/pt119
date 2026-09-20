@@ -12163,11 +12163,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉西淇路125巷",
     "units": "龍泉分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T02:17:20.855739"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T02:18:20.947435"
       }
     ]
   }
