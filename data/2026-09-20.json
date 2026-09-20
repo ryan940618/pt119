@@ -9551,7 +9551,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉大昌路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -9560,6 +9560,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T10:39:20.307797"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T10:49:20.436795"
       }
     ]
   },
@@ -9648,6 +9652,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T10:48:20.464916"
+      }
+    ]
+  },
+  "48e1f0df70d8d44e09d249cc02115a75": {
+    "time": "2026/09/20 10:44:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉興店路",
+    "units": "高樹分隊,鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T10:49:20.436795"
       }
     ]
   }
