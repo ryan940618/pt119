@@ -12709,7 +12709,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉香社村新社路722巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12718,6 +12718,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T06:54:20.359870"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T07:18:20.556279"
       }
     ]
   },
