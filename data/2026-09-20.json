@@ -10215,11 +10215,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮南平路",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T12:41:20.178908"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T12:42:20.281687"
       }
     ]
   }
