@@ -9504,5 +9504,19 @@
         "timestamp": "2026-09-20T10:07:20.072351"
       }
     ]
+  },
+  "a5f8abfa1bc95a91f304635dd9f98477": {
+    "time": "2026/09/20 10:09:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉台1線452公里",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T10:10:20.072779"
+      }
+    ]
   }
 }
