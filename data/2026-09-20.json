@@ -9863,7 +9863,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉烏龍村南興路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -9872,6 +9872,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:33:20.616976"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T12:08:20.953151"
       }
     ]
   },
