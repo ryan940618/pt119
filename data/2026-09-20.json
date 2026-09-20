@@ -10491,7 +10491,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮砂尾路",
     "units": "車城分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -10500,6 +10500,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T14:15:20.682585"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T15:18:20.199486"
       }
     ]
   },
@@ -10691,11 +10695,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉中正路",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T15:06:20.214274"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T15:18:20.199486"
       }
     ]
   },
