@@ -11349,11 +11349,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮省北路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:43:20.292028"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T19:15:20.511427"
       }
     ]
   },
@@ -11446,6 +11450,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T19:02:20.296509"
+      }
+    ]
+  },
+  "955150240e9394df5ae5438b3cafe0b7": {
+    "time": "2026/09/20 19:14:15",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉社皮派出所[屏東縣萬丹鄉社口村社口40號]",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T19:15:20.511427"
       }
     ]
   }
