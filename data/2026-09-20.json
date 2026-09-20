@@ -9812,5 +9812,33 @@
         "timestamp": "2026-09-20T11:31:20.644472"
       }
     ]
+  },
+  "0ccec7913687062a300f6f25c3fdddce": {
+    "time": "2026/09/20 11:31:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉烏龍村南興路",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T11:32:20.709785"
+      }
+    ]
+  },
+  "050f8447cb3b1c984f38282f4414ea78": {
+    "time": "2026/09/20 11:30:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉四環路",
+    "units": "新園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T11:32:20.709785"
+      }
+    ]
   }
 }
