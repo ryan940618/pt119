@@ -9789,7 +9789,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮建基路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -9798,6 +9798,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T11:33:20.616976"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T11:42:20.719156"
       }
     ]
   },
@@ -9912,6 +9916,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T11:41:20.764719"
+      }
+    ]
+  },
+  "029c0b326f4cdcfad30e75b208223832": {
+    "time": "2026/09/20 11:41:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉平和路103巷",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T11:42:20.719156"
+      }
+    ]
+  },
+  "1668c64d69af3b2f323c5c12cf639f97": {
+    "time": "2026/09/20 11:41:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉舊寮村大同路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T11:42:20.719156"
       }
     ]
   }
