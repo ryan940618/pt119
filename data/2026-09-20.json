@@ -11395,11 +11395,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉德協路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:56:20.314928"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T19:18:20.514882"
       }
     ]
   },
