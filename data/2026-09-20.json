@@ -11297,7 +11297,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮中洲路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11306,6 +11306,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T18:37:20.271686"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T19:06:20.339589"
       }
     ]
   },
