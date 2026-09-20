@@ -9790,5 +9790,19 @@
         "timestamp": "2026-09-20T11:20:20.587433"
       }
     ]
+  },
+  "b1b9e26fc7e3bb6cf0d96ccc0b10174f": {
+    "time": "2026/09/20 11:25:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣春日鄉圓山路",
+    "units": "春日分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T11:27:20.647660"
+      }
+    ]
   }
 }
