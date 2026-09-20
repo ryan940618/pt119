@@ -10995,7 +10995,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民族路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -11004,6 +11004,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T17:15:20.713498"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T17:25:20.817849"
       }
     ]
   },
@@ -11013,7 +11017,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉透過經緯度轉換GIS座標(22.4256,120.6168)",
     "units": "春日分隊",
-    "current_status": "已到達",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -11026,6 +11030,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-20T17:08:20.702153"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T17:25:20.817849"
       }
     ]
   },
