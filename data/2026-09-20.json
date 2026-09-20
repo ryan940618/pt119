@@ -11805,7 +11805,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉新中路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -11814,6 +11814,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T20:57:20.097836"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T21:25:20.182464"
       }
     ]
   },
@@ -11882,6 +11886,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T21:21:20.197949"
+      }
+    ]
+  },
+  "4dacd3cfe4e3f4f092add3d4e748ee39": {
+    "time": "2026/09/20 21:24:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市長春街",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T21:25:20.182464"
       }
     ]
   }
