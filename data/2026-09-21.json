@@ -12691,11 +12691,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市中山路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T06:46:20.264343"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T07:13:20.527015"
       }
     ]
   },
