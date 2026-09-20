@@ -12253,11 +12253,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市機場北路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T03:35:20.355736"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T04:20:20.500398"
       }
     ]
   },
@@ -12294,6 +12298,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T04:15:20.509191"
+      }
+    ]
+  },
+  "fb19fa323bc067a4d55c7b647da90ce3": {
+    "time": "2026/09/21 04:19:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉中興路",
+    "units": "新園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T04:20:20.500398"
       }
     ]
   }
