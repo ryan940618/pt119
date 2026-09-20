@@ -9170,5 +9170,33 @@
         "timestamp": "2026-09-20T08:34:20.366528"
       }
     ]
+  },
+  "00f1d31485bcd0ec34a51c3b80d92fb0": {
+    "time": "2026/09/20 08:35:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉南進路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T08:36:20.393857"
+      }
+    ]
+  },
+  "f9d15f85038156fc0f5dec519e0f9cbe": {
+    "time": "2026/09/20 08:35:19",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣新園鄉鹽洲路71巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-20T08:36:20.393857"
+      }
+    ]
   }
 }
