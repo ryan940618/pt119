@@ -10510,5 +10510,33 @@
         "timestamp": "2026-09-20T14:18:20.810324"
       }
     ]
+  },
+  "219b45308ad03c2fb825e56c1ed8fe0a": {
+    "time": "2026/09/20 14:20:27",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣東港鎮新勝街2巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-20T14:21:20.836323"
+      }
+    ]
+  },
+  "01300f8a31adce312b64b1100efeb78e": {
+    "time": "2026/09/20 14:19:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市古松西巷",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T14:21:20.836323"
+      }
+    ]
   }
 }
