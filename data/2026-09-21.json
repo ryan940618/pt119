@@ -12545,7 +12545,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉昌隆村中正路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -12554,6 +12554,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T06:10:20.171459"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T06:47:20.235048"
       }
     ]
   },
