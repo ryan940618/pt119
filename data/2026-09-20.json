@@ -11492,5 +11492,19 @@
         "timestamp": "2026-09-20T19:19:20.393978"
       }
     ]
+  },
+  "279e3fd9852c487e75d3a8f71ce6f160": {
+    "time": "2026/09/20 19:19:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉和平路",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T19:20:20.626019"
+      }
+    ]
   }
 }
