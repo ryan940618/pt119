@@ -9083,11 +9083,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生路民風巷",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-20T08:13:20.218846"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T08:14:20.166467"
+      }
+    ]
+  },
+  "14a1ef64fd1ace89a169cf07a5f6ec95": {
+    "time": "2026/09/20 08:11:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建國路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T08:14:20.166467"
       }
     ]
   }
