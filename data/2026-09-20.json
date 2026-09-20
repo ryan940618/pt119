@@ -11323,7 +11323,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉新東路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -11340,6 +11340,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-20T19:03:20.374662"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-20T19:46:20.657569"
       }
     ]
   },
@@ -11479,7 +11483,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉社皮派出所[屏東縣萬丹鄉社口村社口40號]",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -11488,6 +11492,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-20T19:16:20.520137"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-20T19:46:20.657569"
       }
     ]
   },
