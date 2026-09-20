@@ -10460,5 +10460,33 @@
         "timestamp": "2026-09-20T14:12:20.756969"
       }
     ]
+  },
+  "fc94086babcfe6d5e419b60e0ecdcc5d": {
+    "time": "2026/09/20 14:13:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮砂尾路",
+    "units": "車城分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-20T14:14:20.848286"
+      }
+    ]
+  },
+  "3bf73e59677941db149a3c5df96cc305": {
+    "time": "2026/09/20 14:12:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮墾丁路",
+    "units": "墾丁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-20T14:14:20.848286"
+      }
+    ]
   }
 }
