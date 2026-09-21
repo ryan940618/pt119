@@ -14589,7 +14589,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東隆國小[屏東縣東港鎮共和街",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -14606,6 +14606,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T17:36:20.452645"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T17:38:20.646299"
       }
     ]
   },
