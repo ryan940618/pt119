@@ -15067,11 +15067,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市工業三路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T18:50:20.943677"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T18:51:20.993878"
+      }
+    ]
+  },
+  "6835f03a7c12a2e5d1a97647eb3b923e": {
+    "time": "2026/09/21 18:50:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉中山路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-21T18:51:20.993878"
       }
     ]
   }
