@@ -14805,11 +14805,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市台糖一街16巷",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:03:21.187544"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T18:07:20.727635"
+      }
+    ]
+  },
+  "7dd850853fdc3f39b20610232a7d4e10": {
+    "time": "2026/09/21 18:05:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉賽嘉巷",
+    "units": "三地門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T18:07:20.727635"
       }
     ]
   }
