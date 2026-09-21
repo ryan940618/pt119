@@ -13349,11 +13349,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉北勢路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:19:20.352058"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T10:06:20.707143"
       }
     ]
   },
@@ -13464,6 +13468,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T10:03:21.072847"
+      }
+    ]
+  },
+  "63fdf128c3e0484ffbd7cd78ec0a31a1": {
+    "time": "2026/09/21 10:04:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市博愛路和蘭州街",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T10:06:20.707143"
       }
     ]
   }
