@@ -12867,7 +12867,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉力社路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -12876,6 +12876,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T08:05:21.101880"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T08:16:21.015682"
       }
     ]
   },
@@ -13000,6 +13004,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:15:20.960338"
+      }
+    ]
+  },
+  "e65be9535d7e0685c0edcc6e0e6a955e": {
+    "time": "2026/09/21 08:15:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮愛國路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-21T08:16:21.015682"
       }
     ]
   }
