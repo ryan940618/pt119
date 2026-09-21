@@ -12915,7 +12915,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉忠義路80巷",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -12928,6 +12928,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T08:44:20.122309"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T08:47:20.447797"
       }
     ]
   },
@@ -13168,6 +13172,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:45:20.063149"
+      }
+    ]
+  },
+  "e4d9482682f4cd6ff91cbf726a98aa9d": {
+    "time": "2026/09/21 08:45:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮船頭路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:47:20.447797"
+      }
+    ]
+  },
+  "7081a9dcad7f316b487d5d4633a9726a": {
+    "time": "2026/09/21 08:45:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉國立屏東科技大學[屏東縣內埔鄉學府路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:47:20.447797"
       }
     ]
   }
