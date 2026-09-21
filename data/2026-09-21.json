@@ -14211,7 +14211,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉中山路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -14224,6 +14224,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T16:20:21.198492"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T16:30:21.078391"
       }
     ]
   },
@@ -14404,6 +14408,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:24:21.141680"
+      }
+    ]
+  },
+  "68fff677e0177e8350126629c588ed39": {
+    "time": "2026/09/21 16:28:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉中華二街",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T16:30:21.078391"
       }
     ]
   }
