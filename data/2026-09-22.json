@@ -16073,7 +16073,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮樹林路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
@@ -16082,6 +16082,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T05:38:20.810285"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-22T05:39:20.811174"
       }
     ]
   }
