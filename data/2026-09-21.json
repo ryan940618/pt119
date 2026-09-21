@@ -15415,7 +15415,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉永平街",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -15424,6 +15424,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T21:53:19.979390"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T22:15:20.220365"
       }
     ]
   },
