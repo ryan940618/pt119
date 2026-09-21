@@ -13261,7 +13261,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中正路小份巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -13270,6 +13270,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T09:40:20.415910"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T09:44:20.407704"
       }
     ]
   },
