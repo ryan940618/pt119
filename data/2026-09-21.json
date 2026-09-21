@@ -13812,5 +13812,33 @@
         "timestamp": "2026-09-21T13:04:20.615659"
       }
     ]
+  },
+  "8a23fbfd7d13338d27f9b433ae29b8c6": {
+    "time": "2026/09/21 13:04:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T13:05:21.092745"
+      }
+    ]
+  },
+  "93f2f40be4b1a2689e7e59327c165338": {
+    "time": "2026/09/21 13:03:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮光輪二巷",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T13:05:21.092745"
+      }
+    ]
   }
 }
