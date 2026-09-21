@@ -12945,11 +12945,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉隆安路147巷",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:03:20.847352"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-21T08:08:20.925422"
       }
     ]
   },
