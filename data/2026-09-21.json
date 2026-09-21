@@ -12963,7 +12963,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉後庄路222巷",
     "units": "九如分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -12972,6 +12972,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T08:41:20.169769"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T08:54:20.657465"
       }
     ]
   },
@@ -13230,6 +13234,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:50:20.213325"
+      }
+    ]
+  },
+  "602a23089eea3828758542cf80a20108": {
+    "time": "2026/09/21 08:53:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉九如橋(成峯砂石場)",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T08:54:20.657465"
       }
     ]
   }
