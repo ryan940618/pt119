@@ -14001,11 +14001,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉三民路",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T14:21:20.058675"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T14:46:20.204251"
       }
     ]
   }
