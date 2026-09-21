@@ -15927,7 +15927,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉丹榮路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -15936,6 +15936,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T02:00:20.459589"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T02:20:20.609049"
       }
     ]
   }
