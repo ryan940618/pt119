@@ -15501,7 +15501,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉新圍要往彭厝方向未到高大牧場",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -15510,6 +15510,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T22:07:20.162557"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T22:27:20.221918"
       }
     ]
   },
@@ -15588,6 +15592,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T22:21:20.607638"
+      }
+    ]
+  },
+  "320e508f844b59284adb96d32ec59fd0": {
+    "time": "2026/09/21 22:26:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮北平路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T22:27:20.221918"
       }
     ]
   }
