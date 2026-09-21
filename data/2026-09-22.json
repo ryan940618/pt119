@@ -16045,7 +16045,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉里港大橋/土庫端",
     "units": "九如分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -16054,6 +16054,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T05:59:20.922351"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T06:02:20.000312"
       }
     ]
   },
