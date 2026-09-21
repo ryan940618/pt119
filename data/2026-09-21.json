@@ -14170,5 +14170,33 @@
         "timestamp": "2026-09-21T15:33:20.600464"
       }
     ]
+  },
+  "ea40600ce360ee5a46941d80058bbc0d": {
+    "time": "2026/09/21 15:35:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉汾陽二巷",
+    "units": "瑪家分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T15:37:20.686280"
+      }
+    ]
+  },
+  "faeed80b9ca926e3fab0b1fe6d2c91de": {
+    "time": "2026/09/21 15:35:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉中山路",
+    "units": "崁頂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T15:37:20.686280"
+      }
+    ]
   }
 }
