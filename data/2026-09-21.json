@@ -14133,11 +14133,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉屏東縣消防局第三大隊新園分隊[屏東縣新園鄉店口路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T15:15:20.390160"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T16:19:20.936919"
       }
     ]
   },
