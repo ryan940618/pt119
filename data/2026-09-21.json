@@ -13331,7 +13331,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉忠英路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -13340,6 +13340,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T09:56:20.619672"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T10:09:20.840141"
       }
     ]
   },
@@ -13397,11 +13401,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉隆山路169巷",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:40:20.415910"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T10:09:20.840141"
       }
     ]
   },
@@ -13486,6 +13494,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T10:06:20.707143"
+      }
+    ]
+  },
+  "00e08646c3b9e633e7596041dd0f290e": {
+    "time": "2026/09/21 10:07:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉和興路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T10:09:20.840141"
       }
     ]
   }
