@@ -13615,11 +13615,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉媽祖路407巷",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T10:35:20.784591"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T11:30:20.087779"
       }
     ]
   },
