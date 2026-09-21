@@ -16293,7 +16293,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉大昌路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -16306,6 +16306,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T07:15:20.406377"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T07:28:20.550968"
       }
     ]
   },
@@ -16315,7 +16319,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮大東路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -16324,6 +16328,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T06:55:20.375582"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T07:28:20.550968"
       }
     ]
   }
