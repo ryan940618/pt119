@@ -13675,7 +13675,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉後厝路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -13684,6 +13684,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T12:11:20.444228"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T12:37:20.455751"
       }
     ]
   },
@@ -13715,11 +13719,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉國立屏東科技大學[屏東縣內埔鄉學府路",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T11:47:20.215200"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T12:37:20.455751"
       }
     ]
   },
