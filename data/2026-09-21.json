@@ -14193,7 +14193,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉汾陽二巷",
     "units": "瑪家分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -14202,6 +14202,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T16:22:21.060596"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T17:05:20.225953"
       }
     ]
   },
@@ -14361,7 +14365,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉麟洛交流道",
     "units": "竹田分隊,麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -14370,6 +14374,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T16:42:20.149506"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T17:05:20.225953"
       }
     ]
   },
@@ -14523,11 +14531,15 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉中正路二段77巷",
     "units": "三地門分隊",
-    "current_status": "已派遣",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T17:03:20.437400"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-21T17:05:20.225953"
       }
     ]
   }
