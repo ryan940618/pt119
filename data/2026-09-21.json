@@ -13261,11 +13261,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中正路小份巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:50:20.213325"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T09:40:20.415910"
       }
     ]
   },
@@ -13340,6 +13344,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:35:20.430386"
+      }
+    ]
+  },
+  "c15ff6b5b414d062ebf6bc74a3241206": {
+    "time": "2026/09/21 09:38:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉隆山路169巷",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T09:40:20.415910"
       }
     ]
   }
