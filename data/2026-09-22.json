@@ -16253,11 +16253,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉大昌路",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T06:41:20.207402"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T06:42:20.236527"
       }
     ]
   }
