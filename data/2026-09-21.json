@@ -14585,7 +14585,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東隆國小[屏東縣東港鎮共和街",
     "units": "東港分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -14594,6 +14594,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-21T17:25:20.467259"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-21T17:30:20.464009"
       }
     ]
   },
@@ -14622,6 +14626,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:25:20.467259"
+      }
+    ]
+  },
+  "c848fd8c5b1a36f0eafdb87b5b4cff71": {
+    "time": "2026/09/21 17:28:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉中正路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T17:30:20.464009"
       }
     ]
   }
