@@ -14685,7 +14685,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市延平一路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -14694,6 +14694,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T18:09:20.796338"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T18:25:20.849432"
       }
     ]
   },
@@ -14928,6 +14932,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T18:24:20.887761"
+      }
+    ]
+  },
+  "dd64aea5f5f261cc410b60b3fe845492": {
+    "time": "2026/09/21 18:21:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉福興一路42巷",
+    "units": "滿州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T18:25:20.849432"
       }
     ]
   }
