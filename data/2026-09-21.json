@@ -13431,11 +13431,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉仙吉路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:41:20.422494"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T10:36:20.913250"
       }
     ]
   },
@@ -13445,11 +13449,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉民生路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:55:20.546637"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T10:36:20.913250"
       }
     ]
   },
@@ -13473,7 +13481,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐年街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -13482,6 +13490,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T10:30:20.872601"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T10:36:20.913250"
       }
     ]
   },
