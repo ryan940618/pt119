@@ -15766,5 +15766,33 @@
         "timestamp": "2026-09-21T23:40:20.630341"
       }
     ]
+  },
+  "b79ab929b83eac8c1bbc2d28c48f53a9": {
+    "time": "2026/09/21 23:57:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮王船文化館[東港鎮東津里船頭路",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T23:58:20.731535"
+      }
+    ]
+  },
+  "f2f3a7416ed81f4402018b670dd13cf0": {
+    "time": "2026/09/21 23:57:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉長興路",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T23:58:20.731535"
+      }
+    ]
   }
 }
