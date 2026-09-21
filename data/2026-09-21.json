@@ -13323,11 +13323,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉忠英路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T09:10:20.850039"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T09:56:20.619672"
       }
     ]
   },
