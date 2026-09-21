@@ -16122,5 +16122,33 @@
         "timestamp": "2026-09-22T05:47:20.821805"
       }
     ]
+  },
+  "a1ffc608ac4b6a4bfc1a1eb135d37a0d": {
+    "time": "2026/09/22 06:05:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉南興路",
+    "units": "高樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T06:06:20.003345"
+      }
+    ]
+  },
+  "ad974c725c796445df65fff1beb92a70": {
+    "time": "2026/09/22 06:05:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉中山路",
+    "units": "林邊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T06:06:20.003345"
+      }
+    ]
   }
 }
