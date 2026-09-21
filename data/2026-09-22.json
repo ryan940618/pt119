@@ -15852,5 +15852,19 @@
         "timestamp": "2026-09-22T00:04:20.828162"
       }
     ]
+  },
+  "1c199de2a92eff328c28f2f7b9e75261": {
+    "time": "2026/09/22 00:34:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮北平路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T00:38:20.874889"
+      }
+    ]
   }
 }
