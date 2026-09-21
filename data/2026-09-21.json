@@ -15475,11 +15475,43 @@
     "sub_category": "",
     "location": "屏東縣屏東市復興南路二段63巷",
     "units": "公館分隊,屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-21T22:05:20.104118"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T22:06:20.047148"
+      }
+    ]
+  },
+  "e61cf180db7b47b085fe4ac66ebaf2de": {
+    "time": "2026/09/21 22:05:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉新圍要往彭厝方向未到高大牧場",
+    "units": "鹽埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-21T22:06:20.047148"
+      }
+    ]
+  },
+  "822ba04b4ff2c5a3a1e8c44bea16edfa": {
+    "time": "2026/09/21 22:04:36",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉統嶺巷",
+    "units": "內埔分隊,龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T22:06:20.047148"
       }
     ]
   }
