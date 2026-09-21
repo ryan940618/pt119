@@ -13991,11 +13991,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉成功路5巷",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T14:08:19.991902"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T15:00:20.385105"
       }
     ]
   },
