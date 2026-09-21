@@ -13857,11 +13857,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮光輪二巷",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T13:05:21.092745"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T13:29:20.787352"
       }
     ]
   },
@@ -13880,6 +13884,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-21T13:21:20.762705"
+      }
+    ]
+  },
+  "14a4c1d8d2f6c745dd5f5ad82fe6023b": {
+    "time": "2026/09/21 13:27:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉八德街",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T13:29:20.787352"
       }
     ]
   }
