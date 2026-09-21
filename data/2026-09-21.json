@@ -14353,11 +14353,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉麟洛交流道",
     "units": "竹田分隊,麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:05:20.899102"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T16:42:20.149506"
       }
     ]
   },
