@@ -15152,5 +15152,19 @@
         "timestamp": "2026-09-21T19:02:20.937833"
       }
     ]
+  },
+  "8e101848cb501d99f3fc66b7b55a7074": {
+    "time": "2026/09/21 19:00:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉本漁路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T19:07:20.950350"
+      }
+    ]
   }
 }
