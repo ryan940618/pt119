@@ -13736,5 +13736,19 @@
         "timestamp": "2026-09-21T12:02:20.877112"
       }
     ]
+  },
+  "7851e303828b0302811c5d02e65f8fbc": {
+    "time": "2026/09/21 12:34:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉六合街",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-21T12:35:20.556150"
+      }
+    ]
   }
 }
