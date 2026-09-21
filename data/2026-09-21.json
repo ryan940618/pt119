@@ -13007,11 +13007,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市林內巷",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T08:05:21.101880"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T08:51:20.094464"
       }
     ]
   },
@@ -13071,7 +13075,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉三民路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -13080,6 +13084,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T08:43:20.132013"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T08:51:20.094464"
       }
     ]
   },
