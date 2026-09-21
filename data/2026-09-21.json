@@ -14619,11 +14619,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉中興路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T17:23:20.364237"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T17:41:20.546755"
       }
     ]
   },
