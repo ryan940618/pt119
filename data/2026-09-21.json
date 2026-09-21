@@ -14479,11 +14479,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮建基路42巷",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:39:20.142060"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T17:21:20.580182"
       }
     ]
   },
@@ -14493,11 +14497,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市福田巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-21T16:50:20.320248"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-21T17:21:20.580182"
       }
     ]
   },
