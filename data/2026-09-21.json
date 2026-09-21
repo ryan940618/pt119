@@ -15501,7 +15501,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉新圍要往彭厝方向未到高大牧場",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -15514,6 +15514,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-21T22:27:20.221918"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-21T22:30:20.200315"
       }
     ]
   },
