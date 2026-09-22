@@ -18725,7 +18725,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市忠孝路247巷",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18734,6 +18734,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T19:12:21.207564"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T19:55:21.569990"
       }
     ]
   },
