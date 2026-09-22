@@ -17661,7 +17661,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉烏鬼洞",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -17670,6 +17670,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:22:21.275876"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T14:49:20.433258"
       }
     ]
   },
