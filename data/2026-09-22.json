@@ -17079,11 +17079,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉700釣魚場",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:52:20.912754"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T10:53:20.780292"
       }
     ]
   }
