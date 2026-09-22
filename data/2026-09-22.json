@@ -17878,5 +17878,33 @@
         "timestamp": "2026-09-22T15:32:20.866675"
       }
     ]
+  },
+  "4c4c833bbeb06b7a7b5eb3212686d1f7": {
+    "time": "2026/09/22 15:32:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民族路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:33:20.735999"
+      }
+    ]
+  },
+  "837a0a91b1db8d09fab8a216903d2f2a": {
+    "time": "2026/09/22 15:31:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉豐漁路113巷",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:33:20.735999"
+      }
+    ]
   }
 }
