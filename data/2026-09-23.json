@@ -19225,7 +19225,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉後壁路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -19234,6 +19234,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T01:14:20.093742"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T01:40:20.287108"
       }
     ]
   }
