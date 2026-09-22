@@ -19575,7 +19575,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉中山路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -19584,6 +19584,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T07:07:20.848653"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T07:11:20.922123"
       }
     ]
   },
@@ -19639,7 +19643,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉長美路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -19648,6 +19652,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:05:20.923638"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T07:11:20.922123"
       }
     ]
   }
