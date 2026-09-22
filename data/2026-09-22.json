@@ -18003,7 +18003,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉新榮路和榮華三街",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18012,6 +18012,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:18:21.030917"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T17:18:21.305735"
       }
     ]
   },
@@ -18061,7 +18065,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市機場北路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -18070,6 +18074,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T17:10:21.245337"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T17:18:21.305735"
       }
     ]
   },
@@ -18182,6 +18190,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:08:21.244588"
+      }
+    ]
+  },
+  "92d47bd77059a51d35ad68e00d3a956c": {
+    "time": "2026/09/22 17:16:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市福光街130巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:18:21.305735"
       }
     ]
   }
