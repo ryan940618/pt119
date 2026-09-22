@@ -17687,11 +17687,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市林森路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:24:21.401952"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T14:54:20.479142"
       }
     ]
   },
@@ -17710,6 +17714,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T14:26:20.213497"
+      }
+    ]
+  },
+  "5537e87ecf51d50620fd8ac01b6db409": {
+    "time": "2026/09/22 14:53:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路409巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T14:54:20.479142"
       }
     ]
   }
