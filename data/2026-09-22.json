@@ -17951,11 +17951,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉豐漁路113巷",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:33:20.735999"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T16:24:20.936479"
       }
     ]
   },
@@ -18000,6 +18004,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:18:21.030917"
+      }
+    ]
+  },
+  "5c1566455b2b7ad4179c4cfc9de65fdc": {
+    "time": "2026/09/22 16:22:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大溪路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:24:20.936479"
       }
     ]
   }
