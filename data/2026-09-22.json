@@ -18085,11 +18085,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市歸國巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:58:21.139912"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-22T17:04:21.245414"
+      }
+    ]
+  },
+  "7eb7ae3933311501d970b6bfcb2ba4e1": {
+    "time": "2026/09/22 17:03:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉福德街",
+    "units": "麟洛分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:04:21.245414"
       }
     ]
   }
