@@ -16741,11 +16741,15 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉北葉村風景88-1號",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:24:20.346890"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:25:22.430302"
       }
     ]
   }
