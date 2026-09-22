@@ -19701,7 +19701,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮長榮街52巷",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -19710,6 +19710,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T07:49:20.108896"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T07:51:20.503257"
       }
     ]
   },
@@ -19719,11 +19723,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉臥龍路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:25:21.026289"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T07:51:20.503257"
       }
     ]
   },
