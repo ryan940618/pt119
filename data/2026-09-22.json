@@ -18339,11 +18339,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉仙吉路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:44:20.513690"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T18:13:20.867448"
       }
     ]
   },
