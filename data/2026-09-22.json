@@ -17165,7 +17165,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮沿海路",
     "units": "東港分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -17174,6 +17174,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T11:29:20.999744"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T11:36:21.244564"
       }
     ]
   },
