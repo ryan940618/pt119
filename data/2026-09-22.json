@@ -16797,7 +16797,7 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉北葉村風景88-1號",
     "units": "瑪家分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -16810,6 +16810,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T10:16:20.934449"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T11:10:20.970815"
       }
     ]
   },
@@ -16855,7 +16859,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉載興路",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -16872,6 +16876,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T10:55:20.783098"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T11:10:20.970815"
       }
     ]
   },
