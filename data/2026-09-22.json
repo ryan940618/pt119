@@ -18881,7 +18881,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉德一街",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -18890,6 +18890,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T20:59:21.000315"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T21:25:21.142666"
       }
     ]
   },
@@ -18984,6 +18988,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T21:14:21.283340"
+      }
+    ]
+  },
+  "1be3b89c405520227005f3c2d1acce90": {
+    "time": "2026/09/22 21:25:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮育才路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T21:25:21.142666"
       }
     ]
   }
