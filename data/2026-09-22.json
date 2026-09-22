@@ -16593,7 +16593,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉車城衛生所[屏東縣車城鄉福安路",
     "units": "車城分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -16602,6 +16602,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:33:21.045379"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T09:12:20.136018"
       }
     ]
   },
@@ -16666,6 +16670,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:07:20.113533"
+      }
+    ]
+  },
+  "f0c0bbbcc4301f9b515d60262b337883": {
+    "time": "2026/09/22 09:11:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉載興路",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:12:20.136018"
+      }
+    ]
+  },
+  "a4a59c57a4e61f59061ff3744e61f7ab": {
+    "time": "2026/09/22 09:11:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉載興路",
+    "units": "鹽埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T09:12:20.136018"
       }
     ]
   }
