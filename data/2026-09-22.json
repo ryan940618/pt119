@@ -18265,7 +18265,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和平路174巷",
     "units": "長治分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -18274,6 +18274,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-22T17:32:20.645856"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:52:20.638782"
       }
     ]
   },
@@ -18352,6 +18356,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:46:20.562166"
+      }
+    ]
+  },
+  "14f0ab1fe21b409605d957d078741d17": {
+    "time": "2026/09/22 17:50:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉新中路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:52:20.638782"
       }
     ]
   }
