@@ -18733,7 +18733,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市忠孝路247巷",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -18746,6 +18746,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T19:55:21.569990"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T20:08:21.837266"
       }
     ]
   },
@@ -18795,11 +18799,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮墾丁路",
     "units": "墾丁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T20:07:21.552171"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T20:08:21.837266"
       }
     ]
   }
