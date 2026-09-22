@@ -18373,7 +18373,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建國路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -18382,6 +18382,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T18:26:21.008801"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T18:37:21.562091"
       }
     ]
   },
@@ -18391,11 +18395,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬新路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:46:20.562166"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T18:37:21.562091"
       }
     ]
   },
@@ -18520,6 +18528,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T18:26:21.008801"
+      }
+    ]
+  },
+  "6c2885f134276319a1413a09e6507153": {
+    "time": "2026/09/22 18:35:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉萬華路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T18:37:21.562091"
       }
     ]
   }
