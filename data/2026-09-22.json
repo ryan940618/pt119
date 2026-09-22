@@ -16473,11 +16473,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉精進路",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T07:55:20.604997"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T08:20:20.833438"
       }
     ]
   },
@@ -16546,6 +16550,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T08:19:20.765558"
+      }
+    ]
+  },
+  "814510618ad4607378e6dfdaa83a370c": {
+    "time": "2026/09/22 08:19:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉大埔村百畝26號",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T08:20:20.833438"
       }
     ]
   }
