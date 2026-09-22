@@ -19637,7 +19637,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉透過電力座標(T3786,DA2100)轉換GIS座標",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -19650,6 +19650,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T07:32:19.996204"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T07:47:20.106548"
       }
     ]
   },
@@ -19766,6 +19770,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:43:20.055938"
+      }
+    ]
+  },
+  "c1f1084f2f530d1410a5506e53e4c735": {
+    "time": "2026/09/23 07:45:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉中正路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T07:47:20.106548"
       }
     ]
   }
