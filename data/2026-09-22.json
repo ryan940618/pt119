@@ -18991,11 +18991,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮船頭路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T21:14:21.283340"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T21:37:21.343169"
       }
     ]
   },
