@@ -17603,7 +17603,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉德文村百合路60巷",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -17616,6 +17616,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T14:52:20.442748"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T15:14:20.629550"
       }
     ]
   },
@@ -17764,6 +17768,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:05:20.545444"
+      }
+    ]
+  },
+  "aaa35ffdf3e4817fae007581f1445847": {
+    "time": "2026/09/22 15:13:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉載興路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:14:20.629550"
+      }
+    ]
+  },
+  "7b24fad3d45faf6a623fad942dcada0c": {
+    "time": "2026/09/22 15:12:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮三西和村莊尾",
+    "units": "南州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T15:14:20.629550"
       }
     ]
   }
