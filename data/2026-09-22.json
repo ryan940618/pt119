@@ -17803,7 +17803,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮三西和村莊尾",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -17812,6 +17812,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:15:20.541148"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T15:30:20.680586"
       }
     ]
   },
