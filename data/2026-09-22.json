@@ -17176,5 +17176,33 @@
         "timestamp": "2026-09-22T11:29:20.999744"
       }
     ]
+  },
+  "ef22965b98de27a0568a92b3b28fcc06": {
+    "time": "2026/09/22 11:30:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉東山路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T11:32:21.183295"
+      }
+    ]
+  },
+  "cfa18f46b3db56f88b7088d9b24586f5": {
+    "time": "2026/09/22 11:30:21",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T11:32:21.183295"
+      }
+    ]
   }
 }
