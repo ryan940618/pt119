@@ -18153,11 +18153,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉龍子二街",
     "units": "九如分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:07:21.316414"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:08:21.244588"
       }
     ]
   }
