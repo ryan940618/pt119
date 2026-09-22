@@ -16551,7 +16551,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉土庫村河堤步道",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -16564,6 +16564,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T09:39:20.336397"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T09:49:20.457696"
       }
     ]
   },
@@ -16800,6 +16804,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:45:20.867405"
+      }
+    ]
+  },
+  "838dc170037e38d0a68d999bf6882a6b": {
+    "time": "2026/09/22 09:48:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉載興村115-3號",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:49:20.457696"
       }
     ]
   }
