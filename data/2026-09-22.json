@@ -16345,7 +16345,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉中山路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -16358,6 +16358,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T08:11:21.110632"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T08:36:20.939377"
       }
     ]
   },
