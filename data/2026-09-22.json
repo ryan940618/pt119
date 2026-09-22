@@ -16978,5 +16978,33 @@
         "timestamp": "2026-09-22T10:14:21.016508"
       }
     ]
+  },
+  "e89ab4e70a7bcdb0dab1115b1bfe6c24": {
+    "time": "2026/09/22 10:22:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉後庄路",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:23:20.659742"
+      }
+    ]
+  },
+  "2bb7b601960518d55ae9de361b572f44": {
+    "time": "2026/09/22 10:22:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮彭城三巷",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T10:23:20.659742"
+      }
+    ]
   }
 }
