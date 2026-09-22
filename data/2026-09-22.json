@@ -18867,11 +18867,15 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉潭北巷",
     "units": "泰武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T20:22:20.870835"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T20:23:20.794727"
       }
     ]
   }
