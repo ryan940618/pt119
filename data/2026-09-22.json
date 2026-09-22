@@ -16985,11 +16985,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉後庄路",
     "units": "萬丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:23:20.659742"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T10:24:20.703706"
       }
     ]
   },
@@ -16999,11 +17003,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮彭城三巷",
     "units": "竹田分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T10:23:20.659742"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T10:24:20.703706"
       }
     ]
   }
