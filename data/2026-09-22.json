@@ -18051,7 +18051,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉義永路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -18060,6 +18060,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T17:15:21.335003"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T17:44:20.513690"
       }
     ]
   },
@@ -18227,7 +18231,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市福光街130巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -18244,6 +18248,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:30:21.469842"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T17:44:20.513690"
       }
     ]
   },
@@ -18290,6 +18298,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:28:21.495749"
+      }
+    ]
+  },
+  "f009f1c0129ba30536458661fc04859a": {
+    "time": "2026/09/22 17:42:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉仙吉路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:44:20.513690"
       }
     ]
   }
