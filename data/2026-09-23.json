@@ -19605,11 +19605,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉透過電力座標(T3786,DA2100)轉換GIS座標",
     "units": "崁頂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T06:47:20.789970"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T06:50:20.723413"
       }
     ]
   }
