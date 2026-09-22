@@ -18231,7 +18231,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市福光街130巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -18252,6 +18252,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T17:44:20.513690"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T17:46:20.562166"
       }
     ]
   },
@@ -18330,6 +18334,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:45:20.638292"
+      }
+    ]
+  },
+  "cd19c00a8e17bac514723b23674f50f5": {
+    "time": "2026/09/22 17:44:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬新路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:46:20.562166"
       }
     ]
   }
