@@ -18513,7 +18513,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉三青路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -18526,6 +18526,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T19:18:21.229170"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T19:38:21.307180"
       }
     ]
   },
@@ -18741,11 +18745,15 @@
     "sub_category": "",
     "location": "屏東縣南州鄉仁里路",
     "units": "南州分隊",
-    "current_status": "已受理",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-09-22T19:37:21.345999"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T19:38:21.307180"
       }
     ]
   }
