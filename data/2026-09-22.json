@@ -18491,7 +18491,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉佳興路",
     "units": "萬巒分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -18500,6 +18500,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T18:54:21.124870"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T19:16:21.296446"
       }
     ]
   },
@@ -18549,11 +18553,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉學興路201巷",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T18:25:20.854747"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T19:16:21.296446"
       }
     ]
   },
@@ -18609,7 +18617,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮興中南八街",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -18618,6 +18626,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T19:12:21.207564"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T19:16:21.296446"
       }
     ]
   },
