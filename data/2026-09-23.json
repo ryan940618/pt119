@@ -19323,11 +19323,15 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉公館路",
     "units": "恆春分隊,滿州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T04:19:20.546644"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T04:21:20.742494"
       }
     ]
   }
