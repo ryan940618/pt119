@@ -17765,7 +17765,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市旭東巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -17774,6 +17774,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T15:32:20.866675"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T15:47:20.895119"
       }
     ]
   },
@@ -17805,11 +17809,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉載興路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T15:14:20.629550"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T15:47:20.895119"
       }
     ]
   },
