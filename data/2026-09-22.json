@@ -18114,5 +18114,33 @@
         "timestamp": "2026-09-22T17:05:21.315556"
       }
     ]
+  },
+  "80a432a16c88db2827c3ccf3a4c0c071": {
+    "time": "2026/09/22 17:04:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉德成巷",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:06:21.251789"
+      }
+    ]
+  },
+  "f5ac637f3d6b972a9c0ab0121a1ba461": {
+    "time": "2026/09/22 17:02:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉福德街",
+    "units": "鹽埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:06:21.251789"
+      }
+    ]
   }
 }
