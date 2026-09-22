@@ -18295,11 +18295,15 @@
     "sub_category": "",
     "location": "屏東縣南州鄉下國3南下交流道剛轉進台1 線/龜苓膏對面",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:23:21.423910"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T17:59:20.623110"
       }
     ]
   },
@@ -18378,6 +18382,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:52:20.638782"
+      }
+    ]
+  },
+  "637936c5fa1f30b25fc1d73e3cf26070": {
+    "time": "2026/09/22 17:58:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉崁頂國小[屏東縣崁頂鄉中正路",
+    "units": "崁頂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:59:20.623110"
       }
     ]
   }
