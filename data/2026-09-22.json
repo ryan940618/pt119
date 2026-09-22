@@ -18057,11 +18057,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市機場北路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T16:29:21.088483"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T17:10:21.245337"
       }
     ]
   },
