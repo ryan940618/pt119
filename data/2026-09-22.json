@@ -17802,5 +17802,33 @@
         "timestamp": "2026-09-22T15:15:20.541148"
       }
     ]
+  },
+  "f6ba77758c826845927becc2e9917ab6": {
+    "time": "2026/09/22 15:16:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉社皮路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:17:20.608045"
+      }
+    ]
+  },
+  "f7cc509354faa8bf68391e99f1afb639": {
+    "time": "2026/09/22 15:15:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉九如路二段307巷",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T15:17:20.608045"
+      }
+    ]
   }
 }
