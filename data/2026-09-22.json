@@ -18020,5 +18020,19 @@
         "timestamp": "2026-09-22T16:24:20.936479"
       }
     ]
+  },
+  "fec911c6a7f08b0239fdcb503ba769cb": {
+    "time": "2026/09/22 16:23:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉義永路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T16:25:21.055100"
+      }
+    ]
   }
 }
