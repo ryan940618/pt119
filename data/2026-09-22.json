@@ -18634,5 +18634,33 @@
         "timestamp": "2026-09-22T19:03:21.577276"
       }
     ]
+  },
+  "c4615642bf19d6a2af7efbf1940bbacf": {
+    "time": "2026/09/22 19:07:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉田中街23巷",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T19:08:21.323115"
+      }
+    ]
+  },
+  "0a32749c5170c27bd8fdddfe29373d05": {
+    "time": "2026/09/22 19:07:03",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉港口路150巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-22T19:08:21.323115"
+      }
+    ]
   }
 }
