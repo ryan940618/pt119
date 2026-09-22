@@ -17563,7 +17563,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮鵝鑾路",
     "units": "墾丁分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -17572,6 +17572,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T14:18:21.314437"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T14:34:20.683319"
       }
     ]
   },
