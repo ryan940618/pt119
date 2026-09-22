@@ -18293,11 +18293,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮文昌街",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:28:21.495749"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T17:45:20.638292"
       }
     ]
   },
@@ -18312,6 +18316,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T17:44:20.513690"
+      }
+    ]
+  },
+  "e824f7af197c1b6e0224aa402f796340": {
+    "time": "2026/09/22 17:42:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建國路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:45:20.638292"
       }
     ]
   }
