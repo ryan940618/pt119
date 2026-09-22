@@ -16803,11 +16803,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東港大橋[屏東縣東港鎮沿海路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-22T09:45:20.867405"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T09:57:20.515531"
       }
     ]
   },
@@ -16872,6 +16876,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-22T09:56:20.468687"
+      }
+    ]
+  },
+  "b689dc698ab8a95fa458fb1760795663": {
+    "time": "2026/09/22 09:56:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮壽福路168巷",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:57:20.515531"
       }
     ]
   }
