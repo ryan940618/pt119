@@ -16628,5 +16628,19 @@
         "timestamp": "2026-09-22T08:57:20.095643"
       }
     ]
+  },
+  "d61d584040c0199515fe1ffba40badac": {
+    "time": "2026/09/22 09:04:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市華富路",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T09:05:20.073106"
+      }
+    ]
   }
 }
