@@ -16605,7 +16605,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉車城衛生所[屏東縣車城鄉福安路",
     "units": "車城分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -16618,6 +16618,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T09:12:20.136018"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T09:23:20.259829"
       }
     ]
   },
@@ -16714,6 +16718,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:12:20.136018"
+      }
+    ]
+  },
+  "b645a31f8bdd2d1e844af2475d0161f0": {
+    "time": "2026/09/22 09:21:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉中正路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T09:23:20.259829"
       }
     ]
   }
