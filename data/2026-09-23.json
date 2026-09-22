@@ -19495,11 +19495,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉焰溫村炯興路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T05:55:20.318386"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T06:47:20.789970"
       }
     ]
   },
@@ -19578,6 +19582,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T06:46:20.593221"
+      }
+    ]
+  },
+  "77f21f844cab709a2c024b88ccfee85a": {
+    "time": "2026/09/23 06:46:18",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉竹林路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-23T06:47:20.789970"
+      }
+    ]
+  },
+  "dd425f1ecb595255ba6481ee92e344ab": {
+    "time": "2026/09/23 06:43:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉透過電力座標(T3786,DA2100)轉換GIS座標",
+    "units": "崁頂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T06:47:20.789970"
       }
     ]
   }
