@@ -18103,11 +18103,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉福德街",
     "units": "麟洛分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:04:21.245414"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:05:21.315556"
       }
     ]
   }
