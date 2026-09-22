@@ -18173,7 +18173,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉德成巷",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -18182,6 +18182,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T17:54:20.654934"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T18:22:20.832610"
       }
     ]
   },
@@ -18303,7 +18307,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉下國3南下交流道剛轉進台1 線/龜苓膏對面",
     "units": "南州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -18312,6 +18316,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T17:59:20.623110"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T18:22:20.832610"
       }
     ]
   },
