@@ -18615,11 +18615,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市中華路110巷",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T19:02:21.228647"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T19:03:21.577276"
       }
     ]
   }
