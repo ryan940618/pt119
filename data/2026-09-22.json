@@ -18931,11 +18931,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉元泰街",
     "units": "萬丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T20:55:21.029868"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T20:56:20.986405"
       }
     ]
   }
