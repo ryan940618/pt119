@@ -16863,11 +16863,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已受理",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T09:55:20.551182"
+      },
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-22T09:56:20.468687"
       }
     ]
   }
