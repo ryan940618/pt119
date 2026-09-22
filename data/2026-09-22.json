@@ -18215,7 +18215,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市福光街130巷",
     "units": "屏東分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -18228,6 +18228,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-22T17:29:21.456150"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:30:21.469842"
       }
     ]
   },
