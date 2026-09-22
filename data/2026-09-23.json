@@ -19357,7 +19357,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉中山路",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -19366,6 +19366,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T05:02:20.989539"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T05:11:21.047626"
       }
     ]
   },
