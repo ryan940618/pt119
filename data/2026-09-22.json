@@ -18947,7 +18947,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉元泰街",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -18956,6 +18956,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-22T20:56:20.986405"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-22T21:26:21.247301"
       }
     ]
   },
@@ -18997,11 +19001,29 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮育才路",
     "units": "潮州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T21:25:21.142666"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T21:26:21.247301"
+      }
+    ]
+  },
+  "9afcdab98098345ae55f875e860a5384": {
+    "time": "2026/09/22 21:24:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T21:26:21.247301"
       }
     ]
   }
