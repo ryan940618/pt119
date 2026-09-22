@@ -16803,7 +16803,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東港大橋[屏東縣東港鎮沿海路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -16812,6 +16812,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-22T09:57:20.515531"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-22T10:05:20.552185"
       }
     ]
   },
