@@ -18135,11 +18135,29 @@
     "sub_category": "",
     "location": "屏東縣長治鄉福德街",
     "units": "鹽埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T17:06:21.251789"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T17:07:21.316414"
+      }
+    ]
+  },
+  "9cbfc0902e28447dd91c7e3f9b973df3": {
+    "time": "2026/09/22 17:05:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉龍子二街",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-22T17:07:21.316414"
       }
     ]
   }
