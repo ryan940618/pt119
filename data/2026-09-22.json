@@ -18957,11 +18957,15 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉中正路",
     "units": "新埤分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-22T21:06:21.208212"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-22T21:07:20.915954"
       }
     ]
   }
