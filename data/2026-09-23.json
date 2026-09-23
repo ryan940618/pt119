@@ -22151,11 +22151,15 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉沿山公路",
     "units": "泰武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T18:52:20.182152"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:53:20.089413"
       }
     ]
   }
