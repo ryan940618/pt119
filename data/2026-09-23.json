@@ -20059,7 +20059,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉光復街24巷",
     "units": "九如分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -20076,6 +20076,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T09:25:21.218904"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T09:39:21.055926"
       }
     ]
   },
@@ -20085,7 +20089,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市自由路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -20094,6 +20098,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T08:52:20.713692"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T09:39:21.055926"
       }
     ]
   },
@@ -20212,6 +20220,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T09:31:20.974615"
+      }
+    ]
+  },
+  "66302ef3f08a9e26901f356c1b2befb6": {
+    "time": "2026/09/23 09:36:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉平昌街",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T09:39:21.055926"
       }
     ]
   }
