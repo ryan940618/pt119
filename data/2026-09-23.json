@@ -20947,7 +20947,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉南華路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -20956,6 +20956,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T13:56:20.989208"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T13:57:20.963719"
       }
     ]
   },
@@ -21015,11 +21019,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉南和路",
     "units": "春日分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T13:55:20.971240"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T13:57:20.963719"
       }
     ]
   }
