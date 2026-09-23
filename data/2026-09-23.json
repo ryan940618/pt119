@@ -22447,11 +22447,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉臨海路21巷",
     "units": "枋寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T20:53:21.015447"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T20:54:20.922217"
       }
     ]
   }
