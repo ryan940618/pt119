@@ -21833,7 +21833,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉竹站路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -21846,6 +21846,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T17:58:25.494914"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T18:24:21.130702"
       }
     ]
   },
@@ -21959,7 +21963,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉中山路",
     "units": "琉球分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -21968,6 +21972,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T18:23:21.102384"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:24:21.130702"
       }
     ]
   },
@@ -21982,6 +21990,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:22:21.026044"
+      }
+    ]
+  },
+  "e6ef204576aeb59554bca03152540ea8": {
+    "time": "2026/09/23 18:23:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮三進路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:24:21.130702"
       }
     ]
   }
