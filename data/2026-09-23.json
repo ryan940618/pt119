@@ -22049,11 +22049,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉中正路",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:29:20.933804"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T18:46:20.116218"
       }
     ]
   },
@@ -22063,7 +22067,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市復興南路",
     "units": "公館分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -22076,6 +22080,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-23T18:45:20.043911"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:46:20.116218"
       }
     ]
   },
