@@ -21463,11 +21463,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市民貴一街",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:53:20.800978"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T16:14:20.888381"
+      }
+    ]
+  },
+  "46030de91d1c1338f8864949b64c8b99": {
+    "time": "2026/09/23 16:13:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮社興路",
+    "units": "墾丁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T16:14:20.888381"
       }
     ]
   }
