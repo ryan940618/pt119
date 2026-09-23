@@ -20211,7 +20211,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉廣安國小[屏東縣萬丹鄉廣志街8巷",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -20232,6 +20232,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T09:59:20.182545"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T10:23:20.373294"
       }
     ]
   },
@@ -20291,7 +20295,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉長美路",
     "units": "高樹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -20300,6 +20304,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T10:17:20.260088"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T10:23:20.373294"
       }
     ]
   },
@@ -20314,6 +20322,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T10:13:20.414561"
+      }
+    ]
+  },
+  "c12a1edfd25062b103b9000d97900385": {
+    "time": "2026/09/23 10:21:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮恆南路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T10:23:20.373294"
       }
     ]
   }
