@@ -20813,7 +20813,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮光華派出所後方的基督教禮拜堂[屏東縣潮州鎮光華里中山路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -20822,6 +20822,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T13:18:20.667372"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T13:20:20.674301"
       }
     ]
   },
