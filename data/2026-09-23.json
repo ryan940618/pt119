@@ -19945,7 +19945,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉文化路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -19954,6 +19954,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T08:12:20.310150"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T09:12:20.819114"
       }
     ]
   },
