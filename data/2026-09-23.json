@@ -22343,7 +22343,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民和派出所[屏東縣屏東市長春里民生路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -22352,6 +22352,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T20:44:20.894165"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T21:01:20.205536"
       }
     ]
   },
@@ -22405,11 +22409,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉九里路",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T20:17:20.858997"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T21:01:20.205536"
       }
     ]
   },
