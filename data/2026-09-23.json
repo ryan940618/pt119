@@ -19825,11 +19825,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉麟洛分駐所旁全家門口",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T07:50:20.324546"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T08:11:20.306863"
       }
     ]
   },
@@ -19880,6 +19884,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T08:07:20.307673"
+      }
+    ]
+  },
+  "b624885ad9a1a325edd5a3d1a806aea7": {
+    "time": "2026/09/23 08:09:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉文化路",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T08:11:20.306863"
       }
     ]
   }
