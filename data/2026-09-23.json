@@ -20729,11 +20729,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市棒球路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T12:14:20.163220"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T12:59:20.514171"
       }
     ]
   },
