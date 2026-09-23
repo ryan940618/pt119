@@ -21399,7 +21399,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮天祥路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -21408,6 +21408,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T16:34:20.032306"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T16:56:20.302860"
       }
     ]
   },
@@ -21515,7 +21519,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉車城鄉公所[屏東縣車城鄉中山路",
     "units": "車城分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -21524,6 +21528,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T16:41:20.140974"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T16:56:20.302860"
       }
     ]
   },
