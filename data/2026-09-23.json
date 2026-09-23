@@ -22053,7 +22053,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉中正路",
     "units": "來義分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -22062,6 +22062,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T18:46:20.116218"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:52:20.182152"
       }
     ]
   },
@@ -22125,7 +22129,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉新埤大橋北上[屏東縣新埤鄉臺1線]",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -22134,6 +22138,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:35:21.070360"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T18:52:20.182152"
+      }
+    ]
+  },
+  "c67dec65ea1b1a49c7419d4f110d3ede": {
+    "time": "2026/09/23 18:49:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣泰武鄉沿山公路",
+    "units": "泰武分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T18:52:20.182152"
       }
     ]
   }
