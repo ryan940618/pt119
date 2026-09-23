@@ -21959,11 +21959,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉中山路",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:18:21.480319"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T18:23:21.102384"
       }
     ]
   },
