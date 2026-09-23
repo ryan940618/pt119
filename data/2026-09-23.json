@@ -22510,5 +22510,19 @@
         "timestamp": "2026-09-23T21:00:19.997427"
       }
     ]
+  },
+  "78b374de7db7d1ba114d25d9853f0408": {
+    "time": "2026/09/23 21:09:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市勝利東路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T21:10:20.091854"
+      }
+    ]
   }
 }
