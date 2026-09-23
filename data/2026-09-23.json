@@ -21501,7 +21501,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮社興路",
     "units": "墾丁分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -21510,6 +21510,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T16:15:20.944184"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T18:21:20.935364"
       }
     ]
   },
