@@ -21907,7 +21907,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉進化路",
     "units": "春日分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -21916,6 +21916,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T17:34:20.740585"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T18:30:20.988781"
       }
     ]
   },
@@ -21925,7 +21929,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建國路",
     "units": "公館分隊,屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -21934,6 +21938,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T18:29:20.933804"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T18:30:20.988781"
       }
     ]
   },
@@ -22030,6 +22038,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:29:20.933804"
+      }
+    ]
+  },
+  "e155cbfd48fb4b5a1b19666c667e0795": {
+    "time": "2026/09/23 18:29:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興南路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T18:30:20.988781"
       }
     ]
   }
