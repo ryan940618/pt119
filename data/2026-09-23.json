@@ -22537,7 +22537,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市勝利東路",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -22558,6 +22558,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T21:30:20.189365"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T21:35:20.247345"
       }
     ]
   },
