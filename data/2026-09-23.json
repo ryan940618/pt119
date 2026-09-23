@@ -22029,7 +22029,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉屏東科技大學/體育館[屏東縣內埔鄉學府路",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -22038,6 +22038,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T19:09:20.287280"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T19:32:20.423066"
       }
     ]
   },
