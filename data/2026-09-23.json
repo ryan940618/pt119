@@ -21567,7 +21567,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉光復路",
     "units": "枋山分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -21576,6 +21576,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T17:09:23.946460"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T17:33:20.774518"
       }
     ]
   },
@@ -21834,6 +21838,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T17:30:20.639796"
+      }
+    ]
+  },
+  "7ee1aff95a77ac680de838a5802b44e9": {
+    "time": "2026/09/23 17:32:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉進化路",
+    "units": "春日分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T17:33:20.774518"
       }
     ]
   }
