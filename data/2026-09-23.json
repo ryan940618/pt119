@@ -20715,11 +20715,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市復興南路一段57巷",
     "units": "萬丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T12:15:20.204241"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T12:16:20.320457"
       }
     ]
   }
