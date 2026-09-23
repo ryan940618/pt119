@@ -20167,11 +20167,29 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉廣安國小[屏東縣萬丹鄉廣志街8巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T09:22:20.892631"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T09:30:20.917053"
+      }
+    ]
+  },
+  "c35d6d8930126e821806c4de82734b1a": {
+    "time": "2026/09/23 09:28:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉北勢寮公有零售市場[屏東縣枋寮鄉安樂路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T09:30:20.917053"
       }
     ]
   }
