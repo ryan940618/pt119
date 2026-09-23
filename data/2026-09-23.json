@@ -22715,11 +22715,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉大仁科技大學/第一宿舍[屏東縣鹽埔鄉維新路",
     "units": "鹽埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T23:35:20.078161"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T23:36:20.200144"
       }
     ]
   }
