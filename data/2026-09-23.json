@@ -21481,11 +21481,29 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮社興路",
     "units": "墾丁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T16:14:20.888381"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T16:15:20.944184"
+      }
+    ]
+  },
+  "8653a60849f49f6596d8682e66e846f5": {
+    "time": "2026/09/23 16:13:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉車城鄉公所[屏東縣車城鄉中山路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T16:15:20.944184"
       }
     ]
   }
