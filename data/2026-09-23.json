@@ -22203,7 +22203,7 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉沿山公路",
     "units": "泰武分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -22216,6 +22216,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T19:47:20.547460"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T20:17:20.858997"
       }
     ]
   },
@@ -22225,7 +22229,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉仁和路",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -22238,6 +22242,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T20:00:20.694708"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T20:17:20.858997"
       }
     ]
   },
@@ -22364,6 +22372,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T20:15:20.937004"
+      }
+    ]
+  },
+  "7fc4a57e0594a3c7566513e27992a1c7": {
+    "time": "2026/09/23 20:15:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉九里路",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T20:17:20.858997"
       }
     ]
   }
