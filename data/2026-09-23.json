@@ -22619,7 +22619,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉杉板路51巷",
     "units": "琉球分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -22628,6 +22628,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T22:35:20.707566"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T22:37:20.751725"
       }
     ]
   },
