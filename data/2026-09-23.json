@@ -20804,5 +20804,33 @@
         "timestamp": "2026-09-23T12:51:20.483189"
       }
     ]
+  },
+  "be3824d70669f525739d98f061bf729c": {
+    "time": "2026/09/23 12:52:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉聯通街",
+    "units": "龍泉分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-23T12:53:20.493210"
+      }
+    ]
+  },
+  "bf33ec9789d5602128a8ea2924c838b9": {
+    "time": "2026/09/23 12:51:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉和興路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T12:53:20.493210"
+      }
+    ]
   }
 }
