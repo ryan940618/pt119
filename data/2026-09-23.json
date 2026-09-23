@@ -20539,11 +20539,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮三城路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:19:20.831559"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T11:52:21.019293"
       }
     ]
   },
@@ -20598,6 +20602,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:36:20.929733"
+      }
+    ]
+  },
+  "f21017094aea95df7556dd3c2d0b9907": {
+    "time": "2026/09/23 11:49:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉興清路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T11:52:21.019293"
       }
     ]
   }
