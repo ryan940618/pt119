@@ -22139,11 +22139,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉榮農路5巷",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:33:21.221869"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T19:21:20.311236"
       }
     ]
   },
