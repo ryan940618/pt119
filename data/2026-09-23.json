@@ -21357,7 +21357,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮崙川路43巷",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -21366,6 +21366,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T15:54:20.869660"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T15:55:21.122198"
       }
     ]
   },
@@ -21421,11 +21425,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中華路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:51:20.770870"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T15:55:21.122198"
       }
     ]
   },
