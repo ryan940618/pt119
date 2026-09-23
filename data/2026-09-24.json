@@ -22959,11 +22959,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉中山路",
     "units": "枋寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T04:57:20.550492"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T04:58:20.606719"
       }
     ]
   }
