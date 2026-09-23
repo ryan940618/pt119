@@ -21635,7 +21635,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市龍華西路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -21644,6 +21644,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T16:46:20.201417"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T17:12:20.348473"
       }
     ]
   },
