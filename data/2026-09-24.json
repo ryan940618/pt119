@@ -23025,7 +23025,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉中正路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -23034,6 +23034,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T06:34:20.554188"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T06:42:20.238362"
       }
     ]
   },
