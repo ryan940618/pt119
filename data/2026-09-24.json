@@ -23170,5 +23170,33 @@
         "timestamp": "2026-09-24T07:14:20.942748"
       }
     ]
+  },
+  "385d399ca74a3616b18a663efc19ee90": {
+    "time": "2026/09/24 07:13:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉豐作路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T07:15:20.920073"
+      }
+    ]
+  },
+  "036a484e8466210dffc35d907970a156": {
+    "time": "2026/09/24 07:08:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉渡月橋",
+    "units": "獅子分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T07:15:20.920073"
+      }
+    ]
   }
 }
