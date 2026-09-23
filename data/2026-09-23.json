@@ -20928,5 +20928,33 @@
         "timestamp": "2026-09-23T13:29:20.876953"
       }
     ]
+  },
+  "6aa13343007f3b560ff21eb2529207f6": {
+    "time": "2026/09/23 13:30:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉南華路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T13:31:20.825743"
+      }
+    ]
+  },
+  "1e867817b30a24bbadcf519c8da73a35": {
+    "time": "2026/09/23 13:29:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉大林路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T13:31:20.825743"
+      }
+    ]
   }
 }
