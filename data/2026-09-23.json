@@ -20947,11 +20947,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉南華路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T13:31:20.825743"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T13:56:20.989208"
       }
     ]
   },
@@ -20989,7 +20993,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮東華路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -20998,6 +21002,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T13:49:21.335604"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T13:56:20.989208"
       }
     ]
   },
