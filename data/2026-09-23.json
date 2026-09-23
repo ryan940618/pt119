@@ -20361,7 +20361,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市古松巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -20374,6 +20374,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T11:19:20.831559"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T11:27:20.819840"
       }
     ]
   },
@@ -20534,6 +20538,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:21:20.881299"
+      }
+    ]
+  },
+  "6b8d287813cc6211669514c0cad02d1c": {
+    "time": "2026/09/23 11:25:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市瑞光路二段和豐連街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T11:27:20.819840"
       }
     ]
   }
