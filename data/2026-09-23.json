@@ -20203,7 +20203,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉廣安國小[屏東縣萬丹鄉廣志街8巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -20220,6 +20220,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T09:42:20.074226"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T09:59:20.182545"
       }
     ]
   },
