@@ -20443,11 +20443,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉龍壽路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T11:03:20.960475"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T11:13:21.158585"
       }
     ]
   },
