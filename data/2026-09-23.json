@@ -21695,7 +21695,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民信街",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -21712,6 +21712,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T17:27:20.576039"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T17:40:20.696352"
       }
     ]
   },
