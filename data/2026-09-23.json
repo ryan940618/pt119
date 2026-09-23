@@ -20269,11 +20269,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉平昌街",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T09:39:21.055926"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T10:12:20.295079"
       }
     ]
   },
