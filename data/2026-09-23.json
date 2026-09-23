@@ -21847,11 +21847,15 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉進化路",
     "units": "春日分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T17:33:20.774518"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T17:34:20.740585"
       }
     ]
   }
