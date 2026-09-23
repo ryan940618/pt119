@@ -21161,7 +21161,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市崇大新城中庭[屏東縣屏東市華盛街",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -21170,6 +21170,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T14:27:20.308506"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T15:04:20.442633"
       }
     ]
   },
