@@ -21037,11 +21037,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-23T13:59:21.025569"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-23T14:00:19.997571"
       }
     ]
   }
