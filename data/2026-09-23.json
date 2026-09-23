@@ -21295,7 +21295,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉三和路",
     "units": "里港分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
@@ -21308,6 +21308,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-23T15:24:20.549830"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-23T15:29:20.707036"
       }
     ]
   },
