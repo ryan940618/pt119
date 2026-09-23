@@ -22069,7 +22069,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉中正路",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -22082,6 +22082,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T18:52:20.182152"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T19:18:20.308249"
       }
     ]
   },
