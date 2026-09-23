@@ -21585,11 +21585,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市勝利路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T16:32:20.102540"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T17:16:20.556943"
       }
     ]
   },
@@ -21617,7 +21621,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中華路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -21626,6 +21630,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T17:07:20.617280"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T17:16:20.556943"
       }
     ]
   },
@@ -21739,11 +21747,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉義林43號",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T17:08:21.453998"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-23T17:16:20.556943"
       }
     ]
   },
