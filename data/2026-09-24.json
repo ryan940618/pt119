@@ -23179,11 +23179,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建國路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:14:20.942748"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T07:52:20.865968"
       }
     ]
   },
@@ -23327,11 +23331,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市和平路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T07:51:20.830406"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T07:52:20.865968"
       }
     ]
   }
