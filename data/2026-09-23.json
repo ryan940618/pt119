@@ -21253,11 +21253,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉國立屏東科技大學//管理學院2樓CM220",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-23T14:59:20.537633"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T15:39:20.671957"
       }
     ]
   },
@@ -21267,7 +21271,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉光復路",
     "units": "枋山分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -21276,6 +21280,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-23T15:08:20.507930"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-23T15:39:20.671957"
       }
     ]
   },
