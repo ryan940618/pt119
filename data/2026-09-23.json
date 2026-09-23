@@ -22077,7 +22077,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉中正路",
     "units": "來義分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -22094,6 +22094,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T19:18:20.308249"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T19:38:20.375736"
       }
     ]
   },
@@ -22147,7 +22151,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉榮農路5巷",
     "units": "林邊分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -22156,6 +22160,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-23T19:21:20.311236"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-23T19:38:20.375736"
       }
     ]
   },
