@@ -23329,11 +23329,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉進德街",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:49:20.849190"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T08:06:20.961295"
       }
     ]
   },
@@ -23396,6 +23400,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T08:04:20.905223"
+      }
+    ]
+  },
+  "060e027bc9d7302ab618cbe0d9aa00c2": {
+    "time": "2026/09/24 08:05:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉枋山路7巷",
+    "units": "枋山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T08:06:20.961295"
       }
     ]
   }
