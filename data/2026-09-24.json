@@ -24373,11 +24373,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉東平街",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:25:20.037217"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T13:05:20.769764"
       }
     ]
   },
