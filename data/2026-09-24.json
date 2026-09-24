@@ -23923,7 +23923,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中正路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -23932,6 +23932,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T10:52:20.739051"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T11:13:20.524905"
       }
     ]
   },
@@ -24110,6 +24114,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:10:20.867752"
+      }
+    ]
+  },
+  "9b8f5763189bebb65a8bf74706598050": {
+    "time": "2026/09/24 11:11:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉豐隆路5巷",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T11:13:20.524905"
       }
     ]
   }
