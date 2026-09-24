@@ -25949,7 +25949,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建國路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -25958,6 +25958,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T20:52:20.894798"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T20:59:20.785742"
       }
     ]
   },
@@ -25967,7 +25971,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉灣內路",
     "units": "萬丹分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -25976,6 +25980,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T20:56:20.739902"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-24T20:59:20.785742"
       }
     ]
   }
