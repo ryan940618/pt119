@@ -26033,11 +26033,43 @@
     "sub_category": "",
     "location": "屏東縣屏東市光復路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T21:12:21.009063"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T21:13:20.913534"
+      }
+    ]
+  },
+  "64fb367ed54cf2742a321c7a45c4d0d3": {
+    "time": "2026/09/24 21:12:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉陽濟路",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T21:13:20.913534"
+      }
+    ]
+  },
+  "6e623c543b37edc892f2051844b123cc": {
+    "time": "2026/09/24 21:12:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市勝利路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T21:13:20.913534"
       }
     ]
   }
