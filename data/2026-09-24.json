@@ -26159,7 +26159,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市公興路198巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -26168,6 +26168,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T22:05:20.459950"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T22:08:20.357030"
       }
     ]
   },
@@ -26228,6 +26232,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T21:59:20.557218"
+      }
+    ]
+  },
+  "457278690c13fef6937db5fe5056d262": {
+    "time": "2026/09/24 22:06:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市崇德一路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T22:08:20.357030"
+      }
+    ]
+  },
+  "f8ddcf68bc709b39af92a0072ed6cd3a": {
+    "time": "2026/09/24 22:05:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉興中路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T22:08:20.357030"
       }
     ]
   }
