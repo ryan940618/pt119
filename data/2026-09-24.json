@@ -24145,7 +24145,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉加智路",
     "units": "萬丹分隊",
-    "current_status": "已離院",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -24158,6 +24158,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-24T11:29:20.560538"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T11:48:20.801960"
       }
     ]
   },
