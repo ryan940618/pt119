@@ -26227,11 +26227,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市菸廠路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T21:59:20.557218"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T22:12:20.427652"
       }
     ]
   },
@@ -26273,11 +26277,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生東路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T22:11:20.506400"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T22:12:20.427652"
       }
     ]
   }
