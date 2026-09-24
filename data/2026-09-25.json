@@ -27153,11 +27153,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉佳興路",
     "units": "萬巒分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T07:07:20.330392"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T07:08:20.300588"
       }
     ]
   }
