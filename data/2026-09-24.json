@@ -24973,11 +24973,29 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮船帆路",
     "units": "墾丁分隊",
-    "current_status": "已受理",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-09-24T15:57:20.540516"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T15:58:20.629069"
+      }
+    ]
+  },
+  "e51a5fefd0d5a1c99bb0fe573c4c72e0": {
+    "time": "2026/09/24 15:56:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T15:58:20.629069"
       }
     ]
   }
