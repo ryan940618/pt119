@@ -23918,5 +23918,33 @@
         "timestamp": "2026-09-24T09:58:20.798632"
       }
     ]
+  },
+  "fe0e814836abc69609035e3fd9877df0": {
+    "time": "2026/09/24 10:11:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉里港路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T10:12:20.966996"
+      }
+    ]
+  },
+  "01a6c07ab672a35b1ba8a384c8d00828": {
+    "time": "2026/09/24 10:11:40",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉南華村運動公園等",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-24T10:12:20.966996"
+      }
+    ]
   }
 }
