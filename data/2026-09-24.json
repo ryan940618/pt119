@@ -25291,7 +25291,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市光復路",
     "units": "公館分隊,屏東分隊,麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -25308,6 +25308,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T23:08:22.086279"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T23:10:20.838511"
       }
     ]
   },
@@ -26518,6 +26522,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T23:09:20.917832"
+      }
+    ]
+  },
+  "97e00e1ff7f5cc2e525177a575f9ddda": {
+    "time": "2026/09/24 23:08:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮墾丁路文化巷",
+    "units": "墾丁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T23:10:20.838511"
       }
     ]
   }
