@@ -23453,7 +23453,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉枋山路7巷",
     "units": "枋山分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -23462,6 +23462,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T08:07:20.896983"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T08:51:20.270445"
       }
     ]
   },
