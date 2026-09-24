@@ -24377,7 +24377,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉東平街",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -24386,6 +24386,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T13:05:20.769764"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T13:33:20.695661"
       }
     ]
   },
@@ -24676,6 +24680,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T13:32:20.713250"
+      }
+    ]
+  },
+  "8685d5d575ed7fe071aea33f16c2a15f": {
+    "time": "2026/09/24 13:31:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉永樂街",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T13:33:20.695661"
       }
     ]
   }
