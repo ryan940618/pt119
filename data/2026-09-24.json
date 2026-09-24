@@ -25515,11 +25515,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉竹圍二號橋(22.6158,120.5077)",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T18:16:20.593045"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T19:07:21.177436"
       }
     ]
   },
@@ -25687,11 +25691,15 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉中山路",
     "units": "枋山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T19:06:21.041443"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T19:07:21.177436"
       }
     ]
   }
