@@ -23460,5 +23460,19 @@
         "timestamp": "2026-09-24T08:20:20.043077"
       }
     ]
+  },
+  "0aa4eb0e4cbaa8714791371f2ac22536": {
+    "time": "2026/09/24 06:07:03",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉仁愛路",
+    "units": "琉球分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T08:22:20.125629"
+      }
+    ]
   }
 }
