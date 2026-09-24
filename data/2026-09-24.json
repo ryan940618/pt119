@@ -26491,11 +26491,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉佳興路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T22:51:20.713805"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T23:35:20.879785"
       }
     ]
   },
