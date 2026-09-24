@@ -25061,11 +25061,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮光復路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:10:20.844820"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T16:47:21.061818"
       }
     ]
   },
@@ -25075,7 +25079,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -25092,6 +25096,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T16:29:20.857869"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T16:47:21.061818"
       }
     ]
   },
