@@ -23865,7 +23865,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉往賽嘉飛行場的半山路",
     "units": "三地門分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -23874,6 +23874,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:50:20.864797"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T10:56:20.446219"
       }
     ]
   },
@@ -24037,7 +24041,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉仁和路",
     "units": "林邊分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -24046,6 +24050,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T10:50:20.416485"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-24T10:56:20.446219"
       }
     ]
   },
