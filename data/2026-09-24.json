@@ -23941,7 +23941,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉里港路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -23950,6 +23950,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:13:20.983236"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T11:07:20.417256"
       }
     ]
   },
@@ -23973,7 +23977,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬丹路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -23982,6 +23986,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:28:20.215150"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T11:07:20.417256"
       }
     ]
   },
@@ -24027,11 +24035,15 @@
     "sub_category": "",
     "location": "屏東縣南州鄉新生路",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:34:20.201777"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T11:07:20.417256"
       }
     ]
   },
