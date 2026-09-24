@@ -24145,7 +24145,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉加智路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -24162,6 +24162,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T11:48:20.801960"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T11:55:20.776514"
       }
     ]
   },
@@ -24189,7 +24193,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市福州街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -24198,6 +24202,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T11:54:20.789929"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T11:55:20.776514"
       }
     ]
   },
