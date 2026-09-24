@@ -24033,11 +24033,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉仁和路",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T10:46:20.367311"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T10:50:20.416485"
       }
     ]
   },
