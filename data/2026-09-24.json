@@ -25990,5 +25990,33 @@
         "timestamp": "2026-09-24T21:00:20.874866"
       }
     ]
+  },
+  "83bdae101e999d0bea855af70d37ebc5": {
+    "time": "2026/09/24 21:06:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉圓環_廣濟路",
+    "units": "內埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T21:07:20.918311"
+      }
+    ]
+  },
+  "bc8a159c74a83448e6a41ff91cf37459": {
+    "time": "2026/09/24 21:06:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉廣濟路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T21:07:20.918311"
+      }
+    ]
   }
 }
