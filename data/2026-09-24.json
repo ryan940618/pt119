@@ -24521,11 +24521,29 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉新華路",
     "units": "佳冬分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T12:49:20.253690"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:50:20.345995"
+      }
+    ]
+  },
+  "815db229a6eb3eb21b776aaa1eec6ca1": {
+    "time": "2026/09/24 12:48:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮介壽路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:50:20.345995"
       }
     ]
   }
