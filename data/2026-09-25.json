@@ -26683,11 +26683,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉復興路",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T23:46:20.927071"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T00:21:20.130139"
       }
     ]
   },
@@ -26730,6 +26734,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T00:16:20.163866"
+      }
+    ]
+  },
+  "7ebf9c08fe15ffc26a5ea178769b5129": {
+    "time": "2026/09/25 00:20:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉台9線444.5公里",
+    "units": "獅子分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T00:21:20.130139"
       }
     ]
   }
