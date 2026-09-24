@@ -25185,11 +25185,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮四溝橋(22.0102,120.7316)",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:43:20.997088"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T17:33:20.321095"
       }
     ]
   },
