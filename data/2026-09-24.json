@@ -24117,11 +24117,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉加智路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:10:20.867752"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T11:25:20.530281"
       }
     ]
   },
