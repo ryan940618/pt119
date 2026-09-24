@@ -25871,11 +25871,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉九如路",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T19:38:20.345720"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T20:35:20.628870"
       }
     ]
   },
@@ -25885,7 +25889,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中華路自強巷",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -25894,6 +25898,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T20:27:20.618634"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T20:35:20.628870"
       }
     ]
   },
