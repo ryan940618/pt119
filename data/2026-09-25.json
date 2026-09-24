@@ -26781,11 +26781,15 @@
     "sub_category": "",
     "location": "屏東縣車城鄉長灘飯店[屏東縣車城鄉海口路",
     "units": "車城分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T00:23:20.202907"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T01:09:20.890852"
       }
     ]
   },
