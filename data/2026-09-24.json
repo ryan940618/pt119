@@ -24215,11 +24215,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮芳都橋[屏東縣東港鎮東隆街",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:29:20.560538"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T11:57:20.962091"
       }
     ]
   },
@@ -24257,11 +24261,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:49:20.680641"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T11:57:20.962091"
       }
     ]
   }
