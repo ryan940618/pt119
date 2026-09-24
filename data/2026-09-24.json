@@ -24939,11 +24939,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉大坵路12巷",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:43:20.553774"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T16:54:20.061226"
       }
     ]
   },
