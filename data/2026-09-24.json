@@ -25739,11 +25739,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市勝利路",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T19:17:20.172093"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T19:18:20.220748"
+      }
+    ]
+  },
+  "e02c0daa1ade212d1c5eac4c416261f3": {
+    "time": "2026/09/24 19:17:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉新中路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T19:18:20.220748"
       }
     ]
   }
