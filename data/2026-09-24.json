@@ -24041,7 +24041,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉仁和路",
     "units": "林邊分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -24054,6 +24054,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-24T10:56:20.446219"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:57:20.781809"
       }
     ]
   },
