@@ -24847,11 +24847,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉自強路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T14:37:21.113240"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T15:34:20.453777"
       }
     ]
   },
@@ -24896,6 +24900,20 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T15:25:20.476589"
+      }
+    ]
+  },
+  "eb806870383a5dc5de5aff1507c58e0d": {
+    "time": "2026/09/24 15:31:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮檳榔路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T15:34:20.453777"
       }
     ]
   }
