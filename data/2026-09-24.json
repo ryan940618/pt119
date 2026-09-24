@@ -24175,7 +24175,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉豐隆路5巷",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -24184,6 +24184,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T11:51:20.800678"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T12:21:20.989919"
       }
     ]
   },
