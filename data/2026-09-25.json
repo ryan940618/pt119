@@ -26763,7 +26763,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉台9線444.5公里",
     "units": "獅子分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -26772,6 +26772,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T00:22:20.130684"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T01:11:20.822288"
       }
     ]
   },
