@@ -26939,7 +26939,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮墾丁路",
     "units": "墾丁分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -26948,6 +26948,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T02:52:20.679480"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T03:04:20.435917"
       }
     ]
   },
@@ -26970,6 +26974,20 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-25T02:55:20.413020"
+      }
+    ]
+  },
+  "1478331b09289535f8711f95ef4b0bd1": {
+    "time": "2026/09/25 03:03:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興南路一段211巷",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T03:04:20.435917"
       }
     ]
   }
