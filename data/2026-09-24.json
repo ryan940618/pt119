@@ -25251,7 +25251,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉中興街",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -25260,6 +25260,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:09:20.137361"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T18:06:20.573720"
       }
     ]
   },
@@ -25400,6 +25404,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T17:54:20.486969"
+      }
+    ]
+  },
+  "f137639fb92a58ba9199b86937533c73": {
+    "time": "2026/09/24 18:04:34",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣屏東市信興街77巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-24T18:06:20.573720"
       }
     ]
   }
