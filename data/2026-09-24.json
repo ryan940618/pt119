@@ -24853,11 +24853,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東港大橋烏龍端路",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T14:56:20.257941"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T14:57:20.298101"
       }
     ]
   }
