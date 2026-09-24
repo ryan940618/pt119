@@ -25595,7 +25595,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉里港大橋往里港方向",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -25604,6 +25604,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T18:43:20.902407"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T19:51:20.550107"
       }
     ]
   },
@@ -25663,7 +25667,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉松鶴園安養院",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -25680,6 +25684,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T19:02:21.085823"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T19:51:20.550107"
       }
     ]
   },
@@ -25711,7 +25719,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉中山路",
     "units": "枋山分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -25720,6 +25728,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T19:07:21.177436"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T19:51:20.550107"
       }
     ]
   },
