@@ -23233,11 +23233,15 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉透過經緯度轉換GIS座標/台9戊線渡月橋",
     "units": "獅子分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:17:20.618052"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T08:24:20.063415"
       }
     ]
   },
@@ -23481,11 +23485,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉國立屏東科技大學靠近行政大樓",
     "units": "龍泉分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T08:23:20.058623"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T08:24:20.063415"
       }
     ]
   }
