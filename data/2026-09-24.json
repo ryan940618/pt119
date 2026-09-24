@@ -23339,7 +23339,7 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉玉泉44-2號//Mqas摩卡斯咖啡",
     "units": "瑪家分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -23348,6 +23348,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T08:36:20.206193"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T09:13:20.469981"
       }
     ]
   },
@@ -23417,7 +23421,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉新圍村大慶宴席聽帶領",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -23430,6 +23434,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T08:52:20.345734"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T09:13:20.469981"
       }
     ]
   },
@@ -23585,7 +23593,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市華山街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -23594,6 +23602,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T09:10:20.519584"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T09:13:20.469981"
       }
     ]
   },
@@ -23672,6 +23684,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T09:07:20.401586"
+      }
+    ]
+  },
+  "70ee9e96af4d01da04e366ff75789178": {
+    "time": "2026/09/24 09:11:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市信義路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T09:13:20.469981"
       }
     ]
   }
