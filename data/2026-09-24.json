@@ -24342,5 +24342,19 @@
         "timestamp": "2026-09-24T12:23:20.044441"
       }
     ]
+  },
+  "e017daffabb5d4ae3369dd956a7a35e1": {
+    "time": "2026/09/24 12:23:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉東平街",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:25:20.037217"
+      }
+    ]
   }
 }
