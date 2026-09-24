@@ -23237,7 +23237,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉透過經緯度轉換GIS座標/台9戊線渡月橋",
     "units": "獅子分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -23246,6 +23246,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T08:24:20.063415"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T08:52:20.345734"
       }
     ]
   },
@@ -23413,7 +23417,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉新圍村大慶宴席聽帶領",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -23422,6 +23426,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T07:57:20.893982"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T08:52:20.345734"
       }
     ]
   },
@@ -23431,7 +23439,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉光明路",
     "units": "萬巒分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -23444,6 +23452,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T08:47:20.301890"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T08:52:20.345734"
       }
     ]
   },
