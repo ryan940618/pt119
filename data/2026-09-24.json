@@ -24917,11 +24917,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮檳榔路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T15:34:20.453777"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T16:10:20.844820"
       }
     ]
   },
@@ -25028,6 +25032,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T16:08:20.761097"
+      }
+    ]
+  },
+  "230f045f75a49a3900c266d98efbfa90": {
+    "time": "2026/09/24 16:09:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮光復路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T16:10:20.844820"
       }
     ]
   }
