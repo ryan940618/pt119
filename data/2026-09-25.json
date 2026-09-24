@@ -27207,7 +27207,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮山海路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -27216,6 +27216,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T07:10:21.596946"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T07:41:20.645571"
       }
     ]
   },
