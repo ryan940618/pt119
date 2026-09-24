@@ -26071,7 +26071,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉陽濟路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -26084,6 +26084,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T21:54:20.321653"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T22:14:20.460594"
       }
     ]
   },
