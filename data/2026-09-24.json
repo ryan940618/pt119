@@ -26237,7 +26237,7 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉潭北巷",
     "units": "泰武分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -26246,6 +26246,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T23:18:20.824085"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T23:33:20.922672"
       }
     ]
   },
