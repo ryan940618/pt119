@@ -24220,5 +24220,33 @@
         "timestamp": "2026-09-24T11:30:20.512698"
       }
     ]
+  },
+  "46550fabd2aa57f65205707d64702c8b": {
+    "time": "2026/09/24 11:48:39",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣屏東市太原路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-24T11:49:20.680641"
+      }
+    ]
+  },
+  "dddda254b990d29b9ad397c3b96817e7": {
+    "time": "2026/09/24 11:48:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T11:49:20.680641"
+      }
+    ]
   }
 }
