@@ -23925,11 +23925,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉里港路",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:12:20.966996"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:13:20.983236"
       }
     ]
   },
