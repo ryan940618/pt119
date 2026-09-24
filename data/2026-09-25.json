@@ -26957,7 +26957,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市勝利路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
@@ -26966,6 +26966,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T02:53:20.625600"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-25T02:55:20.413020"
       }
     ]
   }
