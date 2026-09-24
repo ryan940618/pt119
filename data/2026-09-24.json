@@ -25971,7 +25971,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉灣內路",
     "units": "萬丹分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -25984,6 +25984,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-24T20:59:20.785742"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T21:00:20.874866"
       }
     ]
   }
