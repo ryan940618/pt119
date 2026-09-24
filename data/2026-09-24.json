@@ -23359,7 +23359,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和平路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -23380,6 +23380,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T08:07:20.896983"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T08:27:20.252177"
       }
     ]
   },
