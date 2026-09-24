@@ -25319,7 +25319,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市忠孝路302巷",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -25332,6 +25332,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T18:04:21.004928"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T18:09:20.621778"
       }
     ]
   },
@@ -25422,6 +25426,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-24T18:06:20.573720"
+      }
+    ]
+  },
+  "85efe71aa1bc854891c3c4e4e44b4b2d": {
+    "time": "2026/09/24 18:07:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中油北屏東站[屏東縣屏東市海豐街",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T18:09:20.621778"
       }
     ]
   }
