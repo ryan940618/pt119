@@ -24421,7 +24421,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉台24線27k",
     "units": "三地門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -24430,6 +24430,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T12:37:20.161179"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T12:45:20.202440"
+      }
+    ]
+  },
+  "9e8e4a903952247071457c63101c27e1": {
+    "time": "2026/09/24 12:44:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮中興路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:45:20.202440"
       }
     ]
   }
