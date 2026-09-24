@@ -26093,7 +26093,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市勝利路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -26102,6 +26102,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T21:56:20.473797"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T22:04:20.459217"
       }
     ]
   },
