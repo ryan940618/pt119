@@ -23983,7 +23983,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉雙流森林遊樂區",
     "units": "獅子分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -23992,6 +23992,10 @@
       {
         "status": "",
         "timestamp": "2026-09-24T10:30:20.508815"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:31:20.655344"
       }
     ]
   },
