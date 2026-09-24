@@ -26011,11 +26011,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉廣濟路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-24T21:07:20.918311"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-24T21:09:20.888573"
       }
     ]
   }
