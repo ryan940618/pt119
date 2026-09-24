@@ -26235,7 +26235,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市菸廠路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -26244,6 +26244,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T22:12:20.427652"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T22:24:20.558731"
       }
     ]
   },
@@ -26321,11 +26325,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉水源路",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T22:23:20.563512"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T22:24:20.558731"
       }
     ]
   }
