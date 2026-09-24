@@ -26095,7 +26095,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民族路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -26104,6 +26104,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T21:44:20.261969"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T21:45:20.155174"
       }
     ]
   },
