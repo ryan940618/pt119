@@ -25657,7 +25657,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉原勝路",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -25666,6 +25666,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T18:58:21.117133"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T19:01:20.936002"
       }
     ]
   }
