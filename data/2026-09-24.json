@@ -25457,11 +25457,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮沿海路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T18:11:20.567312"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T18:15:20.626911"
       }
     ]
   }
