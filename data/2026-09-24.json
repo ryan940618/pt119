@@ -25455,7 +25455,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中油北屏東站[屏東縣屏東市海豐街",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -25472,6 +25472,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T18:28:20.741285"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-24T18:41:20.854612"
       }
     ]
   },
