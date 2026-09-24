@@ -25552,5 +25552,33 @@
         "timestamp": "2026-09-24T18:34:20.834538"
       }
     ]
+  },
+  "6146f0ae4d9e337f34fa41cd3f1aa378": {
+    "time": "2026/09/24 18:40:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉里港大橋往里港方向",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:42:20.843212"
+      }
+    ]
+  },
+  "d4794399e181c06deb864b2cd99ba2b8": {
+    "time": "2026/09/24 18:38:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉松",
+    "units": "龍泉分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-24T18:42:20.843212"
+      }
+    ]
   }
 }
