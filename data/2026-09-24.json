@@ -26011,7 +26011,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉廣濟路",
     "units": "內埔分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -26020,6 +26020,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T21:09:20.888573"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T21:10:20.939597"
       }
     ]
   }
