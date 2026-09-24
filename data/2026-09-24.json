@@ -24917,7 +24917,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮檳榔路",
     "units": "恆春分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -24926,6 +24926,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T16:10:20.844820"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T16:12:20.784345"
       }
     ]
   },
