@@ -23983,11 +23983,29 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉雙流森林遊樂區",
     "units": "獅子分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T10:29:20.619062"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-24T10:30:20.508815"
+      }
+    ]
+  },
+  "52d8ee6aefee053ca3ce3eed3a9b835a": {
+    "time": "2026/09/24 10:28:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉河堤潮厝尾卡拉OK前",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T10:30:20.508815"
       }
     ]
   }
