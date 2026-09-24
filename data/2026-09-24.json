@@ -25595,7 +25595,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉里港大橋往里港方向",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -25608,6 +25608,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T19:51:20.550107"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T20:16:20.569305"
       }
     ]
   },
