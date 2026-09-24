@@ -26336,5 +26336,33 @@
         "timestamp": "2026-09-24T22:24:20.558731"
       }
     ]
+  },
+  "568db0857f3c7c557b6a0a1a6d2f1de8": {
+    "time": "2026/09/24 22:27:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T22:28:20.598490"
+      }
+    ]
+  },
+  "403976f1120a567adca99d4e6081c080": {
+    "time": "2026/09/24 22:27:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉中正大路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T22:28:20.598490"
+      }
+    ]
   }
 }
