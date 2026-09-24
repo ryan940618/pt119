@@ -26577,11 +26577,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市歸仁路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-24T23:29:20.791378"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T23:30:20.917199"
       }
     ]
   }
