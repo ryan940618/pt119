@@ -24117,7 +24117,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉加智路",
     "units": "萬丹分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -24126,6 +24126,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T11:25:20.530281"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-24T11:29:20.560538"
       }
     ]
   },
@@ -24154,6 +24158,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-24T11:27:20.583428"
+      }
+    ]
+  },
+  "8466160e8fd4a1f24e881484b10b30b1": {
+    "time": "2026/09/24 11:27:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮芳都橋[屏東縣東港鎮東隆街",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T11:29:20.560538"
       }
     ]
   }
