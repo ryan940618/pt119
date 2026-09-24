@@ -24265,7 +24265,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "高級救護隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -24274,6 +24274,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-24T11:57:20.962091"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T12:08:20.924009"
       }
     ]
   }
