@@ -24707,7 +24707,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉中和路",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -24720,6 +24720,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T14:23:21.075176"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T14:37:21.113240"
       }
     ]
   },
@@ -24751,7 +24755,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中正路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -24760,6 +24764,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T13:57:20.911224"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T14:37:21.113240"
       }
     ]
   },
@@ -24804,6 +24812,34 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T14:28:21.574212"
+      }
+    ]
+  },
+  "b947d04ae0e1889a059585301b1f97d1": {
+    "time": "2026/09/24 14:36:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉昌隆一街",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T14:37:21.113240"
+      }
+    ]
+  },
+  "ee028470c86861d7e4acd7bd82caffb4": {
+    "time": "2026/09/24 14:36:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉自強路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T14:37:21.113240"
       }
     ]
   }
