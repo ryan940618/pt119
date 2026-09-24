@@ -24307,7 +24307,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉建新路",
     "units": "新埤分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -24320,6 +24320,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T12:59:20.353003"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T13:19:20.569784"
       }
     ]
   },
