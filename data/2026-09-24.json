@@ -25071,7 +25071,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -25080,6 +25080,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T16:50:21.046736"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T17:20:20.309888"
       }
     ]
   },
@@ -25191,7 +25195,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉南寧路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -25200,6 +25204,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-24T17:12:20.260754"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-24T17:20:20.309888"
       }
     ]
   },
