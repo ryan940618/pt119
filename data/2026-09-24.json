@@ -26261,7 +26261,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市崇德一路",
     "units": "高級救護隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -26278,6 +26278,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-24T22:34:20.504534"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-24T22:36:20.643964"
       }
     ]
   },
