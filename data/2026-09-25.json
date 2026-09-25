@@ -27498,5 +27498,19 @@
         "timestamp": "2026-09-25T09:11:20.289964"
       }
     ]
+  },
+  "931e21a36b012999b4dbc6bba2ed68da": {
+    "time": "2026/09/25 09:12:01",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉測試",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T09:13:20.400823"
+      }
+    ]
   }
 }
