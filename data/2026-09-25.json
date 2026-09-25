@@ -30079,7 +30079,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉文樂村新樂/外環道",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -30092,6 +30092,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T21:04:21.290897"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T22:09:21.203300"
       }
     ]
   },
