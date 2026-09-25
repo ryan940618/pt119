@@ -30272,5 +30272,19 @@
         "timestamp": "2026-09-25T22:22:20.382495"
       }
     ]
+  },
+  "0c850c7af16c024f5f24b18560f76eca": {
+    "time": "2026/09/25 22:22:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市桂林街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T22:24:20.447725"
+      }
+    ]
   }
 }
