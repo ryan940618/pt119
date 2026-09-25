@@ -28296,5 +28296,33 @@
         "timestamp": "2026-09-25T13:08:21.237766"
       }
     ]
+  },
+  "ac559d5154a705ca4533e44222e87f0c": {
+    "time": "2026/09/25 13:19:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉三版路",
+    "units": "琉球分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T13:20:21.426889"
+      }
+    ]
+  },
+  "c577b7c55c99634339b205b7925b7bba": {
+    "time": "2026/09/25 13:18:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉洽和街26巷",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T13:20:21.426889"
+      }
+    ]
   }
 }
