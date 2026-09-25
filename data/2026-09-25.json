@@ -30377,7 +30377,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路二段280巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -30386,6 +30386,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T22:51:20.568942"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T23:24:20.758853"
       }
     ]
   },
@@ -30520,6 +30524,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:23:20.733578"
+      }
+    ]
+  },
+  "097a9a1d28d3e3ccb9300f78f12c8d3f": {
+    "time": "2026/09/25 23:22:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市忠孝路",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T23:24:20.758853"
       }
     ]
   }
