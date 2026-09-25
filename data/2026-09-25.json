@@ -29425,7 +29425,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉台26線4K附近(218500,2453315)",
     "units": "獅子分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -29434,6 +29434,24 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T17:59:20.882159"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T18:03:21.012662"
+      }
+    ]
+  },
+  "6db06b008d05459a29e9d503d2be2f4b": {
+    "time": "2026/09/25 18:02:56",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉南興路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-25T18:03:21.012662"
       }
     ]
   }
