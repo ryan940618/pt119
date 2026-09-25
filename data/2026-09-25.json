@@ -29939,7 +29939,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉田南路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "",
@@ -29948,6 +29948,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:24:20.903215"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T21:32:21.200558"
       }
     ]
   },
