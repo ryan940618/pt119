@@ -29277,7 +29277,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮中山路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -29286,6 +29286,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:31:22.116541"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T17:52:21.023907"
       }
     ]
   },
@@ -29396,6 +29400,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:50:20.897919"
+      }
+    ]
+  },
+  "fdb1d4a172517d8f424b2f1e601f21a0": {
+    "time": "2026/09/25 17:48:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉台26線4K附近(218500,2453315)",
+    "units": "獅子分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:52:21.023907"
       }
     ]
   }
