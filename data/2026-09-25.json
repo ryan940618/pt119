@@ -29591,7 +29591,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉透過手機強化定位取得97座標(203670,2511129)/德新路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -29600,6 +29600,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T19:34:21.798100"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T19:48:21.837507"
       }
     ]
   },
@@ -29679,11 +29683,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮萬年路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:10:21.549057"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T19:48:21.837507"
       }
     ]
   },
