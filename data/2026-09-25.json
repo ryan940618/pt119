@@ -27867,11 +27867,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉媽祖三巷",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:31:20.457220"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T12:29:20.937581"
       }
     ]
   },
