@@ -28149,7 +28149,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉枋寮大橋北上車道",
     "units": "春日分隊,枋寮分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -28158,6 +28158,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T13:01:21.359371"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T13:09:21.398030"
       }
     ]
   },
