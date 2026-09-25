@@ -30079,7 +30079,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉文樂村新樂/外環道",
     "units": "來義分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -30096,6 +30096,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T22:09:21.203300"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T22:14:20.264424"
       }
     ]
   },
@@ -30123,11 +30127,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市勝利路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T21:02:20.986672"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T22:14:20.264424"
       }
     ]
   },
@@ -30218,6 +30226,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T21:46:21.229788"
+      }
+    ]
+  },
+  "50b9503b117034b68d930ba2adc07519": {
+    "time": "2026/09/25 22:12:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉玉泉路",
+    "units": "春日分隊",
+    "current_status": "",
+    "status_history": [
+      {
+        "status": "",
+        "timestamp": "2026-09-25T22:14:20.264424"
       }
     ]
   }
