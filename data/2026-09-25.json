@@ -29539,11 +29539,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉中正路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:31:21.235564"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T19:15:21.615935"
       }
     ]
   },
@@ -29597,11 +29601,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮長春一路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T18:57:21.368099"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T19:15:21.615935"
       }
     ]
   },
@@ -29676,6 +29684,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T19:14:21.624911"
+      }
+    ]
+  },
+  "843dffcf648ed7865a732948f159e7c5": {
+    "time": "2026/09/25 19:13:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮山海路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T19:15:21.615935"
       }
     ]
   }
