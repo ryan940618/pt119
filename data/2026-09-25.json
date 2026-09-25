@@ -27958,5 +27958,19 @@
         "timestamp": "2026-09-25T11:59:20.735531"
       }
     ]
+  },
+  "d30f662c81342c3baf262c2bdce503f5": {
+    "time": "2026/09/25 12:03:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉永安路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T12:04:20.682999"
+      }
+    ]
   }
 }
