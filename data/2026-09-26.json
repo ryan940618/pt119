@@ -30927,7 +30927,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉豐隆路",
     "units": "鹽埔分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -30936,6 +30936,10 @@
       {
         "status": "",
         "timestamp": "2026-09-26T04:09:21.165711"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T04:13:21.043338"
       }
     ]
   }
