@@ -28299,7 +28299,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -28312,6 +28312,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:24:20.356771"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T13:52:20.721138"
       }
     ]
   },
