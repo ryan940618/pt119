@@ -28483,11 +28483,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐華街140巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:57:20.737199"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T14:49:21.231187"
       }
     ]
   },
@@ -28545,7 +28549,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市台糖街",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -28554,6 +28558,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T14:48:21.359114"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T14:49:21.231187"
       }
     ]
   },
