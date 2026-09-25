@@ -30511,11 +30511,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市自由路450巷",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T23:22:20.775815"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T23:23:20.733578"
       }
     ]
   }
