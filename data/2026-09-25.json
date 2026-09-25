@@ -29039,7 +29039,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉三民路",
     "units": "南州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -29048,6 +29048,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T17:23:21.714994"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T17:32:22.049574"
       }
     ]
   },
@@ -29269,11 +29273,43 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉三和五路",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:31:22.116541"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:32:22.049574"
+      }
+    ]
+  },
+  "67e23726d2ee591de89091c21c62e9c2": {
+    "time": "2026/09/25 17:31:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉平和街",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:32:22.049574"
+      }
+    ]
+  },
+  "4733b5b5eeea32487efc4af128add879": {
+    "time": "2026/09/25 17:31:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉美華路",
+    "units": "佳冬分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T17:32:22.049574"
       }
     ]
   }
