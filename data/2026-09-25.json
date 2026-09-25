@@ -29001,7 +29001,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉文樂國小[屏東縣來義鄉文樂村新樂1號]",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -29022,6 +29022,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T17:04:21.653468"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T17:21:25.599237"
       }
     ]
   },
@@ -29177,11 +29181,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉新興路",
     "units": "高樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T17:20:22.055824"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T17:21:25.599237"
       }
     ]
   }
