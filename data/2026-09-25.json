@@ -30423,7 +30423,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市忠孝路",
     "units": "高級救護隊",
-    "current_status": "已到達",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -30432,6 +30432,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T23:01:20.748773"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T23:16:20.884068"
       }
     ]
   },
