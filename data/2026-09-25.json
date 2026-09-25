@@ -28047,11 +28047,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉透過經緯度轉換GIS座標(22.5558,120.4801)",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:05:20.739878"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T12:45:21.384816"
       }
     ]
   },
@@ -28075,7 +28079,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市忠孝路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -28084,6 +28088,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:32:21.319446"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T12:45:21.384816"
       }
     ]
   },
