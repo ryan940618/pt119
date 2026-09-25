@@ -29683,7 +29683,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮萬年路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -29692,6 +29692,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T19:48:21.837507"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T20:09:21.854000"
       }
     ]
   },
