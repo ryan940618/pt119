@@ -30829,11 +30829,15 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉玉泉43-45號",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T01:41:20.630840"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T01:43:20.541930"
       }
     ]
   },
@@ -30843,11 +30847,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建南路",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T01:42:20.610159"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T01:43:20.541930"
       }
     ]
   }
