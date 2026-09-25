@@ -30403,7 +30403,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉信義路30巷",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -30416,6 +30416,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T23:44:20.971481"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T23:53:20.914772"
       }
     ]
   },
@@ -30527,7 +30531,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市自由路450巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -30536,6 +30540,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:23:20.733578"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T23:53:20.914772"
       }
     ]
   },
