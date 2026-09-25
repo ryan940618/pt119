@@ -30995,11 +30995,15 @@
     "sub_category": "",
     "location": "屏東縣車城鄉褒忠路",
     "units": "車城分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T04:33:20.917175"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T04:34:20.855191"
       }
     ]
   }
