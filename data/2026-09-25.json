@@ -28607,11 +28607,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉塩舘路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:42:21.244836"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T15:17:21.636569"
       }
     ]
   },
@@ -28662,6 +28666,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:14:21.761869"
+      }
+    ]
+  },
+  "a49b4275fc2e02a255b284674dc4df12": {
+    "time": "2026/09/25 15:16:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮興東一街",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T15:17:21.636569"
       }
     ]
   }
