@@ -29333,7 +29333,7 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉三和五路",
     "units": "瑪家分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -29346,6 +29346,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T18:04:21.591069"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T18:17:21.334897"
       }
     ]
   },
