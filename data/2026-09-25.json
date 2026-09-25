@@ -27945,7 +27945,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮船頭路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -27954,6 +27954,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:58:20.685204"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T12:18:20.767380"
       }
     ]
   },
@@ -28000,6 +28004,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:05:20.739878"
+      }
+    ]
+  },
+  "f8caedea0a10df3ce78dcafe2b56a483": {
+    "time": "2026/09/25 12:16:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自立南路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T12:18:20.767380"
       }
     ]
   }
