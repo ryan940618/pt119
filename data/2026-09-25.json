@@ -30271,7 +30271,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉玉泉路",
     "units": "春日分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "",
@@ -30284,6 +30284,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T22:52:20.674826"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T23:14:21.075016"
       }
     ]
   },
@@ -30437,11 +30441,29 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮田新路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T22:59:20.701545"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T23:14:21.075016"
+      }
+    ]
+  },
+  "ff3a21e5af8197b525e9c017166642a7": {
+    "time": "2026/09/25 23:13:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉中和路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T23:14:21.075016"
       }
     ]
   }
