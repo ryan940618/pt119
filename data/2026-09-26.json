@@ -30979,7 +30979,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮延平路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "",
@@ -30992,6 +30992,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T05:16:20.157925"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T05:21:20.206006"
       }
     ]
   },
