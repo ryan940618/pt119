@@ -28435,11 +28435,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生東路56巷",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:33:20.814209"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T14:11:20.976679"
       }
     ]
   },
@@ -28491,11 +28495,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉龍泉派出所[屏東縣內埔鄉原勝路",
     "units": "龍泉分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-25T14:10:21.260120"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:11:20.976679"
       }
     ]
   }
