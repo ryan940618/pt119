@@ -31330,5 +31330,19 @@
         "timestamp": "2026-09-26T06:57:20.945661"
       }
     ]
+  },
+  "dc876c390b46724b9e0324ce44e089a7": {
+    "time": "2026/09/26 06:57:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市崇勝三街",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T06:59:20.973077"
+      }
+    ]
   }
 }
