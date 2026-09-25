@@ -27612,5 +27612,19 @@
         "timestamp": "2026-09-25T10:01:20.743489"
       }
     ]
+  },
+  "2be97b05e14ecda9040caf255b127ea7": {
+    "time": "2026/09/25 10:11:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉福德街",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T10:13:20.749799"
+      }
+    ]
   }
 }
