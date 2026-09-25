@@ -30581,7 +30581,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -30590,6 +30590,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T23:27:20.872682"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T23:48:20.858938"
       }
     ]
   },
