@@ -31277,7 +31277,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉西環路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -31294,6 +31294,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T07:02:21.082255"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T07:03:20.950754"
       }
     ]
   },
@@ -31368,6 +31372,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T07:00:20.970655"
+      }
+    ]
+  },
+  "33183c4b5899d0d6ffe402764df7c685": {
+    "time": "2026/09/26 07:00:10",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉透過經緯度轉換GIS座標(22.2096,120.8641)",
+    "units": "牡丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T07:03:20.950754"
       }
     ]
   }
