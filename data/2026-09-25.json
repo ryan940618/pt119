@@ -29855,7 +29855,7 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉大武山四街",
     "units": "泰武分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -29864,6 +29864,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T20:55:21.083360"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T21:01:21.055235"
       }
     ]
   },
@@ -30022,6 +30026,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:57:21.066680"
+      }
+    ]
+  },
+  "70e23a2b5cfef89e3a9f33d7c084cb8d": {
+    "time": "2026/09/25 21:00:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉文樂村新樂/外環道",
+    "units": "來義分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-25T21:01:21.055235"
+      }
+    ]
+  },
+  "6a7c08adb6efa51265ed607ba2a20a5c": {
+    "time": "2026/09/25 20:58:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣泰武鄉萬安村13號",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T21:01:21.055235"
       }
     ]
   }
