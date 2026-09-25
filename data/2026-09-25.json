@@ -28453,11 +28453,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉南華路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T13:34:20.681817"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T14:13:21.135151"
       }
     ]
   },
