@@ -29878,5 +29878,33 @@
         "timestamp": "2026-09-25T20:12:21.722357"
       }
     ]
+  },
+  "6a2f44c93607cf1b09224a4ea9bba057": {
+    "time": "2026/09/25 20:22:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉維新路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T20:23:20.988533"
+      }
+    ]
+  },
+  "878b1c67d334eb94b475f7f0ef2ceb0d": {
+    "time": "2026/09/25 20:21:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉田南路",
+    "units": "新園分隊",
+    "current_status": "",
+    "status_history": [
+      {
+        "status": "",
+        "timestamp": "2026-09-25T20:23:20.988533"
+      }
+    ]
   }
 }
