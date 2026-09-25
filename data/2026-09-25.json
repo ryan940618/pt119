@@ -28917,7 +28917,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉進化路",
     "units": "新埤分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -28926,6 +28926,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T17:13:21.839147"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T17:28:21.801844"
       }
     ]
   },
@@ -29103,11 +29107,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮大平路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:54:21.488838"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T17:28:21.801844"
       }
     ]
   },
