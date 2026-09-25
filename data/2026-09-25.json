@@ -28251,7 +28251,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市復興路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -28260,6 +28260,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T13:44:20.693208"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T13:45:21.214601"
       }
     ]
   },
@@ -28313,7 +28317,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉南北路",
     "units": "高樹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -28326,6 +28330,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T13:44:20.693208"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T13:45:21.214601"
       }
     ]
   },
