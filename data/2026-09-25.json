@@ -28817,7 +28817,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉復興路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -28826,6 +28826,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T16:12:20.848269"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T16:27:21.021789"
       }
     ]
   },
@@ -28919,7 +28923,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中勝路",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -28928,6 +28932,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T16:19:21.094226"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T16:27:21.021789"
       }
     ]
   },
