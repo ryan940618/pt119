@@ -30215,7 +30215,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉萬華路",
     "units": "南州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -30224,6 +30224,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T22:18:21.446510"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T22:27:20.530343"
       }
     ]
   },
