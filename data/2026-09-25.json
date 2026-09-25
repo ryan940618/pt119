@@ -28381,7 +28381,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉洽和街26巷",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -28390,6 +28390,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T14:08:21.155216"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T14:35:21.112185"
       }
     ]
   },
@@ -28548,6 +28552,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T14:28:21.075979"
+      }
+    ]
+  },
+  "7cbad6e68ef87d125ddac5d7f1bd9108": {
+    "time": "2026/09/25 14:33:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興南路一段108巷",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T14:35:21.112185"
       }
     ]
   }
