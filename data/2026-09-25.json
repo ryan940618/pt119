@@ -28853,7 +28853,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -28862,6 +28862,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T16:15:20.890123"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T16:19:21.094226"
       }
     ]
   },
@@ -28903,11 +28907,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中勝路",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:15:20.890123"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T16:19:21.094226"
       }
     ]
   }
