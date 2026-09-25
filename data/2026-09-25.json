@@ -28973,7 +28973,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉文樂國小[屏東縣來義鄉文樂村新樂1號]",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -28982,6 +28982,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:40:21.363301"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T16:53:21.505520"
       }
     ]
   },
@@ -29024,6 +29028,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:52:21.373263"
+      }
+    ]
+  },
+  "73ba20113d4f187e9bef9d24d8836213": {
+    "time": "2026/09/25 16:52:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉巴士巷",
+    "units": "獅子分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T16:53:21.505520"
       }
     ]
   }
