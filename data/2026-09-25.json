@@ -30415,11 +30415,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市忠孝路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T22:58:20.790795"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T23:01:20.748773"
       }
     ]
   },
