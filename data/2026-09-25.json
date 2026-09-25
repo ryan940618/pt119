@@ -28849,11 +28849,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T15:47:20.813121"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T16:15:20.890123"
       }
     ]
   },
@@ -28872,6 +28876,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T16:02:20.961435"
+      }
+    ]
+  },
+  "fa1fb4a58f25d56caca1da8e92cbe258": {
+    "time": "2026/09/25 16:14:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉進化路",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T16:15:20.890123"
+      }
+    ]
+  },
+  "d1877e5ffeba78eb92a7c2fd28614b8e": {
+    "time": "2026/09/25 16:14:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉中勝路",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T16:15:20.890123"
       }
     ]
   }
