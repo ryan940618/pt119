@@ -27951,7 +27951,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中華路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -27960,6 +27960,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T11:40:21.210994"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T12:34:20.992331"
       }
     ]
   },
@@ -28072,6 +28076,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:32:21.319446"
+      }
+    ]
+  },
+  "788ad6825bbffdc8be82074f64295852": {
+    "time": "2026/09/25 12:33:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉獅子分隊前",
+    "units": "獅子分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T12:34:20.992331"
       }
     ]
   }
