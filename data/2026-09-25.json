@@ -29649,11 +29649,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮長春一路",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T19:02:21.662958"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-25T19:26:21.633719"
       }
     ]
   },
