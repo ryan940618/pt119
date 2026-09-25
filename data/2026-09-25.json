@@ -28087,7 +28087,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市忠孝路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -28100,6 +28100,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T12:45:21.384816"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T12:59:21.346638"
       }
     ]
   },
@@ -28146,6 +28150,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:48:21.303933"
+      }
+    ]
+  },
+  "49f14dc316427543ce838d3424f8fcb7": {
+    "time": "2026/09/25 12:58:18",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣新園鄉五房路376巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-25T12:59:21.346638"
       }
     ]
   }
