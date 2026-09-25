@@ -28483,7 +28483,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐華街140巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -28492,6 +28492,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-25T14:49:21.231187"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T14:53:21.447087"
       }
     ]
   },
