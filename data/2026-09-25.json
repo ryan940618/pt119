@@ -27838,5 +27838,47 @@
         "timestamp": "2026-09-25T11:31:20.457220"
       }
     ]
+  },
+  "4dbfd6f8b6de2055233aa7f6938b802c": {
+    "time": "2026/09/25 11:33:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市光復路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T11:34:20.486761"
+      }
+    ]
+  },
+  "3c33ba094e96869404b533ad0ae5d0b1": {
+    "time": "2026/09/25 11:32:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮介壽路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T11:34:20.486761"
+      }
+    ]
+  },
+  "e19e8c7b05cd19676a48be7a7c769b98": {
+    "time": "2026/09/25 11:32:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉內獅巷",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T11:34:20.486761"
+      }
+    ]
   }
 }
