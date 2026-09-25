@@ -29979,7 +29979,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉平和路",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -29988,6 +29988,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-25T20:39:20.941078"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T21:24:21.067637"
       }
     ]
   },
@@ -30118,6 +30122,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-25T21:22:21.185710"
+      }
+    ]
+  },
+  "892d38923624e19db07999819810929f": {
+    "time": "2026/09/25 21:22:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉中山路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T21:24:21.067637"
       }
     ]
   }
