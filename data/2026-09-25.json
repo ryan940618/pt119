@@ -28145,11 +28145,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉枋寮大橋北上車道",
     "units": "春日分隊,枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-25T12:48:21.303933"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-25T13:01:21.359371"
       }
     ]
   },
@@ -28164,6 +28168,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-25T12:59:21.346638"
+      }
+    ]
+  },
+  "4ffcee1f47c204e5f792f3a360afab39": {
+    "time": "2026/09/25 13:00:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大湖路192巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-25T13:01:21.359371"
+      }
+    ]
+  },
+  "0dbf3050507f094f608db515011287ec": {
+    "time": "2026/09/25 12:29:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市忠孝路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-25T13:01:21.359371"
       }
     ]
   }
