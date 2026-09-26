@@ -3717,11 +3717,15 @@
     "sub_category": "",
     "location": "屏東縣南州鄉萬華路",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T22:48:20.302358"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T23:24:20.564608"
       }
     ]
   },
