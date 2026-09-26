@@ -2993,7 +2993,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉三民路",
     "units": "南州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3002,6 +3002,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T18:43:20.703458"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T18:56:20.798885"
       }
     ]
   },
@@ -3033,7 +3037,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮共和街",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3042,6 +3046,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T18:55:20.819757"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T18:56:20.798885"
       }
     ]
   },
