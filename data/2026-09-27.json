@@ -27,11 +27,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉永興路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T00:09:20.752562"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T01:03:21.626580"
       }
     ]
   },
@@ -81,11 +85,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉中慶巷",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T00:44:21.104176"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T01:03:21.626580"
       }
     ]
   },
@@ -95,7 +103,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉義和路25巷",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -104,6 +112,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T00:47:20.971142"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T01:03:21.626580"
       }
     ]
   }
