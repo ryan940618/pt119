@@ -299,7 +299,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉遼北路64巷",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -308,6 +308,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T03:32:21.197609"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T03:34:21.168530"
       }
     ]
   },
@@ -317,7 +321,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉戰備跑道往沿山公路",
     "units": "春日分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -330,6 +334,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-27T03:33:21.084780"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T03:34:21.168530"
       }
     ]
   },
@@ -339,7 +347,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉富谷灣",
     "units": "三地門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -348,6 +356,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T03:28:21.224069"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T03:34:21.168530"
       }
     ]
   }
