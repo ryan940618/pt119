@@ -2877,7 +2877,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉民權路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2886,6 +2886,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T17:59:20.485900"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T18:01:20.450858"
       }
     ]
   },
