@@ -317,7 +317,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉戰備跑道往沿山公路",
     "units": "春日分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -326,6 +326,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T03:27:21.197314"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-27T03:33:21.084780"
       }
     ]
   },
