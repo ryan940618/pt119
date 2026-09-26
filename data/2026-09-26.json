@@ -1929,7 +1929,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮南灣路和平巷",
     "units": "恆春分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1938,6 +1938,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T14:35:20.355368"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T14:38:20.682053"
       }
     ]
   },
@@ -2044,6 +2048,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T14:33:20.183869"
+      }
+    ]
+  },
+  "c7c4f8146e2a5d7d3eaa0adadee9a8dc": {
+    "time": "2026/09/26 14:36:14",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉自強路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T14:38:20.682053"
       }
     ]
   }
