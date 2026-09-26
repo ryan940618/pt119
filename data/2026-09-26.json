@@ -2377,11 +2377,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市莊敬街一段146巷",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T15:59:20.731126"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T16:00:20.803646"
       }
     ]
   }
