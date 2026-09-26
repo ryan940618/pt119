@@ -2297,7 +2297,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮剛要進鐵道園區路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2306,6 +2306,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T16:11:20.873507"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T16:13:20.812411"
       }
     ]
   },
@@ -2329,11 +2333,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T15:48:20.653360"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T16:13:20.812411"
       }
     ]
   },
