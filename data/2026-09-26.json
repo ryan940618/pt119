@@ -1883,11 +1883,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉加智路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T13:55:20.909909"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T15:04:20.504189"
       }
     ]
   },
