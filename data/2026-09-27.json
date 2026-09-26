@@ -570,5 +570,19 @@
         "timestamp": "2026-09-27T05:34:20.987327"
       }
     ]
+  },
+  "4f5353ef25dd9e82035785b537a60ea5": {
+    "time": "2026/09/27 05:32:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉成功路四巷",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T05:39:21.015571"
+      }
+    ]
   }
 }
