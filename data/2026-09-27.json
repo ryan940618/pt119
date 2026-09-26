@@ -182,5 +182,33 @@
         "timestamp": "2026-09-27T02:15:20.638227"
       }
     ]
+  },
+  "d60435a584f239b2b66a3c24f738506b": {
+    "time": "2026/09/27 02:37:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮大同路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T02:38:20.811230"
+      }
+    ]
+  },
+  "13bd7a111cd333fc4e0b23b33e2d188e": {
+    "time": "2026/09/27 02:36:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉中正路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T02:38:20.811230"
+      }
+    ]
   }
 }
