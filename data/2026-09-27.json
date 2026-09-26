@@ -210,5 +210,19 @@
         "timestamp": "2026-09-27T02:38:20.811230"
       }
     ]
+  },
+  "7ceb502fc11c6d6afd194b5f537f27f6": {
+    "time": "2026/09/27 02:39:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民學路120巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T02:41:20.749804"
+      }
+    ]
   }
 }
