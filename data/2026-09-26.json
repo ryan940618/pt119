@@ -2688,5 +2688,19 @@
         "timestamp": "2026-09-26T17:10:20.275830"
       }
     ]
+  },
+  "2435de9510b970bf7259fdcdfb3f41e7": {
+    "time": "2026/09/26 17:10:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉沿山公路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T17:12:20.184917"
+      }
+    ]
   }
 }
