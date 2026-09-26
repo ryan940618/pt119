@@ -674,5 +674,19 @@
         "timestamp": "2026-09-27T07:02:20.556447"
       }
     ]
+  },
+  "9748cbd3d666c4fd9c1d68b41a2baa6e": {
+    "time": "2026/09/27 06:57:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉透過經緯度轉換120°51'48\"E, 22°14'03\"N",
+    "units": "牡丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T07:03:20.758395"
+      }
+    ]
   }
 }
