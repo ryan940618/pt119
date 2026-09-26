@@ -3251,11 +3251,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉榮農路3巷",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T20:19:20.209942"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T21:15:20.724330"
       }
     ]
   },
