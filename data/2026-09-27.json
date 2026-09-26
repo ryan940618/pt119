@@ -309,11 +309,29 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉戰備跑道往沿山公路",
     "units": "春日分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T03:18:21.025792"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T03:27:21.197314"
+      }
+    ]
+  },
+  "0b58ab443db3d34e79c2dced5ef48dc3": {
+    "time": "2026/09/27 03:25:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉富谷灣",
+    "units": "三地門分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T03:27:21.197314"
       }
     ]
   }
