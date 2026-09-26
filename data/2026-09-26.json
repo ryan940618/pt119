@@ -31701,11 +31701,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮大山母山(227971,2429248)(21.9611,120.1867)",
     "units": "墾丁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T09:06:20.979311"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T09:07:21.062263"
       }
     ]
   }
