@@ -3373,11 +3373,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮盛春路4巷",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T21:10:20.652275"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T21:38:20.838983"
       }
     ]
   },
@@ -3460,6 +3464,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T21:30:20.779066"
+      }
+    ]
+  },
+  "506c3b93c3a3c3a702330b25be3eea7f": {
+    "time": "2026/09/26 21:37:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉中山路2巷",
+    "units": "滿州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T21:38:20.838983"
       }
     ]
   }
