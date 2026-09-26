@@ -3433,7 +3433,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉南北路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -3446,6 +3446,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T21:50:20.925075"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T22:11:20.985543"
       }
     ]
   },
@@ -3589,7 +3593,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉嘉應路北三巷",
     "units": "內埔分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3602,6 +3606,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-26T22:09:20.999678"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T22:11:20.985543"
       }
     ]
   },
