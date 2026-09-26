@@ -1657,11 +1657,29 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉平和北路",
     "units": "崁頂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T13:13:20.719502"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T13:14:20.676670"
+      }
+    ]
+  },
+  "7929470f8a68f978299ba9e809223258": {
+    "time": "2026/09/26 13:13:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉義永路",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T13:14:20.676670"
       }
     ]
   }
