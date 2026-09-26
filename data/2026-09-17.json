@@ -1,0 +1,78 @@
+{
+  "752385f5170b5968cffe1cedb916bfe7": {
+    "time": "2026/09/17 23:46:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市高屏大橋/屏東往高雄[屏東縣屏東市建國路",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T00:11:20.430037"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:21:20.359392"
+      }
+    ]
+  },
+  "c0929c286d51a45f4a1be310a9b1d747": {
+    "time": "2026/09/17 23:26:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉洛陽村四維路",
+    "units": "鹽埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T00:13:20.285234"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:38:20.440621"
+      }
+    ]
+  },
+  "3672005879643f2cbbde8604730ed638": {
+    "time": "2026/09/17 23:11:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉田南路",
+    "units": "新園分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:01:23.605358"
+      }
+    ]
+  },
+  "abb9c67399fe5893dea48294b27d09d4": {
+    "time": "2026/09/17 17:12:24",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣里港鄉轄區",
+    "units": "里港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-18T00:00:59.706590"
+      }
+    ]
+  }
+}
