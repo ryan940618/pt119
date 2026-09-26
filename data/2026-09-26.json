@@ -3309,7 +3309,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉壽比路359巷",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3318,6 +3318,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T21:32:20.823645"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T21:52:21.073360"
       }
     ]
   },
@@ -3552,6 +3556,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T21:50:20.925075"
+      }
+    ]
+  },
+  "abb4acac232f958dd4ac039e80a7e977": {
+    "time": "2026/09/26 21:50:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉嘉應路北三巷",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T21:52:21.073360"
+      }
+    ]
+  },
+  "bd723e80e12f685a9f9b5ae0a5aebcaf": {
+    "time": "2026/09/26 21:50:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉來義村來義48號",
+    "units": "來義分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T21:52:21.073360"
       }
     ]
   }
