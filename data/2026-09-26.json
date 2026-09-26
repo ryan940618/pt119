@@ -3583,11 +3583,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉東川路",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T21:50:20.925075"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T22:17:21.402095"
       }
     ]
   },
