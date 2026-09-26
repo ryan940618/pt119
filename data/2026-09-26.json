@@ -2812,5 +2812,19 @@
         "timestamp": "2026-09-26T17:34:20.282304"
       }
     ]
+  },
+  "0cd4a0a0f738a8e8763280cfbaee9073": {
+    "time": "2026/09/26 17:34:20",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉義和路",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-26T17:35:20.381208"
+      }
+    ]
   }
 }
