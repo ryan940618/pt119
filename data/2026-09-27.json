@@ -492,5 +492,19 @@
         "timestamp": "2026-09-27T04:21:20.319151"
       }
     ]
+  },
+  "7420c56eb0a2d4994ed3c1b47328b5ca": {
+    "time": "2026/09/27 04:47:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T04:48:20.657689"
+      }
+    ]
   }
 }
