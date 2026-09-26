@@ -3439,11 +3439,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮光華路",
     "units": "崁頂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T21:29:20.731601"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T21:30:20.779066"
       }
     ]
   }
