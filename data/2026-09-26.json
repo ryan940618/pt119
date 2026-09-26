@@ -31865,11 +31865,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉里港路",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T10:25:20.696951"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T10:26:20.666326"
       }
     ]
   }
