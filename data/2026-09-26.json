@@ -1209,11 +1209,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮南灣路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T10:42:21.238685"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T11:22:19.906640"
       }
     ]
   },
@@ -1259,7 +1263,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市信義路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1268,6 +1272,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T10:58:20.804020"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T11:22:19.906640"
       }
     ]
   },
