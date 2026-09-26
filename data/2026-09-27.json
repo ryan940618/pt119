@@ -347,7 +347,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉富谷灣",
     "units": "三地門分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -360,6 +360,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T03:34:21.168530"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T03:49:20.213678"
       }
     ]
   },
