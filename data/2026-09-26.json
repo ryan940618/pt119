@@ -31629,11 +31629,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉里港鄉果菜市場[屏東縣里港鄉里中路",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T08:51:20.993807"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T08:52:20.940626"
       }
     ]
   }
