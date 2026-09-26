@@ -1955,11 +1955,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉繁隆街",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T14:08:21.011350"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T14:48:20.521667"
       }
     ]
   },
@@ -1969,7 +1973,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1978,6 +1982,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T14:12:20.112179"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T14:48:20.521667"
       }
     ]
   },
