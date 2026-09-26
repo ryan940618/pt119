@@ -2459,7 +2459,7 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉三和村三和101-1號",
     "units": "瑪家分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2468,6 +2468,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T16:34:20.904530"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T16:48:20.215875"
       }
     ]
   },
@@ -2495,11 +2499,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中林路",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T16:15:20.908744"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T16:48:20.215875"
       }
     ]
   },
