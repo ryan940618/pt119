@@ -2869,11 +2869,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉水哮路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T17:37:20.306091"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T18:35:21.404703"
       }
     ]
   },
@@ -2883,11 +2887,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉後壁路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T17:40:20.403575"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T18:35:21.404703"
       }
     ]
   },
@@ -2919,11 +2927,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T17:53:20.499765"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T18:35:21.404703"
       }
     ]
   },
