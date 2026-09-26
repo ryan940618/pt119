@@ -506,5 +506,19 @@
         "timestamp": "2026-09-27T04:48:20.657689"
       }
     ]
+  },
+  "dbc1313f539a5d1ec2acb49e17e0ef6f": {
+    "time": "2026/09/27 04:49:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉三和路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T04:50:20.597315"
+      }
+    ]
   }
 }
