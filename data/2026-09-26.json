@@ -3107,7 +3107,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉民生路",
     "units": "琉球分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3120,6 +3120,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T20:07:20.167378"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T20:12:20.252196"
       }
     ]
   },
@@ -3189,11 +3193,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮西門路99巷",
     "units": "恆春分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T20:11:20.224278"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T20:12:20.252196"
       }
     ]
   }
