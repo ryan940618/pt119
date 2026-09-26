@@ -537,7 +537,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉三和路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -546,6 +546,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T04:51:20.675324"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T05:33:20.946169"
+      }
+    ]
+  },
+  "4208065cc1094cbdc433a50023271d8f": {
+    "time": "2026/09/27 05:32:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉成功路4巷",
+    "units": "林邊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T05:33:20.946169"
       }
     ]
   }
