@@ -1418,5 +1418,19 @@
         "timestamp": "2026-09-26T11:50:20.141378"
       }
     ]
+  },
+  "b95a107593ebace95b3752f9fb5511c1": {
+    "time": "2026/09/26 11:47:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉和平路3巷",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T11:51:23.228209"
+      }
+    ]
   }
 }
