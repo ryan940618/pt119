@@ -31595,7 +31595,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮中正路一段339巷",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -31604,6 +31604,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T09:27:20.240265"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T09:33:20.247927"
       }
     ]
   },
