@@ -1762,5 +1762,19 @@
         "timestamp": "2026-09-26T13:40:20.787191"
       }
     ]
+  },
+  "e8eabd038d615ac4fe05dfcb985d4fac": {
+    "time": "2026/09/26 13:39:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮三星路208巷",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T13:41:20.833008"
+      }
+    ]
   }
 }
