@@ -3477,11 +3477,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉四塊路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T21:25:20.753200"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T22:08:21.031003"
       }
     ]
   },
@@ -3491,7 +3495,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮光華路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3504,6 +3508,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T21:55:20.984124"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T22:08:21.031003"
       }
     ]
   },
