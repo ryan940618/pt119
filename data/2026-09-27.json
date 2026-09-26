@@ -391,7 +391,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉學人路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -400,6 +400,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T03:56:20.107341"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T04:16:20.573207"
       }
     ]
   },
