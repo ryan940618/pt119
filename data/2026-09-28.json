@@ -1,0 +1,4136 @@
+{
+  "9aca2b630ffacdff30d3136e57fa99f6": {
+    "time": "2026/09/28 00:17:39",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉上順路",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T00:18:20.841218"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T00:19:20.783407"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T01:15:20.188308"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T01:39:20.219707"
+      }
+    ]
+  },
+  "b353f17058f41b740a37e5f60d28052b": {
+    "time": "2026/09/28 00:29:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮東門路",
+    "units": "恆春分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T00:32:20.852450"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T01:44:20.348285"
+      }
+    ]
+  },
+  "d05e714e4b4646bcccff19a25ac8803c": {
+    "time": "2026/09/28 00:36:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉八德路",
+    "units": "內埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T00:38:20.858019"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T01:13:20.066680"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T01:23:20.227056"
+      }
+    ]
+  },
+  "e81e33aea0c77f3b5883db019b525412": {
+    "time": "2026/09/28 00:51:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉海口路",
+    "units": "車城分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T00:52:21.007619"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T00:53:20.074853"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T01:18:20.099974"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T01:28:20.281550"
+      }
+    ]
+  },
+  "d8f57eb6a27f40aa93beb4cb8b3e81ec": {
+    "time": "2026/09/28 01:13:39",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉文化路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T01:14:20.123144"
+      }
+    ]
+  },
+  "a3bb5e4c298216ac1fec425945b1c4f8": {
+    "time": "2026/09/28 01:23:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮南進路",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T01:24:20.246090"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T01:25:20.154668"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T01:43:20.324507"
+      }
+    ]
+  },
+  "2efabc185a46f8b1a4fa13afe4f5b44a": {
+    "time": "2026/09/28 01:30:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉惠崙路",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T01:31:20.256743"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T01:32:20.320938"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T01:39:20.219707"
+      }
+    ]
+  },
+  "30de4f1a1b514aaae7d8d291cf1fa952": {
+    "time": "2026/09/28 01:36:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東南路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T01:37:20.382732"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T01:38:20.310465"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T02:12:20.583217"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T02:17:20.586329"
+      }
+    ]
+  },
+  "feb32e603228fb10a80b0a770a00911b": {
+    "time": "2026/09/28 01:47:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉丹路",
+    "units": "獅子分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T01:49:20.356914"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T01:51:20.482953"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T02:50:20.892326"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T03:10:21.030434"
+      }
+    ]
+  },
+  "38788ab9cd3d1d67c0bdfbbb938ae29e": {
+    "time": "2026/09/28 01:53:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮興漁街",
+    "units": "東港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T01:54:20.336369"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T01:55:20.416075"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T02:23:20.660992"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T02:25:20.621184"
+      }
+    ]
+  },
+  "c6ecc70473ecd4e99706b50445a59463": {
+    "time": "2026/09/28 01:54:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公教街63巷",
+    "units": "高級救護隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T01:55:20.416075"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T01:57:20.357040"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T02:24:20.641173"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T02:30:20.599240"
+      }
+    ]
+  },
+  "f9648610d1a20747728eb0720dee3df0": {
+    "time": "2026/09/28 02:01:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市忠孝路",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T02:03:21.446557"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T02:33:20.676892"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T02:45:20.816946"
+      }
+    ]
+  },
+  "a1973d6508242d14adaa42137415a114": {
+    "time": "2026/09/28 02:16:31",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉南興路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T02:18:20.543960"
+      }
+    ]
+  },
+  "48d4f34ff1efaeddcfb4f63d97eac058": {
+    "time": "2026/09/28 02:35:05",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣東港鎮光復路",
+    "units": "東港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T02:37:20.946166"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T03:18:20.984084"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T03:23:20.970290"
+      }
+    ]
+  },
+  "3716bc4e988d651474fea156803d8570": {
+    "time": "2026/09/28 02:16:31",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉透過經緯度轉換GIS座標(0,0)(22.4912,120.3634)",
+    "units": "高樹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T03:41:21.101426"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T03:44:20.157164"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T04:22:20.234227"
+      }
+    ]
+  },
+  "2a065887be129d35e98102219b59b1bc": {
+    "time": "2026/09/28 03:43:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮中山路",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T03:45:20.068217"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T04:13:20.170513"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T04:25:20.308252"
+      }
+    ]
+  },
+  "2695b66d9051c293ca084f238fb8de78": {
+    "time": "2026/09/28 03:48:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮環龍路",
+    "units": "崁頂分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "",
+        "timestamp": "2026-09-28T03:50:20.194665"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T03:53:20.064427"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T04:30:20.379586"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T04:43:20.447237"
+      }
+    ]
+  },
+  "9b300f2aa795159e01a8e9a5f9e41aaf": {
+    "time": "2026/09/28 04:06:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市田中一橫巷",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T04:08:20.157747"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T04:09:20.160636"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T04:39:20.438269"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T04:43:20.447237"
+      }
+    ]
+  },
+  "a074ee079d577f64179868f103de19fb": {
+    "time": "2026/09/28 04:39:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉枋山郵局[屏東縣枋山鄉舊庄47號]",
+    "units": "枋山分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T04:40:20.439487"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T04:41:20.517540"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T05:22:20.740831"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T05:46:20.937830"
+      }
+    ]
+  },
+  "ffa1aef574caebd8269f1019a52d0431": {
+    "time": "2026/09/28 04:41:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮愛國路131巷",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T04:43:20.447237"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T05:05:20.526764"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T05:06:20.575840"
+      }
+    ]
+  },
+  "ef1e966444331a2e138483abea4dacd0": {
+    "time": "2026/09/28 04:47:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮環龍路",
+    "units": "崁頂分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T04:48:21.742659"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T04:51:21.079241"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T05:43:20.806209"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T05:45:20.850892"
+      }
+    ]
+  },
+  "50568194882bcf7fa12928a842e289f4": {
+    "time": "2026/09/28 05:04:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮田新路",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T05:06:20.575840"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T05:21:20.752591"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T05:23:20.765882"
+      }
+    ]
+  },
+  "3638dea8931b6d3fe172fe77cce6379a": {
+    "time": "2026/09/28 05:07:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市歸仁路168巷",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T05:08:20.582366"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T05:09:20.631251"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T05:46:20.937830"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T06:00:20.856285"
+      }
+    ]
+  },
+  "f0f99294b0b4c8c528dfbe1da8025b26": {
+    "time": "2026/09/28 05:19:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市武立街",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T05:20:20.640625"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T05:21:20.752591"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T05:55:20.912401"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T05:57:21.051152"
+      }
+    ]
+  },
+  "a959c313bb5693bf31f6ba9e4c875ee6": {
+    "time": "2026/09/28 05:40:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉大學路313巷",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T05:41:20.888440"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T05:42:20.742095"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T06:15:21.047375"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T06:23:21.507649"
+      }
+    ]
+  },
+  "907ef3b9b08eb0b00f799674fe390c87": {
+    "time": "2026/09/28 06:20:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉德二街",
+    "units": "高級救護隊,鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:22:21.025889"
+      }
+    ]
+  },
+  "b9d238b6f2104d1e80755bf3660342cc": {
+    "time": "2026/09/28 06:22:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉成功路1巷",
+    "units": "林邊分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:23:21.507649"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:24:21.360209"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T06:49:20.088688"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T06:58:20.145391"
+      }
+    ]
+  },
+  "fb03623c130809f969e6d284022f4e8b": {
+    "time": "2026/09/28 06:23:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉豐興路",
+    "units": "竹田分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:25:21.512474"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:01:20.189143"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:10:20.197659"
+      }
+    ]
+  },
+  "c364441f75f9cd9687db3a6f8238c591": {
+    "time": "2026/09/28 06:34:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自立路108巷",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:35:20.234779"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:12:20.283626"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:14:20.202218"
+      }
+    ]
+  },
+  "4f8e90506c7daba744a803d67f7831fd": {
+    "time": "2026/09/28 06:38:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉昌隆一街",
+    "units": "長治分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:39:20.166412"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:40:20.058289"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:28:20.305935"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:40:20.542614"
+      }
+    ]
+  },
+  "e015e0a3f0520bb713413210531c0a4b": {
+    "time": "2026/09/28 06:20:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉透過經緯度轉換GIS座標",
+    "units": "高級救護隊,鹽埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:42:20.037553"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:33:20.477888"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T08:40:20.843688"
+      }
+    ]
+  },
+  "9ee6e1d40a46f3bace09f4709c45d28b": {
+    "time": "2026/09/28 06:46:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉永田路",
+    "units": "內埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:47:20.084316"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:48:20.079969"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:26:20.349832"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:46:20.497556"
+      }
+    ]
+  },
+  "40cc26d20848b4ed490c2fd9a70c511a": {
+    "time": "2026/09/28 06:45:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉中山路",
+    "units": "枋山分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:47:20.084316"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:49:20.088688"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:22:20.335660"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:50:20.565767"
+      }
+    ]
+  },
+  "761cc447275d0293ea7d10c803b71e94": {
+    "time": "2026/09/28 06:48:20",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉文化路",
+    "units": "內埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:49:20.088688"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:50:20.151223"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T06:57:20.271750"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:29:20.390661"
+      }
+    ]
+  },
+  "35864912633a4c25a84fcda896194c63": {
+    "time": "2026/09/28 06:49:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉大圳路",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:50:20.151223"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T06:55:20.099411"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:10:20.197659"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:29:20.390661"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:51:20.648147"
+      }
+    ]
+  },
+  "835e251bb7661b8de65c8db20589897b": {
+    "time": "2026/09/28 06:53:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮中正路二段507巷",
+    "units": "東港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:54:20.235630"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:55:20.099411"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:35:20.386994"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:45:20.568393"
+      }
+    ]
+  },
+  "93dd0303976afb8538c3b0572ffea47d": {
+    "time": "2026/09/28 06:57:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉勝利路",
+    "units": "里港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:59:20.235172"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:02:20.189393"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:39:20.484562"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T08:07:20.682204"
+      }
+    ]
+  },
+  "ecd5720237363e07a3abd1ea80bdb464": {
+    "time": "2026/09/28 07:01:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉和平路3巷",
+    "units": "琉球分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T07:02:20.189393"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:03:20.537162"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:37:20.499720"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:46:20.497556"
+      }
+    ]
+  },
+  "9bf100b093608158fc23d1e902ecb0d3": {
+    "time": "2026/09/28 07:21:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮大勇路",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:23:20.260055"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:52:20.512121"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:54:20.454716"
+      }
+    ]
+  },
+  "d8dcc0e79666cb0334a50ebabe8bd3b7": {
+    "time": "2026/09/28 07:23:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民學路15巷",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:25:20.402548"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T08:21:20.750135"
+      }
+    ]
+  },
+  "b2dd94fdea923426bfa6d039cb4689b3": {
+    "time": "2026/09/28 07:38:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉光明路",
+    "units": "萬巒分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T07:39:20.484562"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:40:20.542614"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T08:01:20.557048"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T08:26:20.789878"
+      }
+    ]
+  },
+  "3f78af5eb8d8c23b36a3858aafbe558a": {
+    "time": "2026/09/28 07:46:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市歸仁路",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T07:47:20.465778"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:48:20.477743"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:55:20.545305"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:57:20.502657"
+      }
+    ]
+  },
+  "7e14f7e49b8dff08ea0097b85f9462ee": {
+    "time": "2026/09/28 07:54:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮介壽路",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:56:20.538033"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T08:06:20.544234"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T08:08:20.616926"
+      }
+    ]
+  },
+  "a96a519ef9b79f67f081339485b11ecc": {
+    "time": "2026/09/28 07:54:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公成路",
+    "units": "麟洛分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:56:20.538033"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T08:24:20.832024"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T08:35:20.874319"
+      }
+    ]
+  },
+  "e4d71b232628e82a7a95df00e97e42f8": {
+    "time": "2026/09/28 08:09:58",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮中正路",
+    "units": "恆春分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T08:11:20.780099"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:12:20.594971"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T08:38:20.939572"
+      }
+    ]
+  },
+  "60cbf65ae2e36c201f2c3507d803b7fd": {
+    "time": "2026/09/28 08:18:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉和平西路",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:19:20.789481"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T08:28:20.811377"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T08:33:20.823516"
+      }
+    ]
+  },
+  "0b2fc9c3e73f6192516ee5f74cb2faa5": {
+    "time": "2026/09/28 08:23:09",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣長治鄉合興路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T08:24:20.832024"
+      }
+    ]
+  },
+  "fb7e667ae45de88ebff438115c95a724": {
+    "time": "2026/09/28 08:24:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉崁頂路",
+    "units": "崁頂分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:25:20.740770"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T09:19:20.100770"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T09:30:20.266344"
+      }
+    ]
+  },
+  "1fb22e8a0d94c287d983b9c63e793f53": {
+    "time": "2026/09/28 08:35:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市博愛路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:37:20.905757"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T09:12:20.072636"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T09:40:20.291448"
+      }
+    ]
+  },
+  "a8e5d16889569946d8cfb7b81bfeba23": {
+    "time": "2026/09/28 08:36:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉東都街",
+    "units": "九如分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:38:20.939572"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T09:22:20.182247"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T09:35:20.281179"
+      }
+    ]
+  },
+  "637459dff9ad076f83f0fd854a819fdb": {
+    "time": "2026/09/28 08:36:31",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣東港鎮興東四街",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T08:38:20.939572"
+      }
+    ]
+  },
+  "0a7b2a49f5cee772c65c79e2911336c5": {
+    "time": "2026/09/28 08:38:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮育英路",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:39:20.946343"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T08:57:20.999145"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T09:05:21.083439"
+      }
+    ]
+  },
+  "20ab664cd9fee8b600ab58b2e7609a45": {
+    "time": "2026/09/28 08:42:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮慈惠醫專對面",
+    "units": "東港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:44:21.072642"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T09:38:20.266121"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T09:40:20.291448"
+      }
+    ]
+  },
+  "0a54c8448bde575a68c325b1fb498415": {
+    "time": "2026/09/28 08:43:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉昌南路1巷",
+    "units": "內埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:45:21.108811"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T09:22:20.182247"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T09:40:20.291448"
+      }
+    ]
+  },
+  "07e4e279f3ecec32c2207c47b87319c8": {
+    "time": "2026/09/28 08:53:54",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉瓦磘路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T08:55:21.091272"
+      }
+    ]
+  },
+  "41f0cd9e502a5aab1cfc59c4d0c53134": {
+    "time": "2026/09/28 08:57:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉惠安路127巷",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:59:21.049098"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T09:31:20.228934"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T09:45:20.372667"
+      }
+    ]
+  },
+  "8ab3d02cf126c9ae2fe4a4a3462c3107": {
+    "time": "2026/09/28 09:14:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉加祿北上車道萊爾富",
+    "units": "枋寮分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T09:17:20.092775"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T09:49:20.790858"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T09:52:20.388294"
+      }
+    ]
+  },
+  "fb85c1b4a2e1d06ef091ccdce1de06be": {
+    "time": "2026/09/28 09:17:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉海平路14巷",
+    "units": "竹田分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T09:19:20.100770"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T10:24:20.611095"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T10:25:20.583328"
+      }
+    ]
+  },
+  "c9c5fe70c4a140b4cc7488f2a4b1319d": {
+    "time": "2026/09/28 09:30:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市棒球路160巷",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T09:31:20.228934"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T10:09:20.481897"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T10:34:20.654967"
+      }
+    ]
+  },
+  "04b98f9d1d0e84c05be1d4fffc1a42fd": {
+    "time": "2026/09/28 09:39:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市屏東千禧公園靠近勝利東路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T09:40:20.291448"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T09:45:20.372667"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T10:01:20.454428"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T10:02:20.423724"
+      }
+    ]
+  },
+  "85d132b46a3b645bc363ae79e767139c": {
+    "time": "2026/09/28 09:49:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬丹蒸餃",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T09:50:20.419545"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T09:51:20.488736"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T10:00:20.315598"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T10:03:20.451752"
+      }
+    ]
+  },
+  "bd9183f483617ddad3c5e9a1a69fdb90": {
+    "time": "2026/09/28 10:06:05",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉勝利路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T10:07:20.437907"
+      }
+    ]
+  },
+  "c80b38afa937e48f0e3cb59351f846aa": {
+    "time": "2026/09/28 10:16:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉中林路",
+    "units": "林邊分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T10:17:20.549776"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:18:20.470529"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T10:50:20.786706"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T10:59:20.866742"
+      }
+    ]
+  },
+  "954e9f7f4dcbec12d72c186643122f21": {
+    "time": "2026/09/28 10:18:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉光明路",
+    "units": "萬巒分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:19:20.492959"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T10:42:20.863844"
+      }
+    ]
+  },
+  "734beaba83b04f3da1916663790dcd9e": {
+    "time": "2026/09/28 10:25:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉北勢路",
+    "units": "崁頂分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:27:20.667070"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T10:54:22.238917"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T10:59:20.866742"
+      }
+    ]
+  },
+  "3722a0e9d4d8fa9a5956e69c3dffbb13": {
+    "time": "2026/09/28 10:39:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉玉田路",
+    "units": "里港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:40:20.705984"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T11:34:21.011981"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T11:58:20.420837"
+      }
+    ]
+  },
+  "aba79ad75a618b0fa4d683ac7ab3ac8d": {
+    "time": "2026/09/28 10:38:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉銘泉生態休閒農場附近路",
+    "units": "瑪家分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T10:40:20.705984"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:42:20.863844"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T11:36:21.932648"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T12:21:20.511584"
+      }
+    ]
+  },
+  "4ebfab82d5977043247673c347942f09": {
+    "time": "2026/09/28 10:40:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉新豐路",
+    "units": "泰武分隊,萬巒分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:42:20.863844"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T10:43:20.735727"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T11:21:21.064960"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T11:36:21.932648"
+      }
+    ]
+  },
+  "4b1fda6ff4d17dcc9316b9fc5c4bbd4c": {
+    "time": "2026/09/28 10:43:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市信義路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:44:20.813605"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T11:09:20.964316"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T11:13:21.123964"
+      }
+    ]
+  },
+  "99a91940cf33d1c75149c64ea8bb137f": {
+    "time": "2026/09/28 10:58:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉成功路5巷",
+    "units": "林邊分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:59:20.866742"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T11:32:21.181698"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T11:36:21.932648"
+      }
+    ]
+  },
+  "912dce204beb7eb598836eb3440fc125": {
+    "time": "2026/09/28 11:07:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉凉山101號",
+    "units": "龍泉分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:08:21.057268"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:09:20.964316"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T12:31:20.562012"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T12:33:20.561065"
+      }
+    ]
+  },
+  "341f3d063c39a7a0e68c972a7892e060": {
+    "time": "2026/09/28 11:07:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮嘉漁街",
+    "units": "東港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:08:21.057268"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T11:30:21.055136"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T11:33:21.115428"
+      }
+    ]
+  },
+  "e85c8ee4b0fd95ab41cdbb46a5b70282": {
+    "time": "2026/09/28 11:12:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公園西路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:13:21.123964"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T11:17:21.138444"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T11:22:21.062572"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T11:37:21.614144"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T11:38:21.244576"
+      }
+    ]
+  },
+  "6f3599d87f47cd43607b334c8cb5dcab": {
+    "time": "2026/09/28 11:12:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉桑原巷",
+    "units": "內埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:14:20.996779"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:15:20.986327"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T12:09:20.416928"
+      }
+    ]
+  },
+  "58336137dc6f44ddccdc630f893fb85f": {
+    "time": "2026/09/28 11:23:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "麟洛分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:24:20.994307"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T11:46:20.204577"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T11:59:20.377234"
+      }
+    ]
+  },
+  "11201293a831296afd85e28032b6df4b": {
+    "time": "2026/09/28 11:24:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮榮祥路",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:26:21.130808"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T12:12:20.660365"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T12:34:20.619463"
+      }
+    ]
+  },
+  "3ea69ca45a6197a495e9f9ada4f2f5ef": {
+    "time": "2026/09/28 11:25:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉楓林二巷",
+    "units": "獅子分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:27:21.062218"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:28:21.107072"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T12:26:20.750906"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T12:56:20.801145"
+      }
+    ]
+  },
+  "6ba78124bcb8562d3160152013b51880": {
+    "time": "2026/09/28 11:34:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉仁愛路",
+    "units": "林邊分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:36:21.932648"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T12:42:20.738808"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:01:20.742911"
+      }
+    ]
+  },
+  "dded09ef3663158346d9bd9d03c2c4be": {
+    "time": "2026/09/28 11:39:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉屏東監獄[竹田鄉義永路",
+    "units": "竹田分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:40:21.275841"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T12:39:20.701588"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T12:40:20.657850"
+      }
+    ]
+  },
+  "cd5e52cd629aa2de91179f227f95af62": {
+    "time": "2026/09/28 11:49:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:50:20.344766"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T12:01:20.362903"
+      }
+    ]
+  },
+  "49420177f4adc612b15c406ff72c579f": {
+    "time": "2026/09/28 12:11:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣霧台鄉霧臺鄉快到舊鄉長的工寮(霧台往阿禮那條路",
+    "units": "霧台分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T12:12:20.660365"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:13:20.444180"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:04:20.859427"
+      }
+    ]
+  },
+  "e3b2da2f6fe2d0b9c6a2dba4042514fe": {
+    "time": "2026/09/28 12:14:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉復興路106巷",
+    "units": "枋寮分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:16:20.647693"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T12:58:20.694597"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:20:21.699108"
+      }
+    ]
+  },
+  "b7a3510ca6b48d0c901b1fc9e5798146": {
+    "time": "2026/09/28 12:17:59",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉綏平路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T12:19:20.728521"
+      }
+    ]
+  },
+  "51e172b06dd5306abb397e8066005eef": {
+    "time": "2026/09/28 12:23:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉力社路",
+    "units": "崁頂分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:25:20.575752"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T13:25:20.918663"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:46:20.997657"
+      }
+    ]
+  },
+  "bda1d40b9c1456cdcb9f32348dd4d15e": {
+    "time": "2026/09/28 12:53:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉棒壘球場前",
+    "units": "高樹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T12:54:20.866947"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:55:20.690998"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T13:14:20.859247"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:16:20.982037"
+      }
+    ]
+  },
+  "9e0902a4efd76539565460979be5cd8b": {
+    "time": "2026/09/28 12:55:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中華路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:56:20.801145"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:11:20.851609"
+      }
+    ]
+  },
+  "dd035e19dec95af3b817f732fb148b49": {
+    "time": "2026/09/28 13:02:44",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣東港鎮船頭路",
+    "units": "東港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:04:20.859427"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T13:22:22.317920"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:29:20.891842"
+      }
+    ]
+  },
+  "96f7ffaa79549c9e7ef3eb91733ba3c0": {
+    "time": "2026/09/28 13:04:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市重慶路",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T13:05:20.702067"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:06:20.848047"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T13:51:21.158888"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:56:21.187218"
+      }
+    ]
+  },
+  "e752620f84cdb0a6822eaf7d9799860e": {
+    "time": "2026/09/28 13:09:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大武路",
+    "units": "屏東分隊,高級救護隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:11:20.851609"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T13:30:21.060162"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:57:21.148887"
+      }
+    ]
+  },
+  "228d8b2aca0791f9f8c5bc4d6be12fbc": {
+    "time": "2026/09/28 13:10:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市成功路",
+    "units": "麟洛分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:12:20.805808"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T13:50:21.102989"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:58:21.244549"
+      }
+    ]
+  },
+  "3cbd4220db56a7bcd06b18784eb09946": {
+    "time": "2026/09/28 13:37:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉民族路新庄巷",
+    "units": "長治分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:38:21.099057"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T14:18:21.369387"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T14:37:20.432421"
+      }
+    ]
+  },
+  "8c65bd5b404366f6076072bff55de41b": {
+    "time": "2026/09/28 13:45:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉信實路",
+    "units": "竹田分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T13:46:20.997657"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:47:20.966415"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T14:14:21.657107"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T14:20:21.426356"
+      }
+    ]
+  },
+  "b70ce12d41f6fbd9679041bc33604e32": {
+    "time": "2026/09/28 13:54:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:56:21.187218"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T15:17:20.846149"
+      }
+    ]
+  },
+  "2f24ebb2c1743251eab4dc8e0944fb56": {
+    "time": "2026/09/28 13:56:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市永大路和武愛街",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:57:21.148887"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T14:10:21.275321"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T14:19:21.352701"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T14:20:21.426356"
+      }
+    ]
+  },
+  "0eb959e16b64644f3480c6ae66d9673c": {
+    "time": "2026/09/28 13:57:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市清進路650巷",
+    "units": "麟洛分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:59:21.129175"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T15:01:20.567249"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T15:12:20.828809"
+      }
+    ]
+  },
+  "3328d4030be9f4076674612cb6a50474": {
+    "time": "2026/09/28 14:00:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉光復路",
+    "units": "萬巒分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:01:21.169581"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T14:37:20.432421"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T14:41:20.459692"
+      }
+    ]
+  },
+  "e36186e5d9dedae649e513c450c59b94": {
+    "time": "2026/09/28 14:17:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉榮泉街",
+    "units": "九如分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:18:21.369387"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T14:58:20.438096"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T15:01:20.567249"
+      }
+    ]
+  },
+  "5dcddb86f50cad9860c5772f655ec271": {
+    "time": "2026/09/28 14:34:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉忠孝街77巷",
+    "units": "里港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T14:36:20.554468"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:37:20.432421"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T15:37:20.913421"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T15:57:21.142474"
+      }
+    ]
+  },
+  "ec066dd561994fa7aef00c474ccda612": {
+    "time": "2026/09/28 14:37:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉民權路",
+    "units": "崁頂分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:38:20.423926"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T15:12:20.828809"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T15:27:20.761608"
+      }
+    ]
+  },
+  "6b6144923988b73fc7f30eb4b3dff0e5": {
+    "time": "2026/09/28 14:37:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市勝利東路",
+    "units": "屏東分隊,高級救護隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:39:20.369636"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T14:43:20.508255"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T15:23:20.812715"
+      }
+    ]
+  },
+  "81b599b0d36274d6a186cfeeac078b56": {
+    "time": "2026/09/28 14:38:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉中正東路",
+    "units": "鹽埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:40:20.409099"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T15:29:20.889030"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T15:58:21.083287"
+      }
+    ]
+  },
+  "61140b2ebc4a2b17f72fe9f4ab912014": {
+    "time": "2026/09/28 14:57:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉武丁路",
+    "units": "佳冬分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T14:58:20.438096"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T15:55:20.981954"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T15:56:21.016755"
+      }
+    ]
+  },
+  "b8976950494e1310c5fbcdb720baddb8": {
+    "time": "2026/09/28 15:03:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬丹路",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:04:20.637057"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T15:08:20.731015"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:12:20.828809"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T15:40:20.927592"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:00:21.087981"
+      }
+    ]
+  },
+  "2e56c35306d1deec38e994adcec6aac8": {
+    "time": "2026/09/28 15:06:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉四維國小側門的紅綠燈",
+    "units": "新園分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T15:07:20.866794"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:08:20.731015"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T16:15:21.164650"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:49:21.666493"
+      }
+    ]
+  },
+  "9b84bd3dc758809463695f99b5c89b13": {
+    "time": "2026/09/28 15:26:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉新興路",
+    "units": "南州分隊,林邊分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T15:27:20.761608"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:28:20.916598"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T15:59:21.088974"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:20:21.339968"
+      }
+    ]
+  },
+  "b712a8007d7cf8370e81dc98bf512e5a": {
+    "time": "2026/09/28 15:33:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮長安路",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:34:20.971140"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T15:52:21.188762"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:00:21.087981"
+      }
+    ]
+  },
+  "2b449d00c70115716f28ab3cb5dba2cb": {
+    "time": "2026/09/28 15:41:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T15:41:21.000048"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:42:20.858062"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T16:11:21.198125"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:14:21.166817"
+      }
+    ]
+  },
+  "3cd8c457379aba011034d383448ecbb6": {
+    "time": "2026/09/28 15:43:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮墾丁路",
+    "units": "墾丁分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T15:44:21.026993"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:45:20.957398"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T16:16:21.164989"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:28:21.347226"
+      }
+    ]
+  },
+  "87a792a7bc02376bc1436f3bd7592013": {
+    "time": "2026/09/28 15:47:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉東寧村東寧路29巷",
+    "units": "九如分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:48:23.369581"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T15:53:21.298306"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T16:01:20.968253"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T16:30:21.640515"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:39:21.469706"
+      }
+    ]
+  },
+  "94cc8c88a5515771ac5324b0599d12d9": {
+    "time": "2026/09/28 15:54:34",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮新生路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T15:55:20.981954"
+      }
+    ]
+  },
+  "9a238b9f7846c94f6c18da3fe837b442": {
+    "time": "2026/09/28 15:59:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉自強路",
+    "units": "竹田分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:00:21.087981"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T16:02:21.182382"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T16:05:21.060158"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:06:21.237031"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T16:26:21.291894"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:35:21.480475"
+      }
+    ]
+  },
+  "add5f1900a7646954aa8368ffec6bd83": {
+    "time": "2026/09/28 15:59:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中華路",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:00:21.087981"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:40:21.538274"
+      }
+    ]
+  },
+  "de1540ce464e64e9947d66e7fc50b984": {
+    "time": "2026/09/28 16:09:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉新生路",
+    "units": "萬巒分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:11:21.198125"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T16:40:21.538274"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:53:21.407063"
+      }
+    ]
+  },
+  "5d9396971e616cf31beda1d2115d62d9": {
+    "time": "2026/09/28 16:24:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉大同路",
+    "units": "內埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:26:21.291894"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:03:21.851224"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T17:29:20.763807"
+      }
+    ]
+  },
+  "b5e203f93110515f8ca5b25e7e53ad49": {
+    "time": "2026/09/28 16:27:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉涼山村7號",
+    "units": "瑪家分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:28:21.347226"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:31:21.319300"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:22:20.626216"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:00:20.890762"
+      }
+    ]
+  },
+  "37f687a4216f1b13744fd6e8a8fe992f": {
+    "time": "2026/09/28 16:34:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉力社路",
+    "units": "崁頂分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:35:21.480475"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:10:20.509874"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T17:27:20.652374"
+      }
+    ]
+  },
+  "c22f99bf9eaf4cb9f506bddc195f9d80": {
+    "time": "2026/09/28 16:33:27",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉大同村農田先聯繫",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T16:35:21.480475"
+      }
+    ]
+  },
+  "e03cf73d430e1933b55730acd1a7d640": {
+    "time": "2026/09/28 16:38:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市武順街",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:40:21.538274"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T16:45:21.657135"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T16:50:21.571375"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T16:57:24.249712"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T17:25:20.718680"
+      }
+    ]
+  },
+  "83678a87673ccc4706d1ece6776b3a50": {
+    "time": "2026/09/28 16:40:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉佳和路",
+    "units": "佳冬分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:41:21.731436"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:19:20.447980"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T17:39:20.942377"
+      }
+    ]
+  },
+  "4465660346cd66db3514b63a9bec1c7c": {
+    "time": "2026/09/28 16:58:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T16:59:21.787495"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:00:22.002303"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:35:20.780125"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T17:42:21.047619"
+      }
+    ]
+  },
+  "3044dda335b4b34009b1bf5ce67c505a": {
+    "time": "2026/09/28 17:02:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉三山路120巷",
+    "units": "竹田分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:03:21.851224"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:42:21.047619"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:11:21.053987"
+      }
+    ]
+  },
+  "433abe3ccde77d7906d4f38ee3c31b7c": {
+    "time": "2026/09/28 17:05:31",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣東港鎮大鵬路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T17:07:21.526176"
+      }
+    ]
+  },
+  "6f037d0373d06febaf148e1bfc2134a0": {
+    "time": "2026/09/28 17:10:47",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣東港鎮進德大橋東港端",
+    "units": "東港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:13:20.439914"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:15:20.536165"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T17:53:20.742712"
+      }
+    ]
+  },
+  "13dce61df4ed513679b1da6bb4cd6e47": {
+    "time": "2026/09/28 17:14:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮紅柴路",
+    "units": "恆春分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:15:20.536165"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:03:21.030580"
+      }
+    ]
+  },
+  "0ac98fab8a67d25aa40dd6cb59e5acd0": {
+    "time": "2026/09/28 17:17:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市瑞光路",
+    "units": "長治分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:19:20.447980"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:52:21.134663"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:02:20.904482"
+      }
+    ]
+  },
+  "a59318bba454817dd9f94b15a62a82bc": {
+    "time": "2026/09/28 17:20:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮船頭路",
+    "units": "南州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:21:20.859129"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T17:33:20.779258"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T17:37:20.746721"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:51:20.893415"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:06:20.936901"
+      }
+    ]
+  },
+  "973b19e2d4ee2ca91327dc92ac763e12": {
+    "time": "2026/09/28 17:28:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市棒球路",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:29:20.763807"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:54:20.991428"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:11:21.053987"
+      }
+    ]
+  },
+  "bd89d0fca07f5fc0ddf90b212e14c1da": {
+    "time": "2026/09/28 17:29:20",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣屏東市崇武路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:31:20.516473"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:54:20.991428"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:06:20.936901"
+      }
+    ]
+  },
+  "4af6157ad192868c223b82f38a5d16b9": {
+    "time": "2026/09/28 17:32:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民生東路56巷",
+    "units": "麟洛分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:34:20.651263"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T17:41:20.780273"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T17:48:20.995341"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:03:21.030580"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:16:21.267841"
+      }
+    ]
+  },
+  "de078a35a576b8187cbe2fb32d3a54b4": {
+    "time": "2026/09/28 17:40:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉仁愛街",
+    "units": "九如分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:41:20.780273"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:52:21.985018"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:04:21.866077"
+      }
+    ]
+  },
+  "e0d00bbadb9d362e28b3af426e451932": {
+    "time": "2026/09/28 17:40:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中山路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:42:21.047619"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T17:46:20.904787"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:21:21.851449"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:22:21.513352"
+      }
+    ]
+  },
+  "eb268427d95da4909899cd1906af77a4": {
+    "time": "2026/09/28 17:44:40",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉勝利路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T17:46:20.904787"
+      }
+    ]
+  },
+  "9c16760c998ae01af84c22aba89e0017": {
+    "time": "2026/09/28 17:45:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉福興路24巷",
+    "units": "車城分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:47:20.866523"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T17:49:20.824885"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:54:20.991428"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:15:21.173840"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:32:21.360240"
+      }
+    ]
+  },
+  "21d297a43c33b3fc229381db7c15dcb6": {
+    "time": "2026/09/28 17:48:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉勝利路",
+    "units": "高樹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:49:20.824885"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:50:20.991050"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:20:23.357021"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:27:21.361035"
+      }
+    ]
+  },
+  "379955243a42ef39f003275a3ba3b23b": {
+    "time": "2026/09/28 17:54:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "高級救護隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T17:55:21.009748"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:56:20.817730"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T18:00:20.890762"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:02:20.904482"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:18:21.144830"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:27:21.361035"
+      }
+    ]
+  },
+  "dc48b3eb6e7df0575cd388867d0ff9d8": {
+    "time": "2026/09/28 17:59:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉新中路46巷",
+    "units": "新埤分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T18:01:21.035221"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:02:20.904482"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:47:21.568545"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:57:21.596752"
+      }
+    ]
+  },
+  "5433a07b2e2e8a866ae5541079e1d975": {
+    "time": "2026/09/28 18:12:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉媽祖三巷",
+    "units": "新園分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:14:21.223157"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:59:21.639657"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:11:21.653942"
+      }
+    ]
+  },
+  "0f792d068206c5364d698bb1ad26dc83": {
+    "time": "2026/09/28 18:11:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉南華路",
+    "units": "內埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:14:21.223157"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:05:21.654000"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:09:21.713887"
+      }
+    ]
+  },
+  "5f87863f905cd11f80877b4ed8861891": {
+    "time": "2026/09/28 18:13:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建豐路",
+    "units": "長治分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:15:21.173840"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:46:21.239272"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:05:21.654000"
+      }
+    ]
+  },
+  "99c32760f4226d1cff6292721afc8dbf": {
+    "time": "2026/09/28 18:30:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉大同村堤防往新埤橋",
+    "units": "佳冬分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T18:32:21.360240"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:33:21.325843"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:26:21.774931"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:36:24.464895"
+      }
+    ]
+  },
+  "d6ef65cde4ec1b8fcaaea4eccde3a235": {
+    "time": "2026/09/28 18:32:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉新榮路",
+    "units": "萬巒分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:34:21.176755"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:06:21.727174"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:15:21.829744"
+      }
+    ]
+  },
+  "a8206e5ef437322344610f3951ed6a7e": {
+    "time": "2026/09/28 18:52:23",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣屏東市大利路",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:54:21.604111"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:14:21.687892"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:26:21.774931"
+      }
+    ]
+  },
+  "f81c071aa0f7d2d7fe712345a99bda50": {
+    "time": "2026/09/28 18:54:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉沿山公路",
+    "units": "新埤分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:57:21.596752"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T19:04:21.866077"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:10:21.567981"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:15:21.829744"
+      }
+    ]
+  },
+  "18a6200cf352a9755f18261b56e692f7": {
+    "time": "2026/09/28 19:03:19",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:05:21.654000"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:28:21.724554"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:43:21.951443"
+      }
+    ]
+  },
+  "fa8391c38b6594a8eec524c965646bb1": {
+    "time": "2026/09/28 19:05:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T19:06:21.727174"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:07:21.723841"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:47:20.881449"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:03:20.921351"
+      }
+    ]
+  },
+  "49f34e9c3e5e26a7d7f18824157c13f5": {
+    "time": "2026/09/28 19:04:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉南興路",
+    "units": "竹田分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:06:21.727174"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:32:21.929679"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:43:21.951443"
+      }
+    ]
+  },
+  "b10e119b8f19db3f68642978b91ecc48": {
+    "time": "2026/09/28 19:06:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復光街2巷",
+    "units": "麟洛分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:08:21.897473"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:32:21.929679"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:46:20.716432"
+      }
+    ]
+  },
+  "b7ed7899da56ccd11eba148d7d487552": {
+    "time": "2026/09/28 19:06:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮長榮街52巷",
+    "units": "潮州分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:08:21.897473"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:46:20.716432"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:12:20.338160"
+      }
+    ]
+  },
+  "339ccf0242d5449784e0c1ea107f8313": {
+    "time": "2026/09/28 19:11:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉七份路",
+    "units": "鹽埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T19:12:21.929170"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:13:21.556974"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:14:21.687892"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:19:21.709156"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:22:21.783389"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:40:20.414339"
+      }
+    ]
+  },
+  "b59a2d0f8c92ed085c07e559fe32e4c6": {
+    "time": "2026/09/28 19:11:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉六巷",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T19:13:21.556974"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:14:21.687892"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:53:20.899787"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:11:20.399211"
+      }
+    ]
+  },
+  "d0cf274121244fd77c0fd10e446e0e45": {
+    "time": "2026/09/28 19:13:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉鹽琉線碼頭[新園鄉新興路",
+    "units": "新園分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:15:21.829744"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:55:20.840276"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:10:20.420205"
+      }
+    ]
+  },
+  "d83ccccf8ef5981a44f5cf4922c421a7": {
+    "time": "2026/09/28 19:30:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市仁愛路199巷",
+    "units": "高級救護隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T19:32:21.929679"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:33:21.802616"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T19:40:22.250689"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:44:21.918177"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T20:07:20.611396"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:15:20.114669"
+      }
+    ]
+  },
+  "53ce311e56775d4a876fcd3311a30f63": {
+    "time": "2026/09/28 19:33:47",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣新園鄉福德路",
+    "units": "新園分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:35:21.861509"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T20:15:20.114669"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:34:20.385577"
+      }
+    ]
+  },
+  "52e566886c06c8bc02f7be5a87411c46": {
+    "time": "2026/09/28 19:34:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉大平路",
+    "units": "佳冬分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:36:24.464895"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T19:43:21.951443"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:20:20.242431"
+      }
+    ]
+  },
+  "881cc25e8c69f4a86d2b7ffbe1f6950d": {
+    "time": "2026/09/28 19:46:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公興路165巷",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:48:20.672801"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T20:19:20.312268"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:22:20.256754"
+      }
+    ]
+  },
+  "7fc9ffc2bceacaac750ea567c5b6487d": {
+    "time": "2026/09/28 20:15:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮船帆路",
+    "units": "墾丁分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:16:20.230911"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:28:20.336154"
+      }
+    ]
+  },
+  "4469bc385cbf767503f353ab73ad49dd": {
+    "time": "2026/09/28 20:17:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉元泰街",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:18:20.258585"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T20:43:20.492251"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:44:20.534079"
+      }
+    ]
+  },
+  "70193de65d600f6be11b8147745a2648": {
+    "time": "2026/09/28 20:21:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市華盛街",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:22:20.256754"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T20:24:20.272470"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:26:20.409972"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T20:45:20.452110"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:59:20.520144"
+      }
+    ]
+  },
+  "0dab85f7e6da0bbfe823a5c160897076": {
+    "time": "2026/09/28 20:29:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉中興路1巷",
+    "units": "林邊分隊",
+    "current_status": "返隊中",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:31:20.327162"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T20:41:20.391490"
+      }
+    ]
+  },
+  "cff54edf050ff3f8584f1529ec81dc97": {
+    "time": "2026/09/28 20:30:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉中山路",
+    "units": "來義分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T20:32:20.474752"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:33:20.438565"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T21:08:20.533226"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T21:26:20.585056"
+      }
+    ]
+  },
+  "a669bf0e04a9be4dda3325d3ea6f001a": {
+    "time": "2026/09/28 19:33:47",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣新園鄉福德路",
+    "units": "新園分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:37:20.561909"
+      }
+    ]
+  },
+  "9964b1d9857d1bdf5dd4f0f15c154d22": {
+    "time": "2026/09/28 20:43:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉惠崙路",
+    "units": "萬丹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:44:20.534079"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T20:52:20.587180"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T20:55:20.410793"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:56:20.439259"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T21:19:20.618366"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T21:41:20.712485"
+      }
+    ]
+  },
+  "6908c701cb5acdb9898eaad9a27d48d3": {
+    "time": "2026/09/28 20:53:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉來義西部落與義林村之間 接近來義村",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:55:20.410793"
+      }
+    ]
+  },
+  "861c644e93a94b0dcc381c709dfa9258": {
+    "time": "2026/09/28 20:59:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉青葉村光復巷",
+    "units": "高樹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T21:00:20.540289"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T21:01:20.539521"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T21:54:20.853214"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T22:07:21.075665"
+      }
+    ]
+  },
+  "01dbf36a7ccc0f0897b75f89bb69b949": {
+    "time": "2026/09/28 21:11:25",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉大同路四段80巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T21:12:20.546197"
+      }
+    ]
+  },
+  "68bdebb16775c567e13eac9846fda784": {
+    "time": "2026/09/28 20:53:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉來義村52號附近",
+    "units": "泰武分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T21:16:20.585797"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T22:09:20.957835"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T22:30:20.098324"
+      }
+    ]
+  },
+  "54a85458cf5c21463cfa8e78ef78deed": {
+    "time": "2026/09/28 21:28:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮延平路",
+    "units": "潮州分隊,竹田分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T21:29:20.731147"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T21:49:20.751486"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T22:04:20.895490"
+      }
+    ]
+  },
+  "3db4dff831ba9a15b6a974cd9400df3f": {
+    "time": "2026/09/28 21:36:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉中正大路",
+    "units": "枋寮分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T21:37:20.708887"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T21:38:20.874543"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T22:03:21.338372"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T22:06:20.890058"
+      }
+    ]
+  },
+  "e3e0626d4d4057cb349386a065489b67": {
+    "time": "2026/09/28 21:38:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民族路",
+    "units": "屏東分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T21:39:20.827577"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T22:08:20.898969"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T22:13:20.990307"
+      }
+    ]
+  },
+  "395eccefdaf7cfff7a5af1c4398044e9": {
+    "time": "2026/09/28 22:02:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉中華路125巷",
+    "units": "佳冬分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:03:21.338372"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T22:54:20.256641"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T23:18:20.395819"
+      }
+    ]
+  },
+  "57f952a4f5cd888e3541e2d95c475b24": {
+    "time": "2026/09/28 22:08:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉口社村信義巷",
+    "units": "高樹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T22:09:20.957835"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:10:21.009846"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T22:22:21.122337"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T22:25:20.057043"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:29:20.067515"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T22:42:20.135606"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T22:45:20.229231"
+      }
+    ]
+  },
+  "b524001e85d2ff86a201467c383f12a1": {
+    "time": "2026/09/28 22:16:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民生路",
+    "units": "屏東分隊,麟洛分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:17:20.952587"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T22:55:20.240251"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T22:57:20.282714"
+      }
+    ]
+  },
+  "75488566ad4cfb949c862f1247c06aa0": {
+    "time": "2026/09/28 22:17:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉廣安路230巷",
+    "units": "萬丹分隊",
+    "current_status": "返隊中",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:19:21.021818"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T22:45:20.229231"
+      }
+    ]
+  },
+  "4af2bb4da5379661fa96b75027dec2a2": {
+    "time": "2026/09/28 22:49:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉南世一巷",
+    "units": "枋寮分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:51:20.275791"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T23:29:20.484767"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T23:32:20.421523"
+      }
+    ]
+  },
+  "42f5bf186563777f59708f3104323cf2": {
+    "time": "2026/09/28 22:55:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮興漁街",
+    "units": "東港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:57:20.282714"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T23:40:20.535611"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T23:46:20.458298"
+      }
+    ]
+  },
+  "1d25fa11f10d4d739e72aadeeba91487": {
+    "time": "2026/09/28 22:55:41",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉佳冬國小大門",
+    "units": "佳冬分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T22:57:20.282714"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:58:20.324061"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T23:16:20.456798"
+      }
+    ]
+  },
+  "e24ee187bed46fe7bedad648bf1f721f": {
+    "time": "2026/09/28 22:58:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市吉祥街",
+    "units": "公館分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T23:02:20.338416"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T23:30:20.426368"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T23:40:20.535611"
+      }
+    ]
+  },
+  "6d18367155c23042ffd683ab3fc4c3c1": {
+    "time": "2026/09/28 23:07:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉大平路",
+    "units": "高樹分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T23:08:20.409063"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T23:09:20.396211"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T00:01:20.601066"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T00:02:21.014139"
+      }
+    ]
+  },
+  "efaf03a38bc7ccb7b11a5568d86a210a": {
+    "time": "2026/09/28 23:26:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉甘棠路",
+    "units": "新園分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T23:28:20.520357"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T23:29:20.484767"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T00:14:20.623425"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T00:19:20.786854"
+      }
+    ]
+  }
+}
