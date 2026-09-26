@@ -2389,7 +2389,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉光復路",
     "units": "枋山分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2398,6 +2398,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T16:24:20.839151"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T16:55:20.242023"
       }
     ]
   },
@@ -2521,7 +2525,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉三民路",
     "units": "琉球分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2534,6 +2538,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T16:52:20.149169"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T16:55:20.242023"
       }
     ]
   },
@@ -2575,7 +2583,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮潮龍路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2584,6 +2592,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-26T16:47:20.125495"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-26T16:55:20.242023"
       }
     ]
   },
