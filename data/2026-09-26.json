@@ -2573,11 +2573,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建南路191巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-26T16:35:20.914504"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-26T17:10:20.275830"
       }
     ]
   },
@@ -2664,6 +2668,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-26T17:08:20.286885"
+      }
+    ]
+  },
+  "5c61b44eed512acdaf0581eddb518748": {
+    "time": "2026/09/26 17:08:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市光復路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T17:10:20.275830"
       }
     ]
   }
