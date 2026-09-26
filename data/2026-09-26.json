@@ -3751,11 +3751,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉玉水路",
     "units": "九如分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-26T22:57:20.353752"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-26T22:58:20.350361"
       }
     ]
   }
