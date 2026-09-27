@@ -3021,7 +3021,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉屏東縣枋山鄉舊庄路",
     "units": "枋山分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3030,6 +3030,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T17:23:21.488371"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T17:24:21.988889"
+      }
+    ]
+  },
+  "6019162e1e87c8de4a302a095e151ae8": {
+    "time": "2026/09/27 17:22:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮志成路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T17:24:21.988889"
       }
     ]
   }
