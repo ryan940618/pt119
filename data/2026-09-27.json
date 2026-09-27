@@ -2583,11 +2583,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉新興路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:43:21.303828"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T16:38:21.913518"
       }
     ]
   },
@@ -2786,6 +2790,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T16:33:22.088155"
+      }
+    ]
+  },
+  "eb41cb7ae6d3fe7f0cffe6e84dab8dba": {
+    "time": "2026/09/27 16:36:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉台1線與新中路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:38:21.913518"
       }
     ]
   }
