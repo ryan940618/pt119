@@ -4101,7 +4101,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆春分局對面廣場",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -4110,6 +4110,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T22:41:20.129609"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T22:58:20.330615"
       }
     ]
   },
