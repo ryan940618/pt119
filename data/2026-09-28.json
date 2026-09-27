@@ -741,7 +741,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉中山路",
     "units": "枋山分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -754,6 +754,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T07:22:20.335660"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T07:50:20.565767"
       }
     ]
   },
