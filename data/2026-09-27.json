@@ -3561,11 +3561,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉崁頂焚化爐/游泳池前[屏東縣崁頂鄉中正路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T19:19:22.330625"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T20:09:21.566794"
       }
     ]
   },
