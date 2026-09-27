@@ -1239,7 +1239,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉中正路",
     "units": "南州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1252,6 +1252,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T10:47:21.338620"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T10:55:21.314096"
       }
     ]
   },
@@ -1368,6 +1372,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:52:21.384990"
+      }
+    ]
+  },
+  "e3f2baebdf5b9bbbe895e1a029aed320": {
+    "time": "2026/09/27 10:54:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮昌明路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:55:21.314096"
       }
     ]
   }
