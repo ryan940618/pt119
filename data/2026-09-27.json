@@ -2095,11 +2095,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉縣立白沙國小旁住家[[929]屏東縣琉球鄉漁福村三民路",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T13:29:21.626425"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T14:17:22.015351"
       }
     ]
   },
@@ -2243,11 +2247,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉豐年路9巷",
     "units": "鹽埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:16:21.836958"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:17:22.015351"
       }
     ]
   }
