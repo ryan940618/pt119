@@ -2399,7 +2399,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉屏安醫院[屏東縣麟洛鄉中山路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2408,6 +2408,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:50:20.912126"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T15:34:21.326465"
       }
     ]
   },
@@ -2500,6 +2504,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:32:21.371928"
+      }
+    ]
+  },
+  "e96f942f96e91365b46efba5c4ae490a": {
+    "time": "2026/09/27 15:32:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉過江路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:34:21.326465"
       }
     ]
   }
