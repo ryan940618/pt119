@@ -2147,11 +2147,15 @@
     "sub_category": "",
     "location": "屏東縣福安宮後方海灘",
     "units": "車城分隊",
-    "current_status": "已受理",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-09-27T13:48:21.594168"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:49:21.712437"
       }
     ]
   }
