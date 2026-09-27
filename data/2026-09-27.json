@@ -1357,11 +1357,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮三和三路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:40:21.162794"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T11:25:21.573295"
       }
     ]
   },
