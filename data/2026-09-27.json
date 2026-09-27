@@ -3649,7 +3649,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽琉線碼頭[新園鄉新興路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3658,6 +3658,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T21:11:20.969197"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T21:30:21.379862"
       }
     ]
   },
