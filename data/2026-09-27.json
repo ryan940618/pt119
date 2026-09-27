@@ -4165,7 +4165,7 @@
     "sub_category": "",
     "location": "國道3號410公里南下車道",
     "units": "特搜大隊,長治分隊,麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -4178,6 +4178,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T23:51:20.555839"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T00:01:20.610823"
       }
     ]
   },
