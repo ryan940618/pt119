@@ -2033,7 +2033,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉瓦窯路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2050,6 +2050,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T13:46:21.869343"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T13:58:22.044708"
       }
     ]
   },
