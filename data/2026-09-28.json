@@ -803,11 +803,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉和平路3巷",
     "units": "琉球分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T07:02:20.189393"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:03:20.537162"
       }
     ]
   }
