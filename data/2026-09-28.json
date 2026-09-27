@@ -640,5 +640,19 @@
         "timestamp": "2026-09-28T06:35:20.234779"
       }
     ]
+  },
+  "4f8e90506c7daba744a803d67f7831fd": {
+    "time": "2026/09/28 06:38:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉昌隆一街",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:39:20.166412"
+      }
+    ]
   }
 }
