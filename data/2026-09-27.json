@@ -1135,7 +1135,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市清進路585巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1144,6 +1144,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T10:16:20.981778"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T10:20:21.026538"
       }
     ]
   },
@@ -1254,6 +1258,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-27T10:17:21.071490"
+      }
+    ]
+  },
+  "ac121441282b873e6057e350001d663c": {
+    "time": "2026/09/27 10:18:59",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉麟洛火車站[屏東縣麟洛鄉站前巷",
+    "units": "麟洛分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T10:20:21.026538"
       }
     ]
   }
