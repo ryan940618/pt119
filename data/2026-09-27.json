@@ -4007,7 +4007,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉丹榮路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -4016,6 +4016,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T22:32:19.975553"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T23:00:20.201752"
       }
     ]
   },
@@ -4128,6 +4132,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T22:54:20.294718"
+      }
+    ]
+  },
+  "3e881ef5c41dd93bfcf4612a0b2daf3e": {
+    "time": "2026/09/27 22:52:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "國道3號410公里南下車道",
+    "units": "特搜大隊,長治分隊,麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T23:00:20.201752"
       }
     ]
   }
