@@ -2491,7 +2491,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉海洋生物博物館/遊客中心[屏東縣車城鄉後灣路",
     "units": "車城分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2500,6 +2500,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T15:54:21.778908"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T16:00:21.528475"
       }
     ]
   },
@@ -2578,6 +2582,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:51:21.701942"
+      }
+    ]
+  },
+  "bc0e2c160f4eb203053e26057711b61f": {
+    "time": "2026/09/27 15:59:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉溫泉路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:00:21.528475"
       }
     ]
   }
