@@ -1476,5 +1476,33 @@
         "timestamp": "2026-09-27T11:14:21.469945"
       }
     ]
+  },
+  "6d716ad64ed90784e3a27ea9ecdd9361": {
+    "time": "2026/09/27 11:14:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉竹站路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T11:16:21.493917"
+      }
+    ]
+  },
+  "6fb927bea4d9ec7ebceba085b1d3b125": {
+    "time": "2026/09/27 11:13:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉響潭沿山公路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-27T11:16:21.493917"
+      }
+    ]
   }
 }
