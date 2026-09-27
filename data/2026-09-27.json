@@ -737,7 +737,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉豐田街",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -746,6 +746,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T07:42:20.808504"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T08:04:20.915083"
       }
     ]
   },
@@ -778,6 +782,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T08:00:20.897467"
+      }
+    ]
+  },
+  "bf26367ea05cb407f1852cbc1f5646ca": {
+    "time": "2026/09/27 08:03:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民生路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T08:04:20.915083"
       }
     ]
   }
