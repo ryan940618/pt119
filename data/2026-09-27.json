@@ -2690,5 +2690,33 @@
         "timestamp": "2026-09-27T16:14:21.922652"
       }
     ]
+  },
+  "29f593b16e4958ee6487430ef5df536b": {
+    "time": "2026/09/27 16:18:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民興路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:20:21.992530"
+      }
+    ]
+  },
+  "7599418006a4f26b6d43714b7788aaea": {
+    "time": "2026/09/27 16:18:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公興路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:20:21.992530"
+      }
+    ]
   }
 }
