@@ -759,7 +759,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉東昌路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -768,6 +768,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T07:35:20.804416"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T08:17:21.072288"
       }
     ]
   },
@@ -777,11 +781,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉大平派出所",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T08:00:20.897467"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T08:17:21.072288"
       }
     ]
   },
