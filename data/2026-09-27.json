@@ -4287,7 +4287,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市勝利路322巷",
     "units": "高級救護隊",
-    "current_status": "已離院",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -4300,6 +4300,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-28T00:04:20.616555"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T00:35:20.896970"
       }
     ]
   }
