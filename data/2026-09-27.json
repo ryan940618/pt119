@@ -2561,7 +2561,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉過江路",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2570,6 +2570,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T16:22:21.958876"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T16:33:22.088155"
       }
     ]
   },
@@ -2764,6 +2768,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T16:30:21.707290"
+      }
+    ]
+  },
+  "56b5084a2d7f34ab2f2dc84332e5ef54": {
+    "time": "2026/09/27 16:31:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉武洛路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:33:22.088155"
       }
     ]
   }
