@@ -3341,7 +3341,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮大同路",
     "units": "潮州分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3350,6 +3350,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T18:26:21.697379"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T18:28:21.669594"
       }
     ]
   },
