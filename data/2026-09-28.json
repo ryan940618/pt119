@@ -601,11 +601,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉成功路1巷",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T06:23:21.507649"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:24:21.360209"
       }
     ]
   }
