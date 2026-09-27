@@ -1901,11 +1901,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉中山路",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T12:42:20.983536"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T13:29:21.626425"
       }
     ]
   },
@@ -2040,6 +2044,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T13:28:21.818265"
+      }
+    ]
+  },
+  "3408e380f23bcd08a204789202f1f2d6": {
+    "time": "2026/09/27 13:26:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮南灣往墾丁",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:29:21.626425"
+      }
+    ]
+  },
+  "8e6447c4ced858fdf7279ca985d86624": {
+    "time": "2026/09/27 13:26:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉縣立白沙國小旁住家[[929]屏東縣琉球鄉漁福村三民路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:29:21.626425"
       }
     ]
   }
