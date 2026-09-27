@@ -242,5 +242,19 @@
         "timestamp": "2026-09-28T02:03:21.446557"
       }
     ]
+  },
+  "a1973d6508242d14adaa42137415a114": {
+    "time": "2026/09/28 02:16:31",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉南興路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T02:18:20.543960"
+      }
+    ]
   }
 }
