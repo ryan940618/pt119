@@ -2805,7 +2805,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉武洛路",
     "units": "里港分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2818,6 +2818,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-27T16:47:22.370061"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:51:22.069774"
       }
     ]
   },
