@@ -2611,7 +2611,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉溫泉路",
     "units": "車城分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2624,6 +2624,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-27T16:22:21.958876"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T16:25:21.872745"
       }
     ]
   },
