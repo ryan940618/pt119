@@ -824,5 +824,19 @@
         "timestamp": "2026-09-27T08:07:21.054651"
       }
     ]
+  },
+  "b9fa9fa01878ab4970f6561322246c42": {
+    "time": "2026/09/27 08:22:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉五房路",
+    "units": "新園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T08:23:21.461895"
+      }
+    ]
   }
 }
