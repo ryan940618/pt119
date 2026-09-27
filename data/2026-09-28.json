@@ -626,5 +626,19 @@
         "timestamp": "2026-09-28T06:25:21.512474"
       }
     ]
+  },
+  "c364441f75f9cd9687db3a6f8238c591": {
+    "time": "2026/09/28 06:34:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自立路108巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:35:20.234779"
+      }
+    ]
   }
 }
