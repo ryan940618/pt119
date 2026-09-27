@@ -3813,7 +3813,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市棒球路160巷",
     "units": "麟洛分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3826,6 +3826,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-27T21:25:20.914530"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T21:32:21.171518"
       }
     ]
   },
@@ -3854,6 +3858,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T21:14:21.019300"
+      }
+    ]
+  },
+  "1746b5b4e29aa89669df64d86bc7a108": {
+    "time": "2026/09/27 21:31:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉和平西路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T21:32:21.171518"
       }
     ]
   }
