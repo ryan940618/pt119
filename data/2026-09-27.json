@@ -3875,7 +3875,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉和平西路",
     "units": "公館分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3884,6 +3884,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T21:36:21.068200"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T21:40:21.186188"
       }
     ]
   },
