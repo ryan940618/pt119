@@ -1012,5 +1012,33 @@
         "timestamp": "2026-09-27T09:01:21.394256"
       }
     ]
+  },
+  "926122871017fa19322325eb9ad29bc3": {
+    "time": "2026/09/27 09:07:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉漁港活動中心",
+    "units": "琉球分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T09:09:21.557840"
+      }
+    ]
+  },
+  "48e90f6e2a83d75127c37d352146a0cf": {
+    "time": "2026/09/27 09:07:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉中山路",
+    "units": "琉球分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T09:09:21.557840"
+      }
+    ]
   }
 }
