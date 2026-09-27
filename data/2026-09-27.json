@@ -3021,11 +3021,15 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉屏東縣枋山鄉舊庄路",
     "units": "枋山分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T17:22:21.404657"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T17:23:21.488371"
       }
     ]
   }
