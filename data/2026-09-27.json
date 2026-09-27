@@ -3705,11 +3705,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉新生路",
     "units": "",
-    "current_status": "已受理",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-09-27T20:43:21.176667"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T20:44:21.094909"
       }
     ]
   },
