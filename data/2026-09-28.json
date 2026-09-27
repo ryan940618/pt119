@@ -829,7 +829,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉勝利路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -838,6 +838,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T07:02:20.189393"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T07:39:20.484562"
       }
     ]
   },
@@ -888,6 +892,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T07:25:20.402548"
+      }
+    ]
+  },
+  "b2dd94fdea923426bfa6d039cb4689b3": {
+    "time": "2026/09/28 07:38:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉光明路",
+    "units": "萬巒分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T07:39:20.484562"
       }
     ]
   }
