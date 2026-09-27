@@ -2309,7 +2309,7 @@
     "sub_category": "",
     "location": "屏東縣台9線往台東方向/伊屯部落附近",
     "units": "獅子分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2318,6 +2318,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T15:42:21.508081"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T16:10:21.603625"
       }
     ]
   },
@@ -2513,11 +2517,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:25:21.165646"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T16:10:21.603625"
       }
     ]
   },
@@ -2595,11 +2603,15 @@
     "sub_category": "",
     "location": "屏東縣車城鄉溫泉路",
     "units": "車城分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T16:00:21.528475"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T16:10:21.603625"
       }
     ]
   },
