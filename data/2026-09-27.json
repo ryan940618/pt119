@@ -3889,11 +3889,15 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉竹站路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T21:14:21.019300"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T22:10:21.115178"
       }
     ]
   },
@@ -3955,7 +3959,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉頭崙村三山路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3964,6 +3968,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T22:09:21.260166"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T22:10:21.115178"
       }
     ]
   },
