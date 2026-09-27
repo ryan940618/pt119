@@ -1585,7 +1585,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉台電與旭日亭中段處",
     "units": "琉球分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -1594,6 +1594,10 @@
       {
         "status": "",
         "timestamp": "2026-09-27T11:23:21.774626"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T11:24:21.736922"
       }
     ]
   }
