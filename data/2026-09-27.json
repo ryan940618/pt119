@@ -998,5 +998,19 @@
         "timestamp": "2026-09-27T09:00:21.307626"
       }
     ]
+  },
+  "48d685cbd56b459fca426db934ab25a0": {
+    "time": "2026/09/27 08:59:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉七塊路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T09:01:21.394256"
+      }
+    ]
   }
 }
