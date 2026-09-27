@@ -3456,5 +3456,19 @@
         "timestamp": "2026-09-27T18:43:22.406168"
       }
     ]
+  },
+  "8eefd881f4cf1ea55cd623e50a10dda5": {
+    "time": "2026/09/27 18:54:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉平和路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T18:55:22.023909"
+      }
+    ]
   }
 }
