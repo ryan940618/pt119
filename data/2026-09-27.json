@@ -871,7 +871,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉震點樂汽車旅館前",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已受理",
@@ -880,6 +880,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T08:31:21.211319"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T08:33:21.302390"
+      }
+    ]
+  },
+  "bf959940524a746f42c7785336096ff0": {
+    "time": "2026/09/27 08:32:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉永翔路",
+    "units": "佳冬分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T08:33:21.302390"
       }
     ]
   }
