@@ -1989,7 +1989,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉瓦窯路",
     "units": "崁頂分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1998,6 +1998,10 @@
       {
         "status": "",
         "timestamp": "2026-09-27T13:15:21.669572"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T13:16:21.528905"
       }
     ]
   }
