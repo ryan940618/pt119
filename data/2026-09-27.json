@@ -3893,11 +3893,29 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉佳和路",
     "units": "萬巒分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T21:38:21.109945"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T21:39:20.995763"
+      }
+    ]
+  },
+  "a4d7d9be8b6677d759c6c6ec9c4ae70e": {
+    "time": "2026/09/27 21:38:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉頭崙村三山路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T21:39:20.995763"
       }
     ]
   }
