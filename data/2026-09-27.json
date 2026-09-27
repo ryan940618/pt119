@@ -1179,11 +1179,15 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉透過經緯度轉換GIS座標(22.238,120.858)",
     "units": "牡丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:09:21.240624"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T10:43:21.371858"
       }
     ]
   },
