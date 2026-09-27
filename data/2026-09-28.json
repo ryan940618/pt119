@@ -647,11 +647,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉昌隆一街",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T06:39:20.166412"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:40:20.058289"
       }
     ]
   }
