@@ -2893,11 +2893,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉廣興村平和路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T16:41:21.869572"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T17:36:21.595477"
       }
     ]
   },
