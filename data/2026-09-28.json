@@ -719,11 +719,29 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉文化路",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T06:49:20.088688"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:50:20.151223"
+      }
+    ]
+  },
+  "35864912633a4c25a84fcda896194c63": {
+    "time": "2026/09/28 06:49:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉大圳路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:50:20.151223"
       }
     ]
   }
