@@ -966,5 +966,33 @@
         "timestamp": "2026-09-28T07:55:20.545305"
       }
     ]
+  },
+  "7e14f7e49b8dff08ea0097b85f9462ee": {
+    "time": "2026/09/28 07:54:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮介壽路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:56:20.538033"
+      }
+    ]
+  },
+  "a96a519ef9b79f67f081339485b11ecc": {
+    "time": "2026/09/28 07:54:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公成路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T07:56:20.538033"
+      }
+    ]
   }
 }
