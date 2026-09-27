@@ -3698,5 +3698,33 @@
         "timestamp": "2026-09-27T20:40:21.354158"
       }
     ]
+  },
+  "652cdeabdd19c57a34f33c1cc517e1ac": {
+    "time": "2026/09/27 20:41:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉新生路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-27T20:43:21.176667"
+      }
+    ]
+  },
+  "294616c1612c9f393baa65da668a1b38": {
+    "time": "2026/09/27 20:39:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉和平西路",
+    "units": "公館分隊,萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T20:43:21.176667"
+      }
+    ]
   }
 }
