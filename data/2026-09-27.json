@@ -2338,5 +2338,19 @@
         "timestamp": "2026-09-27T14:38:21.203185"
       }
     ]
+  },
+  "e46aa91ad7af83fd4d79d2df53c4f5d1": {
+    "time": "2026/09/27 13:45:02",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣車城鄉福安宮後方海灘",
+    "units": "車城分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T14:43:20.862929"
+      }
+    ]
   }
 }
