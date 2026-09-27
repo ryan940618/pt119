@@ -766,5 +766,19 @@
         "timestamp": "2026-09-27T07:35:20.804416"
       }
     ]
+  },
+  "6e29cb560e2e4b11b332052f602ec93b": {
+    "time": "2026/09/27 07:59:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉大平派出所",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T08:00:20.897467"
+      }
+    ]
   }
 }
