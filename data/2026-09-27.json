@@ -4235,11 +4235,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮中洲路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T23:29:20.378205"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T00:04:20.616555"
       }
     ]
   },
@@ -4267,7 +4271,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市勝利路322巷",
     "units": "高級救護隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -4276,6 +4280,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-27T23:58:20.556744"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T00:04:20.616555"
       }
     ]
   }
