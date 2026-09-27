@@ -1101,7 +1101,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉中山路",
     "units": "琉球分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1122,6 +1122,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T09:26:20.504210"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T10:11:21.124528"
       }
     ]
   },
@@ -1178,6 +1182,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T10:10:21.062105"
+      }
+    ]
+  },
+  "7ba8b587b4305ab1765ff86fdafcb5db": {
+    "time": "2026/09/27 10:08:17",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣南州鄉人和路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:11:21.124528"
       }
     ]
   }
