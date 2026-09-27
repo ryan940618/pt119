@@ -3177,7 +3177,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮興和路",
     "units": "南州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3186,6 +3186,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T18:06:21.905505"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T18:22:21.803426"
       }
     ]
   },
@@ -3339,11 +3343,15 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉楓林二巷",
     "units": "獅子分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T18:21:21.588283"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T18:22:21.803426"
       }
     ]
   }
