@@ -2473,11 +2473,15 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉南和80號",
     "units": "枋寮分隊,枋山分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:05:21.031772"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T15:52:21.569207"
       }
     ]
   },
