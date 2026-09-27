@@ -1710,5 +1710,19 @@
         "timestamp": "2026-09-27T12:03:20.998090"
       }
     ]
+  },
+  "9ef16a2626da0e91c895b0a45da7293a": {
+    "time": "2026/09/27 12:01:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉埤頭巷",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T12:04:20.860112"
+      }
+    ]
   }
 }
