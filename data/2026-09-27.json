@@ -3341,11 +3341,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮大同路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T18:21:21.588283"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T18:26:21.697379"
       }
     ]
   },
