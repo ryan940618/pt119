@@ -2849,7 +2849,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉武洛路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -2866,6 +2866,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T16:51:22.069774"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T17:13:21.292458"
       }
     ]
   },
@@ -2995,11 +2999,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉惠安路",
     "units": "萬丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T17:12:21.030051"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T17:13:21.292458"
       }
     ]
   }
