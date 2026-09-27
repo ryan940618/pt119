@@ -672,5 +672,33 @@
         "timestamp": "2026-09-28T06:42:20.037553"
       }
     ]
+  },
+  "9ee6e1d40a46f3bace09f4709c45d28b": {
+    "time": "2026/09/28 06:46:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉永田路",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:47:20.084316"
+      }
+    ]
+  },
+  "40cc26d20848b4ed490c2fd9a70c511a": {
+    "time": "2026/09/28 06:45:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉中山路",
+    "units": "枋山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T06:47:20.084316"
+      }
+    ]
   }
 }
