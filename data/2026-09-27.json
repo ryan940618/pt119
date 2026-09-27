@@ -4043,7 +4043,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮番仔寮506號",
     "units": "墾丁分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -4056,6 +4056,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T22:47:20.271941"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T23:11:20.706091"
       }
     ]
   },
@@ -4160,6 +4164,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T23:07:20.225641"
+      }
+    ]
+  },
+  "cabbf647d4d93e73fc80dc18a3f4b4d1": {
+    "time": "2026/09/27 23:08:48",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉田厝街",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T23:11:20.706091"
       }
     ]
   }
