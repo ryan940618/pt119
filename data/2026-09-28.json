@@ -317,11 +317,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉透過經緯度轉換GIS座標(0,0)(22.4912,120.3634)",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T03:41:21.101426"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T03:44:20.157164"
       }
     ]
   }
