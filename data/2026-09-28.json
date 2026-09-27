@@ -679,11 +679,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉永田路",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T06:47:20.084316"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:48:20.079969"
       }
     ]
   },
