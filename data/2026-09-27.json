@@ -3667,7 +3667,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉楓林四巷",
     "units": "獅子分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3676,6 +3676,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T20:28:21.529039"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T21:18:21.131106"
       }
     ]
   },
@@ -3761,7 +3765,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市海豐街",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3770,6 +3774,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T21:02:20.999902"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T21:18:21.131106"
       }
     ]
   },
@@ -3779,7 +3787,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉媽祖三巷",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3788,6 +3796,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T21:07:21.034586"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-27T21:18:21.131106"
       }
     ]
   },
