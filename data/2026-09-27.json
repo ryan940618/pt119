@@ -3457,11 +3457,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉光前路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T18:43:22.406168"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T19:21:22.159326"
       }
     ]
   },
