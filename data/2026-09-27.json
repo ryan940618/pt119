@@ -842,5 +842,19 @@
         "timestamp": "2026-09-27T08:24:21.032995"
       }
     ]
+  },
+  "e81a901efc38acc47f2d879d15af1b6a": {
+    "time": "2026/09/27 08:24:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉忠英路180巷",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T08:25:21.111671"
+      }
+    ]
   }
 }
