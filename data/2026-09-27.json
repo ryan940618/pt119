@@ -723,7 +723,7 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉台199線120°51'48\"E, 22°14'03\"N",
     "units": "牡丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -732,6 +732,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T08:42:21.169770"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T10:09:21.240624"
       }
     ]
   },
@@ -1146,6 +1150,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T09:46:20.695155"
+      }
+    ]
+  },
+  "d00c6eef44a7ab61ad804ad39561c0fb": {
+    "time": "2026/09/27 10:05:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉透過經緯度轉換GIS座標(22.238,120.858)",
+    "units": "牡丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T10:09:21.240624"
       }
     ]
   }
