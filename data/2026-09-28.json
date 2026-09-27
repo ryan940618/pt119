@@ -658,5 +658,19 @@
         "timestamp": "2026-09-28T06:40:20.058289"
       }
     ]
+  },
+  "e015e0a3f0520bb713413210531c0a4b": {
+    "time": "2026/09/28 06:20:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉透過經緯度轉換GIS座標",
+    "units": "高級救護隊,鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T06:42:20.037553"
+      }
+    ]
   }
 }
