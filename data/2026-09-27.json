@@ -2307,11 +2307,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市自由路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:33:21.127282"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T15:02:21.416975"
       }
     ]
   },
@@ -2398,6 +2402,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:54:21.204894"
+      }
+    ]
+  },
+  "ce86bb8794d05b582781b64943d398d2": {
+    "time": "2026/09/27 15:00:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉透過經緯度轉換GIS座標(22.2939,120.6442)",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:02:21.416975"
       }
     ]
   }
