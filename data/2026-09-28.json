@@ -99,11 +99,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮南進路",
     "units": "潮州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T01:24:20.246090"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T01:25:20.154668"
       }
     ]
   }
