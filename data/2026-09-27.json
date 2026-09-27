@@ -1237,7 +1237,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽琉線碼頭[新園鄉新興路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1246,6 +1246,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T11:05:21.409477"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T11:22:21.665804"
       }
     ]
   },
@@ -1421,7 +1425,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮昌明路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1430,6 +1434,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T11:21:21.588258"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T11:22:21.665804"
       }
     ]
   },
@@ -1568,6 +1576,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T11:21:21.588258"
+      }
+    ]
+  },
+  "9d2a95209a95b96c259fc0297b3c8ab3": {
+    "time": "2026/09/27 11:20:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉台電與旭日亭中段處",
+    "units": "琉球分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-27T11:22:21.665804"
       }
     ]
   }
