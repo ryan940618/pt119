@@ -30,5 +30,19 @@
         "timestamp": "2026-09-28T00:32:20.852450"
       }
     ]
+  },
+  "d05e714e4b4646bcccff19a25ac8803c": {
+    "time": "2026/09/28 00:36:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉八德路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T00:38:20.858019"
+      }
+    ]
   }
 }
