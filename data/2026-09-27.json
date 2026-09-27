@@ -2235,7 +2235,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮聯營處",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2248,6 +2248,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T14:58:21.091619"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T15:05:21.031772"
       }
     ]
   },
@@ -2257,11 +2261,15 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉潭北巷",
     "units": "泰武分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T14:15:22.041604"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T15:05:21.031772"
       }
     ]
   },
@@ -2307,7 +2315,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市自由路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2316,6 +2324,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T15:02:21.416975"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T15:05:21.031772"
       }
     ]
   },
@@ -2416,6 +2428,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T15:02:21.416975"
+      }
+    ]
+  },
+  "9d0e3444ebbc3af879ceec22e93bcd1d": {
+    "time": "2026/09/27 15:00:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉南和80號",
+    "units": "枋寮分隊,枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T15:05:21.031772"
       }
     ]
   }
