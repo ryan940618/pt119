@@ -1652,5 +1652,19 @@
         "timestamp": "2026-09-27T11:24:21.736922"
       }
     ]
+  },
+  "d06a42340a9696d1f99ec98a4d272d6b": {
+    "time": "2026/09/27 11:51:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮長春路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T11:52:20.526222"
+      }
+    ]
   }
 }
