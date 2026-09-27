@@ -3303,11 +3303,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉民族路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T18:14:21.400288"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T18:42:22.197929"
       }
     ]
   },
@@ -3406,6 +3410,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-27T18:39:22.143849"
+      }
+    ]
+  },
+  "088d5cfff7425a1225adafe5ab6c2767": {
+    "time": "2026/09/27 18:41:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉中興路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T18:42:22.197929"
       }
     ]
   }
