@@ -1929,11 +1929,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市莊敬街",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T12:44:21.118584"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T13:21:21.537242"
       }
     ]
   },
