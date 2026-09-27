@@ -2849,7 +2849,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉武洛路",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2870,6 +2870,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T17:13:21.292458"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T17:41:21.542738"
       }
     ]
   },
@@ -2951,7 +2955,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市公正四街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2960,6 +2964,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-27T17:33:21.225982"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-27T17:41:21.542738"
       }
     ]
   },
