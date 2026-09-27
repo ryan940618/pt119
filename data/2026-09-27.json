@@ -2213,11 +2213,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮興美路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-27T13:52:21.877443"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-27T14:35:21.080445"
       }
     ]
   },
@@ -2305,11 +2309,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉環島路",
     "units": "琉球分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-27T14:34:21.083066"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T14:35:21.080445"
       }
     ]
   }
