@@ -4252,5 +4252,19 @@
         "timestamp": "2026-09-27T23:47:20.412732"
       }
     ]
+  },
+  "33a415985a200b79309ca4a584e82e6c": {
+    "time": "2026/09/27 23:46:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市勝利路322巷",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-27T23:48:20.464917"
+      }
+    ]
   }
 }
