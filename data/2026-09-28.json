@@ -361,7 +361,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮環龍路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "",
@@ -374,6 +374,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T04:30:20.379586"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T04:43:20.447237"
       }
     ]
   },
@@ -383,7 +387,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市田中一橫巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -396,6 +400,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T04:39:20.438269"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T04:43:20.447237"
       }
     ]
   },
@@ -414,6 +422,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T04:41:20.517540"
+      }
+    ]
+  },
+  "ffa1aef574caebd8269f1019a52d0431": {
+    "time": "2026/09/28 04:41:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮愛國路131巷",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T04:43:20.447237"
       }
     ]
   }
