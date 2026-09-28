@@ -1707,11 +1707,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮榮祥路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T11:26:21.130808"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T12:12:20.660365"
       }
     ]
   },
@@ -1776,6 +1780,20 @@
       {
         "status": "已返隊",
         "timestamp": "2026-09-28T12:01:20.362903"
+      }
+    ]
+  },
+  "49420177f4adc612b15c406ff72c579f": {
+    "time": "2026/09/28 12:11:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣霧台鄉霧臺鄉快到舊鄉長的工寮(霧台往阿禮那條路",
+    "units": "霧台分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T12:12:20.660365"
       }
     ]
   }
