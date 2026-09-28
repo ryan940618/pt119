@@ -1431,11 +1431,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉光明路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T10:19:20.492959"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T10:42:20.863844"
       }
     ]
   },
@@ -1473,11 +1477,29 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉銘泉生態休閒農場附近路",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T10:40:20.705984"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:42:20.863844"
+      }
+    ]
+  },
+  "4ebfab82d5977043247673c347942f09": {
+    "time": "2026/09/28 10:40:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉新豐路",
+    "units": "泰武分隊,萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T10:42:20.863844"
       }
     ]
   }
