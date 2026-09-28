@@ -2909,11 +2909,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市中山路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T17:42:21.047619"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T17:46:20.904787"
+      }
+    ]
+  },
+  "eb268427d95da4909899cd1906af77a4": {
+    "time": "2026/09/28 17:44:40",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉勝利路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T17:46:20.904787"
       }
     ]
   }
