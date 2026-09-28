@@ -252,5 +252,19 @@
         "timestamp": "2026-09-29T03:25:20.963416"
       }
     ]
+  },
+  "f4d595fd0c340e2dbd41e8393b57e589": {
+    "time": "2026/09/29 03:26:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市林森路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T03:27:20.908877"
+      }
+    ]
   }
 }
