@@ -1669,11 +1669,15 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉楓林二巷",
     "units": "獅子分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T11:27:21.062218"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:28:21.107072"
       }
     ]
   }
