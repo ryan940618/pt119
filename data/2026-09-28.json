@@ -2395,11 +2395,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮墾丁路",
     "units": "墾丁分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T15:44:21.026993"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:45:20.957398"
       }
     ]
   }
