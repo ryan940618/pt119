@@ -2869,11 +2869,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生東路56巷",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T17:34:20.651263"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T17:41:20.780273"
+      }
+    ]
+  },
+  "de078a35a576b8187cbe2fb32d3a54b4": {
+    "time": "2026/09/28 17:40:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉仁愛街",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:41:20.780273"
       }
     ]
   }
