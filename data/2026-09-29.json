@@ -30,5 +30,19 @@
         "timestamp": "2026-09-29T00:29:20.714925"
       }
     ]
+  },
+  "15be87f74f339454cf22c2f620e4b5fb": {
+    "time": "2026/09/29 00:31:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉自立路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T00:32:20.726776"
+      }
+    ]
   }
 }
