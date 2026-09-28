@@ -48,5 +48,19 @@
         "timestamp": "2026-09-29T00:32:20.726776"
       }
     ]
+  },
+  "baa598ec32fd679c3020350cec593919": {
+    "time": "2026/09/29 00:54:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公民街",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T00:57:20.955381"
+      }
+    ]
   }
 }
