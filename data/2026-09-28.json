@@ -3074,5 +3074,33 @@
         "timestamp": "2026-09-28T18:02:20.904482"
       }
     ]
+  },
+  "5433a07b2e2e8a866ae5541079e1d975": {
+    "time": "2026/09/28 18:12:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉媽祖三巷",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:14:21.223157"
+      }
+    ]
+  },
+  "0f792d068206c5364d698bb1ad26dc83": {
+    "time": "2026/09/28 18:11:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉南華路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:14:21.223157"
+      }
+    ]
   }
 }
