@@ -514,5 +514,19 @@
         "timestamp": "2026-09-29T07:22:20.324056"
       }
     ]
+  },
+  "63cfc96730c1c0acb4ef5285fd7f9028": {
+    "time": "2026/09/29 07:23:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉褒忠路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:25:20.185302"
+      }
+    ]
   }
 }
