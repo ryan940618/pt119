@@ -3295,7 +3295,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3304,6 +3304,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T19:28:21.724554"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:43:21.951443"
       }
     ]
   },
@@ -3331,7 +3335,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉南興路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3340,6 +3344,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T19:32:21.929679"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:43:21.951443"
       }
     ]
   },
@@ -3479,11 +3487,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉大平路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T19:36:24.464895"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T19:43:21.951443"
       }
     ]
   }
