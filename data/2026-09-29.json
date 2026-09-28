@@ -554,5 +554,33 @@
         "timestamp": "2026-09-29T07:29:20.244659"
       }
     ]
+  },
+  "f610946b85405823c4f8309b6a78a479": {
+    "time": "2026/09/29 07:39:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市青島街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:40:20.407923"
+      }
+    ]
+  },
+  "eb865a67c89b093d91a2e0d88ca1a68a": {
+    "time": "2026/09/29 07:38:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮延平路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T07:40:20.407923"
+      }
+    ]
   }
 }
