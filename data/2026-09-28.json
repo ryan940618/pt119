@@ -1144,5 +1144,19 @@
         "timestamp": "2026-09-28T08:38:20.939572"
       }
     ]
+  },
+  "0a7b2a49f5cee772c65c79e2911336c5": {
+    "time": "2026/09/28 08:38:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮育英路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:39:20.946343"
+      }
+    ]
   }
 }
