@@ -2969,7 +2969,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中山路",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -2978,6 +2978,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:46:20.904787"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T18:21:21.851449"
       }
     ]
   },
