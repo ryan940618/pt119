@@ -3451,7 +3451,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市仁愛路199巷",
     "units": "高級救護隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -3464,6 +3464,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T19:40:22.250689"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:44:21.918177"
       }
     ]
   },
