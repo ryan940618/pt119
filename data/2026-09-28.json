@@ -2273,11 +2273,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬丹路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T15:04:20.637057"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T15:08:20.731015"
       }
     ]
   },
@@ -2287,11 +2291,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉四維國小側門的紅綠燈",
     "units": "新園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T15:07:20.866794"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T15:08:20.731015"
       }
     ]
   }
