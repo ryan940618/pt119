@@ -3298,5 +3298,33 @@
         "timestamp": "2026-09-28T19:06:21.727174"
       }
     ]
+  },
+  "b10e119b8f19db3f68642978b91ecc48": {
+    "time": "2026/09/28 19:06:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復光街2巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:08:21.897473"
+      }
+    ]
+  },
+  "b7ed7899da56ccd11eba148d7d487552": {
+    "time": "2026/09/28 19:06:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮長榮街52巷",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:08:21.897473"
+      }
+    ]
   }
 }
