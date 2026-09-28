@@ -3751,11 +3751,15 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉青葉村光復巷",
     "units": "高樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T21:00:20.540289"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T21:01:20.539521"
       }
     ]
   }
