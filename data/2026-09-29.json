@@ -19,11 +19,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉仙隆路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T00:19:20.786854"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T00:29:20.714925"
       }
     ]
   }
