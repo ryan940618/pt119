@@ -454,5 +454,19 @@
         "timestamp": "2026-09-29T06:17:20.820749"
       }
     ]
+  },
+  "84120094b76fe06471e94a455a49d5a4": {
+    "time": "2026/09/29 06:37:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉三山路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T06:38:21.023035"
+      }
+    ]
   }
 }
