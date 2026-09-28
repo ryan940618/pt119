@@ -1281,11 +1281,15 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉加祿北上車道萊爾富",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T09:17:20.092775"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T09:49:20.790858"
       }
     ]
   },
