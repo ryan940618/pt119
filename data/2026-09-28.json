@@ -4034,5 +4034,19 @@
         "timestamp": "2026-09-28T22:58:20.324061"
       }
     ]
+  },
+  "e24ee187bed46fe7bedad648bf1f721f": {
+    "time": "2026/09/28 22:58:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市吉祥街",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T23:02:20.338416"
+      }
+    ]
   }
 }
