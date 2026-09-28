@@ -2685,11 +2685,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉佳和路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T16:41:21.731436"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T17:19:20.447980"
       }
     ]
   },
@@ -2768,6 +2772,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T17:15:20.536165"
+      }
+    ]
+  },
+  "0ac98fab8a67d25aa40dd6cb59e5acd0": {
+    "time": "2026/09/28 17:17:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市瑞光路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:19:20.447980"
       }
     ]
   }
