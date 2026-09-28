@@ -3913,7 +3913,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉口社村信義巷",
     "units": "高樹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3938,6 +3938,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T22:42:20.135606"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T22:45:20.229231"
       }
     ]
   },
@@ -3961,11 +3965,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉廣安路230巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T22:19:21.021818"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T22:45:20.229231"
       }
     ]
   }
