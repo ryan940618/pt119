@@ -3645,11 +3645,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉中興路1巷",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T20:31:20.327162"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T20:41:20.391490"
       }
     ]
   },
