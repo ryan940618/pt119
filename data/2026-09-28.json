@@ -3196,5 +3196,19 @@
         "timestamp": "2026-09-28T18:34:21.176755"
       }
     ]
+  },
+  "a8206e5ef437322344610f3951ed6a7e": {
+    "time": "2026/09/28 18:52:23",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣屏東市大利路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T18:54:21.604111"
+      }
+    ]
   }
 }
