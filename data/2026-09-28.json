@@ -2745,11 +2745,29 @@
     "sub_category": "",
     "location": "屏東縣東港鎮進德大橋東港端",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T17:13:20.439914"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:15:20.536165"
+      }
+    ]
+  },
+  "13dce61df4ed513679b1da6bb4cd6e47": {
+    "time": "2026/09/28 17:14:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮紅柴路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T17:15:20.536165"
       }
     ]
   }
