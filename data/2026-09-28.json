@@ -1037,7 +1037,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮中正路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已受理",
@@ -1046,6 +1046,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T08:12:20.594971"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T08:38:20.939572"
       }
     ]
   },
@@ -1110,6 +1114,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T08:37:20.905757"
+      }
+    ]
+  },
+  "a8e5d16889569946d8cfb7b81bfeba23": {
+    "time": "2026/09/28 08:36:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉東都街",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T08:38:20.939572"
+      }
+    ]
+  },
+  "637459dff9ad076f83f0fd854a819fdb": {
+    "time": "2026/09/28 08:36:31",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣東港鎮興東四街",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-28T08:38:20.939572"
       }
     ]
   }
