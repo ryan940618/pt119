@@ -1832,5 +1832,19 @@
         "timestamp": "2026-09-28T12:19:20.728521"
       }
     ]
+  },
+  "51e172b06dd5306abb397e8066005eef": {
+    "time": "2026/09/28 12:23:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉力社路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T12:25:20.575752"
+      }
+    ]
   }
 }
