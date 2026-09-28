@@ -2877,7 +2877,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生東路56巷",
     "units": "麟洛分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -2886,6 +2886,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T17:41:20.780273"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T17:48:20.995341"
       }
     ]
   },
