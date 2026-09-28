@@ -2099,7 +2099,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市永大路和武愛街",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -2108,6 +2108,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T14:10:21.275321"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T14:19:21.352701"
       }
     ]
   },
