@@ -3357,7 +3357,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市復光街2巷",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3366,6 +3366,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T19:32:21.929679"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T19:46:20.716432"
       }
     ]
   },
@@ -3375,11 +3379,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮長榮街52巷",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T19:08:21.897473"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T19:46:20.716432"
       }
     ]
   },
