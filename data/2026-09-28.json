@@ -1550,5 +1550,33 @@
         "timestamp": "2026-09-28T10:59:20.866742"
       }
     ]
+  },
+  "912dce204beb7eb598836eb3440fc125": {
+    "time": "2026/09/28 11:07:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉凉山101號",
+    "units": "龍泉分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:08:21.057268"
+      }
+    ]
+  },
+  "341f3d063c39a7a0e68c972a7892e060": {
+    "time": "2026/09/28 11:07:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮嘉漁街",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T11:08:21.057268"
+      }
+    ]
   }
 }
