@@ -1604,5 +1604,19 @@
         "timestamp": "2026-09-28T11:13:21.123964"
       }
     ]
+  },
+  "6f3599d87f47cd43607b334c8cb5dcab": {
+    "time": "2026/09/28 11:12:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉桑原巷",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T11:14:20.996779"
+      }
+    ]
   }
 }
