@@ -503,7 +503,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉南和路",
     "units": "春日分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
@@ -516,6 +516,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T07:30:20.364352"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-29T07:39:20.352066"
       }
     ]
   },
