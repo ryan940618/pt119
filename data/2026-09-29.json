@@ -391,11 +391,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T05:52:20.524258"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T05:53:20.598122"
+      }
+    ]
+  },
+  "eea0256197d67bdb8055464bbbac5221": {
+    "time": "2026/09/29 05:51:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉香潭路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T05:53:20.598122"
       }
     ]
   }
