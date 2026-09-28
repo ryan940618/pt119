@@ -3905,11 +3905,15 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉口社村信義巷",
     "units": "高樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T22:09:20.957835"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T22:10:21.009846"
       }
     ]
   }
