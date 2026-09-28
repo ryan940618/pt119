@@ -2547,11 +2547,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市中華路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T16:00:21.087981"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T16:40:21.538274"
       }
     ]
   },
@@ -2561,11 +2565,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉新生路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T16:11:21.198125"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T16:40:21.538274"
       }
     ]
   },
@@ -2626,6 +2634,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-28T16:35:21.480475"
+      }
+    ]
+  },
+  "e03cf73d430e1933b55730acd1a7d640": {
+    "time": "2026/09/28 16:38:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市武順街",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:40:21.538274"
       }
     ]
   }
