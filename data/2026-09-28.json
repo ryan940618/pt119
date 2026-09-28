@@ -3679,7 +3679,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉中山路",
     "units": "來義分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3692,6 +3692,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T21:08:20.533226"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T21:26:20.585056"
       }
     ]
   },
