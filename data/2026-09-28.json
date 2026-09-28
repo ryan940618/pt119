@@ -2701,7 +2701,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉佳和路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2710,6 +2710,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T17:19:20.447980"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T17:39:20.942377"
       }
     ]
   },
