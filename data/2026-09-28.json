@@ -3345,11 +3345,29 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉七份路",
     "units": "鹽埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-28T19:12:21.929170"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T19:13:21.556974"
+      }
+    ]
+  },
+  "b59a2d0f8c92ed085c07e559fe32e4c6": {
+    "time": "2026/09/28 19:11:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉六巷",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T19:13:21.556974"
       }
     ]
   }
