@@ -1338,5 +1338,19 @@
         "timestamp": "2026-09-28T09:45:20.372667"
       }
     ]
+  },
+  "85d132b46a3b645bc363ae79e767139c": {
+    "time": "2026/09/28 09:49:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬丹蒸餃",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T09:50:20.419545"
+      }
+    ]
   }
 }
