@@ -2417,11 +2417,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉東寧村東寧路29巷",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T15:48:23.369581"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-28T15:53:21.298306"
       }
     ]
   }
