@@ -3487,7 +3487,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市仁愛路199巷",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3508,6 +3508,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T20:07:20.611396"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:15:20.114669"
       }
     ]
   },
@@ -3517,11 +3521,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉福德路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T19:35:21.861509"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T20:15:20.114669"
       }
     ]
   },
