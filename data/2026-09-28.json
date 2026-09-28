@@ -2753,7 +2753,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉三山路120巷",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2762,6 +2762,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T17:42:21.047619"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:11:21.053987"
       }
     ]
   },
@@ -2877,7 +2881,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市棒球路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2886,6 +2890,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T17:54:20.991428"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T18:11:21.053987"
       }
     ]
   },
