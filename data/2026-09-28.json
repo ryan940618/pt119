@@ -4087,7 +4087,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉大平路",
     "units": "高樹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -4100,6 +4100,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T00:01:20.601066"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T00:02:21.014139"
       }
     ]
   },
