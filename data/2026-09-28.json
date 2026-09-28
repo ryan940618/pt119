@@ -3609,7 +3609,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉元泰街",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3618,6 +3618,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-28T20:43:20.492251"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T20:44:20.534079"
       }
     ]
   },
@@ -3690,6 +3694,20 @@
       {
         "status": "已返隊",
         "timestamp": "2026-09-28T20:37:20.561909"
+      }
+    ]
+  },
+  "9964b1d9857d1bdf5dd4f0f15c154d22": {
+    "time": "2026/09/28 20:43:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉惠崙路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:44:20.534079"
       }
     ]
   }
