@@ -3707,7 +3707,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉惠崙路",
     "units": "萬丹分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -3716,6 +3716,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-28T20:52:20.587180"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-28T20:55:20.410793"
+      }
+    ]
+  },
+  "6908c701cb5acdb9898eaad9a27d48d3": {
+    "time": "2026/09/28 20:53:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉來義西部落與義林村之間 接近來義村",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T20:55:20.410793"
       }
     ]
   }
