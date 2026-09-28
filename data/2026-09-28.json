@@ -1239,11 +1239,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉惠安路127巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T08:59:21.049098"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T09:31:20.228934"
       }
     ]
   },
@@ -1272,6 +1276,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T09:19:20.100770"
+      }
+    ]
+  },
+  "c9c5fe70c4a140b4cc7488f2a4b1319d": {
+    "time": "2026/09/28 09:30:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市棒球路160巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T09:31:20.228934"
       }
     ]
   }
