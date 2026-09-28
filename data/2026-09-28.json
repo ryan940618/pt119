@@ -2409,7 +2409,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市自由路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2418,6 +2418,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T15:42:20.858062"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T16:11:21.198125"
       }
     ]
   },
@@ -2512,6 +2516,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T16:00:21.087981"
+      }
+    ]
+  },
+  "de1540ce464e64e9947d66e7fc50b984": {
+    "time": "2026/09/28 16:09:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉新生路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T16:11:21.198125"
       }
     ]
   }
