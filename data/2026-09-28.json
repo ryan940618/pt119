@@ -3807,11 +3807,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉來義村52號附近",
     "units": "泰武分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-28T21:16:20.585797"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-28T22:09:20.957835"
       }
     ]
   },
@@ -3892,6 +3896,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T22:03:21.338372"
+      }
+    ]
+  },
+  "57f952a4f5cd888e3541e2d95c475b24": {
+    "time": "2026/09/28 22:08:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉口社村信義巷",
+    "units": "高樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-28T22:09:20.957835"
       }
     ]
   }
