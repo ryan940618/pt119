@@ -1829,7 +1829,7 @@
     "sub_category": "",
     "location": "屏東縣霧台鄉霧臺鄉快到舊鄉長的工寮(霧台往阿禮那條路",
     "units": "霧台分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1838,6 +1838,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T12:13:20.444180"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-28T13:04:20.859427"
       }
     ]
   },
@@ -1916,6 +1920,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-28T12:56:20.801145"
+      }
+    ]
+  },
+  "dd035e19dec95af3b817f732fb148b49": {
+    "time": "2026/09/28 13:02:44",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣東港鎮船頭路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-28T13:04:20.859427"
       }
     ]
   }
