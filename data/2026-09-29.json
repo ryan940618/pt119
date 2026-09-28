@@ -173,11 +173,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉南興路",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T02:34:20.458571"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T02:35:20.518620"
       }
     ]
   }
