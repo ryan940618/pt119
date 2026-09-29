@@ -2475,7 +2475,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉光明路",
     "units": "林邊分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2484,6 +2484,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T17:59:20.114434"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T18:01:20.182193"
       }
     ]
   },
@@ -2959,11 +2963,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:54:20.080107"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-29T18:01:20.182193"
       }
     ]
   },
