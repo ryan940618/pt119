@@ -2650,5 +2650,33 @@
         "timestamp": "2026-09-29T17:08:20.909089"
       }
     ]
+  },
+  "d1a4508cac366b982e127afec8d491ca": {
+    "time": "2026/09/29 17:08:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮力行巷",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:09:20.938419"
+      }
+    ]
+  },
+  "0bd07fc76ec9aca5390be30c5ace068e": {
+    "time": "2026/09/29 17:07:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市和生路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:09:20.938419"
+      }
+    ]
   }
 }
