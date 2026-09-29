@@ -174,5 +174,19 @@
         "timestamp": "2026-09-30T03:18:20.416794"
       }
     ]
+  },
+  "11e3fa5f5a88e0109249012b2049fd8f": {
+    "time": "2026/09/30 03:22:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市徐州路154巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T03:24:20.563068"
+      }
+    ]
   }
 }
