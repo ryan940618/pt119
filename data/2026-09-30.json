@@ -349,11 +349,15 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉南迴453K[臺9線453K]",
     "units": "枋山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T07:13:20.877204"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T07:14:19.973391"
       }
     ]
   }
