@@ -3469,11 +3469,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆南路117巷",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T21:47:20.630569"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T22:13:20.733406"
       }
     ]
   },
