@@ -865,11 +865,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉西環路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:53:21.003067"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T09:25:21.044155"
       }
     ]
   },
@@ -948,6 +952,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T09:22:20.990126"
+      }
+    ]
+  },
+  "14256e3f273939576a3a0463e54c946f": {
+    "time": "2026/09/29 09:23:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉中庄南路",
+    "units": "春日分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T09:25:21.044155"
       }
     ]
   }
