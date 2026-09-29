@@ -1106,5 +1106,47 @@
         "timestamp": "2026-09-29T10:10:20.306857"
       }
     ]
+  },
+  "7aa9c7784c8362b0ea65b9c44846ffa5": {
+    "time": "2026/09/29 10:16:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉龍門路220巷",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T10:17:20.401435"
+      }
+    ]
+  },
+  "21bc3db0dac673b2bf3a25c1569fab72": {
+    "time": "2026/09/29 10:16:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉八德路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:17:20.401435"
+      }
+    ]
+  },
+  "61dde28aed1d5003c5d00246654a7759": {
+    "time": "2026/09/29 10:15:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮恆南路77巷",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:17:20.401435"
+      }
+    ]
   }
 }
