@@ -1787,11 +1787,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉八德路",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T13:31:20.596058"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T13:38:20.618840"
       }
     ]
   }
