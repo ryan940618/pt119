@@ -2461,7 +2461,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮彭城路",
     "units": "潮州分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -2470,6 +2470,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T16:29:20.713090"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-29T16:32:20.628584"
       }
     ]
   }
