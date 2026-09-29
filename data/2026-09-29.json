@@ -3094,5 +3094,33 @@
         "timestamp": "2026-09-29T18:30:20.364049"
       }
     ]
+  },
+  "6265b208864e0da938329a76f50530a2": {
+    "time": "2026/09/29 18:40:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路152巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:41:20.496372"
+      }
+    ]
+  },
+  "d6378982e4b5c5070d5c35b7e5328896": {
+    "time": "2026/09/29 18:40:19",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮有棵樹民宿",
+    "units": "恆春分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T18:41:20.496372"
+      }
+    ]
   }
 }
