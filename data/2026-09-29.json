@@ -1525,11 +1525,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市福州街",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:55:21.126310"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T12:20:20.215178"
       }
     ]
   },
