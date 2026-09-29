@@ -1846,5 +1846,33 @@
         "timestamp": "2026-09-29T13:49:20.927604"
       }
     ]
+  },
+  "dc23e286c582834d1628f7d748fff228": {
+    "time": "2026/09/29 13:49:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉義新路",
+    "units": "新埤分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T13:50:20.711629"
+      }
+    ]
+  },
+  "bc71e0dc08235ee029ed308588e9b371": {
+    "time": "2026/09/29 13:48:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮恆公路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T13:50:20.711629"
+      }
+    ]
   }
 }
