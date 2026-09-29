@@ -335,7 +335,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉來義加油站",
     "units": "來義分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -348,6 +348,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-30T07:26:20.163527"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T07:31:20.119615"
       }
     ]
   },
