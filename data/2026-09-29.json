@@ -1934,5 +1934,19 @@
         "timestamp": "2026-09-29T13:59:20.827674"
       }
     ]
+  },
+  "01d6ef75bbb6f4e7fb648cb7b76931d0": {
+    "time": "2026/09/29 14:04:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路1500巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T14:05:20.702944"
+      }
+    ]
   }
 }
