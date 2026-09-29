@@ -3188,5 +3188,19 @@
         "timestamp": "2026-09-29T19:20:20.803360"
       }
     ]
+  },
+  "4431f729a7ae9a24043c549c6f8f3c2e": {
+    "time": "2026/09/29 19:25:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路和公勤一街59巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T19:26:20.796822"
+      }
+    ]
   }
 }
