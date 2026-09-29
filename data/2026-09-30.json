@@ -335,11 +335,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉來義加油站",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T07:08:21.030403"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T07:17:20.057160"
       }
     ]
   },
