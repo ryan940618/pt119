@@ -1829,11 +1829,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮潮州國小前[屏東縣潮州鎮育英路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T13:39:20.559745"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T13:57:20.748006"
       }
     ]
   },
