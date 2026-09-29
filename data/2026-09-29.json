@@ -1493,11 +1493,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉義永路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T11:38:21.105195"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T12:27:20.271289"
       }
     ]
   },
@@ -1602,6 +1606,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T12:17:20.070981"
+      }
+    ]
+  },
+  "3b24682122d8820024978743ff22deac": {
+    "time": "2026/09/29 12:24:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮永昌路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T12:27:20.271289"
       }
     ]
   }
