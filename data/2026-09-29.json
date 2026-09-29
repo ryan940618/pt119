@@ -1941,11 +1941,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路1500巷",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T14:05:20.702944"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T14:06:20.774573"
       }
     ]
   }
