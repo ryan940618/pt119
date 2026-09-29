@@ -563,7 +563,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉光復路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -576,6 +576,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T08:15:20.523767"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T08:31:20.718161"
       }
     ]
   },
@@ -770,6 +774,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:26:20.681235"
+      }
+    ]
+  },
+  "534bbe2908d61b253343e5d1c5481c66": {
+    "time": "2026/09/29 08:30:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮大勇路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:31:20.718161"
       }
     ]
   }
