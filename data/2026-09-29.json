@@ -2199,11 +2199,29 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉大同路",
     "units": "佳冬分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T15:15:20.303811"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T15:16:20.323357"
+      }
+    ]
+  },
+  "1ecc23083c7033ac7cccbf26379d4be0": {
+    "time": "2026/09/29 15:14:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉德新路8巷",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T15:16:20.323357"
       }
     ]
   }
