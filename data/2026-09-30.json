@@ -258,5 +258,19 @@
         "timestamp": "2026-09-30T04:52:20.252807"
       }
     ]
+  },
+  "d571cfe2b62074c36ba0c767e644b28a": {
+    "time": "2026/09/30 04:59:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉下庄17號",
+    "units": "林邊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T05:01:20.641471"
+      }
+    ]
   }
 }
