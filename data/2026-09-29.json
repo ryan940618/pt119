@@ -1963,7 +1963,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮清水南路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1972,6 +1972,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T14:45:20.922645"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T14:52:21.249608"
       }
     ]
   },
@@ -2003,7 +2007,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市台糖一街22巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2012,6 +2016,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T14:15:21.749255"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T14:52:21.249608"
       }
     ]
   },
@@ -2080,6 +2088,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T14:47:20.959344"
+      }
+    ]
+  },
+  "608acaf257d5f9f8f366706a4ae89859": {
+    "time": "2026/09/29 14:49:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉蛤板灣路",
+    "units": "琉球分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T14:52:21.249608"
       }
     ]
   }
