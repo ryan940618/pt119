@@ -192,5 +192,19 @@
         "timestamp": "2026-09-30T03:29:20.569722"
       }
     ]
+  },
+  "4970f950cdca949303e2fea654a2f5d5": {
+    "time": "2026/09/30 03:51:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉涼山郵局",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T03:52:20.699329"
+      }
+    ]
   }
 }
