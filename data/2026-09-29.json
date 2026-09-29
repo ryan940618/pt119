@@ -728,5 +728,19 @@
         "timestamp": "2026-09-29T08:03:20.633851"
       }
     ]
+  },
+  "69dc8c035918ad182926c4c4d5f0ddd2": {
+    "time": "2026/09/29 08:18:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市古松西巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T08:19:20.666842"
+      }
+    ]
   }
 }
