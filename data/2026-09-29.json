@@ -1893,7 +1893,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉義新路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1906,6 +1906,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T13:52:20.721950"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T14:45:20.922645"
       }
     ]
   },
@@ -1959,11 +1963,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮清水南路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T13:59:20.827674"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T14:45:20.922645"
       }
     ]
   },
@@ -1973,7 +1981,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路1500巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1982,6 +1990,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T14:06:20.774573"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T14:45:20.922645"
       }
     ]
   },
@@ -2041,11 +2053,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆春鎮農會[屏東縣恆春鎮恆南路11巷",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T14:34:20.988788"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T14:45:20.922645"
       }
     ]
   }
