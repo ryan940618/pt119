@@ -3264,5 +3264,33 @@
         "timestamp": "2026-09-29T20:02:21.312814"
       }
     ]
+  },
+  "ee2e4bbf4cd054248380fffcecfe8565": {
+    "time": "2026/09/29 20:22:20",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣里港鄉縣立玉田國小/大門[屏東縣里港鄉玉田村八德路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-29T20:23:19.938667"
+      }
+    ]
+  },
+  "0efd10421e4c21777c20a8f0480857b8": {
+    "time": "2026/09/29 20:21:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉萬聖路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T20:23:19.938667"
+      }
+    ]
   }
 }
