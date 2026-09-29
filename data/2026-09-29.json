@@ -3372,5 +3372,19 @@
         "timestamp": "2026-09-29T21:12:20.332557"
       }
     ]
+  },
+  "e22ebe95a0ab610305e94acacadcc80d": {
+    "time": "2026/09/29 21:10:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉一陽加油站等候",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T21:13:20.288144"
+      }
+    ]
   }
 }
