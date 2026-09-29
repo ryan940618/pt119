@@ -1762,5 +1762,33 @@
         "timestamp": "2026-09-29T13:23:20.563604"
       }
     ]
+  },
+  "b27e192615382e2f38ed98861713f9bd": {
+    "time": "2026/09/29 13:30:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉民和路",
+    "units": "萬巒分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T13:31:20.596058"
+      }
+    ]
+  },
+  "46c735733b64370f20b3a99f52d58137": {
+    "time": "2026/09/29 13:30:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉八德路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T13:31:20.596058"
+      }
+    ]
   }
 }
