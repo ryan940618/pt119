@@ -136,5 +136,19 @@
         "timestamp": "2026-09-30T02:31:20.414752"
       }
     ]
+  },
+  "d8de1b66e545d23475aa5236ec86a131": {
+    "time": "2026/09/30 02:56:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮東門路2巷",
+    "units": "恆春分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T02:57:20.369252"
+      }
+    ]
   }
 }
