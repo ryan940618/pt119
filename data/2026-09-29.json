@@ -2129,11 +2129,43 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉大新醫院[屏東縣高樹鄉興中路",
     "units": "高樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T14:58:20.136841"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T14:59:20.255281"
+      }
+    ]
+  },
+  "45017dc2bbeefc39a068cdcd72858513": {
+    "time": "2026/09/29 14:58:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉中山路",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T14:59:20.255281"
+      }
+    ]
+  },
+  "cc293e45808122d62903ca8166fc8363": {
+    "time": "2026/09/29 14:58:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮自由路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T14:59:20.255281"
       }
     ]
   }
