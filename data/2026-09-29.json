@@ -3557,7 +3557,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉南興路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3566,6 +3566,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T22:59:20.912350"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T23:12:20.056519"
       }
     ]
   },
@@ -3692,6 +3696,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T23:04:19.962518"
+      }
+    ]
+  },
+  "57bec69a930608bd6112486ffa78939e": {
+    "time": "2026/09/29 23:10:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T23:12:20.056519"
       }
     ]
   }
