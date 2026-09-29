@@ -1680,5 +1680,19 @@
         "timestamp": "2026-09-29T12:42:20.200028"
       }
     ]
+  },
+  "2315b34da27a4990431ae4d8dcfacdc1": {
+    "time": "2026/09/29 13:04:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉鹽琉線碼頭[新園鄉新興路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T13:05:20.308723"
+      }
+    ]
   }
 }
