@@ -27,7 +27,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮連興路114巷",
     "units": "潮州分隊",
-    "current_status": "已返隊",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -40,6 +40,10 @@
       {
         "status": "已返隊",
         "timestamp": "2026-09-30T01:18:20.897605"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T01:22:21.002717"
       }
     ]
   },
@@ -54,6 +58,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T01:18:20.897605"
+      }
+    ]
+  },
+  "59397f692b5c9c43fccb44b9c596e468": {
+    "time": "2026/09/30 01:19:17",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉富豐路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T01:22:21.002717"
       }
     ]
   }
