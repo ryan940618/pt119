@@ -1232,5 +1232,33 @@
         "timestamp": "2026-09-29T10:33:20.496674"
       }
     ]
+  },
+  "4623a26429d1a8d0ef8c89f6703e5011": {
+    "time": "2026/09/29 10:34:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉同安路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:35:20.450795"
+      }
+    ]
+  },
+  "f6376be76a09033189d8ab4f1eb43b81": {
+    "time": "2026/09/29 10:34:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉忠孝路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:35:20.450795"
+      }
+    ]
   }
 }
