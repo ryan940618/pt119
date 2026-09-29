@@ -3605,7 +3605,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉南興路",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3618,6 +3618,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T23:14:21.031832"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T23:25:20.072659"
       }
     ]
   },
