@@ -2607,11 +2607,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市屏東大學/屏商校區[屏東市民生東路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-29T16:58:20.949239"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T17:34:21.097907"
       }
     ]
   },
@@ -2808,6 +2812,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:32:21.063984"
+      }
+    ]
+  },
+  "df43f1207aeb167d422286101648d4e8": {
+    "time": "2026/09/29 17:32:29",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉廣興村中正路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:34:21.097907"
       }
     ]
   }
