@@ -214,5 +214,19 @@
         "timestamp": "2026-09-30T03:53:20.631483"
       }
     ]
+  },
+  "5251b8c13396c0c8f8baafb69d0dee27": {
+    "time": "2026/09/30 03:55:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉繁華路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T03:56:20.762158"
+      }
+    ]
   }
 }
