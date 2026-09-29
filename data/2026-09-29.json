@@ -3133,7 +3133,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路152巷",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3142,6 +3142,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T19:11:20.659749"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T19:23:20.808850"
       }
     ]
   },
