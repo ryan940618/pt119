@@ -1319,7 +1319,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉義民路2巷",
     "units": "枋寮分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1328,6 +1328,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T11:16:20.809882"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T11:27:20.828100"
       }
     ]
   },
@@ -1337,7 +1341,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣勝路191巷",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1346,6 +1350,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T10:45:20.544821"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T11:27:20.828100"
       }
     ]
   },
