@@ -2971,7 +2971,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -2980,6 +2980,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-29T18:01:20.182193"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-29T18:06:20.256892"
       }
     ]
   },
