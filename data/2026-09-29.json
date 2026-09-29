@@ -3393,7 +3393,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉瓦窯路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3402,6 +3402,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T21:50:20.551025"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T22:07:20.741563"
       }
     ]
   },
@@ -3480,6 +3484,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T21:58:20.638024"
+      }
+    ]
+  },
+  "9016dc0daa503fbec9ca126765de35dd": {
+    "time": "2026/09/29 22:06:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮東隆街",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T22:07:20.741563"
       }
     ]
   }
