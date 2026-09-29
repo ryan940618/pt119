@@ -1510,5 +1510,33 @@
         "timestamp": "2026-09-29T11:45:20.933333"
       }
     ]
+  },
+  "826254f721c9eb2f7c1f97e370ac6293": {
+    "time": "2026/09/29 11:54:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市福州街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T11:55:21.126310"
+      }
+    ]
+  },
+  "83d5b66568fb23963a9f32e2c8840981": {
+    "time": "2026/09/29 11:53:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉和平路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T11:55:21.126310"
+      }
+    ]
   }
 }
