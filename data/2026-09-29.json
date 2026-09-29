@@ -1278,5 +1278,19 @@
         "timestamp": "2026-09-29T10:42:20.528856"
       }
     ]
+  },
+  "0ade1e66f7cf840d05d2d8fbe71c65de": {
+    "time": "2026/09/29 10:43:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣勝路191巷",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T10:44:20.614311"
+      }
+    ]
   }
 }
