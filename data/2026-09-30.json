@@ -324,5 +324,19 @@
         "timestamp": "2026-09-30T06:30:20.837888"
       }
     ]
+  },
+  "2f75c60528869daaf8f3a3f4ab6ef41f": {
+    "time": "2026/09/30 07:06:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉來義加油站",
+    "units": "來義分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T07:08:21.030403"
+      }
+    ]
   }
 }
