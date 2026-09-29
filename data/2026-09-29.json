@@ -1734,5 +1734,19 @@
         "timestamp": "2026-09-29T13:19:20.475687"
       }
     ]
+  },
+  "a586645c5a180142260faf3ddd6e7f7e": {
+    "time": "2026/09/29 13:18:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉大同路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T13:20:20.505859"
+      }
+    ]
   }
 }
