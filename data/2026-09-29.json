@@ -1801,7 +1801,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉民和路",
     "units": "萬巒分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1814,6 +1814,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T14:00:20.626797"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T14:11:21.482083"
       }
     ]
   },
