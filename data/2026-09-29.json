@@ -2966,5 +2966,19 @@
         "timestamp": "2026-09-29T17:54:20.080107"
       }
     ]
+  },
+  "b9a87cff01e3a9525002eadcc55ffaf5": {
+    "time": "2026/09/29 17:59:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉清聖街",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T18:00:20.156866"
+      }
+    ]
   }
 }
