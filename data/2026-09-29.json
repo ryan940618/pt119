@@ -2767,7 +2767,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市徐州路79巷",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2776,6 +2776,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:14:20.956555"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T17:45:20.042085"
       }
     ]
   },
@@ -2876,6 +2880,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T17:37:21.210837"
+      }
+    ]
+  },
+  "595a0df38d85cd45b52589326fbde5d8": {
+    "time": "2026/09/29 17:44:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉僑德路",
+    "units": "枋寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:45:20.042085"
       }
     ]
   }
