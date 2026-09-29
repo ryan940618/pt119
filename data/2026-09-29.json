@@ -2217,11 +2217,29 @@
     "sub_category": "",
     "location": "屏東縣長治鄉德新路8巷",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T15:16:20.323357"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T15:17:20.349458"
+      }
+    ]
+  },
+  "45028e8f32d7dba51c5d6e0913155442": {
+    "time": "2026/09/29 15:15:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉內埔菜市",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T15:17:20.349458"
       }
     ]
   }
