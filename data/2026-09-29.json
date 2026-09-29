@@ -2696,5 +2696,19 @@
         "timestamp": "2026-09-29T17:11:21.045571"
       }
     ]
+  },
+  "02b0b69ba8f10753cdde0ee2b70017b4": {
+    "time": "2026/09/29 17:12:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市徐州路79巷",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T17:13:20.962336"
+      }
+    ]
   }
 }
