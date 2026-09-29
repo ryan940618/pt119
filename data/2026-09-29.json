@@ -1307,7 +1307,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮西門路",
     "units": "車城分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1316,6 +1316,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-29T10:47:20.753346"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:49:21.874804"
       }
     ]
   },
