@@ -503,7 +503,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉南和路",
     "units": "春日分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -528,6 +528,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T08:11:20.617399"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T08:24:20.727485"
       }
     ]
   },
@@ -639,7 +643,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮永昌路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -648,6 +652,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T07:56:20.524340"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T08:24:20.727485"
       }
     ]
   },
@@ -671,7 +679,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建華三街",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已受理",
@@ -684,6 +692,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:04:20.565316"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-29T08:24:20.727485"
       }
     ]
   },
