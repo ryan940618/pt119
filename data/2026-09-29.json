@@ -569,7 +569,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市青島街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -578,6 +578,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-29T08:02:20.495697"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-29T08:03:20.633851"
       }
     ]
   },
@@ -647,11 +651,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建華三街",
     "units": "",
-    "current_status": "已受理",
+    "current_status": "已派遣",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-09-29T08:02:20.495697"
+      },
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-29T08:03:20.633851"
       }
     ]
   },
@@ -666,6 +674,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T08:02:20.495697"
+      }
+    ]
+  },
+  "13792ac35054cc8d265eff8d94491ed8": {
+    "time": "2026/09/29 08:03:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉長治交流道下往麟洛方向   中間路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-29T08:03:20.633851"
+      }
+    ]
+  },
+  "6ced9251e50571dc4e9441c76ec17d30": {
+    "time": "2026/09/29 08:01:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉交流道",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-29T08:03:20.633851"
       }
     ]
   }
