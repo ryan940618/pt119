@@ -1318,5 +1318,19 @@
         "timestamp": "2026-09-29T10:47:20.753346"
       }
     ]
+  },
+  "0010b71c86c12a4b4cb27e8c44d716c5": {
+    "time": "2026/09/29 10:46:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉義永路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T10:48:20.757156"
+      }
+    ]
   }
 }
