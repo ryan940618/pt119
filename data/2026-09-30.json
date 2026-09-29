@@ -225,7 +225,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉繁華路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -234,6 +234,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T04:47:20.069376"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T05:02:20.718793"
       }
     ]
   },
@@ -265,11 +269,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉下庄17號",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T05:01:20.641471"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T05:02:20.718793"
       }
     ]
   }
