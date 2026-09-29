@@ -2703,11 +2703,43 @@
     "sub_category": "",
     "location": "屏東縣屏東市徐州路79巷",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T17:13:20.962336"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:14:20.956555"
+      }
+    ]
+  },
+  "52b6f4b878e0b1501ff3eea9bd6bc955": {
+    "time": "2026/09/29 17:13:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮富漁路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-29T17:14:20.956555"
+      }
+    ]
+  },
+  "40477a0c4c5b9e489992dc119b53ff5c": {
+    "time": "2026/09/29 17:12:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮富漁路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T17:14:20.956555"
       }
     ]
   }
