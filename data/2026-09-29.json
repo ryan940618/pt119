@@ -1853,11 +1853,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉義新路",
     "units": "新埤分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T13:50:20.711629"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-09-29T13:51:20.610903"
       }
     ]
   },
@@ -1872,6 +1876,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-29T13:50:20.711629"
+      }
+    ]
+  },
+  "208416b48cb166a82a31699be7c72e78": {
+    "time": "2026/09/29 13:49:56",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉山頂路",
+    "units": "滿州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T13:51:20.610903"
       }
     ]
   }
