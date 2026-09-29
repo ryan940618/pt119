@@ -3603,11 +3603,29 @@
     "sub_category": "",
     "location": "屏東縣春日鄉古華路1巷",
     "units": "春日分隊",
-    "current_status": "已派遣",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-29T22:39:20.912885"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-29T22:40:20.828144"
+      }
+    ]
+  },
+  "d3849b2f3f5ae71e4062cd1b3b5f71dc": {
+    "time": "2026/09/29 22:38:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉保安路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-29T22:40:20.828144"
       }
     ]
   }
