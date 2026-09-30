@@ -2717,11 +2717,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市機場北路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T17:53:21.048403"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T18:23:20.092201"
       }
     ]
   },
@@ -2812,6 +2816,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T18:13:20.073861"
+      }
+    ]
+  },
+  "6593d098700bb53dbb000efc6d9ace55": {
+    "time": "2026/09/30 18:22:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮南灣路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:23:20.092201"
       }
     ]
   }
