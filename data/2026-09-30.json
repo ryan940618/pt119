@@ -2327,11 +2327,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉義永路",
     "units": "竹田分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已到達",
         "timestamp": "2026-09-30T16:07:20.167105"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-30T16:10:20.284133"
       }
     ]
   }
