@@ -2215,7 +2215,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮興漁街",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2224,6 +2224,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:39:20.049435"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T16:02:20.220586"
       }
     ]
   },
