@@ -1508,5 +1508,19 @@
         "timestamp": "2026-09-30T11:07:20.376434"
       }
     ]
+  },
+  "1fabf584a234aaf16a0a753ea5082eb5": {
+    "time": "2026/09/30 11:11:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉學興路66巷",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:12:20.693400"
+      }
+    ]
   }
 }
