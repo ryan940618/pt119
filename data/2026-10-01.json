@@ -387,11 +387,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市中山路和康定街",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:01:20.706427"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T07:24:20.902864"
       }
     ]
   },
