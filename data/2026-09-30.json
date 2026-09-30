@@ -2941,11 +2941,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮大鵬灣遊客中心",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T18:35:20.032934"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T19:11:20.367203"
       }
     ]
   },
@@ -2991,7 +2995,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市昆明街22巷",
     "units": "高級救護隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -3000,6 +3004,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T19:00:20.225028"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-30T19:11:20.367203"
       }
     ]
   }
