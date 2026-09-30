@@ -2047,7 +2047,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉和平西路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2056,6 +2056,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T15:35:20.732743"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T15:56:20.264347"
       }
     ]
   },
@@ -2227,11 +2231,29 @@
     "sub_category": "",
     "location": "屏東縣東港鎮大潭路",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T15:55:20.342575"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T15:56:20.264347"
+      }
+    ]
+  },
+  "71b4d9669c35e812ef410de3c0cabe99": {
+    "time": "2026/09/30 15:55:29",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣長治鄉仁愛巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T15:56:20.264347"
       }
     ]
   }
