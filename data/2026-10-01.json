@@ -382,5 +382,19 @@
         "timestamp": "2026-10-01T07:01:20.706427"
       }
     ]
+  },
+  "ddc4d4a96abddbf94437370a79b1ea0e": {
+    "time": "2026/10/01 07:00:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉青山路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T07:03:21.089105"
+      }
+    ]
   }
 }
