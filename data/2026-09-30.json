@@ -1530,5 +1530,19 @@
         "timestamp": "2026-09-30T11:12:20.693400"
       }
     ]
+  },
+  "534223182cbb8fc77d8b8a55df3eca47": {
+    "time": "2026/09/30 11:19:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉國立屏北高中[屏東縣鹽埔鄉莒光路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:20:20.591674"
+      }
+    ]
   }
 }
