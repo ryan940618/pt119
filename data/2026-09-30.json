@@ -2139,11 +2139,15 @@
     "sub_category": "",
     "location": "屏東縣南州鄉萬華路7巷",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:30:20.963468"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T15:37:20.048616"
       }
     ]
   },
