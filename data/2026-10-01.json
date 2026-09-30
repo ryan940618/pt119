@@ -12,5 +12,19 @@
         "timestamp": "2026-10-01T00:12:20.219992"
       }
     ]
+  },
+  "7569220748009b32c5feb5ef51860000": {
+    "time": "2026/10/01 00:12:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉建隆路",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T00:14:21.248589"
+      }
+    ]
   }
 }
