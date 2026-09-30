@@ -2105,11 +2105,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉185縣道20.5K/大路",
     "units": "三地門分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:08:20.834393"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T15:59:20.256225"
       }
     ]
   },
@@ -2145,7 +2149,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮重慶路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2154,6 +2158,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T15:54:20.227405"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T15:59:20.256225"
       }
     ]
   },
@@ -2258,6 +2266,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-30T15:56:20.264347"
+      }
+    ]
+  },
+  "a24d358c2f53693d782a5373521f98a4": {
+    "time": "2026/09/30 15:58:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉屏東監獄往南方向(國3)(國3)",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T15:59:20.256225"
       }
     ]
   }
