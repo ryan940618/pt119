@@ -973,7 +973,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉自力路",
     "units": "瑪家分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -990,6 +990,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:44:20.827402"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T10:16:20.120764"
       }
     ]
   },
@@ -1053,7 +1057,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉四維路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1062,6 +1066,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:41:21.614714"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T10:16:20.120764"
       }
     ]
   },
@@ -1071,7 +1079,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉國立屏東科技大學/保健室",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1080,6 +1088,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T10:12:20.112564"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T10:16:20.120764"
       }
     ]
   },
