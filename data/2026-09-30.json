@@ -2471,11 +2471,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市華盛街",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T17:06:20.545987"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-30T17:22:20.783268"
       }
     ]
   },
@@ -2518,6 +2522,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-30T17:21:20.638431"
+      }
+    ]
+  },
+  "4d27e8ea0c0c77e16dde00f0d082eb58": {
+    "time": "2026/09/30 17:21:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉田寮路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T17:22:20.783268"
       }
     ]
   }
