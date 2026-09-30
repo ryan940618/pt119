@@ -670,5 +670,19 @@
         "timestamp": "2026-09-30T08:35:20.576308"
       }
     ]
+  },
+  "c1ed065480ee15f2b2214ccaf460f573": {
+    "time": "2026/09/30 08:34:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉興化路77巷",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T08:36:20.511068"
+      }
+    ]
   }
 }
