@@ -1767,7 +1767,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市大洲橋[屏東縣屏東市清進巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1780,6 +1780,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T13:05:20.011769"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T13:13:20.005205"
       }
     ]
   },
@@ -1798,6 +1802,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:54:21.028544"
+      }
+    ]
+  },
+  "e20f8e289d9a34d04c90ace1accd3402": {
+    "time": "2026/09/30 13:12:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市武順街",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:13:20.005205"
       }
     ]
   }
