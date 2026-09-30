@@ -844,5 +844,19 @@
         "timestamp": "2026-09-30T09:13:20.680334"
       }
     ]
+  },
+  "e6eda590462d8cb587fa2d980abe5af8": {
+    "time": "2026/09/30 09:14:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉內獅巷",
+    "units": "獅子分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:15:20.618868"
+      }
+    ]
   }
 }
