@@ -945,7 +945,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉自力路",
     "units": "瑪家分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -958,6 +958,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T09:38:21.056562"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:44:20.827402"
       }
     ]
   },
