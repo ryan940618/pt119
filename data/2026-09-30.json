@@ -2495,7 +2495,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市華盛街",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2508,6 +2508,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T17:42:20.963539"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T17:48:20.858845"
       }
     ]
   },
