@@ -551,11 +551,15 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉老佛路",
     "units": "滿州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T07:44:20.215940"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T08:44:26.102988"
       }
     ]
   },
@@ -617,7 +621,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市康定街",
     "units": "",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已受理",
@@ -630,6 +634,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T08:41:20.525491"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T08:44:26.102988"
       }
     ]
   },
@@ -722,6 +730,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T08:37:20.580764"
+      }
+    ]
+  },
+  "5232b23e7bfe5c9517aca4e7ede8374f": {
+    "time": "2026/09/30 08:42:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉社上路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T08:44:26.102988"
       }
     ]
   }
