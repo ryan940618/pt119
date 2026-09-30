@@ -508,5 +508,33 @@
         "timestamp": "2026-10-01T07:28:20.878245"
       }
     ]
+  },
+  "b4d85084d3ccb173cbcefcea3c748116": {
+    "time": "2026/10/01 07:33:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉三民路",
+    "units": "南州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:34:21.008668"
+      }
+    ]
+  },
+  "a54995c921c56c32054432f3cd6d9419": {
+    "time": "2026/10/01 07:33:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉新庄路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:34:21.008668"
+      }
+    ]
   }
 }
