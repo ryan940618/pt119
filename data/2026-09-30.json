@@ -2147,7 +2147,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉萬華路7巷",
     "units": "南州分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -2156,6 +2156,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-09-30T15:37:20.048616"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-09-30T15:45:20.075539"
       }
     ]
   },
@@ -2188,6 +2192,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T15:39:20.049435"
+      }
+    ]
+  },
+  "a34301f6ecb2d7088f4e9ec4e2d923be": {
+    "time": "2026/09/30 15:44:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉民權路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T15:45:20.075539"
       }
     ]
   }
