@@ -2029,11 +2029,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮第十公墓等",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T14:44:20.745409"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T15:14:20.890485"
       }
     ]
   },
@@ -2099,11 +2103,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮萬年路",
     "units": "潮州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T15:13:20.789648"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T15:14:20.890485"
       }
     ]
   }
