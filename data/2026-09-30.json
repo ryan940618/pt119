@@ -1463,7 +1463,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉東興村文昌路",
     "units": "高樹分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1476,6 +1476,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-30T11:21:20.452936"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:22:20.454016"
       }
     ]
   },
@@ -1555,11 +1559,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉豐隆路10巷",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T11:21:20.452936"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:22:20.454016"
       }
     ]
   }
