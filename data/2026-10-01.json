@@ -369,7 +369,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉店口路37巷",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -378,6 +378,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T06:57:20.730270"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T07:26:20.861889"
       }
     ]
   },
@@ -442,6 +446,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:12:20.782256"
+      }
+    ]
+  },
+  "293e86b1865603d531c1fae4c3fd38b4": {
+    "time": "2026/10/01 07:24:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T07:26:20.861889"
+      }
+    ]
+  },
+  "91d4a343f49cc413ed7f5c7fc09ac42f": {
+    "time": "2026/10/01 07:22:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉大同路",
+    "units": "新埤分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T07:26:20.861889"
       }
     ]
   }
