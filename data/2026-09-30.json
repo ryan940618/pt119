@@ -3584,5 +3584,33 @@
         "timestamp": "2026-09-30T23:39:19.999733"
       }
     ]
+  },
+  "5f52ecabb44e127b8242767581b33193": {
+    "time": "2026/09/30 23:43:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮大潭路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T23:45:20.045842"
+      }
+    ]
+  },
+  "58283c31c7bc4b9ce872235cdf7d095d": {
+    "time": "2026/09/30 23:42:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉鐵店路",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T23:45:20.045842"
+      }
+    ]
   }
 }
