@@ -941,11 +941,29 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉自力路",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T09:35:20.827344"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:36:20.827859"
+      }
+    ]
+  },
+  "d5cca0842a4b3d5368e17ac58bb221db": {
+    "time": "2026/09/30 09:35:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉壽比路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:36:20.827859"
       }
     ]
   }
