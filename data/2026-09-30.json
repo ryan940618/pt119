@@ -883,11 +883,15 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉內獅巷",
     "units": "獅子分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:15:20.618868"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T09:59:20.987157"
       }
     ]
   },
@@ -1015,7 +1019,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮中正路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1024,6 +1028,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T09:55:21.026827"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T09:59:20.987157"
       }
     ]
   },
@@ -1084,6 +1092,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:53:21.096461"
+      }
+    ]
+  },
+  "e54f2a20d8c5e638e80f07f688a026e6": {
+    "time": "2026/09/30 09:58:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮光復路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:59:20.987157"
+      }
+    ]
+  },
+  "20436bec5451ca30bd10b88edd1fd8fe": {
+    "time": "2026/09/30 09:57:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮東港中山國宅[屏東縣東港鎮船頭路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:59:20.987157"
       }
     ]
   }
