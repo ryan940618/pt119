@@ -869,7 +869,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉龍門路201巷",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -878,6 +878,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T10:06:20.382572"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T10:17:20.182098"
       }
     ]
   },
