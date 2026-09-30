@@ -254,5 +254,19 @@
         "timestamp": "2026-10-01T05:30:20.185439"
       }
     ]
+  },
+  "5f84d7246563cecb9b16358f58c17b39": {
+    "time": "2026/10/01 05:43:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉三山路418巷",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T05:44:20.251089"
+      }
+    ]
   }
 }
