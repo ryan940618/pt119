@@ -2883,7 +2883,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉竹坑巷",
     "units": "枋山分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -2892,6 +2892,24 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-30T18:34:20.094355"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:35:20.032934"
+      }
+    ]
+  },
+  "ec1f20a9227b297d8d13ec2bdbd74bbc": {
+    "time": "2026/09/30 18:34:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮大鵬灣遊客中心",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:35:20.032934"
       }
     ]
   }
