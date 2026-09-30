@@ -1858,5 +1858,19 @@
         "timestamp": "2026-09-30T13:23:21.371397"
       }
     ]
+  },
+  "348cdaa4c20e54604dc4c7617097cd1e": {
+    "time": "2026/09/30 13:35:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉三和街",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T13:37:20.245014"
+      }
+    ]
   }
 }
