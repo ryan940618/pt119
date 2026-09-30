@@ -2179,7 +2179,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉萬華路7巷",
     "units": "南州分隊",
-    "current_status": "已離院",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -2192,6 +2192,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-09-30T15:45:20.075539"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T16:08:20.220335"
       }
     ]
   },
