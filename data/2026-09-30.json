@@ -1279,11 +1279,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉國立屏東科技大學[屏東縣內埔鄉學府路",
     "units": "龍泉分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T10:26:20.104321"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:27:20.088660"
       }
     ]
   },
