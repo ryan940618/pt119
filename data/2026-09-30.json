@@ -1007,11 +1007,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉壽比路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:36:20.827859"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T10:24:20.158902"
       }
     ]
   },
@@ -1222,6 +1226,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:14:20.100436"
+      }
+    ]
+  },
+  "d6cb06d24b2b44b76b18a4f57812bd48": {
+    "time": "2026/09/30 10:23:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉北興路",
+    "units": "佳冬分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T10:24:20.158902"
       }
     ]
   }
