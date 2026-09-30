@@ -3323,7 +3323,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉四維路453巷",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3332,6 +3332,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T21:12:20.090640"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T22:02:20.404734"
       }
     ]
   },
