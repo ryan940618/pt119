@@ -1467,7 +1467,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉東興村文昌路",
     "units": "高樹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1488,6 +1488,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T11:30:20.514988"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T11:32:20.622896"
       }
     ]
   },
@@ -1553,7 +1557,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉國立屏北高中[屏東縣鹽埔鄉莒光路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1562,6 +1566,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T11:29:20.566178"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:32:20.622896"
       }
     ]
   },
