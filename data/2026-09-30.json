@@ -3237,11 +3237,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮土地銀行對面",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T20:12:20.717290"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T20:27:21.213205"
       }
     ]
   },
