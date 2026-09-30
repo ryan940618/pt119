@@ -368,5 +368,19 @@
         "timestamp": "2026-10-01T06:57:20.730270"
       }
     ]
+  },
+  "b8c16825940c8024d818222e50e18bd4": {
+    "time": "2026/10/01 07:00:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中山路和康定街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T07:01:20.706427"
+      }
+    ]
   }
 }
