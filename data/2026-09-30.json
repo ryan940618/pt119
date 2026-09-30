@@ -1763,7 +1763,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市大洲橋[屏東縣屏東市清進巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1772,6 +1772,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:33:20.934291"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T13:05:20.011769"
       }
     ]
   },
