@@ -760,5 +760,19 @@
         "timestamp": "2026-09-30T08:48:22.822580"
       }
     ]
+  },
+  "0f68864723538cb6a4783cee53cab5c0": {
+    "time": "2026/09/30 08:48:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市上海路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T08:49:20.894824"
+      }
+    ]
   }
 }
