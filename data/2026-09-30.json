@@ -1468,5 +1468,19 @@
         "timestamp": "2026-09-30T11:05:23.188035"
       }
     ]
+  },
+  "d27ff8c36b7f37ff2a47eb15cd6499ee": {
+    "time": "2026/09/30 11:05:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉中山路174巷",
+    "units": "滿州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T11:06:20.788465"
+      }
+    ]
   }
 }
