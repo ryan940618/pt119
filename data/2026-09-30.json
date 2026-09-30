@@ -1849,7 +1849,7 @@
     "sub_category": "",
     "location": "屏東縣佳平村7-11對面活動中心",
     "units": "泰武分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1858,6 +1858,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T13:57:20.610995"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T14:24:20.582382"
       }
     ]
   },
@@ -1925,11 +1929,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉崑崙路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T13:45:20.354907"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T14:24:20.582382"
       }
     ]
   },
