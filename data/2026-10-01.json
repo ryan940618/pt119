@@ -350,5 +350,19 @@
         "timestamp": "2026-10-01T06:44:20.552820"
       }
     ]
+  },
+  "33cc73879f567c0f676aca180cf0a8e5": {
+    "time": "2026/10/01 06:55:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉店口路37巷",
+    "units": "新園分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T06:56:20.745278"
+      }
+    ]
   }
 }
