@@ -475,7 +475,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -484,6 +484,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T07:46:20.924560"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T07:52:20.308229"
       }
     ]
   },
@@ -566,6 +570,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:35:20.944476"
+      }
+    ]
+  },
+  "d99a6aa3f924158c89aa670fccf713f5": {
+    "time": "2026/10/01 07:50:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮東港海專水產學校等",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T07:52:20.308229"
       }
     ]
   }
