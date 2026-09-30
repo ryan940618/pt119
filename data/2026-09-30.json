@@ -1665,7 +1665,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉和平東路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1674,6 +1674,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T11:38:20.622888"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T12:31:21.094262"
       }
     ]
   },
@@ -1683,11 +1687,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉北寧路90巷",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T11:56:20.594007"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T12:31:21.094262"
       }
     ]
   },
