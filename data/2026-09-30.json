@@ -2919,11 +2919,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生路41巷",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T18:37:20.125196"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T18:38:20.139994"
       }
     ]
   }
