@@ -1308,5 +1308,19 @@
         "timestamp": "2026-09-30T10:26:20.104321"
       }
     ]
+  },
+  "4cef170551bc9975bc7110416a89df9b": {
+    "time": "2026/09/30 10:28:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮新生路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T10:29:20.183044"
+      }
+    ]
   }
 }
