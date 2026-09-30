@@ -1999,7 +1999,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市公興路221巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2008,6 +2008,24 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T14:36:20.656545"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T14:44:20.745409"
+      }
+    ]
+  },
+  "7025066573c4674b18ea668b19ce553a": {
+    "time": "2026/09/30 14:42:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮第十公墓等",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T14:44:20.745409"
       }
     ]
   }
