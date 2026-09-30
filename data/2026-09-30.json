@@ -3152,5 +3152,33 @@
         "timestamp": "2026-09-30T19:48:20.567316"
       }
     ]
+  },
+  "405f616b7832829d7becf37f7382cd01": {
+    "time": "2026/09/30 19:50:18",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉海平路129巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T19:51:20.595439"
+      }
+    ]
+  },
+  "75f7979af6639455635f54c68e7fed04": {
+    "time": "2026/09/30 19:49:16",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉國立屏北高中對面自來水廠",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T19:51:20.595439"
+      }
+    ]
   }
 }
