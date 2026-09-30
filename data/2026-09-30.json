@@ -1635,7 +1635,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉豐隆路10巷",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1648,6 +1648,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-09-30T12:12:20.701839"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T12:27:20.839676"
       }
     ]
   },
@@ -1712,6 +1716,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-09-30T12:14:20.801208"
+      }
+    ]
+  },
+  "99f94abbc468f962fe00da2cb323d448": {
+    "time": "2026/09/30 12:26:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉保新路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T12:27:20.839676"
       }
     ]
   }
