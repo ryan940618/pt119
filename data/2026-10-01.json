@@ -5,7 +5,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉中正路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -14,6 +14,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T00:47:20.491353"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T00:55:20.475683"
       }
     ]
   },
@@ -45,7 +49,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建國路30巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -54,6 +58,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T00:43:20.480808"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T00:55:20.475683"
       }
     ]
   },
