@@ -830,5 +830,19 @@
         "timestamp": "2026-09-30T08:59:20.633068"
       }
     ]
+  },
+  "4b7acfd0c7a9cd0033f6bda83f79a54d": {
+    "time": "2026/09/30 09:10:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉龍門路201巷",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:13:20.680334"
+      }
+    ]
   }
 }
