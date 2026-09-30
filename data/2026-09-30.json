@@ -3612,5 +3612,19 @@
         "timestamp": "2026-09-30T23:45:20.045842"
       }
     ]
+  },
+  "0e39cace942b987c360f297ff49aa46d": {
+    "time": "2026/09/30 23:48:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉中山路",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T23:50:20.170676"
+      }
+    ]
   }
 }
