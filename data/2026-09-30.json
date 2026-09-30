@@ -3517,11 +3517,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉清涼路二段236巷",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-09-30T23:10:20.909326"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T23:11:20.873223"
       }
     ]
   }
