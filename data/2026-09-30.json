@@ -1826,5 +1826,19 @@
         "timestamp": "2026-09-30T13:14:20.114971"
       }
     ]
+  },
+  "42d70775a8be95e5e1f57647c78df022": {
+    "time": "2026/09/30 13:20:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳平村7-11對面活動中心",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T13:21:23.666263"
+      }
+    ]
   }
 }
