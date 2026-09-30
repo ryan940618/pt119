@@ -2542,5 +2542,33 @@
         "timestamp": "2026-09-30T17:22:20.783268"
       }
     ]
+  },
+  "f66044b073269f95d8a7a62eedaa80e2": {
+    "time": "2026/09/30 17:23:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市千禧公園勝利東路",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T17:24:20.776910"
+      }
+    ]
+  },
+  "ba97d253a870e7120aaebbcadcd7bf57": {
+    "time": "2026/09/30 17:22:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮鳳尾3號",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T17:24:20.776910"
+      }
+    ]
   }
 }
