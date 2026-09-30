@@ -945,7 +945,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉自力路",
     "units": "瑪家分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -954,6 +954,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:36:20.827859"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T09:38:21.056562"
       }
     ]
   },
@@ -968,6 +972,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T09:36:20.827859"
+      }
+    ]
+  },
+  "c56729f89702ab950709f201b36ed057": {
+    "time": "2026/09/30 09:37:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉褒忠路",
+    "units": "萬巒分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T09:38:21.056562"
+      }
+    ]
+  },
+  "de7a20e57eebf44eb4ab5bed55a94bb2": {
+    "time": "2026/09/30 09:37:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮中正路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:38:21.056562"
       }
     ]
   }
