@@ -1024,5 +1024,19 @@
         "timestamp": "2026-09-30T09:41:21.614714"
       }
     ]
+  },
+  "1d35b8fe1973561dc8d9cd20d86905cf": {
+    "time": "2026/09/30 09:40:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉國立屏東科技大學/保健室",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T09:42:20.971537"
+      }
+    ]
   }
 }
