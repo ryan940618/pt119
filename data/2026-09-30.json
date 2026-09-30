@@ -1393,11 +1393,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉臨海路21巷",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:33:20.155115"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-09-30T11:10:20.427693"
       }
     ]
   },
@@ -1447,11 +1451,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉東興村文昌路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T10:57:20.343453"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-09-30T11:10:20.427693"
       }
     ]
   },
