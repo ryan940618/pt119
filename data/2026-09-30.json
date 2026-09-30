@@ -1797,7 +1797,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉統嶺巷",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1806,6 +1806,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T12:54:21.028544"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T13:51:20.307531"
       }
     ]
   },
@@ -1902,6 +1906,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T13:45:20.354907"
+      }
+    ]
+  },
+  "f925e6a12ee788ba0c80c6b1d5855dee": {
+    "time": "2026/09/30 13:50:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉僑德路216巷",
+    "units": "枋寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-09-30T13:51:20.307531"
       }
     ]
   }
