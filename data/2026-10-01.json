@@ -290,5 +290,19 @@
         "timestamp": "2026-10-01T05:56:20.401309"
       }
     ]
+  },
+  "b8259d63ab7bac9506f433d128cf7a2b": {
+    "time": "2026/10/01 05:56:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市龍華路29巷",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T05:57:20.540248"
+      }
+    ]
   }
 }
