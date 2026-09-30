@@ -3062,5 +3062,33 @@
         "timestamp": "2026-09-30T19:25:20.285491"
       }
     ]
+  },
+  "8e8b5bfacaa9e03f7cc90ce32c5c7f17": {
+    "time": "2026/09/30 19:31:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉中正路西北巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T19:33:20.331573"
+      }
+    ]
+  },
+  "e7a70598d651d7f0cc3c44f1244dbd31": {
+    "time": "2026/09/30 19:31:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉中勝路",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-09-30T19:33:20.331573"
+      }
+    ]
   }
 }
