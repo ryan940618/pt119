@@ -2421,11 +2421,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉廣濟路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-09-30T16:45:20.468248"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-09-30T17:21:20.638431"
       }
     ]
   },
@@ -2500,6 +2504,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-09-30T17:19:21.088514"
+      }
+    ]
+  },
+  "b64cf6ab25c96dda9073188a381175b1": {
+    "time": "2026/09/30 17:20:48",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉福安路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-09-30T17:21:20.638431"
       }
     ]
   }
