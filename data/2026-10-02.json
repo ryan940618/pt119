@@ -237,7 +237,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮南灣路",
     "units": "恆春分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -250,6 +250,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T05:10:20.116173"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T05:14:20.026145"
       }
     ]
   },
@@ -264,6 +268,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T04:58:19.964648"
+      }
+    ]
+  },
+  "6d8902ad1faa51980f69d589a8da7a7f": {
+    "time": "2026/10/02 05:13:31",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉信義路752巷",
+    "units": "龍泉分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T05:14:20.026145"
       }
     ]
   }
