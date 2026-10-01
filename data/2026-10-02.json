@@ -122,5 +122,19 @@
         "timestamp": "2026-10-02T01:39:20.600542"
       }
     ]
+  },
+  "e2937532544676c05243738aa78ba36a": {
+    "time": "2026/10/02 01:40:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉七賢街",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T01:42:20.667892"
+      }
+    ]
   }
 }
