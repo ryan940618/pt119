@@ -351,7 +351,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉高山路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -360,6 +360,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T06:53:20.879916"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T07:54:20.269268"
       }
     ]
   },
@@ -596,6 +600,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T07:52:20.203256"
+      }
+    ]
+  },
+  "5b5bd0b91ada024062ff52f1d014651d": {
+    "time": "2026/10/02 07:53:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉民生路",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:54:20.269268"
       }
     ]
   }
