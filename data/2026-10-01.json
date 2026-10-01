@@ -2021,7 +2021,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市太原一路",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2034,6 +2034,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T15:08:20.594678"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T15:15:20.737889"
       }
     ]
   },
