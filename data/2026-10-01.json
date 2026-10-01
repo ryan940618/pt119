@@ -2015,11 +2015,29 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉民善路",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T14:42:20.732877"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T14:43:20.968734"
+      }
+    ]
+  },
+  "000d48f8839dcf1122c34ce92b12eb15": {
+    "time": "2026/10/01 14:41:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉楓林一巷",
+    "units": "獅子分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T14:43:20.968734"
       }
     ]
   }
