@@ -876,5 +876,33 @@
         "timestamp": "2026-10-01T09:33:20.921542"
       }
     ]
+  },
+  "d82fa5caa8eff1bbeafdea467e1b64fb": {
+    "time": "2026/10/01 09:33:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉91車保養",
+    "units": "獅子分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:34:21.010643"
+      }
+    ]
+  },
+  "3d2fde8a860fc3ec312223ca59d705e1": {
+    "time": "2026/10/01 09:32:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉僑德國小前[屏東縣枋寮鄉僑德路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:34:21.010643"
+      }
+    ]
   }
 }
