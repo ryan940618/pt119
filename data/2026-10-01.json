@@ -3148,5 +3148,33 @@
         "timestamp": "2026-10-01T19:34:20.488046"
       }
     ]
+  },
+  "1901301179c708ef36df3a06a323b3f1": {
+    "time": "2026/10/01 19:37:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮三山國王廟[屏東縣潮州鎮西市路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T19:38:20.498723"
+      }
+    ]
+  },
+  "3c1c9d152d74da0e06d50fcc9dcaad10": {
+    "time": "2026/10/01 19:37:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉瓦路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T19:38:20.498723"
+      }
+    ]
   }
 }
