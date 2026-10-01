@@ -3609,11 +3609,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市迪卡儂[屏東縣屏東市自由路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T22:31:20.481642"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T22:32:20.481254"
       }
     ]
   }
