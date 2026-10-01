@@ -937,7 +937,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉僑德國小前[屏東縣枋寮鄉僑德路",
     "units": "枋寮分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -958,6 +958,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T10:26:20.936477"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T10:27:21.070063"
       }
     ]
   },
@@ -1017,7 +1021,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉通訊中心前南下",
     "units": "枋山分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1030,6 +1034,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T10:17:20.963690"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T10:27:21.070063"
       }
     ]
   },
