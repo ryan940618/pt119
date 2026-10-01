@@ -3397,7 +3397,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐榮街74巷",
     "units": "麟洛分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3406,6 +3406,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T21:07:21.096289"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T21:12:19.956140"
       }
     ]
   },
