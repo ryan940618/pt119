@@ -3621,7 +3621,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市迪卡儂[屏東縣屏東市自由路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3630,6 +3630,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T22:32:20.481254"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T22:52:20.589012"
       }
     ]
   },
@@ -3658,6 +3662,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T22:46:20.569494"
+      }
+    ]
+  },
+  "8fd935a3f3fec2bf8979747d5249192e": {
+    "time": "2026/10/01 22:51:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T22:52:20.589012"
       }
     ]
   }
