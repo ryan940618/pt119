@@ -1445,11 +1445,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉龍洲路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:36:20.356361"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T11:38:20.401161"
       }
     ]
   },
