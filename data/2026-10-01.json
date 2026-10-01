@@ -1125,11 +1125,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮愛國路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T10:11:20.921992"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T11:16:21.106876"
       }
     ]
   },
@@ -1350,6 +1354,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:14:20.576475"
+      }
+    ]
+  },
+  "0a051a60e5b79faef6c3231ef658e7d5": {
+    "time": "2026/10/01 11:14:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉望嘉村望嘉3號之5",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:16:21.106876"
       }
     ]
   }
