@@ -836,5 +836,19 @@
         "timestamp": "2026-10-01T09:12:20.535016"
       }
     ]
+  },
+  "2c755bb5b9c76c2cbbfd9706beb4b046": {
+    "time": "2026/10/01 09:16:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民富街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:18:20.512059"
+      }
+    ]
   }
 }
