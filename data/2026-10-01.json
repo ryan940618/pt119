@@ -3831,7 +3831,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市重慶路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3840,6 +3840,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T23:44:20.984340"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-01T23:50:20.996105"
       }
     ]
   },
