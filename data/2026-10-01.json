@@ -3675,7 +3675,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3684,6 +3684,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T22:55:20.722374"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T23:06:20.843555"
       }
     ]
   }
