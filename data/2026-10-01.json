@@ -1486,5 +1486,33 @@
         "timestamp": "2026-10-01T11:37:20.373006"
       }
     ]
+  },
+  "51fa32b4119b84b37c1e3425beb44085": {
+    "time": "2026/10/01 11:43:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉中華二街",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T11:44:20.512577"
+      }
+    ]
+  },
+  "914f66fbc0d6cc168b0d78cd5397687a": {
+    "time": "2026/10/01 11:43:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公成路4巷",
+    "units": "麟洛分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T11:44:20.512577"
+      }
+    ]
   }
 }
