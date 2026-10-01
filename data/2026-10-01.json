@@ -3234,5 +3234,33 @@
         "timestamp": "2026-10-01T19:53:20.502940"
       }
     ]
+  },
+  "3c80a83312801c2e4ec88f789f50b455": {
+    "time": "2026/10/01 20:05:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市萬全街",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T20:06:20.672212"
+      }
+    ]
+  },
+  "efb90a05fc864a397c34c65d6fecc768": {
+    "time": "2026/10/01 20:05:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民生路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T20:06:20.672212"
+      }
+    ]
   }
 }
