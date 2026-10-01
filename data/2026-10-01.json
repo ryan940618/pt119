@@ -2822,5 +2822,19 @@
         "timestamp": "2026-10-01T17:58:20.798705"
       }
     ]
+  },
+  "2c2b9eadbfa500372b427e8218503b31": {
+    "time": "2026/10/01 18:06:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉裕後路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:07:20.959112"
+      }
+    ]
   }
 }
