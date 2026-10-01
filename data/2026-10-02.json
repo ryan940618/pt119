@@ -37,7 +37,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮新生路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -50,6 +50,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T00:56:20.293211"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T01:12:20.488988"
       }
     ]
   },
