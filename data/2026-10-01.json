@@ -3599,7 +3599,7 @@
     "sub_category": "",
     "location": "屏東縣春日鄉自強一路",
     "units": "春日分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -3616,6 +3616,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T22:49:20.621148"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T23:26:20.827958"
       }
     ]
   },
