@@ -2402,5 +2402,19 @@
         "timestamp": "2026-10-01T16:11:20.058685"
       }
     ]
+  },
+  "2e3a8e9959d20f6e6516b6bda3d6f278": {
+    "time": "2026/10/01 16:19:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T16:21:20.132417"
+      }
+    ]
   }
 }
