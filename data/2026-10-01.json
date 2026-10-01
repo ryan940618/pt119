@@ -739,7 +739,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉龍洲路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -748,6 +748,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T08:55:20.454374"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T09:00:20.507784"
       }
     ]
   },
@@ -776,6 +780,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:58:20.450277"
+      }
+    ]
+  },
+  "93a9f5290c3d81c3d5048ee7be395812": {
+    "time": "2026/10/01 08:58:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉聖賢路172巷",
+    "units": "新園分隊,萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T09:00:20.507784"
       }
     ]
   }
