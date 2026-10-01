@@ -2143,7 +2143,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬興街",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2152,6 +2152,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T15:59:19.990165"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T16:29:20.271626"
       }
     ]
   },
@@ -2215,7 +2219,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉平昌街",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2232,6 +2236,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T16:05:20.080943"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T16:29:20.271626"
       }
     ]
   },
@@ -2426,6 +2434,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T16:21:20.132417"
+      }
+    ]
+  },
+  "c09eab2661af7beedb15a271646686f8": {
+    "time": "2026/10/01 16:28:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮星巴克前",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T16:29:20.271626"
       }
     ]
   }
