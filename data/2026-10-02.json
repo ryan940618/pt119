@@ -88,5 +88,19 @@
         "timestamp": "2026-10-02T00:56:20.293211"
       }
     ]
+  },
+  "ec6c308b60fa8f24c8b7f73095a74186": {
+    "time": "2026/10/02 00:57:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大湖路518巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T00:59:20.326945"
+      }
+    ]
   }
 }
