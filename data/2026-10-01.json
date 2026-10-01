@@ -569,7 +569,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉新庄路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -582,6 +582,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T08:05:20.083237"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T08:06:20.181334"
       }
     ]
   },
