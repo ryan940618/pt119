@@ -548,5 +548,33 @@
         "timestamp": "2026-10-02T07:41:20.142113"
       }
     ]
+  },
+  "36df640d22304104d5920a63af1f1089": {
+    "time": "2026/10/02 07:44:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市仁愛路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T07:45:20.136941"
+      }
+    ]
+  },
+  "2ac982611773857b7b59f6f58af21d58": {
+    "time": "2026/10/02 07:43:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉成功路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:45:20.136941"
+      }
+    ]
   }
 }
