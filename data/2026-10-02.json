@@ -188,5 +188,19 @@
         "timestamp": "2026-10-02T02:58:20.173364"
       }
     ]
+  },
+  "ead2ad1dc61b743ade293a2f58009b9d": {
+    "time": "2026/10/02 03:16:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉南和路",
+    "units": "春日分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T03:19:20.394971"
+      }
+    ]
   }
 }
