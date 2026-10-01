@@ -1908,5 +1908,19 @@
         "timestamp": "2026-10-01T14:09:20.404359"
       }
     ]
+  },
+  "7710a78680d997ab7b0cd21e67609512": {
+    "time": "2026/10/01 14:10:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮延平路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T14:11:20.412110"
+      }
+    ]
   }
 }
