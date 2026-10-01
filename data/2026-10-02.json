@@ -421,7 +421,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉繁華村全家超商對面",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -430,6 +430,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T07:22:20.131739"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T07:30:20.093696"
       }
     ]
   },
