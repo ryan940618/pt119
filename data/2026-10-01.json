@@ -1667,11 +1667,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉廈北路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T12:40:20.740353"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T13:22:20.027429"
       }
     ]
   },
