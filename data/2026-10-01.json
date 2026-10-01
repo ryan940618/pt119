@@ -523,7 +523,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市復興南路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -532,6 +532,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T08:08:20.211209"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T08:16:20.148013"
       }
     ]
   },
@@ -690,6 +694,20 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-01T08:10:20.279761"
+      }
+    ]
+  },
+  "9b909e1b1de48fa8475f268f47425847": {
+    "time": "2026/10/01 08:15:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉龍洲路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:16:20.148013"
       }
     ]
   }
