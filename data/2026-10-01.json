@@ -1059,7 +1059,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中山路",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1068,6 +1068,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T10:32:20.987705"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T10:40:20.105151"
       }
     ]
   },
@@ -1123,11 +1127,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市自由路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T10:18:20.950523"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T10:40:20.105151"
       }
     ]
   },
