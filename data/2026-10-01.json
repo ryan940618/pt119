@@ -1321,11 +1321,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉潮厝路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T10:55:20.140844"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T11:35:20.537338"
       }
     ]
   },
@@ -1396,6 +1400,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:16:21.106876"
+      }
+    ]
+  },
+  "b4936c98a45432d3064cd4c3cf7b3715": {
+    "time": "2026/10/01 11:11:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉瓦磘路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:35:20.537338"
       }
     ]
   }
