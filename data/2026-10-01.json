@@ -1439,11 +1439,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉望嘉村望嘉3號之5",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:16:21.106876"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T12:02:20.646238"
       }
     ]
   },
@@ -1565,11 +1569,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉中興路",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:49:20.529625"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T12:02:20.646238"
       }
     ]
   },
