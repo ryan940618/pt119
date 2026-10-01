@@ -1146,5 +1146,19 @@
         "timestamp": "2026-10-01T10:23:20.985814"
       }
     ]
+  },
+  "cd48a7621cd78578c86e8643f957aeb6": {
+    "time": "2026/10/01 10:30:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉東興村文昌路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T10:31:20.989692"
+      }
+    ]
   }
 }
