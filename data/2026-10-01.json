@@ -1198,5 +1198,19 @@
         "timestamp": "2026-10-01T10:36:19.998707"
       }
     ]
+  },
+  "1f6771680c2eedb4828c228b604fb722": {
+    "time": "2026/10/01 10:42:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉新興路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T10:44:20.581861"
+      }
+    ]
   }
 }
