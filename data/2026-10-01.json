@@ -1755,7 +1755,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉東寧路",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1764,6 +1764,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T13:34:20.087820"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T14:12:20.425270"
       }
     ]
   },
@@ -1920,6 +1924,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T14:11:20.412110"
+      }
+    ]
+  },
+  "7b6c6da651e8160f4da5bd5516bd770f": {
+    "time": "2026/10/01 14:10:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中正路401巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T14:12:20.425270"
       }
     ]
   }
