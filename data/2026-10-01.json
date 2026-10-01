@@ -1886,5 +1886,19 @@
         "timestamp": "2026-10-01T14:07:20.391184"
       }
     ]
+  },
+  "a5fa9cd9340b3227c0840e704f68ed48": {
+    "time": "2026/10/01 14:06:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮曉南路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T14:08:20.393477"
+      }
+    ]
   }
 }
