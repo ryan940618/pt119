@@ -640,5 +640,19 @@
         "timestamp": "2026-10-01T08:03:20.085817"
       }
     ]
+  },
+  "025e3dedd65309026eb462cbc9b5ed2c": {
+    "time": "2026/10/01 07:59:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮東港國小",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T08:04:20.127896"
+      }
+    ]
   }
 }
