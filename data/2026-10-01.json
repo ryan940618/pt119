@@ -1054,5 +1054,19 @@
         "timestamp": "2026-10-01T10:01:20.751459"
       }
     ]
+  },
+  "cc44672f346cf6e77b093a4f6fceab5d": {
+    "time": "2026/10/01 10:09:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮愛國路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T10:11:20.921992"
+      }
+    ]
   }
 }
