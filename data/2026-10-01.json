@@ -623,11 +623,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東港海專水產學校等",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:52:20.308229"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T08:33:20.293355"
       }
     ]
   },
@@ -651,11 +655,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮永坤路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T07:57:20.033814"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T08:33:20.293355"
       }
     ]
   },
