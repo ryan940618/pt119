@@ -1227,7 +1227,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉和興路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1236,6 +1236,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T11:20:20.226489"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T11:43:20.387377"
       }
     ]
   },
@@ -1421,11 +1425,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉瓦磘路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:35:20.537338"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T11:43:20.387377"
       }
     ]
   },
