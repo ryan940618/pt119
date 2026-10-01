@@ -800,5 +800,19 @@
         "timestamp": "2026-10-01T09:00:20.507784"
       }
     ]
+  },
+  "82628c55b46c9a08194a4af002a9af15": {
+    "time": "2026/10/01 09:07:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮中正路232巷",
+    "units": "恆春分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-01T09:08:20.478403"
+      }
+    ]
   }
 }
