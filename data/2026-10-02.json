@@ -62,5 +62,19 @@
         "timestamp": "2026-10-02T00:20:20.246879"
       }
     ]
+  },
+  "5b55682ef0fd019a02a18e12845afadd": {
+    "time": "2026/10/02 00:28:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉鹽埔國中大門口",
+    "units": "鹽埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T00:29:20.235025"
+      }
+    ]
   }
 }
