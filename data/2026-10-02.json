@@ -37,11 +37,29 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮新生路",
     "units": "潮州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T00:19:20.125844"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T00:20:20.246879"
+      }
+    ]
+  },
+  "cdf77d60339114e140b0cdfbaaa48fd6": {
+    "time": "2026/10/02 00:16:11",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉建國路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T00:20:20.246879"
       }
     ]
   }
