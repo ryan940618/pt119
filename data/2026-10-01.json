@@ -2091,7 +2091,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中華路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2100,6 +2100,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T15:31:20.733399"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T15:47:21.007002"
       }
     ]
   },
@@ -2282,6 +2286,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T15:45:20.974868"
+      }
+    ]
+  },
+  "9e18c0185abe7bba12727d134810f809": {
+    "time": "2026/10/01 15:46:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T15:47:21.007002"
+      }
+    ]
+  },
+  "97f967ca6b0645dbcbc3d5494ab446a0": {
+    "time": "2026/10/01 15:45:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉新華路",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T15:47:21.007002"
+      }
+    ]
+  },
+  "d3e3c9037131aafab7a6f2b567e9756f": {
+    "time": "2026/10/01 15:43:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉屏東縣消防局第二大隊萬丹分隊靠近培正幼兒園",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T15:47:21.007002"
       }
     ]
   }
