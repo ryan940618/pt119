@@ -12,5 +12,19 @@
         "timestamp": "2026-10-02T00:03:20.126493"
       }
     ]
+  },
+  "13c4e17df70e764504a690ab31cab990": {
+    "time": "2026/10/02 00:16:11",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉東糖",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T00:17:20.157536"
+      }
+    ]
   }
 }
