@@ -3365,7 +3365,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉中庄北路",
     "units": "枋寮分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3374,6 +3374,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-01T21:06:21.033017"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T21:25:20.158189"
       }
     ]
   },
