@@ -2769,7 +2769,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉義興路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2778,6 +2778,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:41:20.678732"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T18:20:20.054313"
       }
     ]
   },
