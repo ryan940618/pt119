@@ -645,7 +645,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉東寧路103巷",
     "units": "九如分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -654,6 +654,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T08:54:20.400573"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T08:55:20.454374"
       }
     ]
   },
@@ -735,11 +739,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉龍洲路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T08:16:20.148013"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T08:55:20.454374"
       }
     ]
   },
