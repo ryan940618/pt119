@@ -387,7 +387,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市安心四橫巷",
     "units": "麟洛分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -400,6 +400,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T07:13:20.957795"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:20:20.905380"
       }
     ]
   },
