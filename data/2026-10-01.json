@@ -1245,7 +1245,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉新興路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1254,6 +1254,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-01T11:33:20.374070"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T11:36:20.356361"
       }
     ]
   },
@@ -1414,6 +1418,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T11:35:20.537338"
+      }
+    ]
+  },
+  "3bdcc8e1151411e929ad78f80d5dfee2": {
+    "time": "2026/10/01 11:35:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉海豐街",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:36:20.356361"
+      }
+    ]
+  },
+  "2cb8087e29f3ea663dca30bb19d12f83": {
+    "time": "2026/10/01 11:35:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉龍洲路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:36:20.356361"
       }
     ]
   }
