@@ -1493,11 +1493,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中華二街",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:44:20.512577"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:45:20.526326"
       }
     ]
   },
@@ -1507,11 +1511,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市公成路4巷",
     "units": "麟洛分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-01T11:44:20.512577"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:45:20.526326"
       }
     ]
   }
