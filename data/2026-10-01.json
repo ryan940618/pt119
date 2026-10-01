@@ -2183,11 +2183,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉平昌街",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T15:21:20.800080"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-01T15:22:20.676303"
       }
     ]
   }
