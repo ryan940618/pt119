@@ -2925,11 +2925,29 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉透過經緯度轉換GIS座標//世一路與校前巷",
     "units": "瑪家分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T18:16:20.053742"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T18:21:20.424397"
+      }
+    ]
+  },
+  "0bcc90c557b04f68d4953c41ab523218": {
+    "time": "2026/10/01 18:20:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-01T18:21:20.424397"
       }
     ]
   }
