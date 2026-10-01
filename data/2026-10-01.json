@@ -3289,7 +3289,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉中庄街71巷",
     "units": "九如分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -3298,6 +3298,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-01T20:17:20.703198"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-01T20:22:20.771008"
       }
     ]
   }
