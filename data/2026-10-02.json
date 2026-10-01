@@ -195,7 +195,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉南和路",
     "units": "春日分隊",
-    "current_status": "已出動",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
@@ -204,6 +204,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T03:20:20.277865"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-10-02T03:21:20.326069"
       }
     ]
   }
