@@ -2886,5 +2886,47 @@
         "timestamp": "2026-10-01T18:15:20.986370"
       }
     ]
+  },
+  "c3164f08fbdf473ce11759ab378c18f6": {
+    "time": "2026/10/01 18:15:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市徐州路79巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:16:20.053742"
+      }
+    ]
+  },
+  "423eb3609ee97df19bdd2a3f1784d06d": {
+    "time": "2026/10/01 18:15:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮三星路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:16:20.053742"
+      }
+    ]
+  },
+  "7bb4ca5451cd99e7ebd2d8b3e0b34d7a": {
+    "time": "2026/10/01 18:13:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉透過經緯度轉換GIS座標//世一路與校前巷",
+    "units": "瑪家分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T18:16:20.053742"
+      }
+    ]
   }
 }
