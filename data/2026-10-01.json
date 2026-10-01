@@ -1872,5 +1872,19 @@
         "timestamp": "2026-10-01T13:59:20.308981"
       }
     ]
+  },
+  "5b2894dd0e1be4609c7f9ae454882bfb": {
+    "time": "2026/10/01 14:06:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉福龍路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T14:07:20.391184"
+      }
+    ]
   }
 }
