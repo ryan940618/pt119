@@ -2681,11 +2681,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T17:29:20.668417"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T17:48:20.864504"
       }
     ]
   },
