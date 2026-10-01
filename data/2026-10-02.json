@@ -519,7 +519,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "公館分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -528,6 +528,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T07:38:20.074236"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-02T07:41:20.142113"
+      }
+    ]
+  },
+  "187f9e4d992f92cb4635b174fc4e4581": {
+    "time": "2026/10/02 07:39:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉民族路新庄巷",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T07:41:20.142113"
       }
     ]
   }
