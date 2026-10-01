@@ -739,7 +739,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉龍洲路",
     "units": "新園分隊",
-    "current_status": "已返隊",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -752,6 +752,10 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-01T09:00:20.507784"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-01T09:01:20.498292"
       }
     ]
   },
