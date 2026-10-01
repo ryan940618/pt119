@@ -3473,7 +3473,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉汾陽二巷",
     "units": "龍泉分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -3482,6 +3482,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-01T21:18:20.038660"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T21:20:20.165486"
       }
     ]
   }
