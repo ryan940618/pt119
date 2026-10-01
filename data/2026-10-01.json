@@ -1085,11 +1085,15 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉玉環路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-01T09:55:20.855813"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-01T11:07:20.245289"
       }
     ]
   },
@@ -1290,6 +1294,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-01T10:55:20.140844"
+      }
+    ]
+  },
+  "cbfb1145ad9867a59b05e0ceb2b72a18": {
+    "time": "2026/10/01 11:06:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉里港路158巷",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T11:07:20.245289"
       }
     ]
   }
