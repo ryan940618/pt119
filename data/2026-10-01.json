@@ -3841,11 +3841,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市林森路",
     "units": "",
-    "current_status": "已受理",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-10-01T23:46:20.878281"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-01T23:47:20.931392"
       }
     ]
   }
