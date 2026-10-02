@@ -2535,7 +2535,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉萬巒大橋 內埔端",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2548,6 +2548,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T19:00:20.371391"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T19:34:20.715891"
       }
     ]
   },
