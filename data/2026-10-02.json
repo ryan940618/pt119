@@ -2279,11 +2279,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市公園西路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T17:35:20.784850"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T17:39:20.843700"
+      }
+    ]
+  },
+  "942b500678b6d9505593b98755057e12": {
+    "time": "2026/10/02 17:38:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉維新路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T17:39:20.843700"
       }
     ]
   }
