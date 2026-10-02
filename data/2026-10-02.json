@@ -2459,7 +2459,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉河堤 過河濱公園/往屏東方向",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2472,6 +2472,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T19:43:20.635797"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T20:05:20.763709"
       }
     ]
   },
