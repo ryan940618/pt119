@@ -350,5 +350,19 @@
         "timestamp": "2026-10-03T07:09:20.467002"
       }
     ]
+  },
+  "cd639572b6a1da329ae56216c2b22daa": {
+    "time": "2026/10/03 07:20:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉平昌街",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T07:21:20.511996"
+      }
+    ]
   }
 }
