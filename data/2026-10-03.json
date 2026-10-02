@@ -303,7 +303,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉進化路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -316,6 +316,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T07:23:20.446306"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T07:27:20.537566"
       }
     ]
   },
