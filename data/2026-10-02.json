@@ -961,7 +961,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "公館分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -974,6 +974,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-02T09:56:19.951396"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T09:58:19.947309"
       }
     ]
   },
