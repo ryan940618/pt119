@@ -442,5 +442,19 @@
         "timestamp": "2026-10-03T07:33:20.599965"
       }
     ]
+  },
+  "c26729569f1789618fc087bbb7b0d345": {
+    "time": "2026/10/03 07:51:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉光明路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T07:53:20.855619"
+      }
+    ]
   }
 }
