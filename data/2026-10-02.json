@@ -1031,7 +1031,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉德文遊客中心",
     "units": "三地門分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1040,6 +1040,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T10:20:20.099774"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T10:22:20.174208"
       }
     ]
   },
