@@ -1573,7 +1573,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉建三路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1582,6 +1582,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T13:17:20.237238"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T13:29:20.412954"
       }
     ]
   },
@@ -1662,6 +1666,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T13:28:20.199376"
+      }
+    ]
+  },
+  "b2ff768ff7ac4127b686fc44ac8d6bdb": {
+    "time": "2026/10/02 13:28:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉長治國中[屏東縣長治鄉中興路",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T13:29:20.412954"
       }
     ]
   }
