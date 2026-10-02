@@ -2537,11 +2537,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉屏東往高雄/萬大橋機車道",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:53:20.533224"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T19:03:20.358237"
       }
     ]
   },
@@ -2570,6 +2574,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T19:02:20.436147"
+      }
+    ]
+  },
+  "b28f156f22a29c26c711ddd54815d1d2": {
+    "time": "2026/10/02 19:02:38",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣里港鄉信國1-31號",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-02T19:03:20.358237"
       }
     ]
   }
