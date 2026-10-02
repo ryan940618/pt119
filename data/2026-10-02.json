@@ -3310,5 +3310,19 @@
         "timestamp": "2026-10-02T22:45:21.093713"
       }
     ]
+  },
+  "19eaef45a7d832133e62246a63d8318b": {
+    "time": "2026/10/02 23:00:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市凌雲路",
+    "units": "公館分隊,屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T23:03:29.505439"
+      }
+    ]
   }
 }
