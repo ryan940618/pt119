@@ -1165,7 +1165,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市合作街",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1182,6 +1182,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T11:01:20.761938"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T11:13:20.519218"
       }
     ]
   },
@@ -1205,7 +1209,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉通川路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1214,6 +1218,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T11:11:20.596247"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T11:13:20.519218"
       }
     ]
   },
