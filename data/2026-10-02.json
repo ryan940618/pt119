@@ -2967,7 +2967,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市瑞光路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2976,6 +2976,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T20:54:20.130056"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T21:31:20.398277"
       }
     ]
   },
@@ -2985,7 +2989,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉新開三路",
     "units": "春日分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -2998,6 +3002,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T21:18:20.358977"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T21:31:20.398277"
       }
     ]
   },
