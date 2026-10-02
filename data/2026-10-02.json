@@ -1874,5 +1874,19 @@
         "timestamp": "2026-10-02T15:39:19.990070"
       }
     ]
+  },
+  "9a0dcd82884322ba8e4508dd6d0dff64": {
+    "time": "2026/10/02 15:49:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉透過電力座標(Q4919,GA1200)轉換GIS座標金陵路",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T15:51:19.994280"
+      }
+    ]
   }
 }
