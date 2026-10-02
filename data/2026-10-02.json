@@ -1384,5 +1384,19 @@
         "timestamp": "2026-10-02T11:32:20.632005"
       }
     ]
+  },
+  "bb115e28faeda6a5e1d3ed9ba7d436aa": {
+    "time": "2026/10/02 11:39:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-02T11:40:20.753862"
+      }
+    ]
   }
 }
