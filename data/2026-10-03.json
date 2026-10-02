@@ -317,11 +317,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東港大橋中間橋下",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T07:06:20.375961"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-10-03T07:07:20.506567"
       }
     ]
   }
