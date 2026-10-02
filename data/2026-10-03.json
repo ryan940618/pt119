@@ -114,5 +114,19 @@
         "timestamp": "2026-10-03T03:20:20.865959"
       }
     ]
+  },
+  "b38d1c9722800fded72cc27057337150": {
+    "time": "2026/10/03 03:59:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉隆華路",
+    "units": "枋寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T04:00:21.025335"
+      }
+    ]
   }
 }
