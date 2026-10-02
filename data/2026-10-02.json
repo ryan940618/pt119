@@ -2756,5 +2756,19 @@
         "timestamp": "2026-10-02T19:41:20.829550"
       }
     ]
+  },
+  "9980b26dc26f79532369fd6ab7774cb0": {
+    "time": "2026/10/02 19:45:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市信義路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T19:46:20.765345"
+      }
+    ]
   }
 }
