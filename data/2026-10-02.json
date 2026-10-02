@@ -1725,11 +1725,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉河南巷",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T13:53:20.452398"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T14:25:20.576801"
       }
     ]
   },
