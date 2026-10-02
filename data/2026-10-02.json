@@ -1833,11 +1833,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T15:32:20.980925"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T15:39:19.990070"
       }
     ]
   },
@@ -1847,11 +1851,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中華路",
     "units": "麟洛分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T15:38:20.372861"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T15:39:19.990070"
       }
     ]
   }
