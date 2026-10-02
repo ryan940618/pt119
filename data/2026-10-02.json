@@ -3049,11 +3049,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉屏科大正門前，全家便利商店",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T21:28:20.597635"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T21:29:20.383529"
       }
     ]
   }
