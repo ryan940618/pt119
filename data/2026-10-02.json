@@ -1196,5 +1196,33 @@
         "timestamp": "2026-10-02T10:31:20.322203"
       }
     ]
+  },
+  "a77db246d204d5e2fe598f0bb0fe1c02": {
+    "time": "2026/10/02 10:44:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮中正路",
+    "units": "南州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T10:45:20.260167"
+      }
+    ]
+  },
+  "2d8f944b060abbd6a4ed1b681ee2fb50": {
+    "time": "2026/10/02 10:44:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉中林路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-02T10:45:20.260167"
+      }
+    ]
   }
 }
