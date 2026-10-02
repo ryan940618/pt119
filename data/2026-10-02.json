@@ -1793,11 +1793,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉內埔高級農工職校[屏東縣內埔鄉成功路",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T14:57:20.846678"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T14:58:20.803775"
       }
     ]
   }
