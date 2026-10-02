@@ -881,7 +881,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市頂柳路502巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -890,6 +890,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T09:29:20.753486"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T09:36:20.829250"
       }
     ]
   },
@@ -918,6 +922,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T09:29:20.753486"
+      }
+    ]
+  },
+  "53e8cf7dc9fb426d1a49cefc8e988d57": {
+    "time": "2026/10/02 09:34:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉德協路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T09:36:20.829250"
+      }
+    ]
+  },
+  "3a8baef0fb6f723a2d34ea84737eac71": {
+    "time": "2026/10/02 09:33:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T09:36:20.829250"
       }
     ]
   }
