@@ -1476,5 +1476,19 @@
         "timestamp": "2026-10-02T12:04:20.969153"
       }
     ]
+  },
+  "666123a62d3f2df4c54613d6ae4bf198": {
+    "time": "2026/10/02 12:07:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉鐵店路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T12:08:20.844635"
+      }
+    ]
   }
 }
