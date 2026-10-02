@@ -234,5 +234,19 @@
         "timestamp": "2026-10-03T06:16:21.049249"
       }
     ]
+  },
+  "c9ad0c0387d6f9a909a3cea953a1accb": {
+    "time": "2026/10/03 06:30:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉鹽樹村公平路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T06:31:21.181287"
+      }
+    ]
   }
 }
