@@ -1888,5 +1888,19 @@
         "timestamp": "2026-10-02T15:51:19.994280"
       }
     ]
+  },
+  "58f7f899381dc933a4fd1ef8679da78f": {
+    "time": "2026/10/02 15:50:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉清涼路",
+    "units": "三地門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T15:52:20.087262"
+      }
+    ]
   }
 }
