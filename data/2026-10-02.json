@@ -1669,7 +1669,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣官路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1678,6 +1678,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T13:28:20.199376"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T14:07:20.431787"
       }
     ]
   },
