@@ -1761,7 +1761,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉中正路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1770,6 +1770,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T14:33:20.610459"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T15:45:19.972716"
       }
     ]
   },
