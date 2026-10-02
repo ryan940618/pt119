@@ -2622,5 +2622,33 @@
         "timestamp": "2026-10-02T19:06:20.591249"
       }
     ]
+  },
+  "e91f44082ca41279fec5db5a3ac0c06e": {
+    "time": "2026/10/02 19:10:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉昌宏路",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T19:11:20.501848"
+      }
+    ]
+  },
+  "b954bb0cacf57890c3c23a79e41e4240": {
+    "time": "2026/10/02 19:10:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮朝昇路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T19:11:20.501848"
+      }
+    ]
   }
 }
