@@ -1651,7 +1651,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市前進一路35巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1660,6 +1660,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T13:57:20.375261"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T14:11:20.548491"
       }
     ]
   },
