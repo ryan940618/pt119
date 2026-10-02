@@ -253,11 +253,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉鹽樹村公平路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T06:31:21.181287"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-03T07:30:20.586648"
       }
     ]
   },
@@ -388,6 +392,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T07:26:20.560448"
+      }
+    ]
+  },
+  "f4fd1cf593fef1f3d9657ddd9a52d30d": {
+    "time": "2026/10/03 07:28:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮敦化路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T07:30:20.586648"
       }
     ]
   }
