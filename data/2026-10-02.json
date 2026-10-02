@@ -2349,7 +2349,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉維新路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2358,6 +2358,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-02T18:18:20.010503"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T18:43:20.164572"
       }
     ]
   },
@@ -2444,6 +2448,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T18:25:20.154027"
+      }
+    ]
+  },
+  "04d8ca420c4610a4626c78d25888d280": {
+    "time": "2026/10/02 18:42:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自立南路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T18:43:20.164572"
+      }
+    ]
+  },
+  "b287081744145e384b5931150c4d9291": {
+    "time": "2026/10/02 18:42:03",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣長治鄉瑞源路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-02T18:43:20.164572"
       }
     ]
   }
