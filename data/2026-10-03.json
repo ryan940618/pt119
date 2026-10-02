@@ -205,7 +205,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市清進路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -214,6 +214,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-03T06:16:21.049249"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T06:25:21.165584"
       }
     ]
   },
