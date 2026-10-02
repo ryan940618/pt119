@@ -3360,5 +3360,19 @@
         "timestamp": "2026-10-02T23:31:20.220048"
       }
     ]
+  },
+  "785efbf7cbe6dd3e819b547c0c76c518": {
+    "time": "2026/10/02 23:40:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉枋山路7巷",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T23:43:20.421804"
+      }
+    ]
   }
 }
