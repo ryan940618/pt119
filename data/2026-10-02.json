@@ -1330,5 +1330,19 @@
         "timestamp": "2026-10-02T11:09:20.926209"
       }
     ]
+  },
+  "44c74a124ac4bbf98b9d551e2a5f7225": {
+    "time": "2026/10/02 11:29:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉學人路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:31:20.604460"
+      }
+    ]
   }
 }
