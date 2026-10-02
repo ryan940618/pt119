@@ -836,5 +836,19 @@
         "timestamp": "2026-10-02T08:37:20.472281"
       }
     ]
+  },
+  "9c3fa5128eb202a2c95b314d9dc5a1d2": {
+    "time": "2026/10/02 08:55:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉透過電力座標(T2786,FB9400)轉換GIS座標",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:57:20.829277"
+      }
+    ]
   }
 }
