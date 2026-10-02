@@ -726,5 +726,19 @@
         "timestamp": "2026-10-02T08:12:20.305628"
       }
     ]
+  },
+  "59f271a71515e9717617770dce9e0e36": {
+    "time": "2026/10/02 08:12:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉巖仔路118巷",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T08:14:20.377824"
+      }
+    ]
   }
 }
