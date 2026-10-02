@@ -3051,11 +3051,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市公園東路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T21:21:20.283351"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T21:41:20.398217"
       }
     ]
   },
@@ -3097,11 +3101,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮萬里路",
     "units": "車城分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-02T21:40:20.409526"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T21:41:20.398217"
       }
     ]
   }
