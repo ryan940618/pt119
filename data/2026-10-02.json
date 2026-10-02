@@ -1840,5 +1840,19 @@
         "timestamp": "2026-10-02T15:32:20.980925"
       }
     ]
+  },
+  "a8eb1528f1196f20c10fd29f428c9c55": {
+    "time": "2026/10/02 15:37:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉中華路",
+    "units": "麟洛分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-02T15:38:20.372861"
+      }
+    ]
   }
 }
