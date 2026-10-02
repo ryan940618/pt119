@@ -1531,11 +1531,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬壽路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T12:14:20.812243"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T12:28:20.980315"
       }
     ]
   },
