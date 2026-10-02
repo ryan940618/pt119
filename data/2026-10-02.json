@@ -2855,11 +2855,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市和樂餐廳[屏東縣屏東市莊敬街",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T20:19:20.842435"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T20:53:20.124702"
       }
     ]
   },
@@ -2869,7 +2873,7 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉福興一路",
     "units": "滿州分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -2886,6 +2890,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-02T20:44:21.104041"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T20:53:20.124702"
       }
     ]
   },
