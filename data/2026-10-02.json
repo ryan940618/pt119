@@ -3299,7 +3299,7 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉小墾丁渡假村[屏東縣滿州鄉中山路",
     "units": "滿州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3308,6 +3308,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T22:45:21.093713"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-02T23:33:21.831484"
       }
     ]
   },
