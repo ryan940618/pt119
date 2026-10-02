@@ -146,5 +146,19 @@
         "timestamp": "2026-10-03T04:13:21.149110"
       }
     ]
+  },
+  "4ffdd6f013591784522166d6f7192c83": {
+    "time": "2026/10/03 04:27:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市歸仁路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T04:29:20.322909"
+      }
+    ]
   }
 }
