@@ -3111,11 +3111,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉港墘路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T21:39:20.364475"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T22:20:20.824964"
       }
     ]
   },
@@ -3189,11 +3193,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽洲路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T21:54:20.634990"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T22:20:20.824964"
       }
     ]
   },
