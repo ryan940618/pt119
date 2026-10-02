@@ -1276,5 +1276,19 @@
         "timestamp": "2026-10-02T10:54:20.420601"
       }
     ]
+  },
+  "d7efed4f8e78385c886b7ea6b068a8c3": {
+    "time": "2026/10/02 11:06:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉信義巷",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T11:09:20.926209"
+      }
+    ]
   }
 }
