@@ -2909,11 +2909,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市昆明街",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-02T20:42:21.063343"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-02T20:46:21.068095"
       }
     ]
   }
