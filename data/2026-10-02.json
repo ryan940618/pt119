@@ -3152,5 +3152,33 @@
         "timestamp": "2026-10-02T21:47:20.618529"
       }
     ]
+  },
+  "4952171fde42a93df70f6d8aa8264f6e": {
+    "time": "2026/10/02 21:52:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉社皮路三段148巷",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T21:54:20.634990"
+      }
+    ]
+  },
+  "ebc3a24ab35646b6cb5cdacec77bed6d": {
+    "time": "2026/10/02 21:52:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉鹽洲路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-02T21:54:20.634990"
+      }
+    ]
   }
 }
