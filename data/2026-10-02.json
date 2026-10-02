@@ -1927,7 +1927,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉清涼路",
     "units": "三地門分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -1940,6 +1940,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-02T16:15:20.253274"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-02T16:45:21.022003"
       }
     ]
   },
@@ -2049,7 +2053,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉和平路",
     "units": "里港分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2062,6 +2066,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-02T16:35:20.483667"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-02T16:45:21.022003"
       }
     ]
   },
