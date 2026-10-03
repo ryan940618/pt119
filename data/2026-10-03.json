@@ -2305,7 +2305,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和樂餐廳[屏東縣屏東市莊敬街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2314,6 +2314,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-03T18:47:22.910710"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T18:49:20.644688"
       }
     ]
   },
@@ -2464,6 +2468,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T18:48:28.494276"
+      }
+    ]
+  },
+  "60bc047ffb64a3af515365c8196dde6e": {
+    "time": "2026/10/03 18:47:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮下部路",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T18:49:20.644688"
       }
     ]
   }
