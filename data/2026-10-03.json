@@ -675,11 +675,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市大同路和大安街",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T08:34:20.928352"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T09:09:20.983217"
       }
     ]
   },
