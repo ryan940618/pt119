@@ -882,5 +882,19 @@
         "timestamp": "2026-10-03T10:15:20.429530"
       }
     ]
+  },
+  "25780fb3704b3e0aa48c5d7f8f71dd9b": {
+    "time": "2026/10/03 10:30:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉看海美術館/大車停車處",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T10:31:20.432935"
+      }
+    ]
   }
 }
