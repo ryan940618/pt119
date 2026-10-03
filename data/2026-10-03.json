@@ -3319,7 +3319,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市公裕街353巷",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3328,6 +3328,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T23:31:20.016764"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T23:36:20.070589"
       }
     ]
   }
