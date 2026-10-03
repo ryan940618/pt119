@@ -2349,11 +2349,15 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉台九線丹路",
     "units": "獅子分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T18:28:20.592931"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T18:29:20.541993"
       }
     ]
   }
