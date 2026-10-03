@@ -2133,7 +2133,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市武昌街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2146,6 +2146,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-03T17:44:20.106869"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T17:58:20.286394"
       }
     ]
   },
@@ -2196,6 +2200,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T17:24:21.085179"
+      }
+    ]
+  },
+  "623c8ef510a1a61d21bf24b4c290d42a": {
+    "time": "2026/10/03 17:57:44",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉大同路三段榮和巷",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T17:58:20.286394"
       }
     ]
   }
