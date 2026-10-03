@@ -2569,11 +2569,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市公勇路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:02:20.844530"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-03T19:33:21.083385"
       }
     ]
   },
@@ -2676,6 +2680,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T19:21:22.279704"
+      }
+    ]
+  },
+  "7f21db5da707828c26de15b0a8268659": {
+    "time": "2026/10/03 19:32:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮明德一路",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T19:33:21.083385"
+      }
+    ]
+  },
+  "4c6b8b950bb1770eaed9ba5c319f677f": {
+    "time": "2026/10/03 19:31:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉高樹大橋往高樹方向下橋處",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:33:21.083385"
       }
     ]
   }
