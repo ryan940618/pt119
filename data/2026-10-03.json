@@ -1807,11 +1807,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮崙東路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:08:20.445853"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-03T15:40:20.494627"
       }
     ]
   },
@@ -1821,7 +1825,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮明仁巷",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1830,6 +1834,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T15:15:20.260242"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-03T15:40:20.494627"
       }
     ]
   },
