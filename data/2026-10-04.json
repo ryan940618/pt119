@@ -613,7 +613,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉九如路二段180巷",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -626,6 +626,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-04T07:37:20.938187"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T07:46:21.030061"
       }
     ]
   },
