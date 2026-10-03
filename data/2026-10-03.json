@@ -800,5 +800,19 @@
         "timestamp": "2026-10-03T09:46:20.377039"
       }
     ]
+  },
+  "42359cd74975c2ca1d58478bdc2d09ee": {
+    "time": "2026/10/03 09:46:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉唐華路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:47:21.235903"
+      }
+    ]
   }
 }
