@@ -700,5 +700,19 @@
         "timestamp": "2026-10-03T08:56:20.909075"
       }
     ]
+  },
+  "d8fe91396f4f768301036c7efdf006f3": {
+    "time": "2026/10/03 09:00:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市迪化一街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T09:01:20.906343"
+      }
+    ]
   }
 }
