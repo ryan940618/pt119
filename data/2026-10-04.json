@@ -402,5 +402,19 @@
         "timestamp": "2026-10-04T06:05:20.396546"
       }
     ]
+  },
+  "f13b013b68ad4695afd0236afe36bd1a": {
+    "time": "2026/10/04 06:05:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大湖路205巷",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T06:06:20.384038"
+      }
+    ]
   }
 }
