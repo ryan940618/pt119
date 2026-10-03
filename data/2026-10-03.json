@@ -2013,7 +2013,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉新街",
     "units": "車城分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2022,6 +2022,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-03T16:35:20.823510"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T16:36:20.817801"
       }
     ]
   },
@@ -2031,11 +2035,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉民族路埔圳巷",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T16:35:20.823510"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T16:36:20.817801"
       }
     ]
   }
