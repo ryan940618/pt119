@@ -3120,5 +3120,19 @@
         "timestamp": "2026-10-03T22:15:20.538642"
       }
     ]
+  },
+  "ecd2d6d6b768ab3806bf2dff901b5361": {
+    "time": "2026/10/03 22:34:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉仙吉路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T22:36:20.692778"
+      }
+    ]
   }
 }
