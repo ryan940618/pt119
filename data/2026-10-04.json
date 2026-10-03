@@ -417,7 +417,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市大湖路205巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -430,6 +430,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-04T06:42:20.567395"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T06:51:20.647713"
       }
     ]
   },
@@ -521,11 +525,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "高級救護隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T06:50:20.725733"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T06:51:20.647713"
       }
     ]
   }
