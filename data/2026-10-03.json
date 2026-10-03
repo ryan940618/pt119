@@ -722,5 +722,19 @@
         "timestamp": "2026-10-03T09:01:20.906343"
       }
     ]
+  },
+  "9a11c71361724d6d922cd81d1871a2d7": {
+    "time": "2026/10/03 09:13:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮明禮路",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T09:14:20.984306"
+      }
+    ]
   }
 }
