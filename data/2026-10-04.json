@@ -117,11 +117,29 @@
     "sub_category": "",
     "location": "屏東縣來義鄉文樂村新樂17號",
     "units": "新埤分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T01:55:20.805467"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T01:58:20.854136"
+      }
+    ]
+  },
+  "679cb99e0b039982709eb714aa4d98d2": {
+    "time": "2026/10/04 01:55:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建國路107巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T01:58:20.854136"
       }
     ]
   }
