@@ -928,5 +928,19 @@
         "timestamp": "2026-10-03T10:34:20.545521"
       }
     ]
+  },
+  "77e0b7c4c461f77fffbff7a81f476d88": {
+    "time": "2026/10/03 10:42:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉東平路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T10:43:20.472665"
+      }
+    ]
   }
 }
