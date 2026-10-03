@@ -1433,7 +1433,7 @@
     "sub_category": "",
     "location": "屏東縣春日鄉春日路",
     "units": "枋寮分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1442,6 +1442,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-03T14:08:20.791943"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T14:19:20.924729"
       }
     ]
   },
@@ -1590,6 +1594,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T14:15:20.837375"
+      }
+    ]
+  },
+  "27eff9cafbf9ee97cc664f66c35df03d": {
+    "time": "2026/10/03 14:17:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉保安路104巷",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T14:19:20.924729"
       }
     ]
   }
