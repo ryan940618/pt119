@@ -3083,11 +3083,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉海邊路",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "已受理",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T22:12:20.499392"
+      },
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-03T22:13:20.552057"
       }
     ]
   }
