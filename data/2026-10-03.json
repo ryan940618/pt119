@@ -1740,5 +1740,33 @@
         "timestamp": "2026-10-03T15:01:20.180805"
       }
     ]
+  },
+  "19cfcc6113ca55360c1305bce1e0c8de": {
+    "time": "2026/10/03 15:01:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮南進路1巷",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T15:02:20.313912"
+      }
+    ]
+  },
+  "93503e41f2d0b1436b19368d875b8ee9": {
+    "time": "2026/10/03 15:01:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉大明路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T15:02:20.313912"
+      }
+    ]
   }
 }
