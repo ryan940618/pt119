@@ -2895,11 +2895,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市建豐路140巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T20:40:20.247585"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T20:43:20.255752"
+      }
+    ]
+  },
+  "869c925deae92072b49bd46c32ef0ff3": {
+    "time": "2026/10/03 20:41:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉進化路",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T20:43:20.255752"
       }
     ]
   }
