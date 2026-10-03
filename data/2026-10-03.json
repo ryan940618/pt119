@@ -3003,7 +3003,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和平路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3012,6 +3012,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T21:27:20.547460"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-03T21:38:20.377529"
+      }
+    ]
+  },
+  "0518cb891063324a74951ab5d73518e2": {
+    "time": "2026/10/03 21:37:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉廣安路239巷",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T21:38:20.377529"
       }
     ]
   }
