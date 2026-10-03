@@ -2507,11 +2507,29 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉台27線測速照相往屏東方向第一個紅綠燈口",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T19:01:20.604625"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:02:20.844530"
+      }
+    ]
+  },
+  "368230c3a7c6fd1caf2e687818f135cd": {
+    "time": "2026/10/03 19:01:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公勇路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:02:20.844530"
       }
     ]
   }
