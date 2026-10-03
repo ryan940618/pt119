@@ -946,5 +946,19 @@
         "timestamp": "2026-10-03T10:43:20.472665"
       }
     ]
+  },
+  "238b5bb2d314a68840a9138cba2fcaa7": {
+    "time": "2026/10/03 10:45:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉公正路84巷",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T10:47:20.474942"
+      }
+    ]
   }
 }
