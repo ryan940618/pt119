@@ -262,5 +262,19 @@
         "timestamp": "2026-10-04T04:13:20.677099"
       }
     ]
+  },
+  "1dc54f53554fd64031bc5ef6d25a384d": {
+    "time": "2026/10/04 04:19:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮朝昇東路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T04:21:20.764767"
+      }
+    ]
   }
 }
