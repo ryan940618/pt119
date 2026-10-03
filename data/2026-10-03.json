@@ -2279,7 +2279,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉三民路",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2288,6 +2288,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:24:20.408075"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T18:35:20.539951"
       }
     ]
   },
@@ -2408,6 +2412,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:34:20.474508"
+      }
+    ]
+  },
+  "a67d5c87f582288451cab1e681f2528f": {
+    "time": "2026/10/03 18:33:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉豐年路8巷",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T18:35:20.539951"
       }
     ]
   }
