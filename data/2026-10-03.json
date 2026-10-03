@@ -1729,11 +1729,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市華盛巷",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T15:00:20.308760"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T15:01:20.180805"
       }
     ]
   }
