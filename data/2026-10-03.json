@@ -978,5 +978,33 @@
         "timestamp": "2026-10-03T10:48:20.519783"
       }
     ]
+  },
+  "34a2b61413f4f3ffc709fcb71f3e556a": {
+    "time": "2026/10/03 10:49:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉四維路15巷",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T10:50:20.563379"
+      }
+    ]
+  },
+  "3ac5d9c2ba1d77ff0e74f39201ffe9d5": {
+    "time": "2026/10/03 10:48:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉枋山路7巷",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T10:50:20.563379"
+      }
+    ]
   }
 }
