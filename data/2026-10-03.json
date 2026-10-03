@@ -3081,11 +3081,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉賴家村葫蘆尾/九天宮",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T21:45:20.359145"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T22:50:20.790594"
       }
     ]
   },
