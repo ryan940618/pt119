@@ -2689,11 +2689,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮明德一路",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-03T19:33:21.083385"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T19:34:20.996879"
       }
     ]
   },
