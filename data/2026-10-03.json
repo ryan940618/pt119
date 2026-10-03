@@ -2314,5 +2314,33 @@
         "timestamp": "2026-10-03T18:26:20.452302"
       }
     ]
+  },
+  "307978e2d0cc13683bb56e5f67e5a351": {
+    "time": "2026/10/03 18:26:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮恆西路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T18:27:20.449838"
+      }
+    ]
+  },
+  "c4cee6bb2a21af82bad4c7b6891b728d": {
+    "time": "2026/10/03 18:26:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉建功路",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T18:27:20.449838"
+      }
+    ]
   }
 }
