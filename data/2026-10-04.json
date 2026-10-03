@@ -5,11 +5,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉聖心路141巷",
     "units": "",
-    "current_status": "已受理",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-10-04T00:49:20.491048"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T00:50:20.489745"
       }
     ]
   }
