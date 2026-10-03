@@ -1398,5 +1398,19 @@
         "timestamp": "2026-10-03T12:55:20.419828"
       }
     ]
+  },
+  "16c27222435f7d950bb01dfcc62abca2": {
+    "time": "2026/10/03 13:02:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣春日鄉春日路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T13:04:20.641674"
+      }
+    ]
   }
 }
