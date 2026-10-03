@@ -2067,7 +2067,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉民族路埔圳巷",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2076,6 +2076,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T16:36:20.817801"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-03T17:43:20.327683"
       }
     ]
   },
