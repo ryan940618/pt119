@@ -1076,5 +1076,19 @@
         "timestamp": "2026-10-03T11:16:21.067102"
       }
     ]
+  },
+  "d4d5658f41e87b7e12b75a8f90b67015": {
+    "time": "2026/10/03 11:18:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉消防隊//測試",
+    "units": "牡丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T11:20:20.775174"
+      }
+    ]
   }
 }
