@@ -298,5 +298,19 @@
         "timestamp": "2026-10-04T04:32:20.799336"
       }
     ]
+  },
+  "501b087cc83ac51e7b1adb08f1c63b4d": {
+    "time": "2026/10/04 04:31:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市機場北路",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T04:34:20.802346"
+      }
+    ]
   }
 }
