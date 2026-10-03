@@ -495,11 +495,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮沿海路373巷",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T06:32:20.602312"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T06:38:20.582493"
       }
     ]
   }
