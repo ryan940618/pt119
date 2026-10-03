@@ -1905,7 +1905,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉單座二巷",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1918,6 +1918,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-03T16:18:20.710374"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T16:28:20.750076"
       }
     ]
   },
