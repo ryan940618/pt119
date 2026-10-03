@@ -1508,5 +1508,33 @@
         "timestamp": "2026-10-03T13:31:20.494097"
       }
     ]
+  },
+  "9861ab839af2100aa61a18d6bded16fb": {
+    "time": "2026/10/03 13:50:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉明東路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T13:51:20.687186"
+      }
+    ]
+  },
+  "bf523b07a74834d5a0581c61c7b5d3a0": {
+    "time": "2026/10/03 13:50:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉塭田路",
+    "units": "林邊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-03T13:51:20.687186"
+      }
+    ]
   }
 }
