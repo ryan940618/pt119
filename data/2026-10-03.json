@@ -2375,11 +2375,15 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉透過手機強化定位取得97座標(222986,2456748)(台東往屏東方向)/南迴447K往屏東方向",
     "units": "獅子分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-03T18:31:20.553870"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-03T18:36:20.546052"
       }
     ]
   },
