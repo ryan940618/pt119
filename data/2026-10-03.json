@@ -349,7 +349,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東港大橋中間橋下",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -374,6 +374,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-03T08:26:20.877385"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T23:19:20.958497"
       }
     ]
   },
@@ -3139,7 +3143,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉仙吉路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3148,6 +3152,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-03T23:12:21.084238"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T23:19:20.958497"
       }
     ]
   },
