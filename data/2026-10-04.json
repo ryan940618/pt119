@@ -85,11 +85,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉透過手機強化定位取得97座標(209718,2472068)/中正大路",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T01:41:20.737859"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-04T02:21:19.922842"
       }
     ]
   },
