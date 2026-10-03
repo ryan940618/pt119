@@ -3179,7 +3179,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉卡悠峯瀑布附近工寮[屏東縣獅子鄉卡悠峯]",
     "units": "獅子分隊",
-    "current_status": "已離院",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -3192,6 +3192,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-03T23:01:20.858792"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-03T23:48:20.163035"
       }
     ]
   },
