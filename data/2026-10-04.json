@@ -107,7 +107,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉金榮路",
     "units": "春日分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -128,6 +128,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-04T02:27:20.063412"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T02:45:20.113866"
       }
     ]
   },
