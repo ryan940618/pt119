@@ -2779,7 +2779,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉高樹大橋往高樹方向下橋處",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2788,6 +2788,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-03T20:56:20.344558"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T21:10:20.354482"
       }
     ]
   },
