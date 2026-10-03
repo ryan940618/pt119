@@ -692,5 +692,19 @@
         "timestamp": "2026-10-04T07:53:20.034766"
       }
     ]
+  },
+  "87ab4defd61097badf904ec579c730d0": {
+    "time": "2026/10/04 07:35:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉聯通街359巷",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T07:55:20.049829"
+      }
+    ]
   }
 }
