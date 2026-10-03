@@ -1931,7 +1931,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉里順路101巷",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1940,6 +1940,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-03T16:30:20.850687"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-03T17:00:21.088300"
       }
     ]
   },
@@ -2074,6 +2078,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-03T16:59:21.055068"
+      }
+    ]
+  },
+  "ea3f78e3a2e86105d4537b505802a7ec": {
+    "time": "2026/10/03 16:59:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉產業路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-03T17:00:21.088300"
       }
     ]
   }
