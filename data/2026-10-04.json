@@ -1794,5 +1794,19 @@
         "timestamp": "2026-10-04T13:09:21.721939"
       }
     ]
+  },
+  "93aa5fc8efdfd8f69f8a9353dc912a5b": {
+    "time": "2026/10/04 13:17:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉三民路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T13:18:21.177014"
+      }
+    ]
   }
 }
