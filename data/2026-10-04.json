@@ -2168,5 +2168,33 @@
         "timestamp": "2026-10-04T14:52:20.785411"
       }
     ]
+  },
+  "854a542dfa321e2f6b2aac1eddac4819": {
+    "time": "2026/10/04 14:55:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉南興路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-04T14:56:20.889225"
+      }
+    ]
+  },
+  "c78a2fd0ed95f5fd6e547c477eeb6320": {
+    "time": "2026/10/04 14:55:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉南興路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T14:56:20.889225"
+      }
+    ]
   }
 }
