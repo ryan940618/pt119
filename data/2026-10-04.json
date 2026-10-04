@@ -757,11 +757,29 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉龍泉中油加油站(大新路",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T08:21:20.197514"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T08:22:20.311165"
+      }
+    ]
+  },
+  "3b7e54fe6a3102e8f35ae7b80c330f4b": {
+    "time": "2026/10/04 08:21:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T08:22:20.311165"
       }
     ]
   }
