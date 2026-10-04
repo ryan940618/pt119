@@ -1044,5 +1044,33 @@
         "timestamp": "2026-10-04T09:19:20.687404"
       }
     ]
+  },
+  "5f12cffee84f9f366dfde13b203dc4e3": {
+    "time": "2026/10/04 09:22:52",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮福星路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-04T09:24:20.733270"
+      }
+    ]
+  },
+  "59af8648890027f7fa73dc6d7fea3334": {
+    "time": "2026/10/04 09:20:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮豐漁街",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T09:24:20.733270"
+      }
+    ]
   }
 }
