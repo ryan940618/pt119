@@ -946,5 +946,33 @@
         "timestamp": "2026-10-04T08:56:20.482453"
       }
     ]
+  },
+  "fdf42fe973cb572606906d979d60189f": {
+    "time": "2026/10/04 09:04:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉博愛街",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T09:05:22.013077"
+      }
+    ]
+  },
+  "a5472f1ed985427b539bd9b4c4ba0112": {
+    "time": "2026/10/04 09:03:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉東西一路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T09:05:22.013077"
+      }
+    ]
   }
 }
