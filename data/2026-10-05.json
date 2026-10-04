@@ -204,5 +204,19 @@
         "timestamp": "2026-10-05T02:28:20.791604"
       }
     ]
+  },
+  "382ab2d16630fde86007bb043fb7902a": {
+    "time": "2026/10/05 02:41:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市瑞光路二段82巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T02:43:20.949177"
+      }
+    ]
   }
 }
