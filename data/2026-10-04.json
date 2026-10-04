@@ -989,11 +989,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉陽明路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T09:06:20.636835"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T09:09:20.561378"
       }
     ]
   }
