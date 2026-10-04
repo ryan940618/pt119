@@ -2577,11 +2577,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆公路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T16:25:20.668882"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T17:27:21.055006"
       }
     ]
   },
@@ -2591,7 +2595,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉人和路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2600,6 +2604,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-04T17:19:20.948854"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T17:27:21.055006"
       }
     ]
   },
@@ -2649,11 +2657,15 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉南迴443K[臺9線443K]/往屏東",
     "units": "獅子分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T17:26:21.017373"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T17:27:21.055006"
       }
     ]
   }
