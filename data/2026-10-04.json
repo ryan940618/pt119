@@ -2415,11 +2415,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T15:51:21.550403"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T15:57:21.467588"
+      }
+    ]
+  },
+  "0ea3b0c920314a4bf12e6ebd469e557f": {
+    "time": "2026/10/04 15:55:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉南華路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T15:57:21.467588"
       }
     ]
   }
