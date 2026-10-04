@@ -2642,5 +2642,19 @@
         "timestamp": "2026-10-04T17:08:20.841016"
       }
     ]
+  },
+  "67df05c386cab3c0f57e765cde6bb55d": {
+    "time": "2026/10/04 17:25:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉南迴443K[臺9線443K]/往屏東",
+    "units": "獅子分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T17:26:21.017373"
+      }
+    ]
   }
 }
