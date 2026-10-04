@@ -1290,5 +1290,33 @@
         "timestamp": "2026-10-04T10:36:20.188908"
       }
     ]
+  },
+  "81f62b6ad39757b077b40c65d859de4c": {
+    "time": "2026/10/04 10:40:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉新興路54巷",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T10:42:20.182123"
+      }
+    ]
+  },
+  "a65b1e087c1a36ebeb939d726ae50805": {
+    "time": "2026/10/04 10:41:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉瑞光路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T10:42:20.182123"
+      }
+    ]
   }
 }
