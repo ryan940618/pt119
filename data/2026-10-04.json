@@ -2765,11 +2765,29 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉大同路",
     "units": "高樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T18:33:21.400409"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T18:34:21.664204"
+      }
+    ]
+  },
+  "9dd867b3bb093315c16b2734c41332d6": {
+    "time": "2026/10/04 18:33:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉平和路",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T18:34:21.664204"
       }
     ]
   }
