@@ -3087,11 +3087,15 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉茶山路",
     "units": "滿州分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T19:52:21.224028"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T20:01:21.020752"
       }
     ]
   },
