@@ -45,11 +45,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉博愛街",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T01:20:20.313591"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T01:23:20.282301"
       }
     ]
   }
