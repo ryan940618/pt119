@@ -868,5 +868,19 @@
         "timestamp": "2026-10-04T08:35:20.409192"
       }
     ]
+  },
+  "d03e1c75f7f90b76b15582815e2dede7": {
+    "time": "2026/10/04 08:35:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣123",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-04T08:37:20.333820"
+      }
+    ]
   }
 }
