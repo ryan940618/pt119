@@ -3215,7 +3215,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉中山南路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3224,6 +3224,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T20:40:20.464861"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-04T20:57:20.672605"
       }
     ]
   },
