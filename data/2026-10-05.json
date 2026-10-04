@@ -375,11 +375,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮台26線最南點入口附近",
     "units": "墾丁分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T05:43:20.912882"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T06:05:20.096643"
       }
     ]
   },
