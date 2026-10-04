@@ -1948,5 +1948,19 @@
         "timestamp": "2026-10-04T13:56:20.620477"
       }
     ]
+  },
+  "bd89c076821112a9bcabb9a34c97f234": {
+    "time": "2026/10/04 14:01:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉南進路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T14:03:20.916648"
+      }
+    ]
   }
 }
