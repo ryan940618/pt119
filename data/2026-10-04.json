@@ -2793,7 +2793,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉大同路",
     "units": "高樹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2806,6 +2806,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-04T19:26:21.026072"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T20:08:20.436522"
       }
     ]
   },
