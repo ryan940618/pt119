@@ -421,7 +421,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉忠孝路",
     "units": "車城分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -434,6 +434,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T06:26:20.172086"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T06:30:20.216490"
       }
     ]
   }
