@@ -2946,5 +2946,33 @@
         "timestamp": "2026-10-04T19:08:20.982863"
       }
     ]
+  },
+  "7dcebc0ca78db80704fba1a9070254eb": {
+    "time": "2026/10/04 19:29:04",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉維新路",
+    "units": "鹽埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T19:33:21.113626"
+      }
+    ]
+  },
+  "291fcc2ad37995f3ca2402fa1ec7c7be": {
+    "time": "2026/10/04 19:28:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民族路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T19:33:21.113626"
+      }
+    ]
   }
 }
