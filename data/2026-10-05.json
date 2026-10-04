@@ -324,5 +324,19 @@
         "timestamp": "2026-10-05T04:41:22.443688"
       }
     ]
+  },
+  "5d0fbd9e5ff6abd5ec14c490a1e4cc86": {
+    "time": "2026/10/05 04:40:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮和平巷",
+    "units": "墾丁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T04:43:21.201197"
+      }
+    ]
   }
 }
