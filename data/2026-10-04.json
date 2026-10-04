@@ -2953,11 +2953,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉維新路",
     "units": "鹽埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T19:33:21.113626"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T19:34:20.888242"
       }
     ]
   },
