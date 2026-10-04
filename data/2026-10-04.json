@@ -1440,5 +1440,19 @@
         "timestamp": "2026-10-04T11:22:20.499517"
       }
     ]
+  },
+  "fc0e16e9c03caf54dc1b56c0a5b29fdd": {
+    "time": "2026/10/04 11:22:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉產業路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:25:20.419712"
+      }
+    ]
   }
 }
