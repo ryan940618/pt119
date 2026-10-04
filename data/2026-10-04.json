@@ -3222,5 +3222,19 @@
         "timestamp": "2026-10-04T20:40:20.464861"
       }
     ]
+  },
+  "0a2db060ad4208b4503b723ed77bce29": {
+    "time": "2026/10/04 20:41:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市頂柳路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T20:42:20.574986"
+      }
+    ]
   }
 }
