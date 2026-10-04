@@ -165,11 +165,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中山路",
     "units": "瑪家分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T02:05:20.602983"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T03:01:19.964412"
       }
     ]
   },
@@ -229,7 +233,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮三林路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -238,6 +242,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T02:52:20.906445"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T03:01:19.964412"
       }
     ]
   }
