@@ -595,7 +595,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉大坵路",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -604,6 +604,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T07:04:20.799445"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-04T08:47:20.449637"
       }
     ]
   },
@@ -783,7 +787,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -796,6 +800,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-04T08:42:20.406147"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T08:47:20.449637"
       }
     ]
   },
