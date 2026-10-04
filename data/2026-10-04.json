@@ -3166,5 +3166,19 @@
         "timestamp": "2026-10-04T20:04:20.622647"
       }
     ]
+  },
+  "fab3526c46d779bd13d9db7711441a16": {
+    "time": "2026/10/04 20:11:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮成功路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T20:12:20.485156"
+      }
+    ]
   }
 }
