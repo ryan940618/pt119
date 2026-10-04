@@ -1535,11 +1535,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T11:37:20.577725"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-04T12:05:20.714140"
       }
     ]
   },
