@@ -368,5 +368,19 @@
         "timestamp": "2026-10-05T05:42:20.987309"
       }
     ]
+  },
+  "7acfccf1c5609e597c8d7dd7e500f547": {
+    "time": "2026/10/05 05:40:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮台26線最南點入口附近",
+    "units": "墾丁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T05:43:20.912882"
+      }
+    ]
   }
 }
