@@ -1411,11 +1411,29 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉龍興路",
     "units": "龍泉分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T11:21:20.500891"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:22:20.499517"
+      }
+    ]
+  },
+  "d726da1f74d9452feeb9632ee1114bf3": {
+    "time": "2026/10/04 11:21:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉新民路",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T11:22:20.499517"
       }
     ]
   }
