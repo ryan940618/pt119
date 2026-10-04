@@ -2867,11 +2867,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市民享一路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T18:55:20.639138"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-04T19:03:20.647830"
       }
     ]
   }
