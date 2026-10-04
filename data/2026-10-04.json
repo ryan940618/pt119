@@ -1096,5 +1096,33 @@
         "timestamp": "2026-10-04T09:24:20.733270"
       }
     ]
+  },
+  "cea6f1c35ff579b36e243811f06265a1": {
+    "time": "2026/10/04 09:39:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉東山路",
+    "units": "萬巒分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T09:40:21.072314"
+      }
+    ]
+  },
+  "3fa14672cb061168df45f34d9e7b1124": {
+    "time": "2026/10/04 09:39:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉勝利路110巷",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T09:40:21.072314"
+      }
+    ]
   }
 }
