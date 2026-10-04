@@ -49,7 +49,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉博愛街",
     "units": "瑪家分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -70,6 +70,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-05T02:04:20.685536"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T02:05:20.602983"
       }
     ]
   },
@@ -101,11 +105,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉大同路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T01:35:20.447299"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T02:05:20.602983"
       }
     ]
   },
@@ -124,6 +132,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T01:40:20.528345"
+      }
+    ]
+  },
+  "c15ae10012a779a96f657f78b9087f23": {
+    "time": "2026/10/05 02:02:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉中山路",
+    "units": "瑪家分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T02:05:20.602983"
       }
     ]
   }
