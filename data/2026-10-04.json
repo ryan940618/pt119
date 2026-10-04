@@ -3281,7 +3281,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市高原一街17巷",
     "units": "高級救護隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3290,6 +3290,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-04T21:05:20.721680"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T21:14:20.814424"
       }
     ]
   },
