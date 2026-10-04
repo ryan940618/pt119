@@ -31,11 +31,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉長壽路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T01:04:21.749398"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T01:42:20.433519"
       }
     ]
   },
@@ -45,7 +49,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉博愛街",
     "units": "瑪家分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -58,6 +62,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T01:32:20.403642"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T01:42:20.433519"
       }
     ]
   },
