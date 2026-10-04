@@ -2585,11 +2585,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮砂尾路",
     "units": "恆春分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-04T16:44:20.673189"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T16:45:20.853831"
       }
     ]
   }
