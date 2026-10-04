@@ -2526,5 +2526,19 @@
         "timestamp": "2026-10-04T16:22:21.362130"
       }
     ]
+  },
+  "9efff782145bcd3699c0e26e99497be3": {
+    "time": "2026/10/04 16:23:31",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮恆公路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T16:25:20.668882"
+      }
+    ]
   }
 }
