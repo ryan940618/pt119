@@ -609,7 +609,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉新庄路",
     "units": "萬丹分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -626,6 +626,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-05T07:54:20.791576"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:56:20.761076"
       }
     ]
   },
