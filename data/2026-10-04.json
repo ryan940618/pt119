@@ -1808,5 +1808,19 @@
         "timestamp": "2026-10-04T13:18:21.177014"
       }
     ]
+  },
+  "2b0e9f5737bf2f82b87ccfebb6c8a8ef": {
+    "time": "2026/10/04 13:17:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市開封街",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T13:19:21.228546"
+      }
+    ]
   }
 }
