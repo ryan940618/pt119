@@ -186,5 +186,19 @@
         "timestamp": "2026-10-05T02:25:20.801479"
       }
     ]
+  },
+  "e444cd90b196572d7cd115f573f8b806": {
+    "time": "2026/10/05 02:26:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉泉興路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T02:28:20.791604"
+      }
+    ]
   }
 }
