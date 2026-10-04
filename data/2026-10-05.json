@@ -642,5 +642,33 @@
         "timestamp": "2026-10-05T07:46:20.780735"
       }
     ]
+  },
+  "fa54c760bcb1cc94854af43434337144": {
+    "time": "2026/10/05 07:54:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉中正路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:55:20.747500"
+      }
+    ]
+  },
+  "5763c145dff4e2efecf11eece9bc5abe": {
+    "time": "2026/10/05 07:44:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉豐年路23巷",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T07:55:20.747500"
+      }
+    ]
   }
 }
