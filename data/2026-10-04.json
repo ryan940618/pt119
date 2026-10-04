@@ -1837,11 +1837,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已受理",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T13:30:20.283244"
+      },
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-04T13:31:20.335965"
+      }
+    ]
+  },
+  "fcaa797c0f9b0784d0b0e251faa2fdde": {
+    "time": "2026/10/04 13:29:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉中興路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-04T13:31:20.335965"
       }
     ]
   }
