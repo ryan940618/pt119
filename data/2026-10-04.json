@@ -2815,7 +2815,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉平和路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2828,6 +2828,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-04T19:41:21.128529"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T20:04:20.622647"
       }
     ]
   },
@@ -2977,7 +2981,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉維新路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2990,6 +2994,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-04T19:52:21.224028"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-04T20:04:20.622647"
       }
     ]
   },
@@ -3055,11 +3063,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮南灣路鞍山巷",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T19:43:21.260094"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-04T20:04:20.622647"
       }
     ]
   },
@@ -3110,6 +3122,20 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-04T19:54:21.212910"
+      }
+    ]
+  },
+  "524178085fb8f1e736bcd2f17da45315": {
+    "time": "2026/10/04 20:03:05",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉寶田路535巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-04T20:04:20.622647"
       }
     ]
   }
