@@ -2719,11 +2719,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市公園路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-04T18:18:21.342994"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-04T18:49:21.368553"
       }
     ]
   },
