@@ -1566,5 +1566,19 @@
         "timestamp": "2026-10-04T11:59:20.704075"
       }
     ]
+  },
+  "fc79d46c1705062d7ee8d93febd086e5": {
+    "time": "2026/10/04 11:59:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民生路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-04T12:00:20.721862"
+      }
+    ]
   }
 }
