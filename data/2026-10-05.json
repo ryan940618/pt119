@@ -2334,5 +2334,47 @@
         "timestamp": "2026-10-05T14:32:20.359905"
       }
     ]
+  },
+  "fa901c1349bbe087745b433fb38b9734": {
+    "time": "2026/10/05 14:32:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉九里路",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:33:20.480028"
+      }
+    ]
+  },
+  "1f0140169ea71ece38afd80d46faaba5": {
+    "time": "2026/10/05 14:31:52",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉世一路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-05T14:33:20.480028"
+      }
+    ]
+  },
+  "17a68ebe5683b0c98a891fec3fa89835": {
+    "time": "2026/10/05 14:30:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉鳳新路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:33:20.480028"
+      }
+    ]
   }
 }
