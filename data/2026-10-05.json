@@ -773,11 +773,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉屏光路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:31:20.028593"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T09:10:20.368852"
       }
     ]
   },
@@ -866,6 +870,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T09:08:20.313721"
+      }
+    ]
+  },
+  "dc8ceac947a81f29f13dc30c5dfec4c3": {
+    "time": "2026/10/05 09:08:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉中興路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:10:20.368852"
       }
     ]
   }
