@@ -1371,7 +1371,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市公裕街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1384,6 +1384,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-05T11:05:20.141734"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T11:06:20.076712"
       }
     ]
   },
@@ -1488,6 +1492,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T11:04:20.145032"
+      }
+    ]
+  },
+  "e122f60fde88e67389cc8bc687359880": {
+    "time": "2026/10/05 11:04:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路480巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T11:06:20.076712"
       }
     ]
   }
