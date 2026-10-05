@@ -583,7 +583,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉南興路",
     "units": "新埤分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -600,6 +600,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-06T07:57:20.001729"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T07:58:19.948138"
       }
     ]
   },
