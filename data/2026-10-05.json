@@ -922,5 +922,19 @@
         "timestamp": "2026-10-05T09:20:20.367060"
       }
     ]
+  },
+  "10f8638780d0f017ee809ba11de144ed": {
+    "time": "2026/10/05 09:20:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉過溝三路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-05T09:22:20.313947"
+      }
+    ]
   }
 }
