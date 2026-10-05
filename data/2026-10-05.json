@@ -2000,5 +2000,19 @@
         "timestamp": "2026-10-05T12:30:20.747549"
       }
     ]
+  },
+  "36896687776b19d62d7117ce032ea4ce": {
+    "time": "2026/10/05 12:45:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉福興一路",
+    "units": "滿州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T12:46:21.058720"
+      }
+    ]
   }
 }
