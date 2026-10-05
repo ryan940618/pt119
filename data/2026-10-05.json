@@ -1867,11 +1867,15 @@
     "sub_category": "",
     "location": "屏東縣南州鄉南州大廟代天府後方[屏東縣南州鄉人和路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:02:20.634782"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T12:17:20.748323"
       }
     ]
   },
