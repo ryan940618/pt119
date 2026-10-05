@@ -2057,11 +2057,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市古松巷",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:52:21.019649"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T13:27:20.110467"
       }
     ]
   },
@@ -2108,6 +2112,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T13:10:21.005538"
+      }
+    ]
+  },
+  "6088fc132d029e63e70246094e121a7f": {
+    "time": "2026/10/05 13:26:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉義民路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T13:27:20.110467"
       }
     ]
   }
