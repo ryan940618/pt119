@@ -1240,5 +1240,19 @@
         "timestamp": "2026-10-05T10:15:20.888499"
       }
     ]
+  },
+  "ff2e66ee2a113eac5bd13a37fbf49307": {
+    "time": "2026/10/05 10:16:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉大平路",
+    "units": "枋寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:17:20.825201"
+      }
+    ]
   }
 }
