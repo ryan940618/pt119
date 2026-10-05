@@ -2043,11 +2043,15 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉福興一路",
     "units": "滿州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:46:21.058720"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T13:43:20.232042"
       }
     ]
   },
