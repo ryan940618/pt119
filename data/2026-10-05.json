@@ -3621,11 +3621,29 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮光明路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T23:01:20.622021"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T23:21:21.439262"
+      }
+    ]
+  },
+  "9bf4e396f1fe3dd8be71cf693ea8191b": {
+    "time": "2026/10/05 23:20:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市田中一橫巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T23:21:21.439262"
       }
     ]
   }
