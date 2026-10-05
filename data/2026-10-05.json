@@ -2264,5 +2264,19 @@
         "timestamp": "2026-10-05T14:04:20.586446"
       }
     ]
+  },
+  "c16137262d473b9bc3350d6d739d048d": {
+    "time": "2026/10/05 14:11:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉中正大路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:12:20.240269"
+      }
+    ]
   }
 }
