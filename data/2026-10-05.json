@@ -2958,5 +2958,33 @@
         "timestamp": "2026-10-05T17:33:20.568475"
       }
     ]
+  },
+  "6a87e968c0771ff754b2172dd849e469": {
+    "time": "2026/10/05 17:39:47",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉忠孝路1巷",
+    "units": "琉球分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T17:41:20.635476"
+      }
+    ]
+  },
+  "43b66b26acfa8dbb44fbc469af39efb8": {
+    "time": "2026/10/05 17:31:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民生路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:41:20.635476"
+      }
+    ]
   }
 }
