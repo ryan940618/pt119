@@ -1049,11 +1049,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉南山路",
     "units": "內埔分隊,龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T09:33:20.468690"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T10:34:20.939574"
       }
     ]
   },
@@ -1306,6 +1310,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T10:28:20.943717"
+      }
+    ]
+  },
+  "545294f99b0e83102c0721be769c6465": {
+    "time": "2026/10/05 10:33:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公裕街",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T10:34:20.939574"
       }
     ]
   }
