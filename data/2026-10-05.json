@@ -2965,11 +2965,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉忠孝路1巷",
     "units": "琉球分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:41:20.635476"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:44:20.708658"
       }
     ]
   },
