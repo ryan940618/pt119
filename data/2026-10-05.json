@@ -2849,11 +2849,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市大豐路35巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:05:20.335850"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T17:53:20.736117"
       }
     ]
   },
@@ -3013,11 +3017,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T17:52:20.688984"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T17:53:20.736117"
       }
     ]
   }
