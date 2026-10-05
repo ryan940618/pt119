@@ -978,5 +978,33 @@
         "timestamp": "2026-10-05T09:26:25.040961"
       }
     ]
+  },
+  "ebad3e2bcec62982b6b0c56ab890ec99": {
+    "time": "2026/10/05 09:31:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉南山路",
+    "units": "內埔分隊,龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:33:20.468690"
+      }
+    ]
+  },
+  "49ae77d5e4b3da4a6129a1b570a65526": {
+    "time": "2026/10/05 09:31:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉香揚路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:33:20.468690"
+      }
+    ]
   }
 }
