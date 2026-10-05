@@ -1143,7 +1143,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉新園衛生所[屏東縣新園鄉仙吉路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1152,6 +1152,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-05T10:05:20.735799"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T10:15:20.888499"
       }
     ]
   },
@@ -1203,11 +1207,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉溝渚路246巷",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:14:20.793199"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:15:20.888499"
       }
     ]
   },
@@ -1217,11 +1225,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉東林路",
     "units": "佳冬分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T10:14:20.793199"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:15:20.888499"
       }
     ]
   }
