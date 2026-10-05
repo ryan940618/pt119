@@ -1815,11 +1815,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉民權路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T11:53:20.549474"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T12:40:20.854339"
       }
     ]
   },
