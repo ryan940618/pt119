@@ -316,5 +316,19 @@
         "timestamp": "2026-10-06T04:46:20.900530"
       }
     ]
+  },
+  "78b7305da3e25535d104ca4323854202": {
+    "time": "2026/10/06 04:56:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉勝利路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T04:57:21.367412"
+      }
+    ]
   }
 }
