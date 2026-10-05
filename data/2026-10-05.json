@@ -2347,11 +2347,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉信義路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:32:20.359905"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T15:08:20.588905"
       }
     ]
   },
