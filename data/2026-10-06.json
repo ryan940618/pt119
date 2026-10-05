@@ -428,5 +428,19 @@
         "timestamp": "2026-10-06T06:23:20.458315"
       }
     ]
+  },
+  "d16f8781ed6be8cffa7159399286a423": {
+    "time": "2026/10/06 06:56:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉明華路",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T06:57:20.623723"
+      }
+    ]
   }
 }
