@@ -2225,11 +2225,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉乃木登陸公園旁鎮海宮",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:01:20.084140"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T14:23:20.342313"
       }
     ]
   },
