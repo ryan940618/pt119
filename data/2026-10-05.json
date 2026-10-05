@@ -2321,11 +2321,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉學興路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T14:20:20.301936"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T14:53:20.476325"
       }
     ]
   },
@@ -2405,11 +2409,15 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉茉莉灣入口處[屏東縣枋山鄉中山路",
     "units": "枋山分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T14:52:20.516172"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:53:20.476325"
       }
     ]
   }
