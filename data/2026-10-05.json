@@ -3643,7 +3643,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市田中一橫巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3652,6 +3652,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T23:22:20.621368"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T23:49:20.813406"
       }
     ]
   },
