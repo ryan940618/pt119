@@ -3309,7 +3309,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市華盛二街",
     "units": "高級救護隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3322,6 +3322,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-05T20:08:20.434702"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T20:36:20.756402"
       }
     ]
   },
@@ -3381,11 +3385,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮大光路",
     "units": "恆春分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T20:35:20.663504"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T20:36:20.756402"
       }
     ]
   }
