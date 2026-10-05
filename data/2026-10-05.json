@@ -2051,11 +2051,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮三德路",
     "units": "竹田分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T12:59:20.952278"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T13:00:21.058415"
       }
     ]
   }
