@@ -446,5 +446,19 @@
         "timestamp": "2026-10-06T06:59:20.636930"
       }
     ]
+  },
+  "50cc0c0f3b38ca89703e59fda38a61e7": {
+    "time": "2026/10/06 07:00:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公正一街",
+    "units": "屏東分隊,高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T07:02:20.622365"
+      }
+    ]
   }
 }
