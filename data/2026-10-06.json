@@ -435,7 +435,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉明華路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -444,6 +444,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T06:59:20.636930"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:23:20.732516"
       }
     ]
   },
@@ -476,6 +480,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:19:20.801152"
+      }
+    ]
+  },
+  "ae2df0ae2b350eb42e5febc7384e0bfe": {
+    "time": "2026/10/06 07:21:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉中山路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T07:23:20.732516"
       }
     ]
   }
