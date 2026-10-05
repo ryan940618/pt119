@@ -1985,11 +1985,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉六堆客家文化園區/大客車停車場[屏東縣內埔鄉信義路",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T12:28:20.772594"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T13:05:21.469011"
       }
     ]
   },
@@ -2064,6 +2068,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T13:00:21.058415"
+      }
+    ]
+  },
+  "35566ca525f064d619c1281d8184dddf": {
+    "time": "2026/10/05 13:04:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市勝利路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T13:05:21.469011"
       }
     ]
   }
