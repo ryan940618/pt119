@@ -3371,7 +3371,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉三部村市",
     "units": "里港分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -3388,6 +3388,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-05T20:37:20.688982"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T20:40:20.661231"
       }
     ]
   },
@@ -3406,6 +3410,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T20:36:20.756402"
+      }
+    ]
+  },
+  "b958df9a4dcbc6d8c689658a457778a9": {
+    "time": "2026/10/05 20:38:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興南路一段376巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T20:40:20.661231"
       }
     ]
   }
