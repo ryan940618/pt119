@@ -3339,7 +3339,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮廬山大飯店前[屏東縣潮州鎮南京路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3348,6 +3348,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-05T20:39:20.712362"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T20:43:20.704217"
       }
     ]
   },
