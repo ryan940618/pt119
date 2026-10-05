@@ -3665,7 +3665,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉福寧路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3674,6 +3674,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T23:48:20.869358"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-05T23:50:20.923959"
       }
     ]
   }
