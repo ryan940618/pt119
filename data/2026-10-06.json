@@ -571,7 +571,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉南興路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -580,6 +580,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:39:21.297108"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T07:54:20.918245"
       }
     ]
   },
@@ -617,11 +621,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉復興路",
     "units": "春日分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T07:53:21.001653"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T07:54:20.918245"
       }
     ]
   },
@@ -636,6 +644,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T07:53:21.001653"
+      }
+    ]
+  },
+  "ebb0d734857a66effc31e1298c1633f7": {
+    "time": "2026/10/06 07:49:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮山隆潮州站往北200公尺",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T07:54:20.918245"
       }
     ]
   }
