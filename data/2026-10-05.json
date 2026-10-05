@@ -1152,5 +1152,19 @@
         "timestamp": "2026-10-05T10:06:22.233596"
       }
     ]
+  },
+  "a2a7d86ffc90fb428eb0170c37175cd4": {
+    "time": "2026/10/05 10:05:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉石門路",
+    "units": "牡丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:07:20.767043"
+      }
+    ]
   }
 }
