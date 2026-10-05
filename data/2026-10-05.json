@@ -2401,7 +2401,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉鳳新路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2410,6 +2410,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-05T15:05:20.582463"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T15:15:20.564412"
       }
     ]
   },
