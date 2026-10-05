@@ -2993,7 +2993,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉忠孝路1巷",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3002,6 +3002,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:44:20.708658"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T18:06:21.026175"
       }
     ]
   },
@@ -3011,11 +3015,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:41:20.635476"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T18:06:21.026175"
       }
     ]
   },
@@ -3034,6 +3042,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T17:53:20.736117"
+      }
+    ]
+  },
+  "677c80cdc906c05e3970dfef570bed6c": {
+    "time": "2026/10/05 18:04:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉新光路",
+    "units": "來義分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:06:21.026175"
       }
     ]
   }
