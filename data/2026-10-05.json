@@ -1138,5 +1138,19 @@
         "timestamp": "2026-10-05T10:05:20.735799"
       }
     ]
+  },
+  "fca4409836201e050516f8eefdd85bc5": {
+    "time": "2026/10/05 09:57:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉人和路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T10:06:22.233596"
+      }
+    ]
   }
 }
