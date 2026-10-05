@@ -1858,5 +1858,19 @@
         "timestamp": "2026-10-05T12:02:20.634782"
       }
     ]
+  },
+  "20ce95bbcd75261782da5bee041f1a2b": {
+    "time": "2026/10/05 12:10:08",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣車城鄉福安宮停車場",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T12:11:20.727236"
+      }
+    ]
   }
 }
