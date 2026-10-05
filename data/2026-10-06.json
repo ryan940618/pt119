@@ -216,5 +216,19 @@
         "timestamp": "2026-10-06T03:35:20.254197"
       }
     ]
+  },
+  "f99f537bf7db687f26e99606182aec6a": {
+    "time": "2026/10/06 03:35:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉草埔一巷",
+    "units": "獅子分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T03:37:20.331149"
+      }
+    ]
   }
 }
