@@ -2438,5 +2438,33 @@
         "timestamp": "2026-10-05T14:54:20.566116"
       }
     ]
+  },
+  "e26586b6a947fbaf8b2563ed550e0456": {
+    "time": "2026/10/05 14:54:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市瑞光路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:55:20.534944"
+      }
+    ]
+  },
+  "d3b4b13449d73687db3201ec61fd21d5": {
+    "time": "2026/10/05 14:51:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉茉莉灣酒店入口處[屏東縣枋山鄉中山路",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:55:20.534944"
+      }
+    ]
   }
 }
