@@ -2542,5 +2542,19 @@
         "timestamp": "2026-10-05T15:30:20.689566"
       }
     ]
+  },
+  "a08d2de5a4058a1408694ff704a1c0fc": {
+    "time": "2026/10/05 15:31:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉千葉加油站枋寮站",
+    "units": "枋寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T15:32:20.654512"
+      }
+    ]
   }
 }
