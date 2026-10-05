@@ -2615,7 +2615,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中正路",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -2624,6 +2624,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-05T15:51:20.839690"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T15:59:21.063944"
       }
     ]
   },
@@ -2638,6 +2642,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T15:55:20.970164"
+      }
+    ]
+  },
+  "90387d064689f7adbf4506d24b153009": {
+    "time": "2026/10/05 15:58:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉同安路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T15:59:21.063944"
       }
     ]
   }
