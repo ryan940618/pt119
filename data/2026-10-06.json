@@ -53,7 +53,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉九如路二段251巷",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -62,6 +62,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T01:44:20.564464"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-06T02:27:20.930368"
       }
     ]
   },
