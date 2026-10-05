@@ -202,5 +202,19 @@
         "timestamp": "2026-10-06T03:34:20.365687"
       }
     ]
+  },
+  "d2f9e52b84be12f6a23969fc4458bff8": {
+    "time": "2026/10/06 03:32:45",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉萬巒大橋[屏東縣萬巒鄉褒忠路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T03:35:20.254197"
+      }
+    ]
   }
 }
