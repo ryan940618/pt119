@@ -67,7 +67,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉九如鄉公所[屏東縣九如鄉九如路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -76,6 +76,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T02:00:20.681926"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T02:07:20.704611"
       }
     ]
   }
