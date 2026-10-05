@@ -1608,5 +1608,19 @@
         "timestamp": "2026-10-05T11:20:20.212595"
       }
     ]
+  },
+  "a1120834b70b25f4ae65ed773a63e770": {
+    "time": "2026/10/05 11:23:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市福建路76巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T11:24:20.143249"
+      }
+    ]
   }
 }
