@@ -2320,5 +2320,19 @@
         "timestamp": "2026-10-05T14:20:20.301936"
       }
     ]
+  },
+  "b531dcd003e5da884a0867cec8ebcc66": {
+    "time": "2026/10/05 14:30:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉信義路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:32:20.359905"
+      }
+    ]
   }
 }
