@@ -807,11 +807,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽琉線碼頭/交通船[新園鄉新興路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-05T08:48:20.148778"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-05T09:59:20.802680"
       }
     ]
   },
@@ -911,7 +915,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉中興路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -920,6 +924,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-05T09:43:20.506858"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T09:59:20.802680"
       }
     ]
   },
@@ -1083,11 +1091,43 @@
     "sub_category": "",
     "location": "屏東縣屏東市海豐街",
     "units": "",
-    "current_status": "已受理",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-10-05T09:58:20.618058"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:59:20.802680"
+      }
+    ]
+  },
+  "6985965c4bdbd6fa2baaa8dd8c98399d": {
+    "time": "2026/10/05 09:57:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉三民路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:59:20.802680"
+      }
+    ]
+  },
+  "145a98e8c6d6a95d06a7f50f8a3d56bf": {
+    "time": "2026/10/05 09:56:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉新園衛生所[屏東縣新園鄉仙吉路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T09:59:20.802680"
       }
     ]
   }
