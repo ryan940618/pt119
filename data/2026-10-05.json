@@ -1409,7 +1409,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉中山南路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1422,6 +1422,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-05T10:56:20.064260"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T11:14:20.128243"
       }
     ]
   },
@@ -1513,7 +1517,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市自由路480巷",
     "units": "屏東分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1526,6 +1530,38 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-05T11:12:20.104263"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T11:14:20.128243"
+      }
+    ]
+  },
+  "cd8f3a575f16d1674ea58ef9125918aa": {
+    "time": "2026/10/05 11:13:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮三星路116巷",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T11:14:20.128243"
+      }
+    ]
+  },
+  "f7ab6d0be891562e8e42aafe4b90cfea": {
+    "time": "2026/10/05 11:12:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬丹路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T11:14:20.128243"
       }
     ]
   }
