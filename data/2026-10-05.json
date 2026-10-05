@@ -3164,5 +3164,19 @@
         "timestamp": "2026-10-05T18:53:20.056748"
       }
     ]
+  },
+  "54978fd7c1b1354bab8fb2120067e48e": {
+    "time": "2026/10/05 18:56:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公裕街",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T18:58:20.157453"
+      }
+    ]
   }
 }
