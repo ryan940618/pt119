@@ -3187,7 +3187,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市公裕街",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3208,6 +3208,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-05T19:45:20.475948"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-05T19:48:20.510302"
       }
     ]
   },
@@ -3268,6 +3272,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-05T19:32:20.367793"
+      }
+    ]
+  },
+  "f3815f954318a7d2d1b92155c77938da": {
+    "time": "2026/10/05 19:47:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市華盛二街",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T19:48:20.510302"
       }
     ]
   }
