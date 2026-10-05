@@ -2227,11 +2227,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生東路56巷",
     "units": "麟洛分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-05T14:02:20.226192"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-05T14:03:20.142200"
+      }
+    ]
+  },
+  "08cbbf16992ef7b48ec6feeb76288501": {
+    "time": "2026/10/05 14:02:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市成功路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-05T14:03:20.142200"
       }
     ]
   }
