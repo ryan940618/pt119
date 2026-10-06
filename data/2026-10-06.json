@@ -487,7 +487,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉九如路一段7巷",
     "units": "九如分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -496,6 +496,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T08:18:20.120080"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T08:47:20.285866"
       }
     ]
   },
