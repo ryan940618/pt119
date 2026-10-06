@@ -2765,7 +2765,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉新民街",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2778,6 +2778,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T22:00:20.258754"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T22:09:20.333901"
       }
     ]
   },
