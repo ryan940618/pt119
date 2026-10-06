@@ -2194,5 +2194,19 @@
         "timestamp": "2026-10-06T17:29:20.412510"
       }
     ]
+  },
+  "d0abcd3a7f9b1d36d83797ceb516b846": {
+    "time": "2026/10/06 17:40:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大成路141巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:47:20.497226"
+      }
+    ]
   }
 }
