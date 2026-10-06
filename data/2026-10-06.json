@@ -1910,5 +1910,19 @@
         "timestamp": "2026-10-06T14:28:20.291608"
       }
     ]
+  },
+  "e6dac786dd9db335343b8a88a3816a8d": {
+    "time": "2026/10/06 14:36:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣霧台鄉百合路",
+    "units": "霧台分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T14:38:20.273482"
+      }
+    ]
   }
 }
