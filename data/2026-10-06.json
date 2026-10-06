@@ -2406,5 +2406,19 @@
         "timestamp": "2026-10-06T18:56:20.998833"
       }
     ]
+  },
+  "008f915f76ca4fccc8cb42c387ae6a06": {
+    "time": "2026/10/06 19:07:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉和平路",
+    "units": "林邊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T19:07:20.045097"
+      }
+    ]
   }
 }
