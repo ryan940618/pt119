@@ -2521,11 +2521,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉隆華路",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T19:33:20.177604"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-06T19:52:20.363465"
       }
     ]
   },
