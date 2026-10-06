@@ -1749,7 +1749,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1762,6 +1762,24 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T13:10:20.710173"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T13:12:20.803922"
+      }
+    ]
+  },
+  "8b72f446149369241ce4f14a88ef437a": {
+    "time": "2026/10/06 13:10:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自立路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T13:12:20.803922"
       }
     ]
   }
