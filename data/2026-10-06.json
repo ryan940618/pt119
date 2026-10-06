@@ -719,11 +719,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建豐路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T08:06:21.861459"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T08:07:21.729794"
       }
     ]
   }
