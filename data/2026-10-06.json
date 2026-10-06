@@ -1379,7 +1379,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉潭頭路",
     "units": "長治分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1388,6 +1388,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-06T10:52:20.092540"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T10:53:20.005293"
       }
     ]
   }
