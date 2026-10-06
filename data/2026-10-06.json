@@ -2327,11 +2327,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮中山路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T18:29:20.793484"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-06T19:08:19.999508"
       }
     ]
   },
@@ -2418,6 +2422,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T19:07:20.045097"
+      }
+    ]
+  },
+  "83ea67deb42dc3fa6353eddbc482d317": {
+    "time": "2026/10/06 19:07:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉林邊國中[屏東縣林邊鄉和平路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T19:08:19.999508"
       }
     ]
   }
