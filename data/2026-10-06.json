@@ -2172,5 +2172,19 @@
         "timestamp": "2026-10-06T17:17:20.317812"
       }
     ]
+  },
+  "32cd72142f3b02ec6bfd692f8b4283f3": {
+    "time": "2026/10/06 17:28:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮中正路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T17:29:20.412510"
+      }
+    ]
   }
 }
