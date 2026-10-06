@@ -2791,7 +2791,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉國立屏北高中[屏東縣鹽埔鄉莒光路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2804,6 +2804,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T22:05:20.244633"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T22:12:20.316420"
       }
     ]
   },
@@ -2886,6 +2890,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T22:08:20.347175"
+      }
+    ]
+  },
+  "a826a58fc57ce01619ecd6ef22e669f4": {
+    "time": "2026/10/06 22:10:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉國立屏北高中/男生宿舍",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T22:12:20.316420"
       }
     ]
   }
