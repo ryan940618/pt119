@@ -347,7 +347,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉中興路",
     "units": "南州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -356,6 +356,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T05:49:20.349984"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T05:52:20.361233"
       }
     ]
   },
