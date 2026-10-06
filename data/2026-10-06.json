@@ -1798,5 +1798,19 @@
         "timestamp": "2026-10-06T13:27:20.802260"
       }
     ]
+  },
+  "2d5025bb4c156fe2721dfffd78cfcec3": {
+    "time": "2026/10/06 13:27:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮康林北路145巷",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T13:29:20.904851"
+      }
+    ]
   }
 }
