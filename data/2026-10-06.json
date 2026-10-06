@@ -2484,5 +2484,19 @@
         "timestamp": "2026-10-06T19:23:20.234520"
       }
     ]
+  },
+  "9081e29c0e41059e0739dd436f516ea3": {
+    "time": "2026/10/06 19:30:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市和洋巷",
+    "units": "麟洛分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T19:31:20.225871"
+      }
+    ]
   }
 }
