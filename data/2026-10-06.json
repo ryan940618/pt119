@@ -2059,11 +2059,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮光復路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T16:23:19.947695"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-06T16:53:20.178271"
       }
     ]
   },
