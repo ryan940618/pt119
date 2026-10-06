@@ -1917,11 +1917,15 @@
     "sub_category": "",
     "location": "屏東縣霧台鄉百合路",
     "units": "霧台分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T14:38:20.273482"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T14:39:20.235864"
       }
     ]
   }
