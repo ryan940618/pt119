@@ -2385,11 +2385,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市中柳路30巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T18:52:20.976259"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-06T19:09:20.076195"
       }
     ]
   },
@@ -2417,11 +2421,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉和平路",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T19:07:20.045097"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T19:09:20.076195"
       }
     ]
   },
