@@ -897,7 +897,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市延平路118巷",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -906,6 +906,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T08:40:20.237537"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:06:20.423263"
       }
     ]
   },
