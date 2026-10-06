@@ -762,5 +762,19 @@
         "timestamp": "2026-10-07T07:40:21.166601"
       }
     ]
+  },
+  "40b14b892746a06e7db8e1c2ea1d9073": {
+    "time": "2026/10/07 07:44:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市洛陽街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T07:46:21.735101"
+      }
+    ]
   }
 }
