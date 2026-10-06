@@ -294,5 +294,19 @@
         "timestamp": "2026-10-07T04:27:20.794488"
       }
     ]
+  },
+  "80d475acf0ffb868964f0430886a7feb": {
+    "time": "2026/10/07 04:32:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市瑞屏街30巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T04:42:20.849712"
+      }
+    ]
   }
 }
