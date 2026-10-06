@@ -1403,7 +1403,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉潭頭路",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -1416,6 +1416,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:53:20.005293"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-06T11:31:20.240409"
       }
     ]
   },
@@ -1480,6 +1484,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T11:17:20.160171"
+      }
+    ]
+  },
+  "061fb7d18ee5444057dd386fa60938ef": {
+    "time": "2026/10/06 11:30:01",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣長治鄉長興路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-06T11:31:20.240409"
       }
     ]
   }
