@@ -1090,5 +1090,33 @@
         "timestamp": "2026-10-06T09:40:20.632420"
       }
     ]
+  },
+  "3b24304e15513f4d0e0838c9f97e8b78": {
+    "time": "2026/10/06 09:46:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉中正路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:47:20.814170"
+      }
+    ]
+  },
+  "1cdfe2061f3396ac8f2dbd248e76d0ee": {
+    "time": "2026/10/06 09:45:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉百合部落/大愛園區",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:47:20.814170"
+      }
+    ]
   }
 }
