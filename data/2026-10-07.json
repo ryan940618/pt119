@@ -199,11 +199,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉和平路",
     "units": "高樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T02:30:20.944140"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T02:31:20.926662"
       }
     ]
   }
