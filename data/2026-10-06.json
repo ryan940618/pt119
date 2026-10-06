@@ -2961,7 +2961,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉屏東監獄",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2978,6 +2978,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T23:13:20.574316"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T23:27:20.658310"
       }
     ]
   },
