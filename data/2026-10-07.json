@@ -704,5 +704,19 @@
         "timestamp": "2026-10-07T07:32:21.207281"
       }
     ]
+  },
+  "4290bc3c401ea7b8eb69967ae52111e0": {
+    "time": "2026/10/07 07:36:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉光明路",
+    "units": "萬巒分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T07:37:21.212996"
+      }
+    ]
   }
 }
