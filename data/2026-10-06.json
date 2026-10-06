@@ -723,7 +723,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮潮州國小對面大門/(太師傅對面那個)右手邊約50至100公尺人行道[屏東縣潮州鎮育英路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -732,6 +732,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T08:19:20.158214"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T08:27:20.320559"
       }
     ]
   },
