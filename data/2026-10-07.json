@@ -299,11 +299,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉光明路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T04:27:20.794488"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T05:20:21.148905"
       }
     ]
   },
