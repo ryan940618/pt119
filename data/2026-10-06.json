@@ -1020,5 +1020,33 @@
         "timestamp": "2026-10-06T09:23:20.466373"
       }
     ]
+  },
+  "3718a4336d44bee2791a89d5bdd827ab": {
+    "time": "2026/10/06 09:28:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮信義街",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:30:20.450632"
+      }
+    ]
+  },
+  "0aa0acbe98d67e1d979ed3b9f7279103": {
+    "time": "2026/10/06 09:28:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市重慶路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-06T09:30:20.450632"
+      }
+    ]
   }
 }
