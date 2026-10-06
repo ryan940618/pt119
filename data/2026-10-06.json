@@ -2843,11 +2843,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉平和路",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T21:57:20.254131"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T21:58:20.233213"
       }
     ]
   }
