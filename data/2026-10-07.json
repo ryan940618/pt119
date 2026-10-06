@@ -148,5 +148,19 @@
         "timestamp": "2026-10-07T01:54:20.620703"
       }
     ]
+  },
+  "f2febc09bd47d375a2f748257ccca0ec": {
+    "time": "2026/10/07 01:57:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮建基路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T01:58:20.654746"
+      }
+    ]
   }
 }
