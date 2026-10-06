@@ -2822,5 +2822,19 @@
         "timestamp": "2026-10-06T21:42:20.063070"
       }
     ]
+  },
+  "ec2f0154ba344b78cd17b0cba76a748a": {
+    "time": "2026/10/06 21:42:05",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣納骨塔對面幸福平台",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T21:43:20.853570"
+      }
+    ]
   }
 }
