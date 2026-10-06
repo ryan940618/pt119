@@ -178,5 +178,19 @@
         "timestamp": "2026-10-07T02:19:20.782843"
       }
     ]
+  },
+  "2ce61c37fc817c9a450fe2946774e83c": {
+    "time": "2026/10/07 02:25:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮水源一街32巷",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T02:27:20.857186"
+      }
+    ]
   }
 }
