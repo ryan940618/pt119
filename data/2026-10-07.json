@@ -629,7 +629,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -642,6 +642,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:21:20.969319"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T07:33:22.867674"
       }
     ]
   },
