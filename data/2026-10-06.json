@@ -1685,7 +1685,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉三德檢查哨",
     "units": "三地門分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1694,6 +1694,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-06T12:36:20.579541"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T12:45:20.684320"
       }
     ]
   },
