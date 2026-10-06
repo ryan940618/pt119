@@ -1449,11 +1449,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉香楊路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T11:17:20.160171"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T11:18:20.207981"
       }
     ]
   },
