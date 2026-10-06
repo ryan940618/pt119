@@ -2725,11 +2725,15 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉都魯路",
     "units": "滿州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T20:40:20.758180"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T21:34:20.100050"
       }
     ]
   },
