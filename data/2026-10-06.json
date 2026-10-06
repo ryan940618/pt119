@@ -925,11 +925,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市公園東路",
     "units": "麟洛分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T08:56:20.524914"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T08:57:20.457996"
       }
     ]
   }
