@@ -1658,5 +1658,19 @@
         "timestamp": "2026-10-06T12:19:20.926623"
       }
     ]
+  },
+  "9cb98e655371e34ed0f630aded883f4f": {
+    "time": "2026/10/06 12:23:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉三德檢查哨",
+    "units": "三地門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T12:29:20.699197"
+      }
+    ]
   }
 }
