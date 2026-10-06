@@ -611,7 +611,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉南興路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -632,6 +632,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:58:19.948138"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T09:03:20.385789"
       }
     ]
   },
@@ -947,11 +951,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建國路",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-06T09:02:20.426129"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:03:20.385789"
       }
     ]
   }
