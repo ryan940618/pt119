@@ -2257,7 +2257,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮延平路",
     "units": "潮州分隊,竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2266,6 +2266,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T18:22:20.700582"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T18:26:20.807549"
       }
     ]
   },
