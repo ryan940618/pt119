@@ -350,5 +350,33 @@
         "timestamp": "2026-10-07T05:30:21.198214"
       }
     ]
+  },
+  "bcb15ffc2c1fa0d5c14518d13abbc655": {
+    "time": "2026/10/07 05:30:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公德街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T05:31:21.145136"
+      }
+    ]
+  },
+  "75f60b393c29adc0a9c1028286bc31f9": {
+    "time": "2026/10/07 05:30:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉保安路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T05:31:21.145136"
+      }
+    ]
   }
 }
