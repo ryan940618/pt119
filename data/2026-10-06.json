@@ -1158,5 +1158,19 @@
         "timestamp": "2026-10-06T09:49:20.512282"
       }
     ]
+  },
+  "89036c82d2d2d1971e48b45c1bc5ef46": {
+    "time": "2026/10/06 09:50:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市光復路",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:52:20.639158"
+      }
+    ]
   }
 }
