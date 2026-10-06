@@ -44,5 +44,19 @@
         "timestamp": "2026-10-07T00:31:21.301510"
       }
     ]
+  },
+  "09ba599f82a49eb0edc05ea42e35f4ac": {
+    "time": "2026/10/07 00:38:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮延平路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T00:40:20.160098"
+      }
+    ]
   }
 }
