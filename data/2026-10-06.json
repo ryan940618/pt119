@@ -812,5 +812,19 @@
         "timestamp": "2026-10-06T08:18:20.120080"
       }
     ]
+  },
+  "d6df825352bbcad54f573dd75ea27ee1": {
+    "time": "2026/10/06 08:23:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市康定街",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T08:24:20.153033"
+      }
+    ]
   }
 }
