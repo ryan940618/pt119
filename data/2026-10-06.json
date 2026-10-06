@@ -1442,5 +1442,33 @@
         "timestamp": "2026-10-06T11:09:20.105917"
       }
     ]
+  },
+  "fcc6542389c9a0c2130d6e8982e985a2": {
+    "time": "2026/10/06 11:16:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉香楊路",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-06T11:17:20.160171"
+      }
+    ]
+  },
+  "9f73bc2812bb83181e76c3867ee13ecc": {
+    "time": "2026/10/06 11:16:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉市場街70巷",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T11:17:20.160171"
+      }
+    ]
   }
 }
