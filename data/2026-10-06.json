@@ -551,7 +551,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉大豐路599巷",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -560,6 +560,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T07:56:19.906240"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T08:12:20.196780"
       }
     ]
   },
@@ -621,11 +625,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉聯通街359巷",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T07:44:20.959827"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-06T08:12:20.196780"
       }
     ]
   },
