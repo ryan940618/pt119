@@ -1928,5 +1928,33 @@
         "timestamp": "2026-10-06T14:39:20.235864"
       }
     ]
+  },
+  "54a3211807e8c8bbadc79bb8a0292545": {
+    "time": "2026/10/06 14:40:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉泰山村山下路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T14:41:20.441930"
+      }
+    ]
+  },
+  "5f7478584758d69fbfa1330e41fcc765": {
+    "time": "2026/10/06 14:36:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉百合路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T14:41:20.441930"
+      }
+    ]
   }
 }
