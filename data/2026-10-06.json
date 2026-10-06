@@ -1143,7 +1143,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉百合部落/大愛園區",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1152,6 +1152,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T10:26:20.810103"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T10:33:20.882774"
       }
     ]
   },
@@ -1326,6 +1330,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:23:20.847628"
+      }
+    ]
+  },
+  "9d22ccc41da87c1398d417458e08ed48": {
+    "time": "2026/10/06 10:32:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉潭頭路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T10:33:20.882774"
       }
     ]
   }
