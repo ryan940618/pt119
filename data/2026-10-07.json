@@ -729,11 +729,29 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉永豐巷",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T07:39:21.288425"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T07:40:21.166601"
+      }
+    ]
+  },
+  "51ae824afc1572d86999717d81a08c67": {
+    "time": "2026/10/07 07:39:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉光復街",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T07:40:21.166601"
       }
     ]
   }
