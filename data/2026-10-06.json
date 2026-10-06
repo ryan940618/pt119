@@ -1047,11 +1047,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮信義街",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T09:30:20.450632"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-06T09:49:20.512282"
       }
     ]
   },
@@ -1130,6 +1134,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-06T09:48:21.022994"
+      }
+    ]
+  },
+  "5fd44f9bbabe6789dd84df8ed58684c4": {
+    "time": "2026/10/06 09:48:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉佳和路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:49:20.512282"
       }
     ]
   }
