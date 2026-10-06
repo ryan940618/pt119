@@ -1839,7 +1839,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬新路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1848,6 +1848,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T14:50:20.361416"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T15:11:20.959920"
       }
     ]
   },
