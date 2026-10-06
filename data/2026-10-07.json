@@ -222,5 +222,19 @@
         "timestamp": "2026-10-07T03:00:21.051483"
       }
     ]
+  },
+  "558eb97121a151d64e0bad3e1193a944": {
+    "time": "2026/10/07 03:10:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉東海路",
+    "units": "牡丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T03:12:20.248787"
+      }
+    ]
   }
 }
