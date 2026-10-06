@@ -1562,5 +1562,19 @@
         "timestamp": "2026-10-06T11:50:21.582790"
       }
     ]
+  },
+  "8c7cc7ac3586d43d374a3df05bdd16d1": {
+    "time": "2026/10/06 11:48:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮嘉新一街",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T11:55:20.445552"
+      }
+    ]
   }
 }
