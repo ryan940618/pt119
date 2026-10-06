@@ -1103,7 +1103,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉錦隆/台24線公車站牌",
     "units": "瑪家分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1112,6 +1112,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T10:26:20.810103"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T10:52:20.092540"
       }
     ]
   },
@@ -1375,11 +1379,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉潭頭路",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T10:33:20.882774"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-06T10:52:20.092540"
       }
     ]
   }
