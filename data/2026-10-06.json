@@ -2600,5 +2600,19 @@
         "timestamp": "2026-10-06T19:58:20.447798"
       }
     ]
+  },
+  "e2adb6aecd08524e97c17ee52607baa0": {
+    "time": "2026/10/06 19:57:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復光街2巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T19:59:20.326016"
+      }
+    ]
   }
 }
