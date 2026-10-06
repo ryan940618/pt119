@@ -503,11 +503,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T06:32:20.699218"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T06:33:20.564851"
       }
     ]
   }
