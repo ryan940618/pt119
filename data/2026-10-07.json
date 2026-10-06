@@ -467,7 +467,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮新學路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -480,6 +480,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T06:40:20.729911"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T06:42:20.913013"
       }
     ]
   },
