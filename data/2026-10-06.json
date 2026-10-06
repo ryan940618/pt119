@@ -2899,11 +2899,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉國立屏北高中/男生宿舍",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T22:12:20.316420"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-06T22:22:20.320911"
       }
     ]
   }
