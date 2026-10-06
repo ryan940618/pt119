@@ -632,5 +632,19 @@
         "timestamp": "2026-10-07T07:21:20.969319"
       }
     ]
+  },
+  "a8ee9195efa8246997eb2eb4201994ac": {
+    "time": "2026/10/07 07:20:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣泰武鄉潭北巷",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T07:22:21.197469"
+      }
+    ]
   }
 }
