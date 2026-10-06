@@ -2853,7 +2853,7 @@
     "sub_category": "",
     "location": "屏東縣納骨塔對面幸福平台",
     "units": "車城分隊",
-    "current_status": "火已滅",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2862,6 +2862,10 @@
       {
         "status": "火已滅",
         "timestamp": "2026-10-06T22:08:20.347175"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T22:39:20.485895"
       }
     ]
   },
