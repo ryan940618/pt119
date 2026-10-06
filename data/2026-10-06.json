@@ -2327,7 +2327,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮中山路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2336,6 +2336,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-06T19:08:19.999508"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-06T19:10:20.108325"
       }
     ]
   },
@@ -2345,11 +2349,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉九如路二段251巷",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-06T18:36:20.824271"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-06T19:10:20.108325"
       }
     ]
   },
