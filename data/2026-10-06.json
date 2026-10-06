@@ -974,5 +974,19 @@
         "timestamp": "2026-10-06T09:03:20.385789"
       }
     ]
+  },
+  "4b51730d29be39a28f60d99a6da9d287": {
+    "time": "2026/10/06 08:42:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉大邱河堤附近",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-06T09:15:20.444243"
+      }
+    ]
   }
 }
