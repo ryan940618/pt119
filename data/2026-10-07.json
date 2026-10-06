@@ -192,5 +192,19 @@
         "timestamp": "2026-10-07T02:27:20.857186"
       }
     ]
+  },
+  "7004d7aecc477baaabc770e534ce8274": {
+    "time": "2026/10/07 02:29:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉和平路",
+    "units": "高樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T02:30:20.944140"
+      }
+    ]
   }
 }
