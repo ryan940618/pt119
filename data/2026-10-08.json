@@ -649,7 +649,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉富豐路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
@@ -658,6 +658,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:57:21.127329"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-10-08T07:58:21.276384"
       }
     ]
   }
