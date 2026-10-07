@@ -2105,7 +2105,7 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉三和村玉泉49-2號",
     "units": "瑪家分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2118,6 +2118,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T17:55:20.586427"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T18:12:20.753664"
       }
     ]
   },
@@ -2297,7 +2301,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市青島街",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -2306,6 +2310,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T18:08:20.606577"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-07T18:12:20.753664"
       }
     ]
   },
