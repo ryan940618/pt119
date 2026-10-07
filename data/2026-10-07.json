@@ -2523,7 +2523,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉惠安路",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已受理",
@@ -2544,6 +2544,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:36:20.166027"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T20:01:20.693950"
       }
     ]
   },
