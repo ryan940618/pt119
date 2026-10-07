@@ -249,7 +249,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉昌宏路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -258,6 +258,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T04:20:20.701840"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T05:03:21.565256"
       }
     ]
   },
