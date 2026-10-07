@@ -2573,7 +2573,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉國立屏東科技大學[屏東縣內埔鄉學府路",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2582,6 +2582,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T19:46:20.335142"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T19:49:20.335732"
       }
     ]
   },
@@ -2678,6 +2682,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:44:20.317123"
+      }
+    ]
+  },
+  "53f6adb56bb1cf6cb2f16a630738a554": {
+    "time": "2026/10/07 19:48:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉中山路二段275巷",
+    "units": "佳冬分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T19:49:20.335732"
       }
     ]
   }
