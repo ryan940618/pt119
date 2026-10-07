@@ -2669,7 +2669,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市屏東大學/民生校區/F棟508號[屏東縣屏東市民生路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2678,6 +2678,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:41:20.402413"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T20:19:20.585675"
       }
     ]
   },
@@ -2751,11 +2755,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市公園西路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:56:20.421469"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T20:19:20.585675"
       }
     ]
   },
@@ -2788,6 +2796,20 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T20:16:20.571756"
+      }
+    ]
+  },
+  "a23960f00842fbe9ec6aa236c2db288a": {
+    "time": "2026/10/07 20:18:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮朝昇東路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T20:19:20.585675"
       }
     ]
   }
