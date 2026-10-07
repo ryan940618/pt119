@@ -42,5 +42,19 @@
         "timestamp": "2026-10-08T00:55:20.486167"
       }
     ]
+  },
+  "bc6bb6b08a9ce6cd94b23552711a2b65": {
+    "time": "2026/10/08 00:58:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉勝德路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T00:59:20.489122"
+      }
+    ]
   }
 }
