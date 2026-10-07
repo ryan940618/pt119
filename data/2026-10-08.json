@@ -288,5 +288,19 @@
         "timestamp": "2026-10-08T04:39:20.875473"
       }
     ]
+  },
+  "5b4e902864f4ec53758cbc0df7d646b8": {
+    "time": "2026/10/08 04:50:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮中正路",
+    "units": "南州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T04:55:20.850055"
+      }
+    ]
   }
 }
