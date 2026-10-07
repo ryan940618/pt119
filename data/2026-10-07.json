@@ -2825,7 +2825,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮朝昇東路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2834,6 +2834,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T20:20:20.487745"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T20:56:20.764027"
       }
     ]
   },
