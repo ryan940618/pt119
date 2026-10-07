@@ -3231,11 +3231,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉四維路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T22:22:20.440598"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T23:15:20.762224"
       }
     ]
   },
@@ -3271,7 +3275,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉沿高速公路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3280,6 +3284,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T23:09:20.697004"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T23:15:20.762224"
       }
     ]
   },
@@ -3289,11 +3297,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉民族路",
     "units": "佳冬分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T23:14:20.728269"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T23:15:20.762224"
       }
     ]
   },
