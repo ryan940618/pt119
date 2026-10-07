@@ -1916,5 +1916,19 @@
         "timestamp": "2026-10-07T15:33:20.601260"
       }
     ]
+  },
+  "feaedabd31d0ba4fa796a87ed0a9fbc4": {
+    "time": "2026/10/07 15:33:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉成功路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T15:34:20.571825"
+      }
+    ]
   }
 }
