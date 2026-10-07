@@ -1610,5 +1610,19 @@
         "timestamp": "2026-10-07T12:12:20.352672"
       }
     ]
+  },
+  "1150d589ae4901363a2e79de28fc08fa": {
+    "time": "2026/10/07 12:13:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉統嶺巷",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T12:15:20.352515"
+      }
+    ]
   }
 }
