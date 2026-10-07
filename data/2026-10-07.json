@@ -3301,7 +3301,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉民族路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3314,6 +3314,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T23:43:20.941107"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T23:53:21.057849"
       }
     ]
   },
