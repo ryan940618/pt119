@@ -1837,11 +1837,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉清涼路",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T15:11:20.543849"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-10-07T15:12:20.495553"
       }
     ]
   }
