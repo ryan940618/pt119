@@ -781,7 +781,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉永豐巷",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -794,6 +794,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T08:09:20.387903"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T08:31:20.492421"
       }
     ]
   },
