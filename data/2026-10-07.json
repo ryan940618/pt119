@@ -2501,7 +2501,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉大順街",
     "units": "九如分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2510,6 +2510,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T19:53:20.321331"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T19:59:20.421543"
       }
     ]
   },
@@ -2742,6 +2746,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-07T19:57:20.456427"
+      }
+    ]
+  },
+  "925dbb86012bb03a336880c3d161994e": {
+    "time": "2026/10/07 19:57:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉大同街",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T19:59:20.421543"
       }
     ]
   }
