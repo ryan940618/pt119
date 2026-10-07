@@ -267,11 +267,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮博愛街",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T04:33:20.927920"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T04:56:20.868802"
       }
     ]
   },
@@ -295,11 +299,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮中正路",
     "units": "南州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T04:55:20.850055"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T04:56:20.868802"
       }
     ]
   }
