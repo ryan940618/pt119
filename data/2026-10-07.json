@@ -1357,11 +1357,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉南進路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:44:21.051607"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T11:35:20.212971"
       }
     ]
   },
