@@ -1143,11 +1143,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市公館分隊/119測試[屏東縣屏東市龍華路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:04:20.850265"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T10:05:20.827424"
       }
     ]
   }
