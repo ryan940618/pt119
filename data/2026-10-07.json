@@ -1830,5 +1830,19 @@
         "timestamp": "2026-10-07T15:00:20.455651"
       }
     ]
+  },
+  "5a3b0583c0ad439c57288e1edba68165": {
+    "time": "2026/10/07 15:09:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉清涼路",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T15:11:20.543849"
+      }
+    ]
   }
 }
