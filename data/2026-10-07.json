@@ -2903,7 +2903,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉人和路",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2912,6 +2912,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T20:53:20.814734"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T21:11:21.120396"
       }
     ]
   },
@@ -2986,6 +2990,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T21:10:20.896930"
+      }
+    ]
+  },
+  "74bfed404451a1616e70d71edd6595ef": {
+    "time": "2026/10/07 21:09:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉北葉村風景1號",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T21:11:21.120396"
       }
     ]
   }
