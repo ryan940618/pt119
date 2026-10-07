@@ -1195,7 +1195,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市海豐街84巷",
     "units": "長治分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1204,6 +1204,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T10:25:20.949345"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T10:32:20.987689"
       }
     ]
   },
@@ -1236,6 +1240,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:26:21.072559"
+      }
+    ]
+  },
+  "0acf6c04fe621c75d2758e5814bfec5f": {
+    "time": "2026/10/07 10:31:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市棒球路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T10:32:20.987689"
       }
     ]
   }
