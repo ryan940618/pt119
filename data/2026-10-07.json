@@ -2633,11 +2633,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市屏東大學/民生校區/F棟508號[屏東縣屏東市民生路",
     "units": "麟洛分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T19:40:20.257550"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T19:41:20.402413"
+      }
+    ]
+  },
+  "e0ed0088ea9c1a012b206213488e6d6d": {
+    "time": "2026/10/07 19:40:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市屏東大學/民生校區[屏東縣屏東市民生路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T19:41:20.402413"
       }
     ]
   }
