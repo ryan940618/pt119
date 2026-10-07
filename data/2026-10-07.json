@@ -2701,7 +2701,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉中山路二段275巷",
     "units": "枋寮分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2710,6 +2710,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T20:12:20.539862"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T20:18:20.498364"
       }
     ]
   },
