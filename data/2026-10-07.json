@@ -3429,11 +3429,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉中正路168巷",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T23:52:20.968497"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T00:45:20.291881"
       }
     ]
   }
