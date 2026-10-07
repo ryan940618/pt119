@@ -1359,7 +1359,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中正路",
     "units": "長治分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1368,6 +1368,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-07T10:57:21.089325"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-07T11:11:20.180481"
       }
     ]
   },
