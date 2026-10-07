@@ -1658,5 +1658,19 @@
         "timestamp": "2026-10-07T12:31:20.595581"
       }
     ]
+  },
+  "935365e132af19b6ce97ee9cf224c5ab": {
+    "time": "2026/10/07 12:39:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉屏科大健康中心",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T12:41:20.556801"
+      }
+    ]
   }
 }
