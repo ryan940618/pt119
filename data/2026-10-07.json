@@ -1827,11 +1827,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮杭州街",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T15:00:20.455651"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T15:35:20.562793"
       }
     ]
   },
