@@ -1728,5 +1728,19 @@
         "timestamp": "2026-10-07T13:29:20.895234"
       }
     ]
+  },
+  "a9e1688ded92fc1765e538f557507d0d": {
+    "time": "2026/10/07 13:52:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市武愛街88巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T13:53:20.091099"
+      }
+    ]
   }
 }
