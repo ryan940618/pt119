@@ -1017,11 +1017,15 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉頂角路",
     "units": "滿州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T09:23:20.410667"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T09:58:20.765496"
       }
     ]
   },
