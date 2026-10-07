@@ -1180,5 +1180,19 @@
         "timestamp": "2026-10-07T10:08:20.923386"
       }
     ]
+  },
+  "923ab4adef35e3fd2e5c0160c1a4c4b8": {
+    "time": "2026/10/07 10:16:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市海豐街84巷",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T10:18:20.914749"
+      }
+    ]
   }
 }
