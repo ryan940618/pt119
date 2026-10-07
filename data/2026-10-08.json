@@ -201,11 +201,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮187縣道/往南州路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T03:57:20.566289"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T04:11:20.605631"
       }
     ]
   },
@@ -215,11 +219,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉羌光路",
     "units": "佳冬分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T04:10:20.678329"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T04:11:20.605631"
       }
     ]
   }
