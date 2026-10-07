@@ -1427,7 +1427,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉五權路",
     "units": "里港分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -1444,6 +1444,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-07T11:20:20.253103"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T11:23:20.175975"
       }
     ]
   }
