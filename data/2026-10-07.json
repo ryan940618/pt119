@@ -1476,5 +1476,19 @@
         "timestamp": "2026-10-07T11:26:20.248834"
       }
     ]
+  },
+  "baa0e386406db44ea61a028235860557": {
+    "time": "2026/10/07 11:30:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建國路107巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T11:31:20.231648"
+      }
+    ]
   }
 }
