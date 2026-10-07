@@ -743,7 +743,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉光明路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -752,6 +752,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:38:20.997744"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T08:17:20.328746"
       }
     ]
   },
@@ -831,11 +835,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉南興路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T07:50:21.199676"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T08:17:20.328746"
       }
     ]
   },
