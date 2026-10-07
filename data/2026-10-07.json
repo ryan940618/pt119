@@ -907,11 +907,15 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉三和路",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T08:48:20.277780"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T08:49:20.494321"
       }
     ]
   }
