@@ -1891,11 +1891,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉大同路",
     "units": "新埤分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T15:24:20.525297"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T15:26:20.414608"
       }
     ]
   }
