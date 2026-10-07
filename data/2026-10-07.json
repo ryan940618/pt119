@@ -1145,11 +1145,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉中山路",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T10:00:20.673095"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T10:45:21.080914"
       }
     ]
   },
