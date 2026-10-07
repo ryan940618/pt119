@@ -1357,7 +1357,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉南進路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1366,6 +1366,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T11:35:20.212971"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T11:54:20.233249"
       }
     ]
   },
@@ -1423,7 +1427,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉中華路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1432,6 +1436,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-07T11:29:20.353632"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T11:54:20.233249"
       }
     ]
   },
