@@ -3282,5 +3282,33 @@
         "timestamp": "2026-10-07T23:09:20.697004"
       }
     ]
+  },
+  "3f0c88cd06bec856662bf9515479419b": {
+    "time": "2026/10/07 23:13:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉民族路",
+    "units": "佳冬分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T23:14:20.728269"
+      }
+    ]
+  },
+  "6015f20900e57b05cd0e4665ae29ebc2": {
+    "time": "2026/10/07 22:23:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉中寧路",
+    "units": "內埔分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-07T23:14:20.728269"
+      }
+    ]
   }
 }
