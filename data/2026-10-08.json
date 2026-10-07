@@ -314,5 +314,19 @@
         "timestamp": "2026-10-08T04:56:20.868802"
       }
     ]
+  },
+  "0b5aab1a63c38e1ba2b9c2d904eff408": {
+    "time": "2026/10/08 04:58:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉義新路8巷",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T05:00:21.010075"
+      }
+    ]
   }
 }
