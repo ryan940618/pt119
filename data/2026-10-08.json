@@ -408,5 +408,19 @@
         "timestamp": "2026-10-08T06:10:20.298610"
       }
     ]
+  },
+  "d676aaf6c8cd5ab0fd62581e2090527a": {
+    "time": "2026/10/08 06:36:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉里順路101巷",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T06:37:20.620801"
+      }
+    ]
   }
 }
