@@ -596,5 +596,33 @@
         "timestamp": "2026-10-08T07:37:21.003689"
       }
     ]
+  },
+  "4aed20e1bef53018aa8469d4e24fa3d9": {
+    "time": "2026/10/08 07:45:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉水哮路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:47:21.038384"
+      }
+    ]
+  },
+  "925acba88c8891ba48d788c040ae6053": {
+    "time": "2026/10/08 07:45:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉南進路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T07:47:21.038384"
+      }
+    ]
   }
 }
