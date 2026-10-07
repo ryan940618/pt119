@@ -1837,7 +1837,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉清涼路",
     "units": "瑪家分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -1846,6 +1846,24 @@
       {
         "status": "",
         "timestamp": "2026-10-07T15:12:20.495553"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T15:14:20.617775"
+      }
+    ]
+  },
+  "1236d0def11ff2595fbfa74d7ade8de2": {
+    "time": "2026/10/07 15:13:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉中山路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T15:14:20.617775"
       }
     ]
   }
