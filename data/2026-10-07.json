@@ -2511,7 +2511,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉惠安路",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已受理",
@@ -2520,6 +2520,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:09:20.040204"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-07T19:16:20.107289"
       }
     ]
   },
@@ -2534,6 +2538,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-07T19:14:20.111890"
+      }
+    ]
+  },
+  "c3716480b05b2b97a33b3d00f76c10b2": {
+    "time": "2026/10/07 19:12:44",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉泰山國民小學對面民宅[屏東縣高樹鄉產業路",
+    "units": "瑪家分隊,高樹分隊,鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T19:16:20.107289"
       }
     ]
   }
