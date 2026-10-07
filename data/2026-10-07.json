@@ -1104,5 +1104,33 @@
         "timestamp": "2026-10-07T09:36:20.554136"
       }
     ]
+  },
+  "f81089f04b014b9af9a3d9a8241d6a5a": {
+    "time": "2026/10/07 09:59:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市鐵路巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-07T10:00:20.673095"
+      }
+    ]
+  },
+  "86207625ccd4a528537ec81358b5a609": {
+    "time": "2026/10/07 09:58:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉中山路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T10:00:20.673095"
+      }
+    ]
   }
 }
