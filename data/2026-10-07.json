@@ -2089,11 +2089,29 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉三和村玉泉49-2號",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T17:14:20.663014"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:15:20.283571"
+      }
+    ]
+  },
+  "26ee8b9c9bb3e928abcca8d1b6a4beed": {
+    "time": "2026/10/07 17:13:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市興隆街9巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T17:15:20.283571"
       }
     ]
   }
