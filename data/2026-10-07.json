@@ -1751,11 +1751,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市武愛街88巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-07T13:53:20.091099"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-07T14:24:20.251456"
       }
     ]
   },
@@ -1765,11 +1769,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉新開三路",
     "units": "春日分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-07T14:23:20.290322"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-07T14:24:20.251456"
       }
     ]
   }
