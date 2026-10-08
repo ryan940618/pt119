@@ -2057,11 +2057,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉內埔國小前/體育館前",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:23:21.566456"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T15:46:21.826981"
       }
     ]
   },
@@ -2162,6 +2166,20 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-08T15:45:21.714335"
+      }
+    ]
+  },
+  "55638aebf24a029d6c293071b765618d": {
+    "time": "2026/10/08 15:44:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉產業路208巷",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T15:46:21.826981"
       }
     ]
   }
