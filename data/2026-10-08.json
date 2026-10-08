@@ -1166,5 +1166,33 @@
         "timestamp": "2026-10-08T10:19:21.893383"
       }
     ]
+  },
+  "279fe438669107c8bacc17d0f5466be6": {
+    "time": "2026/10/08 10:19:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建國路107巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T10:21:21.383154"
+      }
+    ]
+  },
+  "79235ff78b1070fd901d6b3c0cf75911": {
+    "time": "2026/10/08 10:19:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉仁愛街",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T10:21:21.383154"
+      }
+    ]
   }
 }
