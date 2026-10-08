@@ -591,7 +591,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉龍潭路",
     "units": "新埤分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -600,6 +600,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T08:31:20.338051"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T08:32:20.448977"
       }
     ]
   },
@@ -649,11 +653,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉南進路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:47:21.038384"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T08:32:20.448977"
       }
     ]
   },
@@ -812,6 +820,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:31:20.338051"
+      }
+    ]
+  },
+  "ae05fbee95f13143427bc0b38a524536": {
+    "time": "2026/10/08 08:30:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉丹榮路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T08:32:20.448977"
       }
     ]
   }
