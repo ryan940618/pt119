@@ -503,11 +503,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉茄苳路",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T07:53:20.596169"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T07:54:20.708385"
       }
     ]
   }
