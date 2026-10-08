@@ -2257,7 +2257,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉南興路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2266,6 +2266,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T16:54:21.197531"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T18:01:21.717666"
       }
     ]
   },
@@ -2543,7 +2547,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮德和路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2552,6 +2556,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T17:39:21.737763"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T18:01:21.717666"
       }
     ]
   }
