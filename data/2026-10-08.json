@@ -1612,5 +1612,19 @@
         "timestamp": "2026-10-08T12:39:21.233965"
       }
     ]
+  },
+  "3786355dca20a05c4f24296114cc59fc": {
+    "time": "2026/10/08 12:36:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市和平路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T12:40:21.344328"
+      }
+    ]
   }
 }
