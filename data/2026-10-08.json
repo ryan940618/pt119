@@ -2595,7 +2595,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉文化路",
     "units": "內埔分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
@@ -2608,6 +2608,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T18:10:21.784888"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-08T18:14:22.353425"
       }
     ]
   }
