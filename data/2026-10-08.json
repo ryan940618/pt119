@@ -1717,11 +1717,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉廣興路169巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T13:12:21.165997"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T13:28:20.676734"
       }
     ]
   },
@@ -1731,11 +1735,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉學府路",
     "units": "龍泉分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T13:27:20.728710"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T13:28:20.676734"
       }
     ]
   }
