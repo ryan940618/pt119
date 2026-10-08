@@ -171,7 +171,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉和平路",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -180,6 +180,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T02:15:20.536577"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T02:59:20.796224"
       }
     ]
   }
