@@ -1685,11 +1685,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市歸仁路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T12:50:21.590356"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T13:31:21.281792"
       }
     ]
   },
