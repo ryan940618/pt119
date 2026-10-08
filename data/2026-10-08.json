@@ -1292,5 +1292,33 @@
         "timestamp": "2026-10-08T10:52:20.612494"
       }
     ]
+  },
+  "68610724a15fb550c74bcba7e19ba526": {
+    "time": "2026/10/08 11:00:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉里中路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T11:01:20.680211"
+      }
+    ]
+  },
+  "643b7f0cb2d6e029f275433f47f44c79": {
+    "time": "2026/10/08 10:59:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大武路403巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T11:01:20.680211"
+      }
+    ]
   }
 }
