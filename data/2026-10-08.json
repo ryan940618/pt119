@@ -986,5 +986,33 @@
         "timestamp": "2026-10-08T09:12:20.805708"
       }
     ]
+  },
+  "cf46c6ce9c6319b8055545ddacec24cf": {
+    "time": "2026/10/08 09:32:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T09:33:22.311738"
+      }
+    ]
+  },
+  "662b95e88042fd05ef46a4a2f881e07a": {
+    "time": "2026/10/08 09:31:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市武林街",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T09:33:22.311738"
+      }
+    ]
   }
 }
