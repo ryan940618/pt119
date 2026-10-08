@@ -3235,7 +3235,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐榮街14巷",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3244,6 +3244,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T21:10:20.603349"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T21:16:20.633456"
       }
     ]
   }
