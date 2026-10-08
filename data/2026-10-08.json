@@ -1095,7 +1095,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉豐年路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1104,6 +1104,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T10:45:21.555716"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T11:19:20.780116"
       }
     ]
   },
@@ -1283,7 +1287,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉遼北路64巷",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1292,6 +1296,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T11:17:20.835813"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T11:19:20.780116"
       }
     ]
   },
