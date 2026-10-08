@@ -263,7 +263,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮太平路",
     "units": "潮州分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -276,6 +276,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-09T05:09:20.663473"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T05:10:20.623517"
       }
     ]
   },
