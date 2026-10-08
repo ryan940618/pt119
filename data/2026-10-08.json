@@ -1954,5 +1954,19 @@
         "timestamp": "2026-10-08T15:09:21.465311"
       }
     ]
+  },
+  "9f7ae4c52aa16518ad9b11fb7743a9ef": {
+    "time": "2026/10/08 15:09:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉大仁科技大學R棟3樓",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T15:11:21.584616"
+      }
+    ]
   }
 }
