@@ -104,5 +104,19 @@
         "timestamp": "2026-10-09T01:42:20.343736"
       }
     ]
+  },
+  "ba18b677fa072d49c9adc33af5bdd4ce": {
+    "time": "2026/10/09 01:36:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市香揚巷",
+    "units": "屏東分隊,長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T01:45:20.291889"
+      }
+    ]
   }
 }
