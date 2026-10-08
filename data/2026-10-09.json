@@ -97,11 +97,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉民治路",
     "units": "鹽埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T01:42:20.343736"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T01:46:20.315307"
       }
     ]
   },
@@ -111,11 +115,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市香揚巷",
     "units": "屏東分隊,長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T01:45:20.291889"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T01:46:20.315307"
       }
     ]
   }
