@@ -601,11 +601,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉維新路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T07:37:21.003689"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T08:13:21.276304"
       }
     ]
   },
@@ -691,7 +695,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉中正路",
     "units": "琉球分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
@@ -704,6 +708,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T08:07:21.225043"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-08T08:13:21.276304"
       }
     ]
   },
