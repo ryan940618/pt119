@@ -2715,7 +2715,7 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉石門山步道",
     "units": "牡丹分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2728,6 +2728,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T18:36:21.976997"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T20:06:20.764493"
       }
     ]
   },
