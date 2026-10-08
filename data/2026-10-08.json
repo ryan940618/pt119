@@ -2137,11 +2137,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉復興路78巷",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:35:21.605079"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T15:49:22.030618"
       }
     ]
   },
