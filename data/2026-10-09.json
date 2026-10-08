@@ -337,11 +337,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉竹林國小往新埤200M",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T05:49:21.064939"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T05:51:20.989329"
       }
     ]
   }
