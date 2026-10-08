@@ -919,11 +919,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮田新路39巷",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:41:20.604830"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T09:06:20.607697"
       }
     ]
   }
