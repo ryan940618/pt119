@@ -1543,7 +1543,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮環龍路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1552,6 +1552,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T12:58:21.408217"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T13:07:22.037349"
       }
     ]
   },
@@ -1643,11 +1647,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市和平路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T12:40:21.344328"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T13:07:22.037349"
       }
     ]
   },
@@ -1662,6 +1670,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T12:50:21.590356"
+      }
+    ]
+  },
+  "c0d2ccb84040a0ead69de0ebe0d90efb": {
+    "time": "2026/10/08 13:06:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮盛春路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T13:07:22.037349"
       }
     ]
   }
