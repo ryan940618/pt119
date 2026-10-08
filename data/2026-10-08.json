@@ -2236,5 +2236,33 @@
         "timestamp": "2026-10-08T15:52:21.827761"
       }
     ]
+  },
+  "a86cb68385304cb75e695e60aa6fdab5": {
+    "time": "2026/10/08 16:06:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉中正路",
+    "units": "崁頂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T16:07:21.826858"
+      }
+    ]
+  },
+  "9d4fca8972b69d6fc6ade7f053dca931": {
+    "time": "2026/10/08 16:06:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市衡陽街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T16:07:21.826858"
+      }
+    ]
   }
 }
