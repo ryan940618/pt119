@@ -3147,7 +3147,7 @@
     "sub_category": "",
     "location": "屏東縣春日鄉玉山路",
     "units": "春日分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3156,6 +3156,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T20:34:20.521658"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T20:43:20.518845"
       }
     ]
   },
