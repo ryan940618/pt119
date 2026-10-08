@@ -2663,7 +2663,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮盛春路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2676,6 +2676,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T19:11:21.296197"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T19:37:21.517426"
       }
     ]
   },
@@ -2887,7 +2891,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉三民路10巷",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2896,6 +2900,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T19:19:21.225027"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T19:37:21.517426"
       }
     ]
   },
@@ -2923,11 +2931,29 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆春分局前",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T19:34:21.427938"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-08T19:37:21.517426"
+      }
+    ]
+  },
+  "928d3305705736332c35e6588a725480": {
+    "time": "2026/10/08 19:36:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉隆山路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T19:37:21.517426"
       }
     ]
   }
