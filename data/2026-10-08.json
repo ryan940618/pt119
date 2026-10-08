@@ -2931,7 +2931,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆春分局前",
     "units": "恆春分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2940,6 +2940,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T19:37:21.517426"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T19:38:21.625637"
       }
     ]
   },
