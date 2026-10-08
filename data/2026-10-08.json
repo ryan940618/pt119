@@ -3455,11 +3455,15 @@
     "sub_category": "",
     "location": "屏東縣南州鄉仁里路11巷",
     "units": "南州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T23:41:20.592275"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T23:42:20.611373"
       }
     ]
   }
