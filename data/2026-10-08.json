@@ -737,7 +737,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉民族路",
     "units": "長治分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -746,6 +746,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-08T08:16:21.351312"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-08T08:25:20.593902"
       }
     ]
   },
@@ -764,6 +768,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T08:20:20.520014"
+      }
+    ]
+  },
+  "7efcd06c29278ae00a310e3137782f38": {
+    "time": "2026/10/08 08:20:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉白賓山/前山",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T08:25:20.593902"
       }
     ]
   }
