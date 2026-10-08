@@ -433,11 +433,15 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉加祿路",
     "units": "枋寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T07:09:20.355190"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T07:15:20.342931"
       }
     ]
   }
