@@ -5,7 +5,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮中山路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -14,6 +14,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T00:12:20.794165"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T00:34:20.875744"
       }
     ]
   }
