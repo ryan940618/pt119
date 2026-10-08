@@ -1613,11 +1613,15 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉建功路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T12:22:21.338504"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T13:30:22.122636"
       }
     ]
   },
