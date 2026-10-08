@@ -2751,7 +2751,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉名人街",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2764,6 +2764,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T19:08:22.061411"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T19:21:21.479119"
       }
     ]
   },
@@ -2795,7 +2799,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2808,6 +2812,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T19:10:21.281625"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T19:21:21.479119"
       }
     ]
   },
