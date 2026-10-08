@@ -1253,7 +1253,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中正路688巷",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1262,6 +1262,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T11:00:20.701353"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T11:08:20.776196"
       }
     ]
   },
