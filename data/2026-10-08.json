@@ -2687,7 +2687,7 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉石門山步道",
     "units": "牡丹分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -2696,6 +2696,10 @@
       {
         "status": "",
         "timestamp": "2026-10-08T18:33:22.014477"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T18:36:21.976997"
       }
     ]
   },
@@ -2705,11 +2709,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉長美路",
     "units": "高樹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T18:31:21.725511"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T18:36:21.976997"
       }
     ]
   },
@@ -2719,11 +2727,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉名人街",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T18:32:22.316601"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T18:36:21.976997"
       }
     ]
   }
