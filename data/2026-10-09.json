@@ -126,5 +126,19 @@
         "timestamp": "2026-10-09T01:46:20.315307"
       }
     ]
+  },
+  "2044767e8957fb6a4a2807572e5ec5d4": {
+    "time": "2026/10/09 02:10:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉中興五巷",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T02:11:20.536086"
+      }
+    ]
   }
 }
