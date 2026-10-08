@@ -1486,5 +1486,19 @@
         "timestamp": "2026-10-08T11:49:21.124668"
       }
     ]
+  },
+  "06d7f4634cfc0bfe9a04b44f4ee04b0e": {
+    "time": "2026/10/08 11:57:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大春路192巷",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T12:00:21.015116"
+      }
+    ]
   }
 }
