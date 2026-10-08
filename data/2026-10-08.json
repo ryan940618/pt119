@@ -3034,5 +3034,33 @@
         "timestamp": "2026-10-08T19:58:21.344287"
       }
     ]
+  },
+  "03ec2183ade18678b797a6e89386b3f2": {
+    "time": "2026/10/08 19:58:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市瑞光路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T19:59:21.445922"
+      }
+    ]
+  },
+  "4452c45b57267b0e163ec7621d50c607": {
+    "time": "2026/10/08 19:32:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮恆春分局前",
+    "units": "恆春分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T19:59:21.445922"
+      }
+    ]
   }
 }
