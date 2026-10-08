@@ -72,5 +72,19 @@
         "timestamp": "2026-10-09T01:23:20.130719"
       }
     ]
+  },
+  "09ce486fd7bf99ceded5f5e2666ca145": {
+    "time": "2026/10/09 01:36:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉香楊路",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T01:37:20.264638"
+      }
+    ]
   }
 }
