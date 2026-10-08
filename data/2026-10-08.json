@@ -2041,11 +2041,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉新豐路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T15:18:21.591290"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T16:05:21.785643"
       }
     ]
   },
@@ -2077,7 +2081,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉內埔國小前/體育館前",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2086,6 +2090,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T15:46:21.826981"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T16:05:21.785643"
       }
     ]
   },
