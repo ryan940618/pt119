@@ -2960,5 +2960,33 @@
         "timestamp": "2026-10-08T19:37:21.517426"
       }
     ]
+  },
+  "a985b8548254ed318b1dcf3395a0bee5": {
+    "time": "2026/10/08 19:38:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉繁華國民小學繁華國小大門口前",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-08T19:39:21.497784"
+      }
+    ]
+  },
+  "74ade3e44c069d6b8532ec70a5336f4a": {
+    "time": "2026/10/08 19:38:05",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉三和村玉泉1-6號",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-08T19:39:21.497784"
+      }
+    ]
   }
 }
