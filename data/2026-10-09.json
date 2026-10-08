@@ -307,11 +307,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉竹南路",
     "units": "竹田分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T05:29:20.723645"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T05:30:20.884189"
       }
     ]
   }
