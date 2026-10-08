@@ -1883,11 +1883,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建仁巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T14:36:21.556969"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T15:09:21.465311"
       }
     ]
   },
@@ -1920,6 +1924,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T14:59:21.286358"
+      }
+    ]
+  },
+  "2e4e87cac69287c0bc4329ef91cfb2cf": {
+    "time": "2026/10/08 15:07:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T15:09:21.465311"
+      }
+    ]
+  },
+  "4ed15ffcffa0bd08aecb022bcd9ae988": {
+    "time": "2026/10/08 15:07:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市青島街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T15:09:21.465311"
       }
     ]
   }
