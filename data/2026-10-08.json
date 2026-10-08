@@ -1017,7 +1017,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市復興路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1026,6 +1026,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T10:03:21.031545"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T10:11:21.129121"
       }
     ]
   },
@@ -1035,7 +1039,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市武林街",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1044,6 +1048,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T10:10:21.087544"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T10:11:21.129121"
       }
     ]
   },
@@ -1104,6 +1112,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T09:58:21.049434"
+      }
+    ]
+  },
+  "e89a6838572b18b08125a3a2b960f085": {
+    "time": "2026/10/08 10:09:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建南路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T10:11:21.129121"
       }
     ]
   }
