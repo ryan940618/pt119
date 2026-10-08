@@ -1533,11 +1533,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市建南路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-08T12:07:21.223176"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T12:28:21.372639"
       }
     ]
   },
