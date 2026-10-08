@@ -1139,7 +1139,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉信義路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1152,6 +1152,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T11:12:20.897235"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T11:22:20.797101"
       }
     ]
   },
@@ -1397,11 +1401,15 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉往西清路",
     "units": "滿州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-08T11:21:20.762522"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T11:22:20.797101"
       }
     ]
   }
