@@ -1775,7 +1775,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉學府路",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1788,6 +1788,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-08T13:59:21.049319"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-08T14:02:20.907298"
       }
     ]
   },
