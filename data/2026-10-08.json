@@ -3338,5 +3338,33 @@
         "timestamp": "2026-10-08T22:00:19.993245"
       }
     ]
+  },
+  "7cedfd5d1e2f16f6df4399e64681a9b6": {
+    "time": "2026/10/08 22:12:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建民路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T22:13:20.575482"
+      }
+    ]
+  },
+  "a9011950598c35083cc10cd3654a4ee5": {
+    "time": "2026/10/08 21:58:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮志成路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-08T22:13:20.575482"
+      }
+    ]
   }
 }
