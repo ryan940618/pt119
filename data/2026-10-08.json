@@ -2733,7 +2733,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉長美路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2742,6 +2742,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-08T18:36:21.976997"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-08T19:29:21.535847"
       }
     ]
   },
