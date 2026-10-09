@@ -2605,11 +2605,15 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉八瑤路",
     "units": "滿州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:17:20.451198"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T17:23:20.534950"
       }
     ]
   },
@@ -2628,6 +2632,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:18:20.520974"
+      }
+    ]
+  },
+  "b9f764dbad9c6bb8f65bd53fe4fa8f32": {
+    "time": "2026/10/09 17:22:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉中興路448巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T17:23:20.534950"
+      }
+    ]
+  },
+  "98aa587bf0ea203016330b3a9ee8a8db": {
+    "time": "2026/10/09 17:21:56",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉萬安路",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T17:23:20.534950"
       }
     ]
   }
