@@ -563,11 +563,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆南路",
     "units": "恆春分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T07:16:20.414933"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T07:17:20.298258"
       }
     ]
   }
