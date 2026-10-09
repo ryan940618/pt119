@@ -2138,5 +2138,33 @@
         "timestamp": "2026-10-09T14:44:20.390615"
       }
     ]
+  },
+  "d7e08c09fe65c5ba9582c14b5906f9cd": {
+    "time": "2026/10/09 14:56:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉大成路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:57:20.526759"
+      }
+    ]
+  },
+  "bcbf6e48a97eba753e6077a5ba6441aa": {
+    "time": "2026/10/09 12:53:47",
+    "category": "災害搶救",
+    "sub_category": "",
+    "location": "屏東縣來義鄉來義大橋下[屏東縣來義鄉古義路",
+    "units": "來義分隊,新埤分隊,潮州分隊,特搜大隊,第二大隊,萬巒分隊,龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:57:20.526759"
+      }
+    ]
   }
 }
