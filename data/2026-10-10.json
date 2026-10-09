@@ -680,5 +680,33 @@
         "timestamp": "2026-10-10T07:56:20.691347"
       }
     ]
+  },
+  "cb5d8224b64146eb2093702380fd04c0": {
+    "time": "2026/10/10 07:57:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "高雄市大寮區",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T07:58:20.702022"
+      }
+    ]
+  },
+  "d81cf07e3a0b145d54ccbfa39c7924dd": {
+    "time": "2026/10/10 07:55:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉機場外環道//歸園出入口",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T07:58:20.702022"
+      }
+    ]
   }
 }
