@@ -2563,11 +2563,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉仁和路",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:02:20.428323"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T17:38:20.551718"
       }
     ]
   },
