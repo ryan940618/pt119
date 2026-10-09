@@ -1036,5 +1036,33 @@
         "timestamp": "2026-10-09T10:02:21.650587"
       }
     ]
+  },
+  "85f6eccf53208432c17b2727a5a26539": {
+    "time": "2026/10/09 10:02:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉勝利路",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T10:03:22.451997"
+      }
+    ]
+  },
+  "fd15a7b504b2611c156e339e640f923f": {
+    "time": "2026/10/09 09:59:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉透過手機強化定位取得97座//中正大路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T10:03:22.451997"
+      }
+    ]
   }
 }
