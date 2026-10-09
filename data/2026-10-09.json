@@ -2473,11 +2473,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮順昌街",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T16:44:20.444859"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T17:11:20.632268"
       }
     ]
   },
@@ -2541,7 +2545,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉光明路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2550,6 +2554,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T17:09:20.739733"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T17:11:20.632268"
       }
     ]
   },
