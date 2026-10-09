@@ -1832,5 +1832,33 @@
         "timestamp": "2026-10-09T12:54:20.621484"
       }
     ]
+  },
+  "95a60ae217f12da1a9269dc3e8471b97": {
+    "time": "2026/10/09 12:54:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉西環路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T12:55:20.709160"
+      }
+    ]
+  },
+  "4b17b65629b0ae4ec30add9c7b49a10c": {
+    "time": "2026/10/09 12:53:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉來義大橋下[屏東縣來義鄉古義路",
+    "units": "來義分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T12:55:20.709160"
+      }
+    ]
   }
 }
