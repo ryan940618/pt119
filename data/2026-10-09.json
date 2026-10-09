@@ -3351,7 +3351,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉忠信街46巷",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3360,6 +3360,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T20:56:20.783180"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T21:04:21.203462"
       }
     ]
   },
