@@ -1443,7 +1443,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮榮田路",
     "units": "崁頂分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1460,6 +1460,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T11:54:20.361378"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T11:58:20.458535"
       }
     ]
   },
@@ -1566,6 +1570,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T11:49:20.389576"
+      }
+    ]
+  },
+  "2c79fc967c3cb35a00ec6ba006b1bdcf": {
+    "time": "2026/10/09 11:57:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉北勢路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T11:58:20.458535"
       }
     ]
   }
