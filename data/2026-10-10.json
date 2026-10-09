@@ -197,11 +197,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉中山路三段115巷",
     "units": "春日分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T02:36:20.792259"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T02:52:20.864090"
       }
     ]
   },
