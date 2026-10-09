@@ -2322,5 +2322,19 @@
         "timestamp": "2026-10-09T15:55:20.848688"
       }
     ]
+  },
+  "87c81fa54564029843daad9ab90120ce": {
+    "time": "2026/10/09 15:55:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市和生路二段53巷",
+    "units": "公館分隊,高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T15:56:20.939883"
+      }
+    ]
   }
 }
