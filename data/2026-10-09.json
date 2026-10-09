@@ -579,11 +579,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉仕絨路",
     "units": "鹽埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T08:35:20.144177"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T08:37:20.199882"
       }
     ]
   }
