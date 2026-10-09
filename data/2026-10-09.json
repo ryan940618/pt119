@@ -1227,7 +1227,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉勝利路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1236,6 +1236,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T11:30:20.135212"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T11:36:20.262554"
       }
     ]
   },
@@ -1470,6 +1474,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T11:23:20.218466"
+      }
+    ]
+  },
+  "c03aee05fdb379025ec031f3e3e882d8": {
+    "time": "2026/10/09 11:34:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉平和路",
+    "units": "瑪家分隊,鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T11:36:20.262554"
       }
     ]
   }
