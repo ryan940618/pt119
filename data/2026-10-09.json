@@ -536,5 +536,19 @@
         "timestamp": "2026-10-09T08:00:20.690234"
       }
     ]
+  },
+  "47664d25b65036c3c81feda093974a5a": {
+    "time": "2026/10/09 08:29:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉民和路",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T08:30:20.098945"
+      }
+    ]
   }
 }
