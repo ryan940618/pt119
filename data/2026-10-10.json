@@ -538,5 +538,19 @@
         "timestamp": "2026-10-10T06:51:20.236663"
       }
     ]
+  },
+  "83dcbe7df5ab23fe711891b90a171607": {
+    "time": "2026/10/10 07:05:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮堤防抽水站往東港大橋方向",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T07:07:20.348644"
+      }
+    ]
   }
 }
