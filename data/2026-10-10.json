@@ -666,5 +666,19 @@
         "timestamp": "2026-10-10T07:53:20.677359"
       }
     ]
+  },
+  "f45f565e06d80aaed88fc7b2f715f689": {
+    "time": "2026/10/10 07:55:52",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉機場外環道，歸園出入口",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T07:56:20.691347"
+      }
+    ]
   }
 }
