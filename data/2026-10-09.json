@@ -2904,5 +2904,19 @@
         "timestamp": "2026-10-09T18:27:20.851478"
       }
     ]
+  },
+  "3c1ec33e734459f228ddcd961dbdcb82": {
+    "time": "2026/10/09 18:37:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉透過經緯度轉換GIS座標",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T18:39:21.294133"
+      }
+    ]
   }
 }
