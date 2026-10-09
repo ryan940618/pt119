@@ -687,11 +687,15 @@
     "sub_category": "",
     "location": "高雄市大寮區",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T07:58:20.702022"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T07:59:20.750637"
       }
     ]
   },
