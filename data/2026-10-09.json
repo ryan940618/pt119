@@ -1358,5 +1358,19 @@
         "timestamp": "2026-10-09T10:59:20.965271"
       }
     ]
+  },
+  "318dce40a052d0efc332d92e1b84e982": {
+    "time": "2026/10/09 11:00:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市鐵路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T11:02:21.046769"
+      }
+    ]
   }
 }
