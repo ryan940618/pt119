@@ -2171,11 +2171,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉來義大橋下[屏東縣來義鄉古義路",
     "units": "來義分隊,新埤分隊,潮州分隊,特搜大隊,第二大隊,萬巒分隊,龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T14:57:20.526759"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T17:10:20.994907"
       }
     ]
   },
@@ -2555,11 +2559,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉豐田路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:08:23.877174"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-09T17:10:20.994907"
       }
     ]
   }
