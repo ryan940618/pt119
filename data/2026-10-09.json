@@ -611,7 +611,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉仕絨路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -620,6 +620,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T08:37:20.199882"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T09:44:20.499246"
       }
     ]
   },
@@ -839,11 +843,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉中正路",
     "units": "崁頂分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:43:20.462536"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:44:20.499246"
       }
     ]
   },
@@ -858,6 +866,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:43:20.462536"
+      }
+    ]
+  },
+  "df47d778313515b531f619eb09ca8fa7": {
+    "time": "2026/10/09 09:42:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣春日鄉春日路",
+    "units": "枋寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:44:20.499246"
       }
     ]
   }
