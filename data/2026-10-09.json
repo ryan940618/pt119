@@ -2442,5 +2442,19 @@
         "timestamp": "2026-10-09T16:42:20.760168"
       }
     ]
+  },
+  "3283ba0a9c204b94eef898e25512ffce": {
+    "time": "2026/10/09 16:43:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮順昌街",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T16:44:20.444859"
+      }
+    ]
   }
 }
