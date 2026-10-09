@@ -1645,7 +1645,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉新榮路",
     "units": "萬巒分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1654,6 +1654,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T12:17:20.624601"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T12:19:21.713865"
       }
     ]
   },
@@ -1696,6 +1700,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T12:16:20.632980"
+      }
+    ]
+  },
+  "c9f668177892e33c4bb00c48c6144d8a": {
+    "time": "2026/10/09 12:13:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉透過經緯度轉換GIS座標(22,0)",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T12:19:21.713865"
       }
     ]
   }
