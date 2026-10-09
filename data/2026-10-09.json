@@ -797,7 +797,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民和路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -810,6 +810,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:37:20.808296"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T09:58:21.466948"
       }
     ]
   },
@@ -963,11 +967,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市林森路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:55:20.502339"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T09:58:21.466948"
       }
     ]
   },
