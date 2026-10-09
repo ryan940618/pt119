@@ -433,11 +433,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉復興路13巷",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T06:07:19.982117"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T06:57:20.253916"
       }
     ]
   },
