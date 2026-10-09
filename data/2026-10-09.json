@@ -769,11 +769,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市民和路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:27:20.477718"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T09:30:20.407217"
       }
     ]
   },
@@ -783,11 +787,29 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆公路",
     "units": "恆春分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:29:20.302674"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:30:20.407217"
+      }
+    ]
+  },
+  "bb7cf1587c5a3180e754418d509e9d5a": {
+    "time": "2026/10/09 09:29:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市林森路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T09:30:20.407217"
       }
     ]
   }
