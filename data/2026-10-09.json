@@ -1767,7 +1767,7 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉透過經緯度轉換GIS座標(22,0)/台1線南下車道靠近台9線附近",
     "units": "枋山分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1776,6 +1776,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T12:24:20.506764"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-09T12:39:20.560346"
       }
     ]
   },
