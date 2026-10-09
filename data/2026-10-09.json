@@ -609,7 +609,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市海豐街",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -618,6 +618,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T08:42:20.080417"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T09:03:20.697872"
       }
     ]
   },
