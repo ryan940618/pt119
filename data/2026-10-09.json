@@ -2343,7 +2343,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉豐隆路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2352,6 +2352,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T16:52:20.316072"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T17:24:20.482922"
       }
     ]
   },
@@ -2605,7 +2609,7 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉八瑤路",
     "units": "滿州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2614,6 +2618,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T17:23:20.534950"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T17:24:20.482922"
       }
     ]
   },
