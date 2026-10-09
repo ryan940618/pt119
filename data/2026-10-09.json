@@ -1387,7 +1387,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮榮田路",
     "units": "崁頂分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -1396,6 +1396,10 @@
       {
         "status": "",
         "timestamp": "2026-10-09T11:07:20.018162"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T11:08:20.055801"
       }
     ]
   }
