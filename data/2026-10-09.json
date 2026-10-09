@@ -2853,11 +2853,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉西昌路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T18:14:20.763144"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T18:24:20.782370"
       }
     ]
   },
