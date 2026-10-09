@@ -1645,7 +1645,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉新榮路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -1658,6 +1658,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T12:19:21.713865"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T12:22:20.591591"
       }
     ]
   },
