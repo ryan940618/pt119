@@ -3581,11 +3581,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市迪化街",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T22:25:20.377421"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T23:10:20.473685"
       }
     ]
   },
@@ -3658,6 +3662,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T23:09:20.608529"
+      }
+    ]
+  },
+  "b2392d29a1df4f89138ccd744ebfbc8c": {
+    "time": "2026/10/09 23:09:39",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮恆南路63巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-09T23:10:20.473685"
+      }
+    ]
+  },
+  "519e3623e548d7f13bb2cb03bbf8f4a7": {
+    "time": "2026/10/09 23:09:19",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉崙頂村河堤",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T23:10:20.473685"
       }
     ]
   }
