@@ -604,5 +604,19 @@
         "timestamp": "2026-10-10T07:28:20.391177"
       }
     ]
+  },
+  "d51a25d7c12e7cbe9d030de0e84fb838": {
+    "time": "2026/10/10 07:37:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮嘉蓮路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T07:39:20.509102"
+      }
+    ]
   }
 }
