@@ -153,7 +153,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮潮州安泰醫院[屏東縣潮州鎮四維路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -162,6 +162,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T02:41:20.832135"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T03:01:20.942640"
       }
     ]
   },
