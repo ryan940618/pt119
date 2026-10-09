@@ -1264,5 +1264,33 @@
         "timestamp": "2026-10-09T10:49:20.978528"
       }
     ]
+  },
+  "d0590aa9b526ceaaa83e60adf13ede77": {
+    "time": "2026/10/09 10:49:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉振興路",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T10:50:21.012332"
+      }
+    ]
+  },
+  "bcdda7b759a21b81752f8871d85a153b": {
+    "time": "2026/10/09 10:46:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T10:50:21.012332"
+      }
+    ]
   }
 }
