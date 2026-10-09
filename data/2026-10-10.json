@@ -578,5 +578,19 @@
         "timestamp": "2026-10-10T07:17:20.298258"
       }
     ]
+  },
+  "16ea20695cdced69577c561311438d95": {
+    "time": "2026/10/10 07:26:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉大平路",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T07:27:20.348746"
+      }
+    ]
   }
 }
