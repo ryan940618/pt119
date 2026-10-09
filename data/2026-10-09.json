@@ -519,7 +519,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉茄苳路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -528,6 +528,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T07:54:20.708385"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T08:57:20.498745"
       }
     ]
   },
