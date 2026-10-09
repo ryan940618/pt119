@@ -3723,7 +3723,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉山下路",
     "units": "高樹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3732,6 +3732,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T23:42:20.803474"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T23:43:20.872698"
       }
     ]
   },
