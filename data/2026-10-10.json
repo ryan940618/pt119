@@ -458,5 +458,19 @@
         "timestamp": "2026-10-10T06:34:20.918789"
       }
     ]
+  },
+  "6dfc4cdd0edf45ae725e06b8e8594cfa": {
+    "time": "2026/10/10 06:41:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉透過電力座標(Q4327,DC7900)轉換GIS座標",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T06:43:20.120039"
+      }
+    ]
   }
 }
