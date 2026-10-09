@@ -2374,5 +2374,19 @@
         "timestamp": "2026-10-09T15:59:20.961735"
       }
     ]
+  },
+  "21bdc9d07e9aa33e186aa77479be49d5": {
+    "time": "2026/10/09 16:28:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉博愛街",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T16:29:20.172203"
+      }
+    ]
   }
 }
