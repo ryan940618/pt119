@@ -422,5 +422,19 @@
         "timestamp": "2026-10-10T06:03:19.998099"
       }
     ]
+  },
+  "5bc3ae928501f116e467978099e63e35": {
+    "time": "2026/10/10 06:06:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉復興路13巷",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T06:07:19.982117"
+      }
+    ]
   }
 }
