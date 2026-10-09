@@ -3185,11 +3185,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T19:46:20.385090"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T20:23:20.551985"
       }
     ]
   },
@@ -3218,6 +3222,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T20:13:20.513792"
+      }
+    ]
+  },
+  "ee1ff8f65a808bed3edd04eaa18628a7": {
+    "time": "2026/10/09 20:22:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉忠孝街",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:23:20.551985"
       }
     ]
   }
