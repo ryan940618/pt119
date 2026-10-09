@@ -3489,7 +3489,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建南路191巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3502,6 +3502,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T22:56:20.654130"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T23:18:20.644515"
       }
     ]
   },
@@ -3710,6 +3714,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T23:11:20.616847"
+      }
+    ]
+  },
+  "637cf5ad720f765e3202652e96337179": {
+    "time": "2026/10/09 23:16:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉山下路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T23:18:20.644515"
+      }
+    ]
+  },
+  "111f41e0ed1384148347d33c168a7686": {
+    "time": "2026/10/09 23:09:19",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉崙頂村河堤11號出口",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T23:18:20.644515"
       }
     ]
   }
