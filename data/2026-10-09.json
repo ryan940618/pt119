@@ -1989,7 +1989,7 @@
     "sub_category": "",
     "location": "屏東縣春日鄉自強一路",
     "units": "春日分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1998,6 +1998,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-09T13:44:19.979253"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T13:57:20.194526"
       }
     ]
   },
