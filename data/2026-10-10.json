@@ -204,5 +204,19 @@
         "timestamp": "2026-10-10T02:36:20.792259"
       }
     ]
+  },
+  "75ddd90c9bb6cfb23aa62db034998df2": {
+    "time": "2026/10/10 02:42:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮中正路二段29巷",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T02:44:20.807478"
+      }
+    ]
   }
 }
