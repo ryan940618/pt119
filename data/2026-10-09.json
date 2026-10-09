@@ -2819,7 +2819,7 @@
     "sub_category": "",
     "location": "屏東縣來義鄉望嘉2-5號",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2828,6 +2828,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:57:20.666346"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T19:22:20.106515"
       }
     ]
   },
@@ -3027,7 +3031,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉竹南路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3036,6 +3040,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T19:12:20.149661"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T19:22:20.106515"
       }
     ]
   },
@@ -3086,6 +3094,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T19:20:20.166819"
+      }
+    ]
+  },
+  "01578c0804d0a7a7bb5bfe2de02270f7": {
+    "time": "2026/10/09 19:20:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉土庫26號",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T19:22:20.106515"
       }
     ]
   }
