@@ -3685,11 +3685,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉崙頂村河堤",
     "units": "萬丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T23:10:20.473685"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T23:11:20.616847"
       }
     ]
   }
