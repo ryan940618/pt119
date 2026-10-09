@@ -483,11 +483,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮中洲路",
     "units": "潮州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T06:46:20.213109"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T06:47:20.100823"
       }
     ]
   },
