@@ -558,5 +558,33 @@
         "timestamp": "2026-10-09T08:31:20.053839"
       }
     ]
+  },
+  "256b1d0a7886d6de67bd8b22c0a8ea04": {
+    "time": "2026/10/09 08:34:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中華路127巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T08:35:20.144177"
+      }
+    ]
+  },
+  "3b9c2032ba6102fa90ddc61efb43f491": {
+    "time": "2026/10/09 08:33:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉仕絨路",
+    "units": "鹽埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T08:35:20.144177"
+      }
+    ]
   }
 }
