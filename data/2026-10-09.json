@@ -3595,7 +3595,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉農專街413巷",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3604,6 +3604,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T22:31:20.341431"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T23:09:20.608529"
       }
     ]
   },
@@ -3640,6 +3644,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T22:55:20.700995"
+      }
+    ]
+  },
+  "a393435e3a64adbae6c1bd6b1c2031d4": {
+    "time": "2026/10/09 23:07:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉昌南路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T23:09:20.608529"
       }
     ]
   }
