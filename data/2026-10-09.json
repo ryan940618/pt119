@@ -2655,7 +2655,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市貞觀巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2668,6 +2668,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T17:54:20.692229"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T17:55:20.676140"
       }
     ]
   },
@@ -2746,6 +2750,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T17:36:20.591280"
+      }
+    ]
+  },
+  "93b58ad4c59616d0610f7ebf69692cde": {
+    "time": "2026/10/09 17:54:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉望嘉2-5號",
+    "units": "來義分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T17:55:20.676140"
       }
     ]
   }
