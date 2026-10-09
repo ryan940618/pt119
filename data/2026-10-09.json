@@ -967,7 +967,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市林森路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -976,6 +976,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T09:58:21.466948"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T09:59:20.948942"
       }
     ]
   },
