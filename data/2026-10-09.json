@@ -2239,7 +2239,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉雙流往壽卡方向[屏東縣獅子鄉丹路",
     "units": "獅子分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2248,6 +2248,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:43:20.840129"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T15:51:21.275219"
       }
     ]
   },
@@ -2280,6 +2284,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:48:20.819584"
+      }
+    ]
+  },
+  "131e370ea64fee8570ca70d9d99a0b0f": {
+    "time": "2026/10/09 15:42:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉透過手機強化定位取得97座標/119縣道3K(235288,2459980)",
+    "units": "牡丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T15:51:21.275219"
       }
     ]
   }
