@@ -3133,7 +3133,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉保力路",
     "units": "車城分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3142,6 +3142,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T19:42:20.369541"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T19:46:20.385090"
       }
     ]
   },
@@ -3156,6 +3160,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T19:33:20.363131"
+      }
+    ]
+  },
+  "622f9489cd90ddec465644d8ea1a7d97": {
+    "time": "2026/10/09 19:45:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T19:46:20.385090"
       }
     ]
   }
