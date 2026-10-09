@@ -2599,7 +2599,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉豐田路",
     "units": "高樹分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2608,6 +2608,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-09T17:10:20.994907"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T17:32:20.477483"
       }
     ]
   },
