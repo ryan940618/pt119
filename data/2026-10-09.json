@@ -1263,11 +1263,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉潮厝路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T10:41:20.917223"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T11:23:20.218466"
       }
     ]
   },
@@ -1428,6 +1432,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T11:17:20.044795"
+      }
+    ]
+  },
+  "acd8b1d251e5feaacd7b0e76f5fec8bf": {
+    "time": "2026/10/09 11:21:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉田南路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T11:23:20.218466"
       }
     ]
   }
