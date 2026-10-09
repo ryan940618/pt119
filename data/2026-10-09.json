@@ -3345,11 +3345,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "高級救護隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T20:45:20.685337"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T20:46:20.736056"
+      }
+    ]
+  },
+  "aa2cd7cd3f4a483f2799286b2790cdb1": {
+    "time": "2026/10/09 20:46:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T20:46:20.736056"
       }
     ]
   }
