@@ -981,11 +981,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市屏東監理站[屏東縣屏東市忠孝路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:54:20.576481"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T10:23:20.796084"
       }
     ]
   },
@@ -1135,11 +1139,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T10:22:20.820992"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T10:23:20.796084"
+      }
+    ]
+  },
+  "effac5da47bcd0c15d0054996fe50228": {
+    "time": "2026/10/09 10:21:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市和平路和昆明街",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T10:23:20.796084"
       }
     ]
   }
