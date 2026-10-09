@@ -1553,7 +1553,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉高朗國小-等候",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已離院",
@@ -1566,6 +1566,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T12:33:20.560273"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T13:01:20.701833"
       }
     ]
   },
