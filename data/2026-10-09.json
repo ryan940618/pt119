@@ -1490,5 +1490,19 @@
         "timestamp": "2026-10-09T11:36:20.262554"
       }
     ]
+  },
+  "e5c5bffbdd711893269d8c8c9f4d5fc1": {
+    "time": "2026/10/09 11:34:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉高朗國小-等候",
+    "units": "鹽埔分隊",
+    "current_status": "已離院",
+    "status_history": [
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-09T11:37:20.356051"
+      }
+    ]
   }
 }
