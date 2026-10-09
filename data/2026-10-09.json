@@ -655,7 +655,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉聯通街359巷",
     "units": "龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "",
@@ -668,6 +668,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T09:34:20.458389"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T09:46:20.424341"
       }
     ]
   },
@@ -875,11 +879,29 @@
     "sub_category": "",
     "location": "屏東縣春日鄉春日路",
     "units": "枋寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T09:44:20.499246"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:46:20.424341"
+      }
+    ]
+  },
+  "e49fbdc0d4930a5c20957d2874daf289": {
+    "time": "2026/10/09 09:45:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市盛豐路260巷",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:46:20.424341"
       }
     ]
   }
