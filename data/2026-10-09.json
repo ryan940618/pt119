@@ -3389,7 +3389,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "高級救護隊",
-    "current_status": "已離院",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3406,6 +3406,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-09T20:57:20.830210"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T21:22:20.949024"
       }
     ]
   },
@@ -3420,6 +3424,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T20:46:20.736056"
+      }
+    ]
+  },
+  "30f75c8e059c636197b6e543c8591321": {
+    "time": "2026/10/09 21:21:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉舊庄路",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T21:22:20.949024"
       }
     ]
   }
