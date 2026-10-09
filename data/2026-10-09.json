@@ -652,5 +652,19 @@
         "timestamp": "2026-10-09T08:52:20.344272"
       }
     ]
+  },
+  "5db03cfd8f46ed1b74dc68cd8a651c60": {
+    "time": "2026/10/09 08:59:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉大學路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:00:20.224571"
+      }
+    ]
   }
 }
