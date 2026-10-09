@@ -2405,7 +2405,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉博愛街",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2414,6 +2414,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T17:02:20.428323"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T17:19:20.442687"
       }
     ]
   },
