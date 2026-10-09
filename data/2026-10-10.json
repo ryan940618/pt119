@@ -476,5 +476,33 @@
         "timestamp": "2026-10-10T06:44:20.180236"
       }
     ]
+  },
+  "c6bb52ecd56ccc0806bc9fb461f6b1a9": {
+    "time": "2026/10/10 06:45:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮中洲路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T06:46:20.213109"
+      }
+    ]
+  },
+  "3e823f9ce81e6fba4149402122c1b742": {
+    "time": "2026/10/10 06:41:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉透過電力座標(Q4327,DC7900)轉換GIS座標/德協路與德二街",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T06:46:20.213109"
+      }
+    ]
   }
 }
