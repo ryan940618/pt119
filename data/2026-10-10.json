@@ -355,11 +355,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T04:47:20.427818"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T04:48:20.622677"
       }
     ]
   }
