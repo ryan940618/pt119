@@ -2112,5 +2112,19 @@
         "timestamp": "2026-10-09T14:14:20.142557"
       }
     ]
+  },
+  "df6de74567ee0da81845b7a999557c8e": {
+    "time": "2026/10/09 14:43:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉元泰街",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T14:44:20.390615"
+      }
+    ]
   }
 }
