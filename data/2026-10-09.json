@@ -2911,11 +2911,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市昆明街22巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T18:18:20.849304"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T19:00:19.966917"
       }
     ]
   },
