@@ -769,7 +769,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉聖心路",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -778,6 +778,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T10:02:21.650587"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T10:22:20.820992"
       }
     ]
   },
@@ -871,7 +875,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉中正路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -880,6 +884,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:44:20.499246"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T10:22:20.820992"
       }
     ]
   },
@@ -1118,6 +1126,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T10:14:20.779098"
+      }
+    ]
+  },
+  "0d99757a7ca2631fff16e444e7814399": {
+    "time": "2026/10/09 10:21:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民生路",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-09T10:22:20.820992"
       }
     ]
   }
