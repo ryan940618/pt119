@@ -577,11 +577,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市中華路127巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T08:35:20.144177"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T09:09:20.325393"
       }
     ]
   },
