@@ -2419,7 +2419,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2432,6 +2432,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T17:02:20.428323"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T17:15:20.456438"
       }
     ]
   },
@@ -2473,7 +2477,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮順昌街",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2482,6 +2486,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T17:11:20.632268"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T17:15:20.456438"
       }
     ]
   },
