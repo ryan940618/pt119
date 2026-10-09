@@ -697,7 +697,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮育英路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -706,6 +706,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-09T09:23:20.288096"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T09:25:20.346696"
       }
     ]
   },
@@ -734,6 +738,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T09:23:20.288096"
+      }
+    ]
+  },
+  "b71a2ec9a6825568f2e6cb8dd378258e": {
+    "time": "2026/10/09 09:24:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉中和路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T09:25:20.346696"
       }
     ]
   }
