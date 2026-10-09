@@ -2389,11 +2389,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉博愛街",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T16:29:20.172203"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T17:02:20.428323"
       }
     ]
   },
@@ -2403,7 +2407,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2412,6 +2416,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T16:32:20.262030"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-09T17:02:20.428323"
       }
     ]
   },
@@ -2490,6 +2498,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-09T16:56:20.346508"
+      }
+    ]
+  },
+  "f5cac1a2606115180505a281b2ceee39": {
+    "time": "2026/10/09 16:59:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉仁和路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T17:02:20.428323"
       }
     ]
   }
