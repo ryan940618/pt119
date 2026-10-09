@@ -2153,11 +2153,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉大成路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T14:57:20.526759"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-09T15:54:20.994818"
       }
     ]
   },
@@ -2279,11 +2283,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉西環路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-09T15:48:20.819584"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-09T15:54:20.994818"
       }
     ]
   },
