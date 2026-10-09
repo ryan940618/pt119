@@ -159,7 +159,7 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉丹路",
     "units": "獅子分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -168,6 +168,10 @@
       {
         "status": "",
         "timestamp": "2026-10-10T01:53:20.437868"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T01:55:20.484833"
       }
     ]
   }
