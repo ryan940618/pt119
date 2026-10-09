@@ -601,11 +601,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市海豐街",
     "units": "高級救護隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-09T08:41:20.022356"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-09T08:42:20.080417"
       }
     ]
   }
