@@ -632,5 +632,33 @@
         "timestamp": "2026-10-11T07:44:20.822515"
       }
     ]
+  },
+  "3a40ee8af46d209c2490cfe046c4b87b": {
+    "time": "2026/10/11 07:52:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建國路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T07:53:21.014850"
+      }
+    ]
+  },
+  "23571c77324e9a44a8ac99fe6ab7c372": {
+    "time": "2026/10/11 07:52:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市旭東巷",
+    "units": "高級救護隊,麟洛分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T07:53:21.014850"
+      }
+    ]
   }
 }
