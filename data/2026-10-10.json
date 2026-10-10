@@ -3939,7 +3939,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉壽比路",
     "units": "泰武分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3960,6 +3960,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T21:54:20.209608"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T22:17:20.373294"
       }
     ]
   },
@@ -4013,7 +4017,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉下寮巷",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -4022,6 +4026,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T21:57:20.293023"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T22:17:20.373294"
       }
     ]
   },
