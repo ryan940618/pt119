@@ -4141,7 +4141,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉中山路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -4150,6 +4150,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T23:56:20.915028"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T00:08:19.942307"
       }
     ]
   },
