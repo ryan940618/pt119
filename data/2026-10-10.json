@@ -3383,7 +3383,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東新路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3396,6 +3396,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T19:20:20.865932"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T19:25:20.982821"
       }
     ]
   },
