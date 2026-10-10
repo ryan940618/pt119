@@ -3052,5 +3052,33 @@
         "timestamp": "2026-10-10T17:42:21.000097"
       }
     ]
+  },
+  "26f2548220ebead1146bed67e42e2116": {
+    "time": "2026/10/10 17:43:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉中興路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T17:44:21.092995"
+      }
+    ]
+  },
+  "0954c58bb1cb0f67c42599e50b4d28c6": {
+    "time": "2026/10/10 17:42:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉長興國小",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T17:44:21.092995"
+      }
+    ]
   }
 }
