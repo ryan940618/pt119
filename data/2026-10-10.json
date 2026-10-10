@@ -857,7 +857,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮朝昇路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -866,6 +866,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:30:20.781253"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T08:57:20.098473"
       }
     ]
   },
@@ -889,7 +893,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市逢甲路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -906,6 +910,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:42:21.012531"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T08:57:20.098473"
       }
     ]
   },
@@ -943,11 +951,43 @@
     "sub_category": "",
     "location": "屏東縣屏東市歸仁路4巷",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:44:20.934857"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T08:57:20.098473"
+      }
+    ]
+  },
+  "d660a38ad1df8e9a93bd45b3f62c7e9b": {
+    "time": "2026/10/10 08:56:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "屏東分隊,長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:57:20.098473"
+      }
+    ]
+  },
+  "3a6a32f4a1a2c894421f4e20c50dddc8": {
+    "time": "2026/10/10 08:55:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉永興路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:57:20.098473"
       }
     ]
   }
