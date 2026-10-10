@@ -538,5 +538,19 @@
         "timestamp": "2026-10-11T07:09:20.695553"
       }
     ]
+  },
+  "e690b12af649cbb07a55d8aadb3799cc": {
+    "time": "2026/10/11 07:21:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉南龍路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T07:23:20.667374"
+      }
+    ]
   }
 }
