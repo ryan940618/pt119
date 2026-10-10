@@ -1663,11 +1663,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市信義路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T12:45:20.953747"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T12:46:23.151975"
       }
     ]
   },
