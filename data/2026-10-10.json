@@ -3583,11 +3583,15 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉來新路",
     "units": "新埤分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T19:51:21.034902"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:52:21.058970"
       }
     ]
   }
