@@ -947,7 +947,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市桂林街",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -956,6 +956,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T09:27:20.287460"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T09:28:20.438746"
       }
     ]
   },
