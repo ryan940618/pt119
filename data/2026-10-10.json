@@ -745,11 +745,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉機場外環道//歸園出入口",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T07:58:20.702022"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T09:06:20.172169"
       }
     ]
   },
@@ -825,7 +829,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉維新路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -834,6 +838,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T08:44:20.934857"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T09:06:20.172169"
       }
     ]
   },
@@ -1027,11 +1035,43 @@
     "sub_category": "",
     "location": "屏東縣長治鄉文學街",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T09:01:20.639951"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T09:06:20.172169"
+      }
+    ]
+  },
+  "fdb2d53c2aca16d94f25493e17d75ee5": {
+    "time": "2026/10/10 09:05:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉福樹巷",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T09:06:20.172169"
+      }
+    ]
+  },
+  "9d304cc550e77508d506a19b911be67a": {
+    "time": "2026/10/10 09:05:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉馬兒巷",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T09:06:20.172169"
       }
     ]
   }
