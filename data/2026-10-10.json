@@ -3369,11 +3369,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉義仁路",
     "units": "新園分隊,東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:04:21.405826"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T19:29:20.916604"
       }
     ]
   },
@@ -3478,6 +3482,20 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-10T19:19:20.878832"
+      }
+    ]
+  },
+  "24c00ba6add9fbd271f6facc39430021": {
+    "time": "2026/10/10 19:28:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉田中路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:29:20.916604"
       }
     ]
   }
