@@ -1348,5 +1348,19 @@
         "timestamp": "2026-10-10T10:26:20.837950"
       }
     ]
+  },
+  "e5d8571e79a8ad690f490067a6bf88dd": {
+    "time": "2026/10/10 10:27:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市崇陽街125巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T10:29:20.730903"
+      }
+    ]
   }
 }
