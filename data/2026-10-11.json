@@ -391,11 +391,29 @@
     "sub_category": "",
     "location": "屏東縣東港鎮興農路",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T05:39:20.072312"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T05:40:20.224820"
+      }
+    ]
+  },
+  "70b040ff48e383f8637a7507bf858402": {
+    "time": "2026/10/11 05:39:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市屏東醫院全家便利商店前，自由路",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T05:40:20.224820"
       }
     ]
   }
