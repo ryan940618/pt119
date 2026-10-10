@@ -2052,5 +2052,33 @@
         "timestamp": "2026-10-10T14:18:20.586509"
       }
     ]
+  },
+  "a1cc069da5c1196dde6a476fd9bd0ea6": {
+    "time": "2026/10/10 14:20:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉萬榮街",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T14:21:20.422627"
+      }
+    ]
+  },
+  "c81edb8ab709a1e95b876c19c0484ccb": {
+    "time": "2026/10/10 14:19:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉食水路",
+    "units": "滿州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T14:21:20.422627"
+      }
+    ]
   }
 }
