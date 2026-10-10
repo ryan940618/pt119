@@ -2243,7 +2243,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉行政街",
     "units": "三地門分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -2252,6 +2252,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T14:57:20.869539"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T15:00:20.774624"
       }
     ]
   }
