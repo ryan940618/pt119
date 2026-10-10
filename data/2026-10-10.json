@@ -2610,5 +2610,19 @@
         "timestamp": "2026-10-10T16:03:21.953383"
       }
     ]
+  },
+  "428b36d6f7c7fe238a030294297218b5": {
+    "time": "2026/10/10 16:09:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉中正路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T16:10:21.404405"
+      }
+    ]
   }
 }
