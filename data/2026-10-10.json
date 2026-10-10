@@ -623,11 +623,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮嘉蓮路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T07:39:20.509102"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T08:03:20.689645"
       }
     ]
   },
