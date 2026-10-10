@@ -763,11 +763,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉仁愛街45巷",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:02:20.708664"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T09:11:20.230180"
       }
     ]
   },
@@ -1053,7 +1057,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉福樹巷",
     "units": "鹽埔分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1062,6 +1066,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T09:09:20.257848"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-10T09:11:20.230180"
       }
     ]
   },
