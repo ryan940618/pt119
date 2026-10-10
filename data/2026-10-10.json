@@ -2016,5 +2016,33 @@
         "timestamp": "2026-10-10T14:15:20.294784"
       }
     ]
+  },
+  "df9f58b2d7893a3df52fe41e9c08cfae": {
+    "time": "2026/10/10 14:15:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉四塊路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T14:17:21.015279"
+      }
+    ]
+  },
+  "e5bc711343e9e555d6a32a22792d7516": {
+    "time": "2026/10/10 14:15:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉文樂村新樂80號",
+    "units": "來義分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T14:17:21.015279"
+      }
+    ]
   }
 }
