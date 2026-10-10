@@ -207,7 +207,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉下厝街85巷",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -216,6 +216,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T03:13:20.087594"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T03:46:20.348010"
       }
     ]
   },
