@@ -2887,7 +2887,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建豐路122巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2896,6 +2896,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T17:18:20.787956"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T17:25:21.484839"
       }
     ]
   },
@@ -2970,6 +2974,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-10T17:17:20.844975"
+      }
+    ]
+  },
+  "94221b3beec0758f53b7e0bddaae734e": {
+    "time": "2026/10/10 17:24:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉金榮路59巷",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T17:25:21.484839"
       }
     ]
   }
