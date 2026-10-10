@@ -3251,7 +3251,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉泰和路",
     "units": "高樹分隊",
-    "current_status": "已離院",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3264,6 +3264,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-10T18:52:21.540928"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T19:07:20.791021"
       }
     ]
   },
