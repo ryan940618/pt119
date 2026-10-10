@@ -1908,5 +1908,19 @@
         "timestamp": "2026-10-10T13:52:21.237101"
       }
     ]
+  },
+  "2429c2501a7f7005faac4ca2828abcc9": {
+    "time": "2026/10/10 13:51:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣泰武鄉屏106線10k",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T13:55:21.310791"
+      }
+    ]
   }
 }
