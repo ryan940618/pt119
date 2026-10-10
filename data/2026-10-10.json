@@ -4107,11 +4107,29 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉石門路",
     "units": "牡丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T22:42:20.533138"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T22:43:20.525689"
+      }
+    ]
+  },
+  "631dcaf256fead162468137e37e55f0e": {
+    "time": "2026/10/10 22:40:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉中山路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T22:43:20.525689"
       }
     ]
   }
