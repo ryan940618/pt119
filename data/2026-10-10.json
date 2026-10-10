@@ -1505,7 +1505,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉振興路",
     "units": "長治分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1514,6 +1514,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-10T11:25:20.204730"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-10T11:31:20.223135"
       }
     ]
   }
