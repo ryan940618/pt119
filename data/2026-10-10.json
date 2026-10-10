@@ -1741,11 +1741,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉勝光路73巷",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T13:08:20.990334"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-10T13:18:20.991549"
       }
     ]
   },
@@ -1778,6 +1782,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T13:17:21.024190"
+      }
+    ]
+  },
+  "06d13bbae833ef32371a875c4e54824f": {
+    "time": "2026/10/10 13:17:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉丹榮路",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T13:18:20.991549"
       }
     ]
   }
