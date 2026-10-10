@@ -3803,7 +3803,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉復興路",
     "units": "枋寮分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3812,6 +3812,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T21:52:20.275933"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T22:33:20.417758"
       }
     ]
   },
