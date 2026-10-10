@@ -3436,5 +3436,33 @@
         "timestamp": "2026-10-10T19:17:20.998377"
       }
     ]
+  },
+  "99812be91abddd580fc205187e1e853a": {
+    "time": "2026/10/10 19:17:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉中山路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:18:20.923864"
+      }
+    ]
+  },
+  "2ec25c9e47660c2a18f6d553be042298": {
+    "time": "2026/10/10 19:01:44",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉焚化爐",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:18:20.923864"
+      }
+    ]
   }
 }
