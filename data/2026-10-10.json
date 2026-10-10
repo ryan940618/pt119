@@ -2511,7 +2511,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉鐵店路",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2528,6 +2528,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T15:51:21.273710"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T16:28:20.431695"
       }
     ]
   },
@@ -2670,6 +2674,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T16:16:21.452305"
+      }
+    ]
+  },
+  "c0e1525807256de887727879a63c0ef6": {
+    "time": "2026/10/10 15:38:31",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉大津瀑布往尾寮山",
+    "units": "瑪家分隊,高樹分隊",
+    "current_status": "返隊中",
+    "status_history": [
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T16:28:20.431695"
       }
     ]
   }
