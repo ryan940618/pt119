@@ -1638,5 +1638,19 @@
         "timestamp": "2026-10-10T12:34:20.770512"
       }
     ]
+  },
+  "a0bb9adf9bb158c9850bb6b107b32bac": {
+    "time": "2026/10/10 12:38:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市台糖街",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T12:39:20.769466"
+      }
+    ]
   }
 }
