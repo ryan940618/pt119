@@ -2445,11 +2445,29 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉屏199東源往旭海",
     "units": "牡丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T15:36:21.207811"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T15:37:21.214124"
+      }
+    ]
+  },
+  "8735871f491d579d662cfc4c4090d088": {
+    "time": "2026/10/10 15:35:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉鐵店路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T15:37:21.214124"
       }
     ]
   }
