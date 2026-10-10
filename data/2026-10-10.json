@@ -1289,7 +1289,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮鵝鑾鼻燈塔後方台灣最南點停車場旁車道",
     "units": "墾丁分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1298,6 +1298,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T10:04:20.606060"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T11:09:21.047620"
       }
     ]
   },
