@@ -4005,11 +4005,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉下寮巷",
     "units": "麟洛分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T21:56:20.255974"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T21:57:20.293023"
       }
     ]
   }
