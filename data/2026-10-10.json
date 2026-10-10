@@ -4089,11 +4089,29 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉新展路",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T22:40:20.511573"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T22:42:20.533138"
+      }
+    ]
+  },
+  "820846bf4690525600f15c3fb0aa89a7": {
+    "time": "2026/10/10 22:41:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉石門路",
+    "units": "牡丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T22:42:20.533138"
       }
     ]
   }
