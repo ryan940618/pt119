@@ -3654,5 +3654,33 @@
         "timestamp": "2026-10-10T20:12:20.807590"
       }
     ]
+  },
+  "6120e618eae52ff401596a062f65c3ac": {
+    "time": "2026/10/10 20:16:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉中華路178巷",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T20:17:20.861316"
+      }
+    ]
+  },
+  "7797a05273faee80353cd37e9ef8a0c2": {
+    "time": "2026/10/10 20:15:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市國民運動中心[屏東縣屏東市勝利東路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T20:17:20.861316"
+      }
+    ]
   }
 }
