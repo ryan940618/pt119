@@ -3295,11 +3295,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉忠孝街",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:34:21.316382"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T19:08:20.833589"
       }
     ]
   },
@@ -3379,11 +3383,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東新路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:05:20.869889"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T19:08:20.833589"
       }
     ]
   }
