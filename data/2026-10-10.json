@@ -712,5 +712,19 @@
         "timestamp": "2026-10-10T07:58:20.702022"
       }
     ]
+  },
+  "8f92936be1bb2de46c5a882047a10abb": {
+    "time": "2026/10/10 08:01:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉仁愛街45巷",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:02:20.708664"
+      }
+    ]
   }
 }
