@@ -719,7 +719,7 @@
     "sub_category": "",
     "location": "高雄市大寮區",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -732,6 +732,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T08:37:20.962454"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T08:47:20.064878"
       }
     ]
   },
@@ -769,11 +773,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉新開三路",
     "units": "春日分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:04:20.686496"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T08:47:20.064878"
       }
     ]
   },
