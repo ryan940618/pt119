@@ -1829,11 +1829,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉大同路",
     "units": "龍泉分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T13:37:21.083470"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T13:38:21.229011"
       }
     ]
   }
