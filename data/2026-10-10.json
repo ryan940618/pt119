@@ -3576,5 +3576,19 @@
         "timestamp": "2026-10-10T19:34:20.875140"
       }
     ]
+  },
+  "692bbd410b27e3d3e4a9336a65c5c26d": {
+    "time": "2026/10/10 19:49:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉來新路",
+    "units": "新埤分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T19:51:21.034902"
+      }
+    ]
   }
 }
