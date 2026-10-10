@@ -197,11 +197,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中興路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T03:09:20.160587"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T04:27:20.585363"
       }
     ]
   },
