@@ -2729,11 +2729,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮興北路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T16:30:20.369668"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T16:57:20.740016"
       }
     ]
   },
