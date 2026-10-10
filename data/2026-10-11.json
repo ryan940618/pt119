@@ -446,5 +446,19 @@
         "timestamp": "2026-10-11T06:01:20.416919"
       }
     ]
+  },
+  "a1e103f9d39e4ac5250d170061bc8a62": {
+    "time": "2026/10/11 06:06:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉社邊路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T06:10:20.657532"
+      }
+    ]
   }
 }
