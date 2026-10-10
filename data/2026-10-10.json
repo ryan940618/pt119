@@ -3699,7 +3699,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市國民運動中心[屏東縣屏東市勝利東路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3708,6 +3708,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T20:51:20.719279"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T20:53:20.936225"
       }
     ]
   },
@@ -3740,6 +3744,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T20:50:20.659523"
+      }
+    ]
+  },
+  "33c241c70a5ba855bdefce0904d61cea": {
+    "time": "2026/10/10 20:52:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "麟洛分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T20:53:20.936225"
+      }
+    ]
+  },
+  "57f2225a2866ef4929e18c24490abe23": {
+    "time": "2026/10/10 20:51:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉復興路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T20:53:20.936225"
       }
     ]
   }
