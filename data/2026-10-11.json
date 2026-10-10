@@ -12,5 +12,19 @@
         "timestamp": "2026-10-11T00:11:20.028096"
       }
     ]
+  },
+  "af91a0784a5935ff05e81d35807783c7": {
+    "time": "2026/10/11 00:12:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉玉米三巷",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T00:13:20.044276"
+      }
+    ]
   }
 }
