@@ -1616,5 +1616,19 @@
         "timestamp": "2026-10-10T12:29:20.661828"
       }
     ]
+  },
+  "4ceb4542bdff2734937de8e4f5b5b7b1": {
+    "time": "2026/10/10 12:32:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉壽比路127巷",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T12:33:20.664450"
+      }
+    ]
   }
 }
