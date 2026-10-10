@@ -104,5 +104,19 @@
         "timestamp": "2026-10-11T01:21:20.610533"
       }
     ]
+  },
+  "d116d3ac03248c95d25c170faea48a6b": {
+    "time": "2026/10/11 01:22:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮檳榔路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T01:23:20.506377"
+      }
+    ]
   }
 }
