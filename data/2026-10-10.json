@@ -2483,7 +2483,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉鐵店路",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -2496,6 +2496,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T15:49:21.429934"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T15:51:21.273710"
       }
     ]
   },
