@@ -1421,7 +1421,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉德和路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1430,6 +1430,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T11:11:21.089519"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T11:18:20.109023"
       }
     ]
   },
@@ -1476,6 +1480,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T11:17:21.103946"
+      }
+    ]
+  },
+  "5c1d016acc2e2e233706c6f1da1b03f7": {
+    "time": "2026/10/10 11:16:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉振興路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T11:18:20.109023"
       }
     ]
   }
