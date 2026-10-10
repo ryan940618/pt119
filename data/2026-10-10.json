@@ -3632,5 +3632,19 @@
         "timestamp": "2026-10-10T19:58:21.166213"
       }
     ]
+  },
+  "0b6f88f50a47c72a43b69a44e33ff847": {
+    "time": "2026/10/10 20:10:18",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣長治鄉國道3號南下401k",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T20:12:20.807590"
+      }
+    ]
   }
 }
