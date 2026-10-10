@@ -3350,5 +3350,19 @@
         "timestamp": "2026-10-10T19:03:20.772298"
       }
     ]
+  },
+  "fa3466afc7c2ca4919a33f328d111286": {
+    "time": "2026/10/10 19:02:24",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣新園鄉義仁路",
+    "units": "新園分隊,東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:04:21.405826"
+      }
+    ]
   }
 }
