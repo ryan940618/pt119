@@ -3408,5 +3408,19 @@
         "timestamp": "2026-10-10T19:10:20.927648"
       }
     ]
+  },
+  "f0d44b76b9794146a2b731fcbba0a06c": {
+    "time": "2026/10/10 19:13:14",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉88橋附近",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:15:21.005628"
+      }
+    ]
   }
 }
