@@ -810,5 +810,33 @@
         "timestamp": "2026-10-10T08:22:20.842957"
       }
     ]
+  },
+  "8be47d3771b8f75a2c84f1544017406e": {
+    "time": "2026/10/10 08:28:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮朝昇路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T08:29:20.907269"
+      }
+    ]
+  },
+  "ba06a5cdace354986a56213a08397498": {
+    "time": "2026/10/10 08:28:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮朝昇路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T08:29:20.907269"
+      }
+    ]
   }
 }
