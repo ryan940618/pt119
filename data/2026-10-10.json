@@ -1246,5 +1246,33 @@
         "timestamp": "2026-10-10T09:52:20.564558"
       }
     ]
+  },
+  "25e575f19183dfb1443678aa3e5d9fc8": {
+    "time": "2026/10/10 10:03:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮鵝鑾鼻燈塔後方台灣最南點停車場旁車道",
+    "units": "墾丁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T10:03:20.738929"
+      }
+    ]
+  },
+  "d3cb02f23bfac1685887a24db5abfd7a": {
+    "time": "2026/10/10 10:01:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉寶田路535巷",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T10:03:20.738929"
+      }
+    ]
   }
 }
