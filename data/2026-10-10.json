@@ -869,7 +869,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市逢甲路",
     "units": "屏東分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -882,6 +882,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-10T08:41:20.923902"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:42:21.012531"
       }
     ]
   },
@@ -896,6 +900,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:35:21.093302"
+      }
+    ]
+  },
+  "99711caa6c45148db1f077d99ef96ade": {
+    "time": "2026/10/10 08:41:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮綠色隧道中段",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:42:21.012531"
       }
     ]
   }
