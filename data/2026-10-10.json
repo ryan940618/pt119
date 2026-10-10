@@ -1005,11 +1005,29 @@
     "sub_category": "",
     "location": "屏東縣新園鄉新生路",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T09:00:20.182001"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T09:01:20.639951"
+      }
+    ]
+  },
+  "d7e0087ee8404597254d9c47d359b764": {
+    "time": "2026/10/10 09:00:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉文學街",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T09:01:20.639951"
       }
     ]
   }
