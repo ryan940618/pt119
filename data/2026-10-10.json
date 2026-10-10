@@ -1858,5 +1858,19 @@
         "timestamp": "2026-10-10T13:41:21.179010"
       }
     ]
+  },
+  "75c5e18390ad8a86ec94a1389a36a67d": {
+    "time": "2026/10/10 13:44:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市青島街",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-10T13:44:21.240444"
+      }
+    ]
   }
 }
