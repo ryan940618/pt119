@@ -3081,7 +3081,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉長興國小",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3090,6 +3090,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T17:46:21.006223"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-10T17:50:21.115867"
       }
     ]
   },
@@ -3099,11 +3103,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市中柳路30巷",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T17:49:21.096634"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T17:50:21.115867"
       }
     ]
   }
