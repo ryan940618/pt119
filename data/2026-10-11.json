@@ -342,5 +342,19 @@
         "timestamp": "2026-10-11T04:58:20.861169"
       }
     ]
+  },
+  "b9a0ad87b4e23264bea689b7ec9f1382": {
+    "time": "2026/10/11 05:01:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉中正路",
+    "units": "來義分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T05:02:20.852091"
+      }
+    ]
   }
 }
