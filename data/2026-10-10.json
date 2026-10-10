@@ -2311,7 +2311,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉中庄街41巷",
     "units": "九如分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2324,6 +2324,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-10T15:16:20.963626"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T15:17:20.895350"
       }
     ]
   }
