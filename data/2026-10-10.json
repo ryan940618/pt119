@@ -2742,5 +2742,19 @@
         "timestamp": "2026-10-10T16:34:20.674339"
       }
     ]
+  },
+  "51da636befe109b5961d00214ef08468": {
+    "time": "2026/10/10 16:34:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉中正路",
+    "units": "三地門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T16:35:20.590834"
+      }
+    ]
   }
 }
