@@ -1434,5 +1434,19 @@
         "timestamp": "2026-10-10T10:51:20.950127"
       }
     ]
+  },
+  "69e66f1f48dc2476bfafb30a0e219a88": {
+    "time": "2026/10/10 11:00:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮文化路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T11:02:20.954410"
+      }
+    ]
   }
 }
