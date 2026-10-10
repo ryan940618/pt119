@@ -3467,11 +3467,15 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉中山路",
     "units": "琉球分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:18:20.923864"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T20:02:21.307675"
       }
     ]
   },
@@ -3513,7 +3517,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉國道三號南下車道九如南下出口往南約200公尺",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3522,6 +3526,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-10T19:53:21.186834"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T20:02:21.307675"
       }
     ]
   },
