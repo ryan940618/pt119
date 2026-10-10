@@ -3273,11 +3273,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮華僑市",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T18:32:21.525243"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T19:05:20.869889"
       }
     ]
   },
@@ -3362,6 +3366,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:04:21.405826"
+      }
+    ]
+  },
+  "7fcfa03fba4583e99a3a75899e583490": {
+    "time": "2026/10/10 19:04:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮東新路",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:05:20.869889"
       }
     ]
   }
