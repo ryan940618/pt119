@@ -3336,5 +3336,19 @@
         "timestamp": "2026-10-10T19:00:21.380421"
       }
     ]
+  },
+  "d966e3d9f374b85dee4edeb66d71725f": {
+    "time": "2026/10/10 19:01:44",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉焚化爐",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:03:20.772298"
+      }
+    ]
   }
 }
