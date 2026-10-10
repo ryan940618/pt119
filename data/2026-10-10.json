@@ -2037,11 +2037,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉文樂村新樂80號",
     "units": "來義分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-10T14:17:21.015279"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T14:18:20.586509"
       }
     ]
   }
