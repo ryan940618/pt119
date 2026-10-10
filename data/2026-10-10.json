@@ -3530,5 +3530,47 @@
         "timestamp": "2026-10-10T19:33:21.264989"
       }
     ]
+  },
+  "e7b7bb9d7d62601a5bf3af0935ea3af7": {
+    "time": "2026/10/10 19:33:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮中洲路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:34:20.875140"
+      }
+    ]
+  },
+  "35243906ed469bc0ee0861dd0fbc4735": {
+    "time": "2026/10/10 19:13:14",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉88橋往高雄方向附近",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T19:34:20.875140"
+      }
+    ]
+  },
+  "654c7a9bb0a137cd9dc311c665a3b84c": {
+    "time": "2026/10/10 19:02:24",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣新園鄉義仁路",
+    "units": "新園分隊,東港分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T19:34:20.875140"
+      }
+    ]
   }
 }
