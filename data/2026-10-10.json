@@ -3516,5 +3516,19 @@
         "timestamp": "2026-10-10T19:30:21.225748"
       }
     ]
+  },
+  "7e69560ceeeb9fd684bddb31b000c4dc": {
+    "time": "2026/10/10 19:02:24",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉義仁路",
+    "units": "新園分隊,東港分隊",
+    "current_status": "返隊中",
+    "status_history": [
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T19:33:21.264989"
+      }
+    ]
   }
 }
