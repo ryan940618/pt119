@@ -3551,11 +3551,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉88橋往高雄方向附近",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T19:34:20.875140"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-10T19:40:20.908960"
       }
     ]
   },
