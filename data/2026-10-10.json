@@ -805,11 +805,15 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉維新路",
     "units": "鹽埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:09:20.732904"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-10T08:44:20.934857"
       }
     ]
   },
@@ -914,6 +918,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-10T08:42:21.012531"
+      }
+    ]
+  },
+  "d74e9d8dbe31057c37280409e355ddd1": {
+    "time": "2026/10/10 08:42:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市歸仁路4巷",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-10T08:44:20.934857"
       }
     ]
   }
