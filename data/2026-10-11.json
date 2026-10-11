@@ -922,5 +922,19 @@
         "timestamp": "2026-10-11T08:55:20.334719"
       }
     ]
+  },
+  "e6ec31ff4ca28beb362a6db5b609f4cf": {
+    "time": "2026/10/11 08:55:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉仁里路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T08:57:20.335593"
+      }
+    ]
   }
 }
