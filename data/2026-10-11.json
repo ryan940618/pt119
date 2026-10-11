@@ -871,7 +871,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉永豐巷",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -884,6 +884,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T09:31:20.640993"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T09:44:20.767833"
       }
     ]
   },
@@ -1116,6 +1120,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T09:34:20.728036"
+      }
+    ]
+  },
+  "3b35c1a5bf0d391cff84870981868f84": {
+    "time": "2026/10/11 09:43:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉中華二街",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T09:44:20.767833"
+      }
+    ]
+  },
+  "37bb3e4bb96f87824ec12f4b37b85032": {
+    "time": "2026/10/11 09:42:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉濱海公路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T09:44:20.767833"
       }
     ]
   }
