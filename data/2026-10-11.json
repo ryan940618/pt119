@@ -2572,5 +2572,19 @@
         "timestamp": "2026-10-11T16:20:20.313372"
       }
     ]
+  },
+  "1e5532dfe46b8e6253904d3f09f16838": {
+    "time": "2026/10/11 16:19:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市堤防路",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T16:21:20.067226"
+      }
+    ]
   }
 }
