@@ -3010,5 +3010,19 @@
         "timestamp": "2026-10-11T18:26:20.912442"
       }
     ]
+  },
+  "8bc0af82b8dfa2c4096b998fbbb0fd69": {
+    "time": "2026/10/11 18:18:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉東榮巷",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:28:20.826320"
+      }
+    ]
   }
 }
