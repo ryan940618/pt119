@@ -2835,7 +2835,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉通安路72巷",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2848,6 +2848,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T18:23:20.924383"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T18:47:21.031795"
       }
     ]
   },
@@ -2959,7 +2963,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市永福路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2968,6 +2972,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T18:30:20.863678"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T18:47:21.031795"
       }
     ]
   },
@@ -3112,6 +3120,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T18:46:21.048221"
+      }
+    ]
+  },
+  "feb8b9f013740f54d208b891accadefe": {
+    "time": "2026/10/11 18:46:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市機場北路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:47:21.031795"
+      }
+    ]
+  },
+  "75078ad995894a975beec4d6bfd37d8f": {
+    "time": "2026/10/11 18:39:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉嘉和路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:47:21.031795"
       }
     ]
   }
