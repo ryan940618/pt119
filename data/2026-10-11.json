@@ -3343,11 +3343,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮南興路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T19:34:20.253043"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T20:07:20.530869"
       }
     ]
   },
@@ -3436,6 +3440,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T20:06:20.500964"
+      }
+    ]
+  },
+  "2a8037d1f2e5daea61144f489f9d0a4a": {
+    "time": "2026/10/11 19:51:23",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮透過經緯度轉換GIS座標(21.9523,120.7998)(21.9516,120.9967)",
+    "units": "墾丁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T20:07:20.530869"
       }
     ]
   }
