@@ -2171,11 +2171,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市海豐三山國王廟[屏東市海豐街",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T14:42:20.618287"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T15:19:20.709732"
       }
     ]
   },
