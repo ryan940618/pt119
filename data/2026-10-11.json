@@ -819,7 +819,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市機場北路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -828,6 +828,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T09:02:20.490270"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T09:10:21.133724"
       }
     ]
   },
@@ -964,6 +968,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T09:04:20.410787"
+      }
+    ]
+  },
+  "5218f5dcd67c9ad67a8aa1def94d53b2": {
+    "time": "2026/10/11 09:08:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉國道三號麟洛交流道剛要上去的平面道路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T09:10:21.133724"
       }
     ]
   }
