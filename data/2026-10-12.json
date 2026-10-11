@@ -386,5 +386,19 @@
         "timestamp": "2026-10-12T06:34:20.196263"
       }
     ]
+  },
+  "586b1387ee2f8722b1a5cb0d53ac09a2": {
+    "time": "2026/10/12 06:35:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮東隆街",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T06:36:20.172389"
+      }
+    ]
   }
 }
