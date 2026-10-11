@@ -1165,7 +1165,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中華二街",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -1182,6 +1182,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:02:20.913279"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T10:22:20.844548"
       }
     ]
   },
@@ -1219,11 +1223,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮沿海路",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T09:54:20.741574"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T10:22:20.844548"
       }
     ]
   },
@@ -1330,6 +1338,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:20:21.020524"
+      }
+    ]
+  },
+  "788e45722477f951948330ac4f0e644d": {
+    "time": "2026/10/11 10:21:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉港東港龍宮[屏東縣崁頂鄉平和南路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T10:22:20.844548"
+      }
+    ]
+  },
+  "45a20c9cd5b6461e93722a3199f5262e": {
+    "time": "2026/10/11 10:20:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮東隆街",
+    "units": "南州分隊,東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T10:22:20.844548"
       }
     ]
   }
