@@ -651,7 +651,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建國路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -660,6 +660,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T07:55:20.927693"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T08:10:20.067821"
       }
     ]
   },
@@ -692,6 +696,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T08:08:19.970551"
+      }
+    ]
+  },
+  "c72e19caa2576de01c52b5bebef30390": {
+    "time": "2026/10/11 08:09:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉瑞源路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T08:10:20.067821"
       }
     ]
   }
