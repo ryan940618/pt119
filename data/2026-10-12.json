@@ -322,5 +322,33 @@
         "timestamp": "2026-10-12T06:10:20.106877"
       }
     ]
+  },
+  "d68c1afa8bbd9f148822a500b5535e46": {
+    "time": "2026/10/12 06:21:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉土葛路",
+    "units": "崁頂分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T06:22:20.150342"
+      }
+    ]
+  },
+  "1c79ac7a16cb63563a835989732bbf6a": {
+    "time": "2026/10/12 06:08:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉瑞源二街",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T06:22:20.150342"
+      }
+    ]
   }
 }
