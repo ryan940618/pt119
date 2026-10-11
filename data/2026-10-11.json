@@ -2302,5 +2302,19 @@
         "timestamp": "2026-10-11T15:18:20.797952"
       }
     ]
+  },
+  "00821e4f0e8c09d5c3dd5c66978a06e2": {
+    "time": "2026/10/11 15:21:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市高屏大橋[屏東縣屏東市建國路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T15:22:20.768199"
+      }
+    ]
   }
 }
