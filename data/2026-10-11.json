@@ -1718,5 +1718,19 @@
         "timestamp": "2026-10-11T11:55:20.639335"
       }
     ]
+  },
+  "81a3cc0c4dc7afc963ef74ddbb3170b8": {
+    "time": "2026/10/11 12:02:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉往霧台方向快到地磨兒停車場的路",
+    "units": "三地門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T12:03:21.228660"
+      }
+    ]
   }
 }
