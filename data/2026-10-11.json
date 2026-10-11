@@ -1249,7 +1249,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1258,6 +1258,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T10:36:21.144142"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T10:38:21.001342"
       }
     ]
   },
@@ -1416,6 +1420,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:32:20.927966"
+      }
+    ]
+  },
+  "4c51a660ff578181abb6227e9835b95a": {
+    "time": "2026/10/11 10:37:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉要進太谷拉伐司瀑布道路",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T10:38:21.001342"
+      }
+    ]
+  },
+  "b241e249e8794fc8357486e064f33d01": {
+    "time": "2026/10/11 10:36:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉元泰街",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T10:38:21.001342"
       }
     ]
   }
