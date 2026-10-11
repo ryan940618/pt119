@@ -3933,11 +3933,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉赤山村東山路",
     "units": "萬巒分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T00:00:20.948737"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T00:01:20.776701"
       }
     ]
   }
