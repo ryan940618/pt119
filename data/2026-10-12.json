@@ -256,5 +256,19 @@
         "timestamp": "2026-10-12T03:05:20.926327"
       }
     ]
+  },
+  "941343201c262dbbe5a6f0345b4824e0": {
+    "time": "2026/10/12 03:10:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉榮華三街",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T03:11:20.102584"
+      }
+    ]
   }
 }
