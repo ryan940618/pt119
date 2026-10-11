@@ -719,11 +719,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬新路",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T08:08:19.970551"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T08:56:20.312446"
       }
     ]
   },
@@ -853,7 +857,7 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉菜寮村大平路",
     "units": "高樹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -866,6 +870,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T08:55:20.334719"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T08:56:20.312446"
       }
     ]
   },
@@ -875,11 +883,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉中山路",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T08:44:20.218192"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T08:56:20.312446"
       }
     ]
   },
