@@ -1667,11 +1667,15 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉台一線//楓港紫竹林龍峰寺牌樓路",
     "units": "獅子分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已離院",
         "timestamp": "2026-10-11T11:27:20.718696"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:36:20.687215"
       }
     ]
   }
