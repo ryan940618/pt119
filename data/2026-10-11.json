@@ -1253,11 +1253,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉仁愛街",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:02:20.913279"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T10:12:20.917687"
       }
     ]
   },
@@ -1272,6 +1276,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:11:20.909822"
+      }
+    ]
+  },
+  "31860144617c8e0e29fa8f788d6068ee": {
+    "time": "2026/10/11 10:09:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣來義鄉丹林村丹林64-3號//丹林教會",
+    "units": "來義分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T10:12:20.917687"
       }
     ]
   }
