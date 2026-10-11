@@ -2375,11 +2375,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市林森路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T15:23:20.835583"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T16:02:20.994757"
       }
     ]
   },
@@ -2434,6 +2438,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T16:01:20.985097"
+      }
+    ]
+  },
+  "6433b1e00d6ba80c8294cd63734401e4": {
+    "time": "2026/10/11 16:02:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉信義路",
+    "units": "長治分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T16:02:20.994757"
+      }
+    ]
+  },
+  "68cc603f4a627744d28b1e9b52c52fc3": {
+    "time": "2026/10/11 16:00:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉新庄2-6號",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T16:02:20.994757"
       }
     ]
   }
