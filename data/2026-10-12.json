@@ -584,5 +584,33 @@
         "timestamp": "2026-10-12T07:45:20.625008"
       }
     ]
+  },
+  "07dd9da897cfba93b1ec489893c7ddd1": {
+    "time": "2026/10/12 07:44:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉壽比路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T07:46:20.768341"
+      }
+    ]
+  },
+  "552b0b6594f155dcaec0d073201840d4": {
+    "time": "2026/10/12 07:44:28",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉新南路258巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-12T07:46:20.768341"
+      }
+    ]
   }
 }
