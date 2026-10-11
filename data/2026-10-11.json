@@ -1006,5 +1006,19 @@
         "timestamp": "2026-10-11T09:13:20.566125"
       }
     ]
+  },
+  "d58a065e7311c83c01b900fe570900c1": {
+    "time": "2026/10/11 09:08:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉永新路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T09:15:20.483053"
+      }
+    ]
   }
 }
