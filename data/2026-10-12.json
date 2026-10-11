@@ -418,5 +418,19 @@
         "timestamp": "2026-10-12T06:43:20.291203"
       }
     ]
+  },
+  "a48d4ae13ea1d99f6ba85209d005517b": {
+    "time": "2026/10/12 06:43:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉新興路54巷",
+    "units": "林邊分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T06:44:20.376806"
+      }
+    ]
   }
 }
