@@ -2849,7 +2849,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中柳路30巷",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已受理",
@@ -2858,6 +2858,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T17:55:20.772735"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T18:13:20.885541"
       }
     ]
   },
@@ -2904,6 +2908,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T18:05:20.960106"
+      }
+    ]
+  },
+  "603da90aa712d28591bd7b804998e823": {
+    "time": "2026/10/11 18:11:33",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉平和路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:13:20.885541"
+      }
+    ]
+  },
+  "dfa95174d35736306999f643addfed8d": {
+    "time": "2026/10/11 17:55:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市永福路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:13:20.885541"
       }
     ]
   }
