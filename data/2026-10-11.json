@@ -1499,7 +1499,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉元泰街",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1512,6 +1512,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T11:28:20.466293"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T11:51:20.558173"
       }
     ]
   },
@@ -1617,7 +1621,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉五房路376巷",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1626,6 +1630,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:10:20.325516"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T11:51:20.558173"
       }
     ]
   },
