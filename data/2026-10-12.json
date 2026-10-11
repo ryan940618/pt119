@@ -166,5 +166,19 @@
         "timestamp": "2026-10-12T02:05:20.585338"
       }
     ]
+  },
+  "e1a16f12784634869de8b95b4bbef29a": {
+    "time": "2026/10/12 02:20:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉竹田郵局旁空地",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T02:21:20.618726"
+      }
+    ]
   }
 }
