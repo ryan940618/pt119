@@ -2699,11 +2699,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉連成路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T16:50:20.349755"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T17:44:20.660559"
       }
     ]
   },
