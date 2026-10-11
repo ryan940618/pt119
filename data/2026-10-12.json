@@ -133,11 +133,29 @@
     "sub_category": "",
     "location": "屏東縣長治鄉瑞源二街",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T02:03:20.541463"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T02:04:21.001107"
+      }
+    ]
+  },
+  "a338b7e21287d981c950f44e344c078a": {
+    "time": "2026/10/12 02:03:05",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉萬安路",
+    "units": "新埤分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T02:04:21.001107"
       }
     ]
   }
