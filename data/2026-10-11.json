@@ -1584,5 +1584,33 @@
         "timestamp": "2026-10-11T11:10:20.325516"
       }
     ]
+  },
+  "a21841dd93d889ce3cfdc9a5e1bb911e": {
+    "time": "2026/10/11 11:16:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉台一線楓港清水巖路",
+    "units": "獅子分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:17:20.330646"
+      }
+    ]
+  },
+  "72d2be02bfb96dd51dfcd6b4a5babf7f": {
+    "time": "2026/10/11 11:15:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:17:20.330646"
+      }
+    ]
   }
 }
