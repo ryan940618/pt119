@@ -123,11 +123,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉力社公墓",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T01:58:20.469086"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T02:29:20.783356"
       }
     ]
   },
@@ -186,6 +190,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T02:26:20.732964"
+      }
+    ]
+  },
+  "e783857253d99a41ad629846c6dc467c": {
+    "time": "2026/10/12 02:28:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉永薪宴會廳前(往中林方向)",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T02:29:20.783356"
       }
     ]
   }
