@@ -3348,5 +3348,33 @@
         "timestamp": "2026-10-11T19:44:20.341642"
       }
     ]
+  },
+  "2b4de642c8889e6505c464bb3b8b7748": {
+    "time": "2026/10/11 19:51:23",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣透過經緯度轉換GIS座標(21.9516,120.9967)",
+    "units": "墾丁分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T19:52:22.434014"
+      }
+    ]
+  },
+  "b15b1ece69dfc11b66f7830604fe4e11": {
+    "time": "2026/10/11 19:50:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮縣立東光國小[屏東縣東港鎮長春二路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T19:52:22.434014"
+      }
+    ]
   }
 }
