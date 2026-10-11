@@ -1544,5 +1544,19 @@
         "timestamp": "2026-10-11T11:01:20.148682"
       }
     ]
+  },
+  "e5c4aff6d6780d29b6e35da7eb156cd6": {
+    "time": "2026/10/11 11:03:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉過江路",
+    "units": "鹽埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T11:04:20.775593"
+      }
+    ]
   }
 }
