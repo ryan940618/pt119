@@ -3831,11 +3831,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市光復路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T23:04:20.836754"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T23:35:20.647474"
       }
     ]
   },
