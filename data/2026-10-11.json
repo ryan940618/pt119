@@ -2137,11 +2137,15 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉瑪家分駐所內",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T14:39:20.485670"
+      },
+      {
+        "status": "",
+        "timestamp": "2026-10-11T14:40:20.536128"
       }
     ]
   }
