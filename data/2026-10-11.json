@@ -3401,7 +3401,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮縣立東光國小[屏東縣東港鎮長春二路",
     "units": "南州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3410,6 +3410,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T20:19:20.544668"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T20:35:20.645316"
       }
     ]
   },
