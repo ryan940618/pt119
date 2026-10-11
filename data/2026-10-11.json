@@ -2397,11 +2397,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉民生路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T15:29:20.937037"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T16:04:21.337992"
       }
     ]
   },
@@ -2451,7 +2455,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉信義路",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2460,6 +2464,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T16:03:21.092969"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T16:04:21.337992"
       }
     ]
   },
@@ -2488,6 +2496,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T16:03:21.092969"
+      }
+    ]
+  },
+  "198884d65645f0ece861e0f6a57d98eb": {
+    "time": "2026/10/11 16:02:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉透過經緯度轉換GIS座標(22.6914,120.5913)",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T16:04:21.337992"
       }
     ]
   }
