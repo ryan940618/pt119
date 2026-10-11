@@ -1769,7 +1769,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉往霧台方向快到地磨兒停車場的路",
     "units": "三地門分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1778,6 +1778,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T12:47:20.827794"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T13:05:21.454529"
       }
     ]
   },
@@ -1827,7 +1831,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉龍南路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1836,6 +1840,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T12:53:21.211878"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T13:05:21.454529"
       }
     ]
   },
