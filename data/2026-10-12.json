@@ -439,7 +439,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市公裕街81巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -452,6 +452,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-12T07:28:20.536354"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T07:39:20.611959"
       }
     ]
   },
@@ -520,6 +524,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T07:38:20.637352"
+      }
+    ]
+  },
+  "80779bec6accb89e051cc0c3d07c658a": {
+    "time": "2026/10/12 07:38:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉溪北橋附近[屏東縣南州鄉南州路",
+    "units": "南州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T07:39:20.611959"
+      }
+    ]
+  },
+  "27ab9209b99c14f8de8df12e6132941c": {
+    "time": "2026/10/12 07:38:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市龍華路",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T07:39:20.611959"
       }
     ]
   }
