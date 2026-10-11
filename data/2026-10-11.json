@@ -3173,7 +3173,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉聖賢路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3182,6 +3182,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T18:59:20.023273"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T19:13:20.213142"
       }
     ]
   },
@@ -3224,6 +3228,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T19:11:20.175370"
+      }
+    ]
+  },
+  "4d80e280941f9893f2e7c4b46f0929c2": {
+    "time": "2026/10/11 19:09:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣泰武鄉平和村太和巷",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T19:13:20.213142"
       }
     ]
   }
