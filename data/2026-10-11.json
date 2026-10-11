@@ -1149,7 +1149,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中華二街",
     "units": "內埔分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1162,6 +1162,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-11T09:56:20.793590"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T10:02:20.913279"
       }
     ]
   },
@@ -1218,6 +1222,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:01:20.865660"
+      }
+    ]
+  },
+  "d8b6e153b02fd0eb529079fc7ce6201d": {
+    "time": "2026/10/11 10:01:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T10:02:20.913279"
+      }
+    ]
+  },
+  "6a09f187edd48bc30d2952b0532ae564": {
+    "time": "2026/10/11 10:00:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉仁愛街",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T10:02:20.913279"
       }
     ]
   }
