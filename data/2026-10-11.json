@@ -3007,7 +3007,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉大吉路",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3016,6 +3016,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T18:58:20.043265"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T19:14:20.248822"
       }
     ]
   },
@@ -3242,6 +3246,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T19:13:20.213142"
+      }
+    ]
+  },
+  "55d079fa6911ded5cf20105b299bc749": {
+    "time": "2026/10/11 19:12:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉泉興路1090巷",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T19:14:20.248822"
       }
     ]
   }
