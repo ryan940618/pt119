@@ -3036,5 +3036,33 @@
         "timestamp": "2026-10-11T18:28:20.826320"
       }
     ]
+  },
+  "a9c583f786c5543444eaff3619b65c41": {
+    "time": "2026/10/11 18:32:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉龍井路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:34:20.940797"
+      }
+    ]
+  },
+  "4a7d23105b5b162688661df4bdd9c324": {
+    "time": "2026/10/11 18:18:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉土庫台糖加油站往東榮巷",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:34:20.940797"
+      }
+    ]
   }
 }
