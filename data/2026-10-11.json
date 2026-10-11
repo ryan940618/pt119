@@ -2422,5 +2422,19 @@
         "timestamp": "2026-10-11T15:53:20.902235"
       }
     ]
+  },
+  "905b5cb261ddf0722c74070badb13f48": {
+    "time": "2026/10/11 16:00:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉新庄路",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T16:01:20.985097"
+      }
+    ]
   }
 }
