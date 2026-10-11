@@ -1999,11 +1999,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市公勤街",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T13:28:20.075615"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T13:56:20.246750"
       }
     ]
   },
