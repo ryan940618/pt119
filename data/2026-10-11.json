@@ -3165,7 +3165,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市機場北路",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3174,6 +3174,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-11T19:41:20.252555"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-11T19:56:20.393081"
       }
     ]
   },
@@ -3291,7 +3295,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉泉興路1090巷",
     "units": "萬丹分隊",
-    "current_status": "已到達",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -3300,6 +3304,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T19:20:20.228223"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T19:56:20.393081"
       }
     ]
   },
