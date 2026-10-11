@@ -1305,11 +1305,15 @@
     "sub_category": "",
     "location": "屏東縣來義鄉丹林村丹林64-3號//丹林教會",
     "units": "來義分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:12:20.917687"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T10:25:20.914348"
       }
     ]
   },
