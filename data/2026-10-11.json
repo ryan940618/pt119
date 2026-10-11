@@ -2507,7 +2507,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市崇武路",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -2516,6 +2516,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T16:09:20.094683"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-11T16:15:20.032964"
       }
     ]
   },
