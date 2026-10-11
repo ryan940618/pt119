@@ -2996,5 +2996,19 @@
         "timestamp": "2026-10-11T18:20:20.903649"
       }
     ]
+  },
+  "77b2b4aa3fd57ffdadfd33734ceac479": {
+    "time": "2026/10/11 18:24:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市盛豐路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T18:26:20.912442"
+      }
+    ]
   }
 }
