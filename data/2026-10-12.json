@@ -537,7 +537,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉溪北橋附近[屏東縣南州鄉南州路",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -546,6 +546,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T07:40:20.606682"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-12T07:53:20.697415"
       }
     ]
   },
@@ -624,6 +628,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T07:47:20.639448"
+      }
+    ]
+  },
+  "1e320fe81a5748dbf3a04789fa84e132": {
+    "time": "2026/10/12 07:52:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉里嶺路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T07:53:20.697415"
       }
     ]
   }
