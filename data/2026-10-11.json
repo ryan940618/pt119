@@ -1509,11 +1509,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉玉泉街18巷",
     "units": "九如分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:50:20.174824"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T11:30:20.554753"
       }
     ]
   },
@@ -1523,7 +1527,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣官路107巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1540,6 +1544,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T11:03:20.333910"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-11T11:30:20.554753"
       }
     ]
   },
