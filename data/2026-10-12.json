@@ -361,11 +361,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉黃金路15巷",
     "units": "九如分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T06:26:20.114933"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T06:27:20.146157"
       }
     ]
   }
