@@ -3581,7 +3581,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉玉泉村玉泉路",
     "units": "春日分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3590,6 +3590,24 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-11T20:59:20.715183"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T21:04:21.405522"
+      }
+    ]
+  },
+  "fbd789c9cb93188c8cc20f5fa29060e3": {
+    "time": "2026/10/11 21:02:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉光復街57巷",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-11T21:04:21.405522"
       }
     ]
   }
