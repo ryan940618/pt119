@@ -1511,7 +1511,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣官路107巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -1520,6 +1520,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-11T10:55:20.217986"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-11T11:01:20.148682"
+      }
+    ]
+  },
+  "fa577a7c4dcc91fc257cc306c5e735d2": {
+    "time": "2026/10/11 10:59:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公興路",
+    "units": "屏東分隊,高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T11:01:20.148682"
       }
     ]
   }
