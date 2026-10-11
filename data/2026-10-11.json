@@ -2711,11 +2711,15 @@
     "sub_category": "",
     "location": "屏東縣霧台鄉神山部落附近",
     "units": "霧台分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T17:04:20.810744"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T17:05:20.529399"
       }
     ]
   }
