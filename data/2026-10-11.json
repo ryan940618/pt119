@@ -2579,11 +2579,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市堤防路",
     "units": "萬丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已受理",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-11T16:21:20.067226"
+      },
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-11T16:22:20.231255"
+      }
+    ]
+  },
+  "3e243fd761e533e4cd53f5d674f97306": {
+    "time": "2026/10/11 16:21:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-11T16:22:20.231255"
       }
     ]
   }
