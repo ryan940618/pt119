@@ -758,5 +758,33 @@
         "timestamp": "2026-10-11T08:18:20.170738"
       }
     ]
+  },
+  "b0786eebbbbeebe595316db2baaa288b": {
+    "time": "2026/10/11 08:22:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉豐振路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T08:23:20.078810"
+      }
+    ]
+  },
+  "09b23f2b3f3be067a4f40c5ce0e8860a": {
+    "time": "2026/10/11 08:20:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市機場北路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-11T08:23:20.078810"
+      }
+    ]
   }
 }
