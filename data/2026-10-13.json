@@ -208,5 +208,19 @@
         "timestamp": "2026-10-13T03:23:20.759303"
       }
     ]
+  },
+  "fc516780e98306485519693b6d21a27f": {
+    "time": "2026/10/13 03:35:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉中和路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T03:36:20.869093"
+      }
+    ]
   }
 }
