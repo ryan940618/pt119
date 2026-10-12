@@ -577,7 +577,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉屏榮龍泉分院/外面全家超商[屏東縣內埔鄉昭勝路",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -586,6 +586,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T07:45:20.625008"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-12T08:02:20.832317"
       }
     ]
   },
@@ -656,6 +660,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T07:55:20.816317"
+      }
+    ]
+  },
+  "31ac1b6406d571a09be6958583055689": {
+    "time": "2026/10/12 08:01:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉平和路103巷",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T08:02:20.832317"
       }
     ]
   }
