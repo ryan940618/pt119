@@ -3308,5 +3308,19 @@
         "timestamp": "2026-10-12T21:18:20.530107"
       }
     ]
+  },
+  "d3451f0e000beb3f213cfe9b9e133473": {
+    "time": "2026/10/12 21:34:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣泰武鄉佳平自助餐對面",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T21:36:20.592868"
+      }
+    ]
   }
 }
