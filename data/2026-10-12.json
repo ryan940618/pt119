@@ -2821,7 +2821,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉中山路",
     "units": "鹽埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2830,6 +2830,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-12T19:28:20.821403"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T19:49:21.033721"
       }
     ]
   },
@@ -2987,11 +2991,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮光華路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T19:36:20.896589"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-12T19:49:21.033721"
       }
     ]
   },
