@@ -2736,5 +2736,33 @@
         "timestamp": "2026-10-12T18:48:20.565980"
       }
     ]
+  },
+  "74daf914a1f1c07c6d3c79618cff51b1": {
+    "time": "2026/10/12 18:50:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉國立屏東科技大學[屏東縣內埔鄉學府路",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T18:51:20.675701"
+      }
+    ]
+  },
+  "ca49cbbe9cfea3d041519ab9957a580f": {
+    "time": "2026/10/12 18:49:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉中山路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T18:51:20.675701"
+      }
+    ]
   }
 }
