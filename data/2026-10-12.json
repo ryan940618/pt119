@@ -1718,5 +1718,19 @@
         "timestamp": "2026-10-12T11:24:20.084307"
       }
     ]
+  },
+  "128a52e6afbc007b1cd951352e46b5b7": {
+    "time": "2026/10/12 11:41:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉黃金路",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:43:20.173792"
+      }
+    ]
   }
 }
