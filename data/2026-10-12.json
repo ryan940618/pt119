@@ -3533,11 +3533,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆南路125巷",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T22:28:20.886708"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T22:51:20.205712"
       }
     ]
   },
@@ -3565,11 +3569,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮水源一街32巷",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T22:50:19.961642"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T22:51:20.205712"
       }
     ]
   }
