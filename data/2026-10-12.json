@@ -688,5 +688,19 @@
         "timestamp": "2026-10-12T08:03:20.782442"
       }
     ]
+  },
+  "c9e5d77441e52769153621f6cfca1a66": {
+    "time": "2026/10/12 08:07:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉四維路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T08:09:20.815943"
+      }
+    ]
   }
 }
