@@ -1604,5 +1604,33 @@
         "timestamp": "2026-10-12T10:57:21.002824"
       }
     ]
+  },
+  "f4e00b74a71983c0facdbb317b7ac284": {
+    "time": "2026/10/12 11:00:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉保長厝街131巷",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T11:02:21.015865"
+      }
+    ]
+  },
+  "6ccf6ae21b49ff43509ed4971898ee9a": {
+    "time": "2026/10/12 11:00:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉新洋路",
+    "units": "新園分隊,萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T11:02:21.015865"
+      }
+    ]
   }
 }
