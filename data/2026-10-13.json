@@ -528,5 +528,19 @@
         "timestamp": "2026-10-13T07:55:20.438320"
       }
     ]
+  },
+  "78a3a3c23086b00c90c16351a321be72": {
+    "time": "2026/10/13 07:58:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮復興路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T07:59:20.502928"
+      }
+    ]
   }
 }
