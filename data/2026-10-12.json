@@ -2395,11 +2395,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉炯興路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T16:28:20.827571"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-12T17:17:20.041360"
       }
     ]
   },
@@ -2503,7 +2507,7 @@
     "sub_category": "",
     "location": "屏東縣南州鄉壽元路",
     "units": "南州分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -2512,6 +2516,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-12T17:16:20.125791"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-12T17:17:20.041360"
       }
     ]
   }
