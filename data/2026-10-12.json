@@ -1405,11 +1405,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中林路",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T10:00:20.679750"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T11:04:20.944345"
       }
     ]
   },
@@ -1597,11 +1601,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉明東路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T10:57:21.002824"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T11:04:20.944345"
       }
     ]
   },
