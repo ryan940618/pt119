@@ -693,7 +693,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉里嶺路",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -702,6 +702,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-12T09:06:21.494332"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T09:24:20.312144"
       }
     ]
   },
@@ -981,7 +985,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -998,6 +1002,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:00:20.157816"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-12T09:24:20.312144"
       }
     ]
   },
@@ -1122,6 +1130,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:23:20.372202"
+      }
+    ]
+  },
+  "c938eab71b5b022c1e3dfbfae7331063": {
+    "time": "2026/10/12 09:23:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉和興路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T09:24:20.312144"
       }
     ]
   }
