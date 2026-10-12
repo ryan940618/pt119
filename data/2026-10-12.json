@@ -2741,11 +2741,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉檳榔路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:48:20.565980"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T18:55:20.994182"
       }
     ]
   },
@@ -2797,11 +2801,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮太平路",
     "units": "萬巒分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T18:54:21.026883"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T18:55:20.994182"
       }
     ]
   },
@@ -2811,11 +2819,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮永坤路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T18:54:21.026883"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T18:55:20.994182"
       }
     ]
   }
