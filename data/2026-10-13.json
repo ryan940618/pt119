@@ -96,5 +96,19 @@
         "timestamp": "2026-10-13T01:31:20.032058"
       }
     ]
+  },
+  "3f84a1b54457e4c5cf8595f5e41456b3": {
+    "time": "2026/10/13 01:34:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民族路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T01:35:20.128564"
+      }
+    ]
   }
 }
