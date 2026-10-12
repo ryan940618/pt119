@@ -2898,5 +2898,33 @@
         "timestamp": "2026-10-12T19:11:20.795452"
       }
     ]
+  },
+  "c0d00c6a8349af27a6f99e41d80135f0": {
+    "time": "2026/10/12 19:24:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉安平四巷",
+    "units": "瑪家分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T19:25:20.946144"
+      }
+    ]
+  },
+  "6704e5ff87eadce4b5f1c903658500e3": {
+    "time": "2026/10/12 19:23:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉自強路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T19:25:20.946144"
+      }
+    ]
   }
 }
