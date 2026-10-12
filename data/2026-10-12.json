@@ -2465,7 +2465,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉後庄路222巷",
     "units": "九如分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2478,6 +2478,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-12T17:33:20.155213"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T17:47:20.432700"
       }
     ]
   },
