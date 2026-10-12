@@ -197,11 +197,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉褒忠路",
     "units": "潮州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T03:22:20.710770"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T03:23:20.759303"
       }
     ]
   }
