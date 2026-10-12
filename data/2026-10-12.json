@@ -2622,5 +2622,19 @@
         "timestamp": "2026-10-12T18:04:20.452672"
       }
     ]
+  },
+  "f9858f3363b4a510cac6e1166fb0e89c": {
+    "time": "2026/10/12 18:12:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉新東路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T18:13:21.141827"
+      }
+    ]
   }
 }
