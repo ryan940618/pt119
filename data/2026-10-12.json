@@ -3055,11 +3055,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉五房路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T19:39:20.952368"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T20:27:20.291880"
       }
     ]
   },
