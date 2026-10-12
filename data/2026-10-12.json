@@ -1511,11 +1511,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉力社路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T10:18:20.773233"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-12T11:00:20.978627"
       }
     ]
   },
@@ -1543,7 +1547,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉科大路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1552,6 +1556,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-12T10:42:20.787995"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T11:00:20.978627"
       }
     ]
   },
