@@ -2478,5 +2478,33 @@
         "timestamp": "2026-10-12T16:53:19.984230"
       }
     ]
+  },
+  "bf6735c1879820936417d8af6122a476": {
+    "time": "2026/10/12 17:03:57",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉福樹巷",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-12T17:04:20.052660"
+      }
+    ]
+  },
+  "cf690f9ec2f9f929be27b10f8d9fc725": {
+    "time": "2026/10/12 17:02:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉壽元路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T17:04:20.052660"
+      }
+    ]
   }
 }
