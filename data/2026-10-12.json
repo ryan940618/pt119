@@ -3199,7 +3199,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮新勝街",
     "units": "東港分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -3212,6 +3212,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-12T20:44:20.369003"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T20:45:20.865576"
       }
     ]
   }
