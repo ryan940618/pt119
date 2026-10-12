@@ -1087,7 +1087,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐年街117巷",
     "units": "麟洛分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1100,6 +1100,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-12T09:28:20.255286"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T09:29:20.435289"
       }
     ]
   },
