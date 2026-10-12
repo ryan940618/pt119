@@ -3162,5 +3162,19 @@
         "timestamp": "2026-10-12T20:23:20.309853"
       }
     ]
+  },
+  "0699245cd70fd0bfe424af44ae60c96e": {
+    "time": "2026/10/12 20:29:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣三地門鄉賽嘉2號橋",
+    "units": "三地門分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T20:33:20.340676"
+      }
+    ]
   }
 }
