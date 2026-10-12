@@ -1799,7 +1799,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉三地門文化館",
     "units": "三地門分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1808,6 +1808,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T11:55:20.610319"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T12:26:20.403873"
       }
     ]
   },
