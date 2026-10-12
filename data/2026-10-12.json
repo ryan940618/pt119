@@ -837,11 +837,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉大同街",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T08:32:21.653492"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-12T08:36:21.303193"
       }
     ]
   },
@@ -865,11 +869,29 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉元泰街",
     "units": "萬丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T08:35:20.959521"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T08:36:21.303193"
+      }
+    ]
+  },
+  "5cb43085ad4eb8629d7f9a4a8f7c796f": {
+    "time": "2026/10/12 08:34:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉興安路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T08:36:21.303193"
       }
     ]
   }
