@@ -959,11 +959,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市杭州街",
     "units": "公館分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T08:58:20.215875"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T08:59:20.132635"
       }
     ]
   },
