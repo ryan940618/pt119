@@ -3391,7 +3391,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉中山路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3400,6 +3400,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-12T22:40:20.982588"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T22:52:20.010617"
       }
     ]
   },
