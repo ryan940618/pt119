@@ -2456,5 +2456,19 @@
         "timestamp": "2026-10-12T16:49:21.234426"
       }
     ]
+  },
+  "aa30009ed13663f1abc054c23cfa882f": {
+    "time": "2026/10/12 16:51:40",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣長治鄉第二公墓",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T16:53:19.984230"
+      }
+    ]
   }
 }
