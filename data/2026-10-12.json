@@ -1323,7 +1323,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉民生路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -1336,6 +1336,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T09:51:20.436325"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-12T10:45:20.799071"
       }
     ]
   },
@@ -1532,6 +1536,20 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-12T10:42:20.787995"
+      }
+    ]
+  },
+  "61df1353d34d0bb22ca0ded38697d8fb": {
+    "time": "2026/10/12 10:43:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉里港路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T10:45:20.799071"
       }
     ]
   }
