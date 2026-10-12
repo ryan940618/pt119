@@ -783,11 +783,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉新生路696巷",
     "units": "龍泉分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T08:26:20.985513"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T08:27:21.056701"
       }
     ]
   }
