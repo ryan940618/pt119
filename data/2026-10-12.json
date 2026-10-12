@@ -1564,5 +1564,19 @@
         "timestamp": "2026-10-12T10:45:20.799071"
       }
     ]
+  },
+  "08e564158353cdfc5ceb70f3ad837e34": {
+    "time": "2026/10/12 10:53:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉美華路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T10:55:20.926768"
+      }
+    ]
   }
 }
