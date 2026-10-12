@@ -3060,5 +3060,19 @@
         "timestamp": "2026-10-12T19:54:19.914929"
       }
     ]
+  },
+  "2c4fc700ab4b38e793e39d6699dd363d": {
+    "time": "2026/10/12 20:01:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉嘉應路北三巷",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T20:03:20.173889"
+      }
+    ]
   }
 }
