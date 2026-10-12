@@ -2281,7 +2281,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉中正路",
     "units": "萬巒分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2290,6 +2290,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-12T16:22:20.738250"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T16:48:21.429346"
       }
     ]
   },
@@ -2369,7 +2373,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉屏科大內/綜合大樓衛生保健組",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2378,6 +2382,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-12T15:57:20.625473"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-12T16:48:21.429346"
       }
     ]
   },
@@ -2401,11 +2409,43 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮新生路和金陵街",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-12T16:32:20.786149"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-12T16:48:21.429346"
+      }
+    ]
+  },
+  "1d593659a6d55dd0185ecb1ab409cd46": {
+    "time": "2026/10/12 16:47:27",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉民和路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T16:48:21.429346"
+      }
+    ]
+  },
+  "ce0b54fba51c8f78e8d0c1bac9b4505c": {
+    "time": "2026/10/12 16:47:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉後庄路222巷",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-12T16:48:21.429346"
       }
     ]
   }
