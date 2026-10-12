@@ -19,11 +19,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉沿山公路",
     "units": "來義分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T01:10:21.052024"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T01:21:20.095359"
       }
     ]
   },
@@ -42,6 +46,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T01:20:20.011338"
+      }
+    ]
+  },
+  "b36810d904954d108dd984143ec2ef89": {
+    "time": "2026/10/13 01:19:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉新埤大橋/往北/剛上橋",
+    "units": "佳冬分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T01:21:20.095359"
       }
     ]
   }
