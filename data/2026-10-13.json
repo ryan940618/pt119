@@ -45,7 +45,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉復興路1巷",
     "units": "琉球分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
@@ -58,6 +58,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T01:30:20.190632"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-13T01:40:20.126797"
       }
     ]
   },
