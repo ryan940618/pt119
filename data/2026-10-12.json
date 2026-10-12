@@ -2195,11 +2195,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉透過手機強化定位取得97座標(204484,2505116)",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-12T14:28:20.215301"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-12T14:29:20.257626"
       }
     ]
   }
