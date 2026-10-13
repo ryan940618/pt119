@@ -621,11 +621,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮沿海路",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T09:02:21.343595"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T09:03:20.958571"
       }
     ]
   }
