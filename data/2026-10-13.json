@@ -1160,5 +1160,19 @@
         "timestamp": "2026-10-13T11:55:20.070587"
       }
     ]
+  },
+  "a4090a2e23c8e3bfe109fffc98c6ddc5": {
+    "time": "2026/10/13 12:03:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市屏東火車站2樓鐵路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T12:05:20.545442"
+      }
+    ]
   }
 }
