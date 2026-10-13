@@ -937,11 +937,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉臨海路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T10:28:20.752232"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T11:03:20.630013"
       }
     ]
   },
