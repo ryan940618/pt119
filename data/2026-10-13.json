@@ -1461,7 +1461,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮南京路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1470,6 +1470,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T13:55:20.836591"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T14:00:20.875022"
       }
     ]
   }
