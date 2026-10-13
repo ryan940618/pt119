@@ -2739,7 +2739,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市中正路401巷",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2752,6 +2752,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T19:58:20.172058"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T20:06:20.228966"
       }
     ]
   },
@@ -2829,7 +2833,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉永翔路",
     "units": "佳冬分隊,枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2838,6 +2842,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T19:53:20.243891"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T20:06:20.228966"
       }
     ]
   },
