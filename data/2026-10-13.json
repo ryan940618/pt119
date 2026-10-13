@@ -1534,5 +1534,19 @@
         "timestamp": "2026-10-13T14:38:20.057539"
       }
     ]
+  },
+  "867915ef692ccc66adaaf56855b962ef": {
+    "time": "2026/10/13 14:40:18",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉中林路",
+    "units": "龍泉分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T14:43:20.181823"
+      }
+    ]
   }
 }
