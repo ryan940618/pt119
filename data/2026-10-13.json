@@ -1978,5 +1978,19 @@
         "timestamp": "2026-10-13T16:40:20.995200"
       }
     ]
+  },
+  "c0ff7a288986c5e97b743fa524f349ed": {
+    "time": "2026/10/13 16:40:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮永安路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T16:41:23.437655"
+      }
+    ]
   }
 }
