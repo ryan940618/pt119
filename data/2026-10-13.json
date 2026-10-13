@@ -2905,11 +2905,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉萬巒分駐所[屏東縣萬巒鄉萬巒村褒忠路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T20:20:20.421370"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-13T20:23:20.396842"
       }
     ]
   }
