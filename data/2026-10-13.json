@@ -2217,7 +2217,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉竹興路6巷",
     "units": "內埔分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2226,6 +2226,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T17:44:20.477389"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T17:54:20.550164"
       }
     ]
   },
@@ -2312,6 +2316,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T17:52:20.592797"
+      }
+    ]
+  },
+  "44bf00dd276bffc9470a523a6494162d": {
+    "time": "2026/10/13 17:52:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市治平巷",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T17:54:20.550164"
       }
     ]
   }
