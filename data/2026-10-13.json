@@ -592,5 +592,19 @@
         "timestamp": "2026-10-13T08:36:20.744053"
       }
     ]
+  },
+  "fc918dbff0d3df627e55de115bf0b97f": {
+    "time": "2026/10/13 08:37:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉車城消防隊",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T08:38:20.799698"
+      }
+    ]
   }
 }
