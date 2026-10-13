@@ -2715,11 +2715,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市中正路401巷",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T19:21:19.957463"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T19:22:20.046777"
+      }
+    ]
+  },
+  "04e8acbae6cfc558fa1a194760ae29f5": {
+    "time": "2026/10/13 19:20:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉德勝路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T19:22:20.046777"
       }
     ]
   }
