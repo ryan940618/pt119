@@ -1552,5 +1552,33 @@
         "timestamp": "2026-10-13T14:44:20.086684"
       }
     ]
+  },
+  "23cfc5e586333316164d7ad3387536de": {
+    "time": "2026/10/13 14:48:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉港邊69號",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T14:49:20.204521"
+      }
+    ]
+  },
+  "b2cae2e0c2e79055a513d25f2acc5374": {
+    "time": "2026/10/13 14:47:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉新隆路",
+    "units": "來義分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T14:49:20.204521"
+      }
+    ]
   }
 }
