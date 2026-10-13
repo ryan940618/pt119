@@ -336,5 +336,19 @@
         "timestamp": "2026-10-14T06:30:20.091400"
       }
     ]
+  },
+  "308b677be0cc183c4f43030ae7c36d27": {
+    "time": "2026/10/14 06:28:48",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉里港大橋往土庫剛上橋",
+    "units": "特搜大隊,里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T06:31:20.068115"
+      }
+    ]
   }
 }
