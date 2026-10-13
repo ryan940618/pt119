@@ -1157,7 +1157,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮太平路",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1166,6 +1166,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T12:23:20.198113"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T12:26:20.267967"
       }
     ]
   },
