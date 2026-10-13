@@ -1585,7 +1585,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉新隆路",
     "units": "來義分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1598,6 +1598,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-13T15:03:20.212268"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T15:04:20.210507"
       }
     ]
   },
