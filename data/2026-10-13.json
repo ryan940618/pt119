@@ -1969,11 +1969,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉新唐路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T16:36:21.033779"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T17:01:20.176962"
       }
     ]
   },
@@ -2042,6 +2046,20 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T16:59:20.218462"
+      }
+    ]
+  },
+  "2fb36a19ac585056291e35054d70fb57": {
+    "time": "2026/10/13 17:00:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉龍鳳路",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T17:01:20.176962"
       }
     ]
   }
