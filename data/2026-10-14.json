@@ -422,5 +422,19 @@
         "timestamp": "2026-10-14T07:07:20.615921"
       }
     ]
+  },
+  "eef10f3cbc07d9d2b176b9e3e39d37f4": {
+    "time": "2026/10/14 07:18:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉福興路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:19:20.476100"
+      }
+    ]
   }
 }
