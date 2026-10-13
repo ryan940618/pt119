@@ -765,11 +765,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐榮街",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T09:49:20.220122"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T10:26:21.469553"
       }
     ]
   },
@@ -861,11 +865,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T10:20:20.504777"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-13T10:26:21.469553"
+      }
+    ]
+  },
+  "12248281add93e7ce24dfd0586032f63": {
+    "time": "2026/10/13 10:25:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉石門路",
+    "units": "牡丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T10:26:21.469553"
       }
     ]
   }
