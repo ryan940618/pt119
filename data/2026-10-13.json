@@ -2346,5 +2346,19 @@
         "timestamp": "2026-10-13T17:55:20.562244"
       }
     ]
+  },
+  "994c9cdbcffec387dcc81651eba0cb35": {
+    "time": "2026/10/13 17:53:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉光復65號",
+    "units": "枋山分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T17:56:20.740513"
+      }
+    ]
   }
 }
