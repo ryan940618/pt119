@@ -351,11 +351,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉里港大橋往土庫剛上橋",
     "units": "特搜大隊,里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T06:31:20.068115"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-14T07:26:20.468128"
       }
     ]
   },
@@ -434,6 +438,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:19:20.476100"
+      }
+    ]
+  },
+  "2e56e0b785bf9f6ac0860b38f2dc3dc6": {
+    "time": "2026/10/14 07:25:04",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉廈北路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:26:20.468128"
       }
     ]
   }
