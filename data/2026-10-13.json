@@ -2644,5 +2644,19 @@
         "timestamp": "2026-10-13T18:59:20.943907"
       }
     ]
+  },
+  "15fc21be5650a6d8e339dd4f93ef2c87": {
+    "time": "2026/10/13 19:04:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大同北路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T19:05:20.906578"
+      }
+    ]
   }
 }
