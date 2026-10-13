@@ -2617,7 +2617,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮輔英科技大學附設醫院[屏東縣東港鎮中山路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2630,6 +2630,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T19:11:21.084452"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T19:16:21.072276"
       }
     ]
   },
@@ -2680,6 +2684,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-13T19:14:20.942672"
+      }
+    ]
+  },
+  "b3d2697ac0c6bf37217b880a2c0bdc14": {
+    "time": "2026/10/13 19:14:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮中正路",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T19:16:21.072276"
       }
     ]
   }
