@@ -2183,7 +2183,7 @@
     "sub_category": "",
     "location": "屏東縣車城鄉射寮路",
     "units": "車城分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2192,6 +2192,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T18:01:20.678303"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T18:15:20.727493"
       }
     ]
   },
@@ -2219,7 +2223,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市大同北路15巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2232,6 +2236,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T18:09:20.702843"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T18:15:20.727493"
       }
     ]
   },
@@ -2241,7 +2249,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉竹興路6巷",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -2254,6 +2262,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T17:54:20.550164"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T18:15:20.727493"
       }
     ]
   },
@@ -2444,6 +2456,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:07:20.647046"
+      }
+    ]
+  },
+  "32949b0bc035f1ac8fdac87fe0005cf6": {
+    "time": "2026/10/13 18:13:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉美和科大//大門[屏東縣內埔鄉屏光路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:15:20.727493"
+      }
+    ]
+  },
+  "8de571ff02d1c0a6714afe1702a5da49": {
+    "time": "2026/10/13 18:12:50",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:15:20.727493"
       }
     ]
   }
