@@ -2373,7 +2373,7 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉三和村美園99-10號",
     "units": "三地門分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2394,6 +2394,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:21:20.671970"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T19:07:21.041778"
       }
     ]
   },
