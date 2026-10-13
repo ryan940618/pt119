@@ -2321,11 +2321,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆公路970巷",
     "units": "滿州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T17:44:20.477389"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T18:33:20.838515"
       }
     ]
   },
