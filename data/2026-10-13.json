@@ -1285,7 +1285,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市瑞光路三段和海豐街",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1294,6 +1294,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T12:45:20.469562"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T12:48:20.479742"
+      }
+    ]
+  },
+  "9fa3b04a2340139916d4f98fe203d121": {
+    "time": "2026/10/13 12:47:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮共興二街",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T12:48:20.479742"
       }
     ]
   }
