@@ -225,11 +225,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉福德街49號巷",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T04:22:20.293957"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-14T04:25:20.259344"
       }
     ]
   },
