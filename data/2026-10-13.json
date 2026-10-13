@@ -750,5 +750,19 @@
         "timestamp": "2026-10-13T09:46:20.191122"
       }
     ]
+  },
+  "5a3d249de6cb50548569c73446e8aeec": {
+    "time": "2026/10/13 09:44:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市豐榮街",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T09:49:20.220122"
+      }
+    ]
   }
 }
