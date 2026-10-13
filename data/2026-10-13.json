@@ -930,5 +930,19 @@
         "timestamp": "2026-10-13T10:31:20.425715"
       }
     ]
+  },
+  "ede26d8591a5d73fe670e00ac24e9183": {
+    "time": "2026/10/13 10:31:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉光復路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T10:33:20.564952"
+      }
+    ]
   }
 }
