@@ -1037,11 +1037,15 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉太和巷",
     "units": "泰武分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T10:53:20.612618"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T11:32:20.858149"
       }
     ]
   },
@@ -1069,11 +1073,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽琉線碼頭/交通船[新園鄉新興路",
     "units": "新園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T11:31:20.878183"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T11:32:20.858149"
       }
     ]
   }
