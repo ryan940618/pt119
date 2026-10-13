@@ -1278,5 +1278,19 @@
         "timestamp": "2026-10-13T12:42:20.468754"
       }
     ]
+  },
+  "c3a5dd0f018586a43ef85f8fcec62a30": {
+    "time": "2026/10/13 12:43:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市瑞光路三段和海豐街",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T12:44:20.521143"
+      }
+    ]
   }
 }
