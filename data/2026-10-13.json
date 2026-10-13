@@ -835,11 +835,29 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉排灣村33號",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T10:19:20.301584"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T10:20:20.504777"
+      }
+    ]
+  },
+  "a95b3ef97ae3e0b21333181374f5ceda": {
+    "time": "2026/10/13 10:18:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T10:20:20.504777"
       }
     ]
   }
