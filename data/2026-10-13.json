@@ -3041,7 +3041,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉忠義街229巷",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3054,6 +3054,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T22:06:21.017844"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T22:27:20.076199"
       }
     ]
   },
