@@ -465,7 +465,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉新開三路",
     "units": "春日分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -474,6 +474,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T07:40:20.498955"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T07:41:20.584830"
       }
     ]
   },
