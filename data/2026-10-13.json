@@ -2817,11 +2817,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉永翔路",
     "units": "佳冬分隊,枋寮分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T19:52:20.402414"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T19:53:20.243891"
       }
     ]
   }
