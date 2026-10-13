@@ -2449,11 +2449,15 @@
     "sub_category": "",
     "location": "屏東縣枋山鄉光復65號",
     "units": "枋山分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T17:56:20.740513"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T18:56:20.863397"
       }
     ]
   },
