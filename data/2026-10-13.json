@@ -3231,11 +3231,15 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉自行車道",
     "units": "麟洛分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-13T23:38:20.421123"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T23:39:20.357026"
       }
     ]
   }
