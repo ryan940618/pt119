@@ -931,11 +931,15 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉石門路",
     "units": "牡丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T10:26:21.469553"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T11:27:20.803647"
       }
     ]
   },
@@ -945,7 +949,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉臨海路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -954,6 +958,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T11:03:20.630013"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T11:27:20.803647"
       }
     ]
   },
