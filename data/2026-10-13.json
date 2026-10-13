@@ -1991,11 +1991,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市民生路",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T16:40:20.995200"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T17:07:20.183403"
       }
     ]
   },
