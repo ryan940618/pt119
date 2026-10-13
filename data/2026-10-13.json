@@ -2091,7 +2091,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉豐年路",
     "units": "九如分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2112,6 +2112,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T18:19:20.677566"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T18:54:20.846841"
       }
     ]
   },
@@ -2329,7 +2333,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮恆公路970巷",
     "units": "滿州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2338,6 +2342,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T18:33:20.838515"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T18:54:20.846841"
       }
     ]
   },
@@ -2590,6 +2598,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:52:21.011475"
+      }
+    ]
+  },
+  "281534b66aa034f5232ac2ae1ffa7256": {
+    "time": "2026/10/13 18:52:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市屏東火車站[屏東縣屏東市光復路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:54:20.846841"
       }
     ]
   }
