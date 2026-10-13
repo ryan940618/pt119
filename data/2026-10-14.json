@@ -189,11 +189,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉大平路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T03:44:20.012866"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-14T04:22:20.293957"
       }
     ]
   },
@@ -208,6 +212,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T03:59:20.099170"
+      }
+    ]
+  },
+  "d3df47fa06d040c5b64d49e7c99b90e3": {
+    "time": "2026/10/14 04:20:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉福德街49號巷",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T04:22:20.293957"
       }
     ]
   }
