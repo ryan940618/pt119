@@ -1757,7 +1757,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮大光路",
     "units": "恆春分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1774,6 +1774,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T18:04:21.310378"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T18:21:20.671970"
       }
     ]
   },
@@ -2341,7 +2345,7 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉三和村美園99-10號",
     "units": "三地門分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -2358,6 +2362,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-13T18:08:20.557118"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:21:20.671970"
       }
     ]
   },
@@ -2502,6 +2510,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-13T18:19:20.677566"
+      }
+    ]
+  },
+  "7eb1d666e04639e4bdf46d1fa18b73d6": {
+    "time": "2026/10/13 18:19:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉褒忠路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-13T18:21:20.671970"
       }
     ]
   }
