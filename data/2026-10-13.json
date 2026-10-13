@@ -2810,5 +2810,19 @@
         "timestamp": "2026-10-13T19:50:21.462697"
       }
     ]
+  },
+  "b3f512b4fc7049bd820717ca2d3ead31": {
+    "time": "2026/10/13 19:51:24",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉永翔路",
+    "units": "佳冬分隊,枋寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-13T19:52:20.402414"
+      }
+    ]
   }
 }
