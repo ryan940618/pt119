@@ -737,11 +737,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉龍南路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-13T09:43:20.108387"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-13T10:40:20.489687"
       }
     ]
   },
@@ -765,7 +769,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐榮街",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -774,6 +778,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T10:26:21.469553"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T10:40:20.489687"
       }
     ]
   },
