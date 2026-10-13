@@ -977,7 +977,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉光復路",
     "units": "內埔分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -986,6 +986,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-13T10:54:20.615337"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-13T11:06:20.662944"
       }
     ]
   },
