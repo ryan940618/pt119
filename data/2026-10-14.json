@@ -1007,11 +1007,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T10:09:20.615634"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T11:55:20.215314"
       }
     ]
   },
@@ -1476,6 +1480,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T11:54:20.291834"
+      }
+    ]
+  },
+  "c1dfa372c08a738361a35b2c204999c8": {
+    "time": "2026/10/14 11:54:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮新興二街22巷",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T11:55:20.215314"
       }
     ]
   }
