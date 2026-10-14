@@ -152,5 +152,19 @@
         "timestamp": "2026-10-15T04:29:20.251907"
       }
     ]
+  },
+  "2eb431f4e43656d28eac817e2f9043cf": {
+    "time": "2026/10/15 04:55:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉龍灣巷",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T04:57:20.390869"
+      }
+    ]
   }
 }
