@@ -192,5 +192,19 @@
         "timestamp": "2026-10-15T05:14:20.508352"
       }
     ]
+  },
+  "1c12533049ec772536190d0dd7aae2cd": {
+    "time": "2026/10/15 05:30:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉三多路286巷",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T05:31:20.972322"
+      }
+    ]
   }
 }
