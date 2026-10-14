@@ -2549,7 +2549,7 @@
     "sub_category": "",
     "location": "屏東縣九如鄉大坵路",
     "units": "九如分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -2558,6 +2558,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T19:47:20.190564"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-14T19:51:20.313630"
       }
     ]
   },
@@ -2590,6 +2594,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T19:47:20.190564"
+      }
+    ]
+  },
+  "f6aef460cd48b1467fa6c3c1e304d617": {
+    "time": "2026/10/14 19:50:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉隆山路",
+    "units": "枋寮分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T19:51:20.313630"
       }
     ]
   }
