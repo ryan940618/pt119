@@ -736,5 +736,19 @@
         "timestamp": "2026-10-14T09:26:20.162460"
       }
     ]
+  },
+  "abe7ff8d46dfc6c0488c644b102d3971": {
+    "time": "2026/10/14 09:26:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮崙川路58巷",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:28:20.145894"
+      }
+    ]
   }
 }
