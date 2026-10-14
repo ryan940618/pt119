@@ -1908,5 +1908,19 @@
         "timestamp": "2026-10-14T14:38:20.218275"
       }
     ]
+  },
+  "116b0a47d1c1c6c1d424248b9d4fa126": {
+    "time": "2026/10/14 14:41:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉德協路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T14:43:21.617624"
+      }
+    ]
   }
 }
