@@ -496,5 +496,19 @@
         "timestamp": "2026-10-15T07:44:20.513785"
       }
     ]
+  },
+  "cc3f28783cc3df768bffd83a4b4ce16b": {
+    "time": "2026/10/15 07:43:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉永康路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:45:20.827843"
+      }
+    ]
   }
 }
