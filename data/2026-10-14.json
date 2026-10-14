@@ -548,5 +548,19 @@
         "timestamp": "2026-10-14T07:45:20.519091"
       }
     ]
+  },
+  "bf4cb80edf35c90c14da9eeb3bc688cf": {
+    "time": "2026/10/14 08:13:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉中正路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T08:15:20.780162"
+      }
+    ]
   }
 }
