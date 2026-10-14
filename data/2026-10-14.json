@@ -1184,5 +1184,19 @@
         "timestamp": "2026-10-14T10:47:21.088937"
       }
     ]
+  },
+  "d385df8ef88f59a17e9097c10a6919af": {
+    "time": "2026/10/14 10:47:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉佳義村第3鄰33-1號",
+    "units": "瑪家分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:49:20.926436"
+      }
+    ]
   }
 }
