@@ -750,5 +750,19 @@
         "timestamp": "2026-10-14T09:28:20.145894"
       }
     ]
+  },
+  "c6e83814e89a5b23d669ecc8cb4ec8d6": {
+    "time": "2026/10/14 09:27:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市大裕路6巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:29:20.230579"
+      }
+    ]
   }
 }
