@@ -460,5 +460,19 @@
         "timestamp": "2026-10-15T07:09:20.358379"
       }
     ]
+  },
+  "98188aef942d6c5d7b22f57d2f7eba41": {
+    "time": "2026/10/15 07:37:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉彭厝路",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T07:39:20.463127"
+      }
+    ]
   }
 }
