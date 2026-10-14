@@ -1616,5 +1616,47 @@
         "timestamp": "2026-10-14T12:26:20.495536"
       }
     ]
+  },
+  "bedc9801a061e8645e7dff3e53a79675": {
+    "time": "2026/10/14 12:26:18",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣屏東市中正路",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-14T12:27:20.578931"
+      }
+    ]
+  },
+  "53e6064e9ea5d9f1f1df81db91635add": {
+    "time": "2026/10/14 12:25:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉仁里路5巷",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T12:27:20.578931"
+      }
+    ]
+  },
+  "a3e133a25033e56a45203197d97f70b3": {
+    "time": "2026/10/14 12:25:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中正路",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T12:27:20.578931"
+      }
+    ]
   }
 }
