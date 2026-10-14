@@ -2173,7 +2173,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮水源路",
     "units": "東港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2182,6 +2182,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-14T16:49:20.138586"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T16:55:20.188913"
       }
     ]
   },
