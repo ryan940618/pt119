@@ -2615,7 +2615,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉隆山路",
     "units": "枋寮分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2624,6 +2624,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T19:52:20.253405"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T20:20:20.353272"
       }
     ]
   },
@@ -2656,6 +2660,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T20:18:20.531940"
+      }
+    ]
+  },
+  "69e7af8cd6088e2f3c5aa4929139e0ef": {
+    "time": "2026/10/14 20:19:08",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉建興路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T20:20:20.353272"
       }
     ]
   }
