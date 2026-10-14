@@ -840,5 +840,19 @@
         "timestamp": "2026-10-14T09:41:20.405754"
       }
     ]
+  },
+  "a3dd7cc26fd908c18b5a24ab5c8c12ec": {
+    "time": "2026/10/14 09:45:10",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉維新路68巷",
+    "units": "鹽埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:47:20.293131"
+      }
+    ]
   }
 }
