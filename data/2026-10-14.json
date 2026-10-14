@@ -1795,11 +1795,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市田寮巷",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T13:39:21.082018"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T13:41:21.096610"
       }
     ]
   },
