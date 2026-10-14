@@ -2535,7 +2535,7 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉東海路",
     "units": "牡丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2548,6 +2548,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-14T21:21:20.824493"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T22:20:20.182970"
       }
     ]
   },
@@ -2835,7 +2839,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉大平路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2844,6 +2848,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-14T22:03:20.332578"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T22:20:20.182970"
       }
     ]
   },
@@ -2942,6 +2950,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T22:17:20.194743"
+      }
+    ]
+  },
+  "7a065beb4d6041f4c6a062361f972661": {
+    "time": "2026/10/14 22:19:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉東角公園",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:20:20.182970"
       }
     ]
   }
