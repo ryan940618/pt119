@@ -206,5 +206,19 @@
         "timestamp": "2026-10-15T05:31:20.972322"
       }
     ]
+  },
+  "a325c2cddf0e3c7a01de78088a7bf71d": {
+    "time": "2026/10/15 05:35:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉四維路",
+    "units": "鹽埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T05:36:20.740314"
+      }
+    ]
   }
 }
