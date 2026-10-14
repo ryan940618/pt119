@@ -1226,5 +1226,19 @@
         "timestamp": "2026-10-14T10:49:20.926436"
       }
     ]
+  },
+  "a3504872c9e70f78821a22e5ad286990": {
+    "time": "2026/10/14 11:01:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉九如路",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T11:03:20.971512"
+      }
+    ]
   }
 }
