@@ -224,5 +224,33 @@
         "timestamp": "2026-10-15T05:37:20.795970"
       }
     ]
+  },
+  "4cad3a9f9a4052af5282f5df4984b36c": {
+    "time": "2026/10/15 05:37:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉中興路二段471巷",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T05:39:20.663985"
+      }
+    ]
+  },
+  "5b3680fd55fc56901a4c3565891d56a2": {
+    "time": "2026/10/15 05:37:39",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉光復路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T05:39:20.663985"
+      }
+    ]
   }
 }
