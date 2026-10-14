@@ -2531,11 +2531,15 @@
     "sub_category": "",
     "location": "屏東縣牡丹鄉東海路",
     "units": "牡丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T19:35:20.119492"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T19:36:20.078401"
       }
     ]
   }
