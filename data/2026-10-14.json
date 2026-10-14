@@ -3175,7 +3175,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮三星路27巷",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3184,6 +3184,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T23:34:20.716088"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T00:07:20.738620"
       }
     ]
   },
