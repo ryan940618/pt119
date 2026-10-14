@@ -2687,7 +2687,7 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉老潭巷",
     "units": "泰武分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2700,6 +2700,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-14T22:02:20.264309"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T22:17:20.194743"
       }
     ]
   },
@@ -2924,6 +2928,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T22:02:20.264309"
+      }
+    ]
+  },
+  "22dfc5b6060cb5d2ec0aa6636cd4e652": {
+    "time": "2026/10/14 22:15:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉萬聖路",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T22:17:20.194743"
       }
     ]
   }
