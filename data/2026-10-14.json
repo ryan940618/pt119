@@ -867,7 +867,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉學人路336巷",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -876,6 +876,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-14T10:15:20.641118"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T10:40:20.711622"
       }
     ]
   },
@@ -1089,11 +1093,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市歸仁路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T10:34:20.723333"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-14T10:40:20.711622"
       }
     ]
   },
@@ -1108,6 +1116,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T10:36:20.807330"
+      }
+    ]
+  },
+  "9c0ae1688d52dc28a5f54045761ab98f": {
+    "time": "2026/10/14 10:36:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉元泰街",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:40:20.711622"
       }
     ]
   }
