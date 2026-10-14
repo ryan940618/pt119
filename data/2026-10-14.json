@@ -1035,7 +1035,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市廣東路",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1044,6 +1044,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T10:31:20.756843"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-14T10:34:20.723333"
       }
     ]
   },
@@ -1072,6 +1076,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T10:31:20.756843"
+      }
+    ]
+  },
+  "6659d00967083e50324dd6f16b4dcb9e": {
+    "time": "2026/10/14 10:31:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市歸仁路",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:34:20.723333"
       }
     ]
   }
