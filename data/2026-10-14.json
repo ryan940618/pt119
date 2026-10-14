@@ -1669,11 +1669,15 @@
     "sub_category": "",
     "location": "屏東縣南州鄉仁里路5巷",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T12:27:20.578931"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-14T12:56:20.731694"
       }
     ]
   },
