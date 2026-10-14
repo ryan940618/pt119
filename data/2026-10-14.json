@@ -725,7 +725,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉田南路",
     "units": "新園分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -734,6 +734,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T09:26:20.162460"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:31:20.253197"
       }
     ]
   },
