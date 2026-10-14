@@ -2883,7 +2883,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮環龍路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2892,6 +2892,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T21:41:21.026153"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T22:09:20.166143"
       }
     ]
   },
