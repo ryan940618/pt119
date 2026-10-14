@@ -1881,7 +1881,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉東山路",
     "units": "泰武分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1890,6 +1890,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-14T14:59:20.384232"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T15:44:20.629807"
       }
     ]
   },
@@ -1985,11 +1989,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉南進路",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T15:43:20.717012"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T15:44:20.629807"
       }
     ]
   }
