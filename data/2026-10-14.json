@@ -545,7 +545,7 @@
     "sub_category": "",
     "location": "屏東縣春日鄉玉光路",
     "units": "新埤分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -554,6 +554,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T07:45:20.519091"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T08:47:20.960753"
       }
     ]
   },
@@ -619,11 +623,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉三座巷",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T08:46:20.900420"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T08:47:20.960753"
       }
     ]
   }
