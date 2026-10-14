@@ -1109,7 +1109,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市歸仁路",
     "units": "高級救護隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1118,6 +1118,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-14T10:40:20.711622"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-14T10:46:20.823413"
       }
     ]
   },
