@@ -2647,11 +2647,15 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉老潭巷",
     "units": "泰武分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T20:17:20.464176"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T20:18:20.531940"
       }
     ]
   }
