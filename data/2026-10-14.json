@@ -910,5 +910,19 @@
         "timestamp": "2026-10-14T10:03:20.645174"
       }
     ]
+  },
+  "929f3c7a03630dd496fda4d80534f26c": {
+    "time": "2026/10/14 10:05:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T10:07:21.075324"
+      }
+    ]
   }
 }
