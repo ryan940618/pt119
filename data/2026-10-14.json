@@ -2779,7 +2779,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市光復路",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2788,6 +2788,24 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-14T21:00:20.700432"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-14T21:10:20.663338"
+      }
+    ]
+  },
+  "b692c02684c42d39815e988a93005e36": {
+    "time": "2026/10/14 21:09:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中山公園/運動場[屏東縣屏東市公園路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T21:10:20.663338"
       }
     ]
   }
