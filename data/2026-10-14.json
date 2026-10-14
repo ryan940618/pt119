@@ -599,11 +599,15 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉華光路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-14T08:34:20.980185"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-14T09:01:20.023782"
       }
     ]
   },
@@ -650,6 +654,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-14T08:52:21.100711"
+      }
+    ]
+  },
+  "ab58b1c6b4fc94fb8cad73b293c575ab": {
+    "time": "2026/10/14 08:59:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T09:01:20.023782"
       }
     ]
   }
