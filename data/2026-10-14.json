@@ -3151,11 +3151,29 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮三星路27巷",
     "units": "潮州分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-14T23:33:20.653545"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T23:34:20.716088"
+      }
+    ]
+  },
+  "9f149ac3800612201b2c2df972d16f22": {
+    "time": "2026/10/14 23:33:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉社皮路",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T23:34:20.716088"
       }
     ]
   }
