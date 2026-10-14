@@ -263,11 +263,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市民族路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T05:49:20.841352"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T05:50:20.782405"
+      }
+    ]
+  },
+  "ccefe2a333dca8b7e34cc5dd75fdbe56": {
+    "time": "2026/10/15 05:49:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮朝昇路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T05:50:20.782405"
       }
     ]
   }
