@@ -1788,5 +1788,19 @@
         "timestamp": "2026-10-14T13:28:20.985251"
       }
     ]
+  },
+  "24b2901e361917cd123f87aa04a8649b": {
+    "time": "2026/10/14 13:36:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市田寮巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T13:39:21.082018"
+      }
+    ]
   }
 }
