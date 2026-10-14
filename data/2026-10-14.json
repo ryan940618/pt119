@@ -1334,5 +1334,33 @@
         "timestamp": "2026-10-14T11:14:21.102276"
       }
     ]
+  },
+  "ce20eeaa613f6a78a00a8ae771f733a3": {
+    "time": "2026/10/14 11:21:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉元泰街268巷",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T11:22:20.054038"
+      }
+    ]
+  },
+  "b7200367db70752b7d9dd4bdcf5cb9c5": {
+    "time": "2026/10/14 11:20:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮中山路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T11:22:20.054038"
+      }
+    ]
   }
 }
