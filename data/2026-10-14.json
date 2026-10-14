@@ -1532,5 +1532,19 @@
         "timestamp": "2026-10-14T12:09:20.994924"
       }
     ]
+  },
+  "8e8ff4a9ca2ca428fc3d1b727ba5d568": {
+    "time": "2026/10/14 12:11:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市安心四橫巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T12:12:20.570883"
+      }
+    ]
   }
 }
