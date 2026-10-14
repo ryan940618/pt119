@@ -2542,5 +2542,33 @@
         "timestamp": "2026-10-14T19:36:20.078401"
       }
     ]
+  },
+  "dd53ee050df2e2543c93b9003d3b6211": {
+    "time": "2026/10/14 19:40:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉大坵路",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-14T19:41:20.218022"
+      }
+    ]
+  },
+  "5795a077cb5534641308adea653f621b": {
+    "time": "2026/10/14 19:40:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋山鄉下坪82-6號",
+    "units": "枋山分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-14T19:41:20.218022"
+      }
+    ]
   }
 }
