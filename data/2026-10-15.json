@@ -1389,7 +1389,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市台糖一街28巷",
     "units": "高級救護隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1398,6 +1398,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T10:51:20.838119"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T10:59:20.850552"
       }
     ]
   },
