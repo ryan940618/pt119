@@ -831,7 +831,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮三星路27巷",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -840,6 +840,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-15T09:21:20.173399"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T09:50:21.822745"
       }
     ]
   },
@@ -1001,7 +1005,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮大同路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1010,6 +1014,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-15T09:40:20.413596"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T09:50:21.822745"
       }
     ]
   },
@@ -1088,6 +1096,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T09:47:20.510228"
+      }
+    ]
+  },
+  "00e9fca7ee723cde70f939c8f69b0042": {
+    "time": "2026/10/15 09:49:02",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉永平路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T09:50:21.822745"
       }
     ]
   }
