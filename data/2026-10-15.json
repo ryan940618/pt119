@@ -2621,7 +2621,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市民學路16巷",
     "units": "麟洛分隊",
-    "current_status": "",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
@@ -2630,6 +2630,10 @@
       {
         "status": "",
         "timestamp": "2026-10-15T17:12:21.916954"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T17:14:20.581722"
       }
     ]
   }
