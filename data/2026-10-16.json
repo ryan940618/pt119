@@ -48,5 +48,33 @@
         "timestamp": "2026-10-16T01:39:20.130479"
       }
     ]
+  },
+  "52f857df0ba26b38c380bb4f11dace03": {
+    "time": "2026/10/16 01:46:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉媽祖廟永和豆漿",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T01:47:20.202933"
+      }
+    ]
+  },
+  "de5c58902ccb649ec889d931c72824e2": {
+    "time": "2026/10/16 01:46:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮環城南路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T01:47:20.202933"
+      }
+    ]
   }
 }
