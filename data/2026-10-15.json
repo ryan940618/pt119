@@ -2959,11 +2959,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉六巷",
     "units": "竹田分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T18:53:21.289151"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T18:54:21.364123"
       }
     ]
   }
