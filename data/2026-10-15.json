@@ -2151,11 +2151,15 @@
     "sub_category": "",
     "location": "屏東縣里港鄉茄苳下-堤防",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T15:13:20.830269"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-15T15:39:21.091846"
       }
     ]
   },
@@ -2238,6 +2242,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T15:38:20.865299"
+      }
+    ]
+  },
+  "5f52985bce322fa47f3fa7edd509eff4": {
+    "time": "2026/10/15 15:37:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興南路一段35巷",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T15:39:21.091846"
+      }
+    ]
+  },
+  "b56755d347817f99f78e18e592310f4e": {
+    "time": "2026/10/15 15:36:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣霧台鄉透過電力座標(Q6333,EC3800)轉換GIS座標(往上距離霧台分駐所約3分鐘)",
+    "units": "霧台分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T15:39:21.091846"
       }
     ]
   }
