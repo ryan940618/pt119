@@ -173,7 +173,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉中勝路",
     "units": "龍泉分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -182,6 +182,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T03:45:20.072822"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T03:49:20.126244"
       }
     ]
   }
