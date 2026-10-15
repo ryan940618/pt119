@@ -1256,5 +1256,19 @@
         "timestamp": "2026-10-15T10:19:20.509181"
       }
     ]
+  },
+  "13fca99f7db702f559ed35ba579c57a7": {
+    "time": "2026/10/15 10:20:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉南寧路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T10:22:20.797264"
+      }
+    ]
   }
 }
