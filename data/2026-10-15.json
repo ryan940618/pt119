@@ -3554,5 +3554,19 @@
         "timestamp": "2026-10-15T22:52:20.949006"
       }
     ]
+  },
+  "1786e300d8963f1b038e18af867e79cc": {
+    "time": "2026/10/15 23:05:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉北安路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T23:06:20.197896"
+      }
+    ]
   }
 }
