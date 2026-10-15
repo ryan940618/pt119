@@ -2096,5 +2096,33 @@
         "timestamp": "2026-10-15T14:53:20.543940"
       }
     ]
+  },
+  "4584f8fe06716374452df8bb298827b2": {
+    "time": "2026/10/15 15:05:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉啟南路",
+    "units": "佳冬分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T15:06:20.909321"
+      }
+    ]
+  },
+  "ec3102d30366e2f35fd76b2b58063e75": {
+    "time": "2026/10/15 15:03:52",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣長治鄉新農一號/煙霧消毒1505-1630",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-15T15:06:20.909321"
+      }
+    ]
   }
 }
