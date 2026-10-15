@@ -2101,11 +2101,15 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮文化路",
     "units": "恆春分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T14:53:20.543940"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T15:33:21.000893"
       }
     ]
   },
