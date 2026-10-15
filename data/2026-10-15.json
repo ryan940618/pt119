@@ -2229,11 +2229,15 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉往神山瀑布的路",
     "units": "霧台分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T15:37:20.938451"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T15:38:20.865299"
       }
     ]
   }
