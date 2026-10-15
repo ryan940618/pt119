@@ -992,5 +992,19 @@
         "timestamp": "2026-10-15T09:17:20.370015"
       }
     ]
+  },
+  "c32e17a2f445eaf03b12aa3917a82c96": {
+    "time": "2026/10/15 09:19:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市武威街",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T09:20:20.160943"
+      }
+    ]
   }
 }
