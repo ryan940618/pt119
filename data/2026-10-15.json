@@ -2020,5 +2020,19 @@
         "timestamp": "2026-10-15T14:10:21.275160"
       }
     ]
+  },
+  "c8a13323909bce76df68f7d75d539870": {
+    "time": "2026/10/15 14:30:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉自強路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T14:31:20.390393"
+      }
+    ]
   }
 }
