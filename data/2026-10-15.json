@@ -1601,7 +1601,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉瑞源路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1610,6 +1610,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-15T11:58:20.524672"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T12:02:20.409989"
       }
     ]
   },
@@ -1772,6 +1776,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T11:55:20.369467"
+      }
+    ]
+  },
+  "3c4150d232f548af0b5e5ca386dbdfeb": {
+    "time": "2026/10/15 11:59:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉復興路",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T12:02:20.409989"
       }
     ]
   }
