@@ -3153,11 +3153,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市重光巷",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T19:26:21.638451"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T20:00:20.991438"
       }
     ]
   },
@@ -3294,6 +3298,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T19:56:21.200623"
+      }
+    ]
+  },
+  "fd74ebc6ded5814c3b7f8c93807d0400": {
+    "time": "2026/10/15 19:59:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T20:00:20.991438"
       }
     ]
   }
