@@ -439,7 +439,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉文化一路469巷",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -448,6 +448,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-15T07:42:20.627966"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T08:00:20.598112"
       }
     ]
   },
