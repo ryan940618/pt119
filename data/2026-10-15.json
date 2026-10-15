@@ -1209,7 +1209,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉壽比路",
     "units": "龍泉分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1218,6 +1218,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T10:11:20.434442"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-15T10:15:20.559901"
       }
     ]
   },
