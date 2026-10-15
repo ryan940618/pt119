@@ -2792,5 +2792,33 @@
         "timestamp": "2026-10-15T17:54:20.958000"
       }
     ]
+  },
+  "d0b789ce302d03f99ba803fa6d10704e": {
+    "time": "2026/10/15 17:56:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉昭勝路",
+    "units": "龍泉分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T17:57:20.937563"
+      }
+    ]
+  },
+  "0cb6b7450ca0b2a38657391c3c67d21b": {
+    "time": "2026/10/15 17:56:09",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉立功巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T17:57:20.937563"
+      }
+    ]
   }
 }
