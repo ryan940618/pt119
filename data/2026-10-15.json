@@ -1317,11 +1317,29 @@
     "sub_category": "",
     "location": "屏東縣新園鄉中正路230巷",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T10:32:20.613520"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T10:33:20.618251"
+      }
+    ]
+  },
+  "85afc6599ed79c14882c1536cdba467e": {
+    "time": "2026/10/15 10:32:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市歸仁路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:33:20.618251"
       }
     ]
   }
