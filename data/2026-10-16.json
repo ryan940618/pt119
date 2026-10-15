@@ -522,5 +522,19 @@
         "timestamp": "2026-10-16T07:14:20.320505"
       }
     ]
+  },
+  "d22d289ff6237d7b9989d02f44fc6345": {
+    "time": "2026/10/16 07:27:06",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民享路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T07:28:20.327852"
+      }
+    ]
   }
 }
