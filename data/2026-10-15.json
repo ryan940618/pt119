@@ -1792,5 +1792,19 @@
         "timestamp": "2026-10-15T12:02:20.409989"
       }
     ]
+  },
+  "5786cd3e6193118c69fad82cb63936c4": {
+    "time": "2026/10/15 12:02:38",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市鐵路巷",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T12:03:20.580379"
+      }
+    ]
   }
 }
