@@ -1637,7 +1637,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉民生路",
     "units": "",
-    "current_status": "已到達",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已受理",
@@ -1654,6 +1654,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-15T11:29:21.200813"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T12:00:20.516780"
       }
     ]
   },
