@@ -1637,11 +1637,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東港海事後方[屏東縣東港鎮豐漁街",
     "units": "東港分隊,林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:30:21.148011"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:31:21.189548"
       }
     ]
   }
