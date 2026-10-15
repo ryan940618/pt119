@@ -1711,7 +1711,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉清涼村101號",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
@@ -1720,6 +1720,24 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:45:21.229695"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:47:20.244650"
+      }
+    ]
+  },
+  "279f81e3f59e84813ddcdefa6548a375": {
+    "time": "2026/10/15 11:45:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公裕街",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:47:20.244650"
       }
     ]
   }
