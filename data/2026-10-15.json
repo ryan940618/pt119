@@ -1273,7 +1273,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮三和路",
     "units": "南州分隊",
-    "current_status": "已離院",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -1286,6 +1286,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-15T10:34:21.479608"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-15T10:51:20.838119"
       }
     ]
   },
@@ -1377,11 +1381,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市台糖一街28巷",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T10:38:20.753590"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T10:51:20.838119"
       }
     ]
   },
@@ -1414,6 +1422,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T10:48:22.038485"
+      }
+    ]
+  },
+  "8236410ed75a22440db9bf217cef6cc0": {
+    "time": "2026/10/15 10:49:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉昌南路",
+    "units": "龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T10:51:20.838119"
       }
     ]
   }
