@@ -813,7 +813,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉清涼路一段316巷",
     "units": "瑪家分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -822,6 +822,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:39:20.926325"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-15T09:53:20.879119"
       }
     ]
   },
@@ -853,7 +857,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉中山路",
     "units": "林邊分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -862,6 +866,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-15T09:41:20.307271"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T09:53:20.879119"
       }
     ]
   },
@@ -1118,6 +1126,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T09:50:21.822745"
+      }
+    ]
+  },
+  "ea55c52e1384ee3f3af385fce375eead": {
+    "time": "2026/10/15 09:52:29",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉佳冬車站報案人0983599375",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-15T09:53:20.879119"
       }
     ]
   }
