@@ -3215,7 +3215,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮振昇路",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已受理",
@@ -3224,6 +3224,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T19:36:20.623386"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T20:02:20.938004"
       }
     ]
   },
