@@ -535,7 +535,7 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉永康路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -552,6 +552,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T09:03:20.244833"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-15T16:04:21.654119"
       }
     ]
   },
