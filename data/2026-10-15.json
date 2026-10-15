@@ -3432,5 +3432,33 @@
         "timestamp": "2026-10-15T21:25:20.640298"
       }
     ]
+  },
+  "52e0a3eab4440903dd1b265f5343ab53": {
+    "time": "2026/10/15 21:38:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉建三路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T21:39:20.723597"
+      }
+    ]
+  },
+  "846ed1ae397524f56704197bd8801cf3": {
+    "time": "2026/10/15 21:37:45",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民生路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T21:39:20.723597"
+      }
+    ]
   }
 }
