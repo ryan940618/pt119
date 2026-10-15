@@ -590,5 +590,19 @@
         "timestamp": "2026-10-16T07:39:20.286679"
       }
     ]
+  },
+  "e3e95de3dfbc95685fc620ec7456235b": {
+    "time": "2026/10/16 07:41:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉富仁街",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T07:42:20.395318"
+      }
+    ]
   }
 }
