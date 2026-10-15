@@ -554,5 +554,19 @@
         "timestamp": "2026-10-16T07:33:20.310382"
       }
     ]
+  },
+  "4e150fa46912dc74728c6619faa9fe48": {
+    "time": "2026/10/16 07:30:40",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉水源路",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T07:34:20.309715"
+      }
+    ]
   }
 }
