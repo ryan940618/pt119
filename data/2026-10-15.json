@@ -2501,7 +2501,7 @@
     "sub_category": "",
     "location": "屏東縣恆春鎮省北路二段531巷",
     "units": "恆春分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2510,6 +2510,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-15T17:01:20.612785"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T17:04:20.912148"
       }
     ]
   },
@@ -2582,6 +2586,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T16:46:21.484190"
+      }
+    ]
+  },
+  "36b0dd7a0de4d6a9f2d9043a341fd258": {
+    "time": "2026/10/15 17:03:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市成功路",
+    "units": "屏東分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T17:04:20.912148"
       }
     ]
   }
