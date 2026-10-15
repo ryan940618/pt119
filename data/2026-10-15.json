@@ -1727,11 +1727,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東港海事學校後方[屏東縣東港鎮豐漁街",
     "units": "東港分隊,林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T11:34:21.091378"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-15T12:47:20.657407"
       }
     ]
   },
