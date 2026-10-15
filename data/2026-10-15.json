@@ -2361,7 +2361,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路",
     "units": "屏東分隊",
-    "current_status": "已離院",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -2374,6 +2374,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-15T16:17:21.232056"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-15T16:29:21.284162"
       }
     ]
   },
@@ -2401,7 +2405,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉忠和街46巷",
     "units": "佳冬分隊,林邊分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2414,6 +2418,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T16:24:21.412863"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T16:29:21.284162"
       }
     ]
   },
