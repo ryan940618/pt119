@@ -3175,11 +3175,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮振昇路",
     "units": "",
-    "current_status": "已受理",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
         "timestamp": "2026-10-15T19:35:20.838585"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T19:36:20.623386"
       }
     ]
   }
