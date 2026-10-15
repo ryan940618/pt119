@@ -3062,5 +3062,19 @@
         "timestamp": "2026-10-15T19:10:22.580419"
       }
     ]
+  },
+  "e962f7c427ca273e926ec1e1ca91d490": {
+    "time": "2026/10/15 19:14:21",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市海豐街54巷",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T19:15:21.495695"
+      }
+    ]
   }
 }
