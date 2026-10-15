@@ -535,11 +535,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉永康路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:45:20.827843"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-15T08:53:21.038363"
       }
     ]
   },
@@ -687,11 +691,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市機場北路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:03:20.650208"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-15T08:53:21.038363"
       }
     ]
   },
