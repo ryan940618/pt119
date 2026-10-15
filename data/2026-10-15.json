@@ -2970,5 +2970,33 @@
         "timestamp": "2026-10-15T18:54:21.364123"
       }
     ]
+  },
+  "da93aada2cdc2f2c41805765b667a0ab": {
+    "time": "2026/10/15 18:55:25",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市逢甲路",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T18:56:21.484740"
+      }
+    ]
+  },
+  "d48056dc3739029cb14b1201a24ada23": {
+    "time": "2026/10/15 18:55:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉臥龍路94巷",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T18:56:21.484740"
+      }
+    ]
   }
 }
