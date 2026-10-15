@@ -2060,5 +2060,19 @@
         "timestamp": "2026-10-15T14:32:20.528626"
       }
     ]
+  },
+  "3a78a21bfdff82e1463b97bdccf00d7b": {
+    "time": "2026/10/15 14:38:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉中正路1巷",
+    "units": "滿州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T14:40:20.346986"
+      }
+    ]
   }
 }
