@@ -2277,11 +2277,15 @@
     "sub_category": "",
     "location": "屏東縣霧台鄉透過電力座標(Q6333,EC3800)轉換GIS座標(往上距離霧台分駐所約3分鐘)",
     "units": "霧台分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T15:39:21.091846"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-15T15:45:21.119555"
       }
     ]
   }
