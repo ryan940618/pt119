@@ -1585,7 +1585,7 @@
     "sub_category": "",
     "location": "屏東縣琉球鄉民生路",
     "units": "",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已受理",
@@ -1594,6 +1594,24 @@
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T11:24:21.291819"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T11:26:21.142196"
+      }
+    ]
+  },
+  "0ade3dbb9ccfc3e4665ef16db3cedd23": {
+    "time": "2026/10/15 11:25:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉武洛路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T11:26:21.142196"
       }
     ]
   }
