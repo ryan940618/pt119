@@ -2908,5 +2908,19 @@
         "timestamp": "2026-10-15T18:22:21.245168"
       }
     ]
+  },
+  "9a0abf75e346d377a223eaa0a6740f4b": {
+    "time": "2026/10/15 18:30:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉測試",
+    "units": "內埔分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T18:31:21.540415"
+      }
+    ]
   }
 }
