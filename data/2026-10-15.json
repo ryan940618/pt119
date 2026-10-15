@@ -971,11 +971,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉褒忠路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-15T09:01:20.119691"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-15T10:01:20.447427"
       }
     ]
   },
@@ -1156,6 +1160,34 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-15T09:53:20.879119"
+      }
+    ]
+  },
+  "9ab676cd54e3d993d79e18f54a52135b": {
+    "time": "2026/10/15 10:00:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉鐵店路",
+    "units": "里港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T10:01:20.447427"
+      }
+    ]
+  },
+  "ed7fd8075d6389b487b216b923583b71": {
+    "time": "2026/10/15 10:00:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉光明路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T10:01:20.447427"
       }
     ]
   }
