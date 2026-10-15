@@ -2395,7 +2395,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉媽祖三巷",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2404,6 +2404,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T16:09:21.119491"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-15T17:11:21.689931"
       }
     ]
   },
@@ -2608,6 +2612,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T17:05:20.635202"
+      }
+    ]
+  },
+  "8adc4ea2c84bec81e69608aaae3fe4d7": {
+    "time": "2026/10/15 17:10:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民學路16巷",
+    "units": "麟洛分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-15T17:11:21.689931"
       }
     ]
   }
