@@ -1902,5 +1902,19 @@
         "timestamp": "2026-10-15T12:59:20.687332"
       }
     ]
+  },
+  "10c9e920532b74b765a014a570f4ce0b": {
+    "time": "2026/10/15 12:58:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣牡丹鄉四林路",
+    "units": "滿州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T13:00:20.695775"
+      }
+    ]
   }
 }
