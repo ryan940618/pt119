@@ -2185,11 +2185,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉水源路",
     "units": "長治分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T15:17:20.780949"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T15:19:20.843573"
       }
     ]
   }
