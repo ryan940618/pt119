@@ -480,5 +480,19 @@
         "timestamp": "2026-10-16T07:05:20.239627"
       }
     ]
+  },
+  "16ce7fbfad8c78eafc7414451c684c5b": {
+    "time": "2026/10/16 07:07:34",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T07:08:20.173303"
+      }
+    ]
   }
 }
