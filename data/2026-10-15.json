@@ -3467,11 +3467,15 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉瑪卡札亞街4巷",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-15T21:44:20.744349"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T21:46:21.202672"
       }
     ]
   }
