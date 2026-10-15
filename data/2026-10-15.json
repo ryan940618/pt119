@@ -2401,7 +2401,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉忠和街46巷",
     "units": "佳冬分隊,林邊分隊",
-    "current_status": "已離院",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2410,6 +2410,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-15T16:11:21.260054"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T16:24:21.412863"
       }
     ]
   },
