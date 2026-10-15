@@ -603,7 +603,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉屏東交流道下去/全家附近",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -612,6 +612,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T07:57:20.642326"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-15T08:32:20.990430"
       }
     ]
   },
@@ -734,6 +738,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-15T08:27:20.863817"
+      }
+    ]
+  },
+  "5ad4da7c2bcd68a892a7b0436852ecaf": {
+    "time": "2026/10/15 08:30:37",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉民生路",
+    "units": "泰武分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-15T08:32:20.990430"
       }
     ]
   }
