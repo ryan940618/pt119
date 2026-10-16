@@ -3380,5 +3380,33 @@
         "timestamp": "2026-10-16T19:35:20.886817"
       }
     ]
+  },
+  "52ab0ae2306c9efdf683d04b04759b12": {
+    "time": "2026/10/16 19:47:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市民生東路56巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T19:49:21.097183"
+      }
+    ]
+  },
+  "3a72d2e1ec4a42f088975434fa8e02ab": {
+    "time": "2026/10/16 19:46:26",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮龍磐草原/ANS-1585",
+    "units": "墾丁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T19:49:21.097183"
+      }
+    ]
   }
 }
