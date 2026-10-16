@@ -2869,11 +2869,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市中柳路30巷",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:11:21.102397"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-16T18:01:20.463698"
       }
     ]
   },
