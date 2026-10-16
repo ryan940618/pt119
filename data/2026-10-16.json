@@ -1234,5 +1234,19 @@
         "timestamp": "2026-10-16T10:17:20.500820"
       }
     ]
+  },
+  "73aceed3f1a9e69b3c3052a8b08953e8": {
+    "time": "2026/10/16 09:54:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉新開路三巷",
+    "units": "春日分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:26:20.583368"
+      }
+    ]
   }
 }
