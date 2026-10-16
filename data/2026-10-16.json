@@ -1402,5 +1402,19 @@
         "timestamp": "2026-10-16T10:56:20.792758"
       }
     ]
+  },
+  "2f59b48e278eacb9b76388211a97eb1f": {
+    "time": "2026/10/16 10:59:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市仁愛路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:01:20.834430"
+      }
+    ]
   }
 }
