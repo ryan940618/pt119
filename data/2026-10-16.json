@@ -761,7 +761,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市復興南路二段63巷",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -774,6 +774,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:30:20.655623"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T08:48:21.012511"
       }
     ]
   },
@@ -857,11 +861,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市公益街",
     "units": "高級救護隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T08:47:21.057869"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:48:21.012511"
+      }
+    ]
+  },
+  "7d0e24d860560328e7ddf1d5dc303d97": {
+    "time": "2026/10/16 08:47:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉仕正路",
+    "units": "鹽埔分隊",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-16T08:48:21.012511"
       }
     ]
   }
