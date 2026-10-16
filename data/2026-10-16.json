@@ -2352,5 +2352,33 @@
         "timestamp": "2026-10-16T15:17:20.463017"
       }
     ]
+  },
+  "5ebe3eace2f92a3f76a4293f1a10f75c": {
+    "time": "2026/10/16 15:21:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣里港鄉永豐路",
+    "units": "里港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T15:23:20.385542"
+      }
+    ]
+  },
+  "456c3aa4acec6c1fd734bae111d995b9": {
+    "time": "2026/10/16 15:21:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉南華大橋上[屏東縣鹽埔鄉勝利路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T15:23:20.385542"
+      }
+    ]
   }
 }
