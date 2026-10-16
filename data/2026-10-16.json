@@ -850,5 +850,19 @@
         "timestamp": "2026-10-16T08:46:20.924273"
       }
     ]
+  },
+  "1ec72880d4ef683b2198fc4956185157": {
+    "time": "2026/10/16 08:46:26",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公益街",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T08:47:21.057869"
+      }
+    ]
   }
 }
