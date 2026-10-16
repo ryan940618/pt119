@@ -1391,11 +1391,15 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽洲路71巷",
     "units": "新園分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T10:55:20.745228"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:56:20.792758"
       }
     ]
   }
