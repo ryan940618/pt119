@@ -3829,11 +3829,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市復興南路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T23:08:20.345034"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T23:55:27.767440"
       }
     ]
   },
