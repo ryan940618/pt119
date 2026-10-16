@@ -3502,5 +3502,19 @@
         "timestamp": "2026-10-16T20:09:21.178050"
       }
     ]
+  },
+  "00de4d122c2dabba1e568a1279025074": {
+    "time": "2026/10/16 20:13:44",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮大潭路",
+    "units": "林邊分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T20:15:20.234039"
+      }
+    ]
   }
 }
