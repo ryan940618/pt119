@@ -1437,11 +1437,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市仁愛路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:01:20.834430"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T11:26:20.989300"
       }
     ]
   },
@@ -1521,7 +1525,7 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉中山路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1530,6 +1534,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-16T11:24:21.081312"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-16T11:26:20.989300"
       }
     ]
   },
@@ -1558,6 +1566,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:20:21.137353"
+      }
+    ]
+  },
+  "f7cd49b9956a05383703e9ab8e94469d": {
+    "time": "2026/10/16 11:24:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉中山路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:26:20.989300"
       }
     ]
   }
