@@ -1345,7 +1345,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉透過經緯度轉換GIS座標(22.5008,120.4945)",
     "units": "南州分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1354,6 +1354,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T10:54:20.732179"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:02:20.768779"
       }
     ]
   },
