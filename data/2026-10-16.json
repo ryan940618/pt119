@@ -1979,7 +1979,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉大昌路",
     "units": "萬丹分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1988,6 +1988,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T13:35:20.728658"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-16T13:44:20.848857"
       }
     ]
   },
