@@ -105,7 +105,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉仁愛路57巷",
     "units": "里港分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -114,6 +114,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T01:15:21.107727"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T01:50:20.260546"
       }
     ]
   }
