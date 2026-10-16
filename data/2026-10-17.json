@@ -562,5 +562,19 @@
         "timestamp": "2026-10-17T07:11:20.814562"
       }
     ]
+  },
+  "1a87016a032f816a3edda4ddc6cb5cf0": {
+    "time": "2026/10/17 07:12:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣麟洛鄉長龍巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T07:13:21.577205"
+      }
+    ]
   }
 }
