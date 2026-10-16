@@ -3259,11 +3259,29 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬壽路一段178巷",
     "units": "萬丹分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T18:54:20.589866"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T18:55:20.667357"
+      }
+    ]
+  },
+  "aa2dfa7b519097ed7e3177e3d7ac021a": {
+    "time": "2026/10/16 18:54:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉復興路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T18:55:20.667357"
       }
     ]
   }
