@@ -317,11 +317,29 @@
     "sub_category": "",
     "location": "屏東縣里港鄉塔樓路",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T04:44:20.596659"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T04:45:20.530250"
+      }
+    ]
+  },
+  "0de4107dbf2f2a67e9441fd749aedb35": {
+    "time": "2026/10/17 04:44:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公正街",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T04:45:20.530250"
       }
     ]
   }
