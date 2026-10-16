@@ -1885,11 +1885,15 @@
     "sub_category": "",
     "location": "屏東縣獅子鄉獅子一巷",
     "units": "獅子分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T12:49:20.577719"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T13:36:20.694611"
       }
     ]
   },
@@ -1994,6 +1998,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T13:34:20.773292"
+      }
+    ]
+  },
+  "61d36a5dbb86c26355145f91ee770c8b": {
+    "time": "2026/10/16 13:34:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉下蚶路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T13:36:20.694611"
       }
     ]
   }
