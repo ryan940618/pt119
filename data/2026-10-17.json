@@ -299,11 +299,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉忠孝路",
     "units": "林邊分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T04:42:20.457312"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T04:43:20.494952"
       }
     ]
   }
