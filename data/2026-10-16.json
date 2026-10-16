@@ -3435,7 +3435,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽洲路71巷",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -3452,6 +3452,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T20:14:20.370676"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T20:29:20.672918"
       }
     ]
   },
@@ -3557,11 +3561,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉新生路",
     "units": "萬巒分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T20:28:20.319776"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T20:29:20.672918"
       }
     ]
   }
