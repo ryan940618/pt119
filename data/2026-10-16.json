@@ -1345,11 +1345,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉透過經緯度轉換GIS座標(22.5008,120.4945)",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T10:46:21.042996"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T10:54:20.732179"
       }
     ]
   },
@@ -1364,6 +1368,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T10:50:20.725179"
+      }
+    ]
+  },
+  "8f8e9df695b35b9e7ba3e16b70db11c7": {
+    "time": "2026/10/16 10:53:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣南州鄉三民路10巷",
+    "units": "東港分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:54:20.732179"
       }
     ]
   }
