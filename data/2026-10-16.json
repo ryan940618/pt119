@@ -2500,5 +2500,19 @@
         "timestamp": "2026-10-16T15:43:20.544407"
       }
     ]
+  },
+  "0164260df1bb8a95b66de3ca1f47eb5a": {
+    "time": "2026/10/16 16:00:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市屏東女子高級中學[屏東縣屏東市仁愛路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T16:01:20.707687"
+      }
+    ]
   }
 }
