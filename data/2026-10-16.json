@@ -1316,5 +1316,19 @@
         "timestamp": "2026-10-16T10:44:20.682005"
       }
     ]
+  },
+  "8f7f265667378fef4edb47d9d96cab18": {
+    "time": "2026/10/16 10:42:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣崁頂鄉透過電力座標(T3378,HC6800)轉換GIS座標/中正路",
+    "units": "崁頂分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T10:45:20.696281"
+      }
+    ]
   }
 }
