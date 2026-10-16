@@ -996,5 +996,19 @@
         "timestamp": "2026-10-16T09:24:21.244350"
       }
     ]
+  },
+  "5234348895ca383b540bab45ddc82d53": {
+    "time": "2026/10/16 09:29:14",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉成功街二段134巷",
+    "units": "萬丹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T09:30:20.202907"
+      }
+    ]
   }
 }
