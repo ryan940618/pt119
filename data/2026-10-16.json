@@ -2911,7 +2911,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市重慶路",
     "units": "屏東分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2920,6 +2920,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T17:25:20.322774"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:37:20.344366"
       }
     ]
   },
@@ -2961,7 +2965,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路二段53巷",
     "units": "萬丹分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2970,6 +2974,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T17:33:20.500706"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:37:20.344366"
       }
     ]
   }
