@@ -612,5 +612,33 @@
         "timestamp": "2026-10-17T07:26:20.964726"
       }
     ]
+  },
+  "ae8bc9c559f0066a74e68f8a4853684d": {
+    "time": "2026/10/17 07:29:13",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣南州鄉萬華村農田先聯繫",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-17T07:30:21.053971"
+      }
+    ]
+  },
+  "026e0012cbe4cfbf06b55c30ff64a0f5": {
+    "time": "2026/10/17 07:29:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉大同路",
+    "units": "高樹分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T07:30:21.053971"
+      }
+    ]
   }
 }
