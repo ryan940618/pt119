@@ -1351,11 +1351,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉透過電力座標(T3378,HC6800)轉換GIS座標/中正路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T10:45:20.696281"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T11:30:21.039750"
       }
     ]
   },
@@ -1365,7 +1369,7 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉透過經緯度轉換GIS座標(22.5008,120.4945)",
     "units": "南州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -1378,6 +1382,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:02:20.768779"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T11:30:21.039750"
       }
     ]
   },
@@ -1583,11 +1591,15 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉中山路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:26:20.989300"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T11:30:21.039750"
       }
     ]
   },
