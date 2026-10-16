@@ -2491,7 +2491,7 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉博愛街",
     "units": "瑪家分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -2500,6 +2500,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:43:20.544407"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T16:40:21.055851"
       }
     ]
   },
@@ -2624,6 +2628,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:39:20.824572"
+      }
+    ]
+  },
+  "44853eaf0da639dc4d414f1a9810bba5": {
+    "time": "2026/10/16 16:39:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮信義路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T16:40:21.055851"
       }
     ]
   }
