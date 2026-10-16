@@ -693,11 +693,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉新鐘路127巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:03:20.497687"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T09:24:21.244350"
       }
     ]
   },
@@ -968,6 +972,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T09:17:21.602977"
+      }
+    ]
+  },
+  "e3e563f637c175e151f95e7765bce2da": {
+    "time": "2026/10/16 09:22:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市公園路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T09:24:21.244350"
       }
     ]
   }
