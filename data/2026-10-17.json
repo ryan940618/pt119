@@ -19,11 +19,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉廣濟路",
     "units": "內埔分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T00:12:20.670127"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T00:13:20.700402"
       }
     ]
   }
