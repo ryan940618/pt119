@@ -2251,7 +2251,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市豐榮街",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2260,6 +2260,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-16T15:26:20.447843"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-16T15:36:20.469528"
       }
     ]
   },
@@ -2315,11 +2319,15 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉延平路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T15:00:20.460506"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T15:36:20.469528"
       }
     ]
   },
