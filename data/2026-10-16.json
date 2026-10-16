@@ -2619,11 +2619,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉自強巷",
     "units": "麟洛分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:16:20.777036"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-16T17:01:21.077322"
       }
     ]
   },
@@ -2740,6 +2744,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:58:21.041139"
+      }
+    ]
+  },
+  "3b42d88483b85b99d605db9907422d2b": {
+    "time": "2026/10/16 16:59:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉興海路",
+    "units": "滿州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:01:21.077322"
       }
     ]
   }
