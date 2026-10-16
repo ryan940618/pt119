@@ -1027,7 +1027,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉成功街二段134巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1036,6 +1036,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T09:31:20.286640"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-16T09:54:20.390658"
       }
     ]
   },
@@ -1081,7 +1085,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉萬榮街",
     "units": "萬丹分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -1090,6 +1094,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T09:46:20.339695"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T09:54:20.390658"
       }
     ]
   },
