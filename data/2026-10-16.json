@@ -2893,7 +2893,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市公興路153巷",
     "units": "公館分隊",
-    "current_status": "已離院",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
@@ -2906,6 +2906,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-16T17:26:20.338558"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T17:50:20.467025"
       }
     ]
   },
@@ -3030,6 +3034,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:43:20.450772"
+      }
+    ]
+  },
+  "dd675705f57412f2c4b954d7e5a4e67f": {
+    "time": "2026/10/16 17:47:14",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣九如鄉九如路三段431巷",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:50:20.467025"
       }
     ]
   }
