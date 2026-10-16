@@ -429,7 +429,7 @@
     "sub_category": "",
     "location": "屏東縣長治鄉繁昌村中山路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -438,6 +438,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-16T07:36:20.312584"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-16T08:20:20.588295"
       }
     ]
   },
@@ -706,6 +710,48 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T08:18:20.832623"
+      }
+    ]
+  },
+  "ed52248d4e467f72a2ce0411d7da1084": {
+    "time": "2026/10/16 08:19:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣長治鄉復興路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:20:20.588295"
+      }
+    ]
+  },
+  "188f3f8f2837f606cc194b949de9ff29": {
+    "time": "2026/10/16 08:19:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市復興南路二段63巷",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:20:20.588295"
+      }
+    ]
+  },
+  "9c75feddf565dca50d610d15ddb02646": {
+    "time": "2026/10/16 08:18:20",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣高樹鄉新豐路",
+    "units": "高樹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T08:20:20.588295"
       }
     ]
   }
