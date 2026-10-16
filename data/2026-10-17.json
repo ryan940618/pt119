@@ -167,11 +167,29 @@
     "sub_category": "",
     "location": "屏東縣屏東市林森路",
     "units": "屏東分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T02:26:20.447826"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T02:27:20.491952"
+      }
+    ]
+  },
+  "dced3ada4a1eb7995385f413de872389": {
+    "time": "2026/10/17 02:26:31",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮光春路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T02:27:20.491952"
       }
     ]
   }
