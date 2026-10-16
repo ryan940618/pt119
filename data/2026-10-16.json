@@ -3423,7 +3423,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽洲路71巷",
     "units": "東港分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -3432,6 +3432,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T20:08:21.174557"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-16T20:13:20.331675"
       }
     ]
   },
@@ -3455,11 +3459,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市光復路",
     "units": "高級救護隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T20:04:21.547720"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T20:13:20.331675"
       }
     ]
   },
