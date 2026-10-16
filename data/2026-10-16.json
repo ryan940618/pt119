@@ -1459,7 +1459,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉鹽洲路71巷",
     "units": "新園分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -1472,6 +1472,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-16T11:33:21.019966"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-16T11:44:21.106727"
       }
     ]
   },
@@ -1631,7 +1635,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉中山路",
     "units": "佳冬分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已出動",
@@ -1640,6 +1644,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T11:30:21.039750"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-16T11:44:21.106727"
       }
     ]
   },
