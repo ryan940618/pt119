@@ -1894,5 +1894,19 @@
         "timestamp": "2026-10-16T12:52:20.582774"
       }
     ]
+  },
+  "c08796efc163b05cf0cd1cd042b96408": {
+    "time": "2026/10/16 12:52:14",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉義民路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T12:53:20.476192"
+      }
+    ]
   }
 }
