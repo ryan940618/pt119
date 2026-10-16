@@ -3061,11 +3061,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮北門路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:43:20.450772"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T18:08:20.438879"
       }
     ]
   },
@@ -3089,7 +3093,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉民族巷",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已派遣",
@@ -3098,6 +3102,24 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:59:20.386048"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T18:08:20.438879"
+      }
+    ]
+  },
+  "b610db2f388a79e83f8ff7fd264b540b": {
+    "time": "2026/10/16 18:07:22",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣車城鄉台26線往南   小尖山",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T18:08:20.438879"
       }
     ]
   }
