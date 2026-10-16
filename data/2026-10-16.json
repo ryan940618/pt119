@@ -3551,11 +3551,15 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉佳義村105號",
     "units": "瑪家分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T20:09:21.178050"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T20:49:20.503197"
       }
     ]
   },
