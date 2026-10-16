@@ -241,7 +241,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉社皮路二段417巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -250,6 +250,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T03:41:21.045227"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T04:41:20.433747"
       }
     ]
   },
