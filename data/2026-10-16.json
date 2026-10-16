@@ -2559,11 +2559,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市屏東中山公園[屏東縣屏東市公園路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:07:20.683528"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T16:39:20.824572"
       }
     ]
   },
@@ -2606,6 +2610,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T16:35:20.953740"
+      }
+    ]
+  },
+  "ec8fbb3428ee191ee3ccb0283876ae39": {
+    "time": "2026/10/16 16:37:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉社中路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T16:39:20.824572"
       }
     ]
   }
