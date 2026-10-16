@@ -1473,11 +1473,15 @@
     "sub_category": "",
     "location": "屏東縣車城鄉海口路",
     "units": "車城分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:05:20.945974"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T11:29:21.058448"
       }
     ]
   },
