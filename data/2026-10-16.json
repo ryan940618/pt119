@@ -3765,11 +3765,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮東隆里29-2號",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T22:33:21.079382"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T22:34:21.025483"
       }
     ]
   }
