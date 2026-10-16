@@ -68,5 +68,19 @@
         "timestamp": "2026-10-17T01:04:21.250956"
       }
     ]
+  },
+  "e7e635e48fa270e7fc50f498687c4258": {
+    "time": "2026/10/17 01:10:17",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮大潭路",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T01:11:21.089726"
+      }
+    ]
   }
 }
