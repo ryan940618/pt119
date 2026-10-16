@@ -2101,7 +2101,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市華安路",
     "units": "長治分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -2114,6 +2114,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-16T14:45:21.190922"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-16T14:51:21.144985"
       }
     ]
   },
@@ -2246,6 +2250,20 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-16T14:45:21.190922"
+      }
+    ]
+  },
+  "e14c0a4488b78479a79dfe68bbff69d8": {
+    "time": "2026/10/16 14:49:14",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣屏東市和生路",
+    "units": "公館分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T14:51:21.144985"
       }
     ]
   }
