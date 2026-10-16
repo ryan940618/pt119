@@ -3168,5 +3168,19 @@
         "timestamp": "2026-10-16T18:09:20.520885"
       }
     ]
+  },
+  "42afc5aeb6869224b8069c12b93549ee": {
+    "time": "2026/10/16 18:24:28",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉連洲路",
+    "units": "竹田分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-16T18:25:20.533941"
+      }
+    ]
   }
 }
