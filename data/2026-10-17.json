@@ -49,7 +49,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市莊敬街二段37巷",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -62,6 +62,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-17T01:01:21.009889"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T01:04:21.250956"
       }
     ]
   }
