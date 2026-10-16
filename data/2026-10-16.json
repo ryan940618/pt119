@@ -3847,11 +3847,15 @@
     "sub_category": "",
     "location": "屏東縣長治鄉繁華路和華錦街",
     "units": "長治分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T23:33:20.700919"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T00:00:20.533661"
       }
     ]
   }
