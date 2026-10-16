@@ -2951,7 +2951,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市建興南路",
     "units": "長治分隊",
-    "current_status": "已到達",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已出動",
@@ -2960,6 +2960,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-16T17:41:20.323795"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:43:20.450772"
       }
     ]
   },
@@ -2996,6 +3000,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:39:20.295755"
+      }
+    ]
+  },
+  "07250b9b799b398ded510751d896af8d": {
+    "time": "2026/10/16 17:42:18",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮北門路",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T17:43:20.450772"
       }
     ]
   }
