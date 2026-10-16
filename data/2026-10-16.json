@@ -2957,11 +2957,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市和生路二段53巷",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "已到達",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-16T17:29:20.300738"
+      },
+      {
+        "status": "已到達",
+        "timestamp": "2026-10-16T17:33:20.500706"
       }
     ]
   }
