@@ -1237,7 +1237,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉廈南路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -1246,6 +1246,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T10:17:20.500820"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-16T11:09:20.874725"
       }
     ]
   },
@@ -1488,6 +1492,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-16T11:08:22.728876"
+      }
+    ]
+  },
+  "1ebe3b0461d6573828bfc67de852a028": {
+    "time": "2026/10/16 11:08:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣林邊鄉中山路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:09:20.874725"
       }
     ]
   }
