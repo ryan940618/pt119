@@ -370,5 +370,19 @@
         "timestamp": "2026-10-17T05:05:20.675422"
       }
     ]
+  },
+  "292c1c1c32e0bd3eefb05f9d27b80a11": {
+    "time": "2026/10/17 05:16:05",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉大坵路",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T05:17:20.771524"
+      }
+    ]
   }
 }
