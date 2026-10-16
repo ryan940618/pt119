@@ -3706,5 +3706,19 @@
         "timestamp": "2026-10-16T21:32:20.698281"
       }
     ]
+  },
+  "9c16de79e8d0d8385b1238dc64778d19": {
+    "time": "2026/10/16 21:30:50",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉保安路",
+    "units": "枋寮分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T21:44:20.743284"
+      }
+    ]
   }
 }
