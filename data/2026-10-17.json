@@ -544,5 +544,19 @@
         "timestamp": "2026-10-17T07:04:20.880512"
       }
     ]
+  },
+  "d355dd5a40c9dbf988fe2dd17799eebe": {
+    "time": "2026/10/17 07:07:30",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣獅子鄉草埔隧道入口",
+    "units": "獅子分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T07:09:20.520281"
+      }
+    ]
   }
 }
