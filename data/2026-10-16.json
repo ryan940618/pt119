@@ -2443,11 +2443,29 @@
     "sub_category": "",
     "location": "屏東縣鹽埔鄉博愛街",
     "units": "瑪家分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-16T15:41:20.508147"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T15:43:20.544407"
+      }
+    ]
+  },
+  "a6fa316d0d5758e6fcb5e5a867276c53": {
+    "time": "2026/10/16 15:41:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣鹽埔鄉維新路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T15:43:20.544407"
       }
     ]
   }
