@@ -1420,5 +1420,19 @@
         "timestamp": "2026-10-16T11:01:20.834430"
       }
     ]
+  },
+  "39523c7a0361675872f3ce77c09be074": {
+    "time": "2026/10/16 11:02:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中正路",
+    "units": "長治分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-16T11:04:21.137645"
+      }
+    ]
   }
 }
