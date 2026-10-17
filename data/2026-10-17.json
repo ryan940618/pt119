@@ -1982,5 +1982,19 @@
         "timestamp": "2026-10-17T14:40:21.248922"
       }
     ]
+  },
+  "96ff8eb43cd9656f2c3cebefb9f8dc4b": {
+    "time": "2026/10/17 14:42:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮墾丁路",
+    "units": "墾丁分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T14:44:20.346754"
+      }
+    ]
   }
 }
