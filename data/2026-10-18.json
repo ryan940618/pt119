@@ -550,5 +550,19 @@
         "timestamp": "2026-10-18T07:46:21.182471"
       }
     ]
+  },
+  "505b5817fc8ea75481dda791f770d23c": {
+    "time": "2026/10/18 07:53:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉仙吉釣蝦場",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T07:54:20.837199"
+      }
+    ]
   }
 }
