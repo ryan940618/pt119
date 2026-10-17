@@ -3410,5 +3410,19 @@
         "timestamp": "2026-10-17T22:34:24.752531"
       }
     ]
+  },
+  "0b6cf943de168322c3b4f8f98f66dece": {
+    "time": "2026/10/17 22:48:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路954巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T22:49:20.392893"
+      }
+    ]
   }
 }
