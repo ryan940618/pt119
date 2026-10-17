@@ -2581,7 +2581,7 @@
     "sub_category": "",
     "location": "屏東縣佳冬鄉葫蘆路",
     "units": "佳冬分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2590,6 +2590,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-17T18:46:20.759977"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T18:49:20.753272"
       }
     ]
   },
@@ -2708,6 +2712,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T18:27:20.986579"
+      }
+    ]
+  },
+  "f30c4c5e4e4a28bdec89bc9e0c6dd729": {
+    "time": "2026/10/17 18:49:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉東角路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T18:49:20.753272"
       }
     ]
   }
