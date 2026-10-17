@@ -3529,11 +3529,43 @@
     "sub_category": "",
     "location": "屏東縣霧台鄉神山巷",
     "units": "霧台分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T23:16:20.699996"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T23:21:20.788591"
+      }
+    ]
+  },
+  "51226cd0075bdf8c0f5a70a4cfb6eafa": {
+    "time": "2026/10/17 23:20:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮光復路",
+    "units": "潮州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T23:21:20.788591"
+      }
+    ]
+  },
+  "ca33340b50f43a37e508ef0ed0d035ed": {
+    "time": "2026/10/17 23:20:01",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣東港鎮新興三街130巷",
+    "units": "東港分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T23:21:20.788591"
       }
     ]
   }
