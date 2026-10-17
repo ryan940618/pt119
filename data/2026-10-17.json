@@ -2452,5 +2452,19 @@
         "timestamp": "2026-10-17T17:18:21.331278"
       }
     ]
+  },
+  "9e861e449b74a64b914316c4e6bbf5ab": {
+    "time": "2026/10/17 17:23:51",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市中柳路30巷",
+    "units": "麟洛分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T17:25:20.388132"
+      }
+    ]
   }
 }
