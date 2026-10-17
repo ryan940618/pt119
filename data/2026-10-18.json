@@ -91,11 +91,15 @@
     "sub_category": "",
     "location": "屏東縣九如鄉五權路",
     "units": "九如分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-18T02:11:20.666787"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T02:12:20.792411"
       }
     ]
   }
