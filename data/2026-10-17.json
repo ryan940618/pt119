@@ -1583,7 +1583,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市大武路",
     "units": "",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已受理",
@@ -1592,6 +1592,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T11:35:20.955280"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T12:07:21.133245"
       }
     ]
   },
