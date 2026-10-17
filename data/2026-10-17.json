@@ -859,11 +859,15 @@
     "sub_category": "",
     "location": "屏東縣泰武鄉大武山一街",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:33:21.166699"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T08:42:21.035090"
       }
     ]
   }
