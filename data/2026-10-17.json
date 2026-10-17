@@ -937,7 +937,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市和平路",
     "units": "高級救護隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -946,6 +946,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-17T09:18:21.172034"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T09:37:20.398810"
       }
     ]
   },
@@ -1066,6 +1070,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:36:20.191499"
+      }
+    ]
+  },
+  "1bb306f797510f94bb10609389bab8f0": {
+    "time": "2026/10/17 09:35:55",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市建國路30巷",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T09:37:20.398810"
       }
     ]
   }
