@@ -2868,5 +2868,33 @@
         "timestamp": "2026-10-17T19:32:21.056616"
       }
     ]
+  },
+  "546dc379ae83fc208de06558fc3190de": {
+    "time": "2026/10/17 19:35:13",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新園鄉鹽琉線碼頭/交通船[新園鄉新興路",
+    "units": "新園分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T19:36:21.119793"
+      }
+    ]
+  },
+  "22dea6d98a41bbe5af61a4db5298caf0": {
+    "time": "2026/10/17 19:34:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T19:36:21.119793"
+      }
+    ]
   }
 }
