@@ -852,5 +852,19 @@
         "timestamp": "2026-10-17T08:31:21.020982"
       }
     ]
+  },
+  "80155d73877bf1b69368fe3723f1b47d": {
+    "time": "2026/10/17 08:32:03",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣泰武鄉大武山一街",
+    "units": "萬巒分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:33:21.166699"
+      }
+    ]
   }
 }
