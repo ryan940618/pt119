@@ -748,5 +748,19 @@
         "timestamp": "2026-10-17T08:08:20.776116"
       }
     ]
+  },
+  "3d1f6a3a43115a6fc6b614c79d751c82": {
+    "time": "2026/10/17 08:10:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市莊敬街",
+    "units": "高級救護隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:12:20.857735"
+      }
+    ]
   }
 }
