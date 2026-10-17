@@ -1320,5 +1320,19 @@
         "timestamp": "2026-10-17T10:50:20.756188"
       }
     ]
+  },
+  "3aed42c133b7581f3ed8c17342365dc2": {
+    "time": "2026/10/17 10:52:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉善化路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T10:53:20.785733"
+      }
+    ]
   }
 }
