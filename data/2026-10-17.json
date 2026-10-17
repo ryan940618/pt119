@@ -1059,11 +1059,15 @@
     "sub_category": "",
     "location": "屏東縣崁頂鄉力社路",
     "units": "崁頂分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T09:30:20.269936"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T10:28:20.558843"
       }
     ]
   },
