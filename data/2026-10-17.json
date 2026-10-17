@@ -3561,7 +3561,7 @@
     "sub_category": "",
     "location": "屏東縣霧台鄉神山巷",
     "units": "霧台分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3570,6 +3570,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T23:21:20.788591"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-18T00:47:21.179471"
       }
     ]
   },
