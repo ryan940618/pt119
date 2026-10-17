@@ -730,5 +730,19 @@
         "timestamp": "2026-10-17T08:05:20.792726"
       }
     ]
+  },
+  "2fbc5d5e48c2355cbc26a635023e9b6b": {
+    "time": "2026/10/17 08:04:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣滿州鄉屏200縣26K(縣道200、26K)",
+    "units": "滿州分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T08:07:20.844290"
+      }
+    ]
   }
 }
