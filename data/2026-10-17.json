@@ -1785,11 +1785,15 @@
     "sub_category": "",
     "location": "屏東縣瑪家鄉三和中村三和96-2號",
     "units": "三地門分隊,瑪家分隊,龍泉分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "返隊中",
         "timestamp": "2026-10-17T13:03:20.556743"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T13:34:20.829232"
       }
     ]
   },
