@@ -339,7 +339,7 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉萬安路",
     "units": "新埤分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -352,6 +352,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-18T07:03:21.046744"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-18T07:27:20.668099"
       }
     ]
   },
@@ -459,7 +463,7 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉清涼路",
     "units": "瑪家分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -472,6 +476,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-18T07:17:20.651053"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-18T07:27:20.668099"
       }
     ]
   },
