@@ -1506,5 +1506,19 @@
         "timestamp": "2026-10-17T11:20:20.910222"
       }
     ]
+  },
+  "97828ea444a7490f03d987743684df3f": {
+    "time": "2026/10/17 11:26:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市清寧街",
+    "units": "公館分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T11:27:20.864196"
+      }
+    ]
   }
 }
