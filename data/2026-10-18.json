@@ -323,11 +323,15 @@
     "sub_category": "",
     "location": "屏東縣新埤鄉萬安路",
     "units": "新埤分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-18T06:07:21.229219"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T06:09:21.170590"
       }
     ]
   }
