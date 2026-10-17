@@ -3087,7 +3087,7 @@
     "sub_category": "",
     "location": "屏東縣里港鄉仁愛路57巷",
     "units": "里港分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3100,6 +3100,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-17T21:02:20.760177"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T21:05:20.637504"
       }
     ]
   },
@@ -3146,6 +3150,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T20:59:20.579848"
+      }
+    ]
+  },
+  "95a8e36ce200f059492fe8d06d73ab82": {
+    "time": "2026/10/17 21:04:07",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮西潭路76巷",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T21:05:20.637504"
       }
     ]
   }
