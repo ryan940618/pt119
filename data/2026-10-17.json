@@ -3616,5 +3616,19 @@
         "timestamp": "2026-10-17T23:41:20.681693"
       }
     ]
+  },
+  "cd490a29ed8d2c49b52d9ec06e31f9cd": {
+    "time": "2026/10/17 23:46:26",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣車城鄉射寮路",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T23:49:20.747366"
+      }
+    ]
   }
 }
