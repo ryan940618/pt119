@@ -3345,7 +3345,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉玉泉路",
     "units": "春日分隊",
-    "current_status": "已離院",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3362,6 +3362,10 @@
       {
         "status": "已離院",
         "timestamp": "2026-10-17T22:30:21.253264"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T22:54:20.581774"
       }
     ]
   },
