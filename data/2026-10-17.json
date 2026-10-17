@@ -3513,11 +3513,15 @@
     "sub_category": "",
     "location": "屏東縣萬巒鄉東山路",
     "units": "萬巒分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T23:04:20.620351"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T23:54:20.833340"
       }
     ]
   },
@@ -3559,7 +3563,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮光復路",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3568,6 +3572,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T23:22:21.241507"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T23:54:20.833340"
       }
     ]
   },
@@ -3577,7 +3585,7 @@
     "sub_category": "",
     "location": "屏東縣東港鎮新興三街130巷",
     "units": "東港分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -3586,6 +3594,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T23:22:21.241507"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T23:54:20.833340"
       }
     ]
   },
@@ -3623,11 +3635,15 @@
     "sub_category": "",
     "location": "屏東縣車城鄉射寮路",
     "units": "車城分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T23:49:20.747366"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T23:54:20.833340"
       }
     ]
   }
