@@ -206,5 +206,33 @@
         "timestamp": "2026-10-18T03:34:21.103046"
       }
     ]
+  },
+  "4d2ba9f2fecd6994ac6f3cf7782e5758": {
+    "time": "2026/10/18 04:22:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉三和村玉泉44-1號",
+    "units": "瑪家分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-18T04:23:20.523561"
+      }
+    ]
+  },
+  "313ffc4fb5d003664b2eab3c0475a3de": {
+    "time": "2026/10/18 04:21:49",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮永康街",
+    "units": "潮州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T04:23:20.523561"
+      }
+    ]
   }
 }
