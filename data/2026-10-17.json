@@ -2744,5 +2744,33 @@
         "timestamp": "2026-10-17T18:49:20.753272"
       }
     ]
+  },
+  "0f0444a1448c645e1d481dfd3b220980": {
+    "time": "2026/10/17 18:56:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉中山路",
+    "units": "琉球分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T18:57:20.930360"
+      }
+    ]
+  },
+  "843e36d56d59822eb110a842120be6a1": {
+    "time": "2026/10/17 18:55:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉潮州路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T18:57:20.930360"
+      }
+    ]
   }
 }
