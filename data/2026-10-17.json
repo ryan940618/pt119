@@ -1936,5 +1936,19 @@
         "timestamp": "2026-10-17T14:05:21.057450"
       }
     ]
+  },
+  "eca2d0c6d163a6d16d27c7b2bb3ac43f": {
+    "time": "2026/10/17 14:26:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉新埤分隊/測試[屏東縣新埤鄉民眾路",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T14:27:21.158051"
+      }
+    ]
   }
 }
