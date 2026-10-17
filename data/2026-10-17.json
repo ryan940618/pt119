@@ -2408,5 +2408,33 @@
         "timestamp": "2026-10-17T17:17:21.265115"
       }
     ]
+  },
+  "a2ffa9c816835292564de6898faa9fe5": {
+    "time": "2026/10/17 17:17:19",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉興義路",
+    "units": "龍泉分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T17:18:21.331278"
+      }
+    ]
+  },
+  "3252af5a17b4773170bf80510bd68d6d": {
+    "time": "2026/10/17 17:16:47",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉民生路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T17:18:21.331278"
+      }
+    ]
   }
 }
