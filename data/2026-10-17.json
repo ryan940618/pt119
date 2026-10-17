@@ -3253,11 +3253,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市歸仁路",
     "units": "公館分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-17T21:31:20.786271"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T22:27:21.323071"
       }
     ]
   },
@@ -3338,6 +3342,20 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T22:22:21.197406"
+      }
+    ]
+  },
+  "1140b1c7be24f2fcb132b166c85d68a9": {
+    "time": "2026/10/17 22:25:49",
+    "category": "其他",
+    "sub_category": "",
+    "location": "屏東縣屏東市民有路33巷",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T22:27:21.323071"
       }
     ]
   }
