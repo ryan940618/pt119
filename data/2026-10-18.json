@@ -291,11 +291,15 @@
     "sub_category": "",
     "location": "屏東縣東港鎮水源路",
     "units": "東港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-18T05:50:20.916014"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T05:51:21.154607"
       }
     ]
   }
