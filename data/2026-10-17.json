@@ -3051,11 +3051,29 @@
     "sub_category": "",
     "location": "屏東縣里港鄉仁愛路57巷",
     "units": "里港分隊",
-    "current_status": "已派遣",
+    "current_status": "已出動",
     "status_history": [
       {
         "status": "已派遣",
         "timestamp": "2026-10-17T20:36:20.409752"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T20:37:20.525347"
+      }
+    ]
+  },
+  "7d9a883c6bc25c117204a82ad9dbfeb3": {
+    "time": "2026/10/17 20:36:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉九如路",
+    "units": "九如分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T20:37:20.525347"
       }
     ]
   }
