@@ -2390,5 +2390,19 @@
         "timestamp": "2026-10-17T17:01:21.145465"
       }
     ]
+  },
+  "7babbe169ab754640595a19c4f5f3f3e": {
+    "time": "2026/10/17 17:15:12",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自由路",
+    "units": "高級救護隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T17:16:21.236886"
+      }
+    ]
   }
 }
