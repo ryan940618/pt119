@@ -3329,7 +3329,7 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉玉泉路",
     "units": "春日分隊",
-    "current_status": "已到達",
+    "current_status": "已離院",
     "status_history": [
       {
         "status": "已派遣",
@@ -3342,6 +3342,10 @@
       {
         "status": "已到達",
         "timestamp": "2026-10-17T22:22:21.197406"
+      },
+      {
+        "status": "已離院",
+        "timestamp": "2026-10-17T22:30:21.253264"
       }
     ]
   },
