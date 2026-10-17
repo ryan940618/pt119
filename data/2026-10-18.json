@@ -446,5 +446,19 @@
         "timestamp": "2026-10-18T06:49:21.418865"
       }
     ]
+  },
+  "f230c944450fd954c86f28373df8c79e": {
+    "time": "2026/10/18 06:53:59",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉南和路",
+    "units": "南州分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T06:55:21.467743"
+      }
+    ]
   }
 }
