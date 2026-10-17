@@ -545,7 +545,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉惠崙路368巷",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -558,6 +558,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-17T07:54:20.726078"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T08:14:20.865632"
       }
     ]
   },
@@ -585,7 +589,7 @@
     "sub_category": "",
     "location": "屏東縣麟洛鄉長龍巷",
     "units": "麟洛分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -594,6 +598,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-17T08:00:20.813759"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T08:14:20.865632"
       }
     ]
   },
@@ -737,7 +745,7 @@
     "sub_category": "",
     "location": "屏東縣滿州鄉屏200縣26K(縣道200、26K)",
     "units": "滿州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已派遣",
@@ -746,6 +754,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:08:20.776116"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-17T08:14:20.865632"
       }
     ]
   },
@@ -760,6 +772,20 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T08:12:20.857735"
+      }
+    ]
+  },
+  "5de7ba6738d74ddd45be39db367cb832": {
+    "time": "2026/10/17 08:12:54",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉鵝媽媽鵝肉/加油站/測速照相[屏東縣竹田鄉連成路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:14:20.865632"
       }
     ]
   }
