@@ -2058,5 +2058,19 @@
         "timestamp": "2026-10-17T15:00:20.481974"
       }
     ]
+  },
+  "bb3d35e017b4f2da47d76e7ebcad0e92": {
+    "time": "2026/10/17 15:18:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉九如國中",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T15:20:20.463947"
+      }
+    ]
   }
 }
