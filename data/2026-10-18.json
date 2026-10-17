@@ -378,5 +378,19 @@
         "timestamp": "2026-10-18T06:34:21.260499"
       }
     ]
+  },
+  "8bc7ff9e86776dbd931b44b443cd0b7c": {
+    "time": "2026/10/18 06:31:46",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉六巷",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T06:36:21.294283"
+      }
+    ]
   }
 }
