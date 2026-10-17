@@ -1412,5 +1412,19 @@
         "timestamp": "2026-10-17T11:00:20.828015"
       }
     ]
+  },
+  "583e7c883fc62d05ca8e6e54d96ccdde": {
+    "time": "2026/10/17 11:02:15",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮西門路109巷",
+    "units": "車城分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T11:03:21.135183"
+      }
+    ]
   }
 }
