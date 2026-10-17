@@ -1376,5 +1376,33 @@
         "timestamp": "2026-10-17T10:58:20.811982"
       }
     ]
+  },
+  "37864419e392eadcf1dc42f3e59850bc": {
+    "time": "2026/10/17 10:58:35",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣琉球鄉民族路",
+    "units": "琉球分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T10:59:20.843584"
+      }
+    ]
+  },
+  "e76e050f0a834a1018d0b442455888d9": {
+    "time": "2026/10/17 10:57:33",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬巒鄉東山路",
+    "units": "萬巒分隊",
+    "current_status": "已派遣",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-17T10:59:20.843584"
+      }
+    ]
   }
 }
