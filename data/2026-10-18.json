@@ -238,5 +238,19 @@
         "timestamp": "2026-10-18T04:23:20.523561"
       }
     ]
+  },
+  "8a963650c90cd2f9d8467002fa386c52": {
+    "time": "2026/10/18 04:26:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市四維路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T04:28:20.636716"
+      }
+    ]
   }
 }
