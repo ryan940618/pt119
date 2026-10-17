@@ -1348,5 +1348,33 @@
         "timestamp": "2026-10-17T10:55:20.745918"
       }
     ]
+  },
+  "ef03121ddb17b3066b8712f9af8a5353": {
+    "time": "2026/10/17 10:57:06",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉上安路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T10:58:20.811982"
+      }
+    ]
+  },
+  "aefeba103eadf9b0fed214fd1db244ab": {
+    "time": "2026/10/17 10:56:53",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉私立美和中學前[屏東縣內埔鄉學人路",
+    "units": "竹田分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T10:58:20.811982"
+      }
+    ]
   }
 }
