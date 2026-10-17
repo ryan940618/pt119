@@ -874,5 +874,19 @@
         "timestamp": "2026-10-17T08:42:21.035090"
       }
     ]
+  },
+  "0b4bb9828888d88397bfc782e785af1d": {
+    "time": "2026/10/17 08:46:41",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣萬丹鄉聖賢路",
+    "units": "萬丹分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T08:48:21.018333"
+      }
+    ]
   }
 }
