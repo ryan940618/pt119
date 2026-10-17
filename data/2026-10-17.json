@@ -1638,5 +1638,19 @@
         "timestamp": "2026-10-17T12:22:21.274079"
       }
     ]
+  },
+  "2f5591e32ce2ba7087a6ab4b43482fc7": {
+    "time": "2026/10/17 12:21:04",
+    "category": "火災",
+    "sub_category": "",
+    "location": "屏東縣瑪家鄉三和村中村96-5號",
+    "units": "瑪家分隊,龍泉分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-17T12:24:20.145557"
+      }
+    ]
   }
 }
