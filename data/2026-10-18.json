@@ -19,11 +19,15 @@
     "sub_category": "",
     "location": "屏東縣林邊鄉豊作路",
     "units": "林邊分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-18T01:04:21.322792"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-18T01:52:20.667397"
       }
     ]
   },
