@@ -1177,7 +1177,7 @@
     "sub_category": "",
     "location": "屏東縣三地門鄉達發達旺巷",
     "units": "三地門分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -1194,6 +1194,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-17T10:15:20.531383"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-17T11:28:20.991130"
       }
     ]
   },
