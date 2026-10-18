@@ -694,5 +694,33 @@
         "timestamp": "2026-10-18T08:57:20.830282"
       }
     ]
+  },
+  "7a2bf95d9846d83beae130c50ba4e6b3": {
+    "time": "2026/10/18 08:57:16",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮中山路",
+    "units": "恆春分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T08:58:20.888563"
+      }
+    ]
+  },
+  "e6bb029488787446a45cf1b800f08562": {
+    "time": "2026/10/18 08:56:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉九如震點樂前",
+    "units": "九如分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-18T08:58:20.888563"
+      }
+    ]
   }
 }
