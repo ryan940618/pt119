@@ -680,5 +680,19 @@
         "timestamp": "2026-10-18T08:40:20.785978"
       }
     ]
+  },
+  "0862e1876d13d40bba1006d538af91a4": {
+    "time": "2026/10/18 08:56:42",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣九如鄉",
+    "units": "",
+    "current_status": "已受理",
+    "status_history": [
+      {
+        "status": "已受理",
+        "timestamp": "2026-10-18T08:57:20.830282"
+      }
+    ]
   }
 }
