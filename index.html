@@ -317,16 +317,17 @@
         return `${y}-${m}-${d}`;
     }
 
-    async function fetchJsonSafely(dateStr) {
-        try {
-            const response = await fetch(`${dataFolder}${dateStr}.json`);
-            if (!response.ok) throw new Error('Not Found');
-            return await response.json();
-        } catch (error) {
-            console.warn(`找不到 ${dateStr} 的資料`);
-            return {};
-        }
-    }
+	async function fetchJsonSafely(dateStr) {
+		try {
+			const response = await fetch(`${dataFolder}${dateStr}.json?_=${Date.now()}`);
+			
+			if (!response.ok) throw new Error('Not Found');
+			return await response.json();
+		} catch (error) {
+			console.warn(`找不到 ${dateStr} 的資料`);
+			return {};
+		}
+	}
 
     async function loadDefaultView() {
         document.getElementById('statusMessage').innerText = "資料載入中...";
