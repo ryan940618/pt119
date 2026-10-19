@@ -15,6 +15,13 @@
         "status": "已出動",
         "timestamp": "2026-10-04T00:50:20.489745"
       }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
+        "timestamp": "2026-10-04T00:49:20.491048"
+      }
     ]
   },
   "7ea5f9426f0077c7fdd21b427c355d0d": {
@@ -36,6 +43,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T01:29:20.728493"
+      }
+    ],
+    "current_units": "東港分隊,鹽埔分隊",
+    "units_history": [
+      {
+        "units": "東港分隊,鹽埔分隊",
+        "timestamp": "2026-10-04T00:51:20.500044"
       }
     ]
   },
@@ -63,6 +77,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T01:19:20.894866"
       }
+    ],
+    "current_units": "里港分隊",
+    "units_history": [
+      {
+        "units": "里港分隊",
+        "timestamp": "2026-10-04T01:13:20.632125"
+      }
     ]
   },
   "a268040ec6232d4bc3d809b3ec10726c": {
@@ -75,6 +96,13 @@
     "status_history": [
       {
         "status": "已出動",
+        "timestamp": "2026-10-04T01:40:20.828071"
+      }
+    ],
+    "current_units": "枋寮分隊",
+    "units_history": [
+      {
+        "units": "枋寮分隊",
         "timestamp": "2026-10-04T01:40:20.828071"
       }
     ]
@@ -98,6 +126,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T02:24:19.980187"
+      }
+    ],
+    "current_units": "枋寮分隊",
+    "units_history": [
+      {
+        "units": "枋寮分隊",
+        "timestamp": "2026-10-04T01:41:20.737859"
       }
     ]
   },
@@ -133,6 +168,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T02:45:20.113866"
       }
+    ],
+    "current_units": "春日分隊",
+    "units_history": [
+      {
+        "units": "春日分隊",
+        "timestamp": "2026-10-04T01:50:20.776640"
+      }
     ]
   },
   "a53f0b9e85c528022b1bac970890972e": {
@@ -159,6 +201,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T02:57:20.218421"
       }
+    ],
+    "current_units": "新埤分隊",
+    "units_history": [
+      {
+        "units": "新埤分隊",
+        "timestamp": "2026-10-04T01:55:20.805467"
+      }
     ]
   },
   "679cb99e0b039982709eb714aa4d98d2": {
@@ -180,6 +229,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T02:30:20.031360"
+      }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T01:58:20.854136"
       }
     ]
   },
@@ -207,6 +263,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T03:54:20.513314"
       }
+    ],
+    "current_units": "新園分隊",
+    "units_history": [
+      {
+        "units": "新園分隊",
+        "timestamp": "2026-10-04T02:53:20.192946"
+      }
     ]
   },
   "500a2ad7cded9c95dc06ced2bc7db3dc": {
@@ -233,6 +296,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T04:14:20.659880"
       }
+    ],
+    "current_units": "高級救護隊",
+    "units_history": [
+      {
+        "units": "高級救護隊",
+        "timestamp": "2026-10-04T03:10:20.316287"
+      }
     ]
   },
   "3b169bf9d5fc06ad29c2627c7cc621b5": {
@@ -254,6 +324,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T04:33:20.813485"
+      }
+    ],
+    "current_units": "里港分隊",
+    "units_history": [
+      {
+        "units": "里港分隊",
+        "timestamp": "2026-10-04T03:33:20.369109"
       }
     ]
   },
@@ -277,6 +354,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T04:44:20.966267"
       }
+    ],
+    "current_units": "潮州分隊",
+    "units_history": [
+      {
+        "units": "潮州分隊",
+        "timestamp": "2026-10-04T04:13:20.677099"
+      }
     ]
   },
   "1dc54f53554fd64031bc5ef6d25a384d": {
@@ -299,6 +383,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T05:29:20.135757"
       }
+    ],
+    "current_units": "竹田分隊",
+    "units_history": [
+      {
+        "units": "竹田分隊",
+        "timestamp": "2026-10-04T04:21:20.764767"
+      }
     ]
   },
   "172b3465d7daddd643efbd14d136926d": {
@@ -311,6 +402,13 @@
     "status_history": [
       {
         "status": "已派遣",
+        "timestamp": "2026-10-04T04:32:20.799336"
+      }
+    ],
+    "current_units": "高級救護隊",
+    "units_history": [
+      {
+        "units": "高級救護隊",
         "timestamp": "2026-10-04T04:32:20.799336"
       }
     ]
@@ -334,6 +432,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T05:02:20.204516"
+      }
+    ],
+    "current_units": "高級救護隊",
+    "units_history": [
+      {
+        "units": "高級救護隊",
+        "timestamp": "2026-10-04T04:34:20.802346"
       }
     ]
   },
@@ -361,6 +466,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T06:03:20.718376"
       }
+    ],
+    "current_units": "內埔分隊",
+    "units_history": [
+      {
+        "units": "內埔分隊",
+        "timestamp": "2026-10-04T05:05:20.041833"
+      }
     ]
   },
   "0c28ca4f043a4bf40fa5cbe918085bcc": {
@@ -382,6 +494,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T05:57:20.243765"
+      }
+    ],
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-04T05:18:20.283724"
       }
     ]
   },
@@ -409,6 +528,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T06:42:20.567395"
       }
+    ],
+    "current_units": "牡丹分隊",
+    "units_history": [
+      {
+        "units": "牡丹分隊",
+        "timestamp": "2026-10-04T06:04:20.393729"
+      }
     ]
   },
   "f13b013b68ad4695afd0236afe36bd1a": {
@@ -435,6 +561,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T06:51:20.647713"
       }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T06:06:20.384038"
+      }
     ]
   },
   "3b766b70d04a96458fea2886604055af": {
@@ -452,6 +585,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T06:54:20.672107"
+      }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T06:10:20.501789"
       }
     ]
   },
@@ -483,6 +623,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T07:30:21.285001"
       }
+    ],
+    "current_units": "來義分隊",
+    "units_history": [
+      {
+        "units": "來義分隊",
+        "timestamp": "2026-10-04T06:14:20.528660"
+      }
     ]
   },
   "e64b51e2918104158a3417e3bb4ccb8b": {
@@ -505,6 +652,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T07:00:20.691103"
       }
+    ],
+    "current_units": "萬巒分隊",
+    "units_history": [
+      {
+        "units": "萬巒分隊",
+        "timestamp": "2026-10-04T06:16:20.553420"
+      }
     ]
   },
   "96c515b3e93f33199608d9533c587304": {
@@ -526,6 +680,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T07:27:20.896194"
+      }
+    ],
+    "current_units": "竹田分隊",
+    "units_history": [
+      {
+        "units": "竹田分隊",
+        "timestamp": "2026-10-04T06:21:20.472559"
       }
     ]
   },
@@ -552,6 +713,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T07:15:20.920436"
+      }
+    ],
+    "current_units": "東港分隊",
+    "units_history": [
+      {
+        "units": "東港分隊",
+        "timestamp": "2026-10-04T06:32:20.602312"
       }
     ]
   },
@@ -587,6 +755,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T07:24:20.979013"
       }
+    ],
+    "current_units": "高級救護隊",
+    "units_history": [
+      {
+        "units": "高級救護隊",
+        "timestamp": "2026-10-04T06:50:20.725733"
+      }
     ]
   },
   "045ab02cedbbeb2599bcde1a622c4c1a": {
@@ -612,6 +787,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T09:02:20.882892"
+      }
+    ],
+    "current_units": "九如分隊",
+    "units_history": [
+      {
+        "units": "九如分隊",
+        "timestamp": "2026-10-04T07:03:21.199043"
       }
     ]
   },
@@ -639,6 +821,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T07:46:21.030061"
       }
+    ],
+    "current_units": "里港分隊",
+    "units_history": [
+      {
+        "units": "里港分隊",
+        "timestamp": "2026-10-04T07:15:20.920436"
+      }
     ]
   },
   "16f8b0a332fa7e15c9d63cb4c170e8d2": {
@@ -665,6 +854,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T08:44:20.391664"
       }
+    ],
+    "current_units": "鹽埔分隊",
+    "units_history": [
+      {
+        "units": "鹽埔分隊",
+        "timestamp": "2026-10-04T07:31:20.921515"
+      }
     ]
   },
   "f8cc91db6e5c2dbd85e3b98e83fd063c": {
@@ -677,6 +873,13 @@
     "status_history": [
       {
         "status": "已出動",
+        "timestamp": "2026-10-04T07:37:20.938187"
+      }
+    ],
+    "current_units": "龍泉分隊",
+    "units_history": [
+      {
+        "units": "龍泉分隊",
         "timestamp": "2026-10-04T07:37:20.938187"
       }
     ]
@@ -701,6 +904,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T08:17:20.196929"
       }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T07:48:20.041861"
+      }
     ]
   },
   "239554b67c6acc95ca27768a5584cfcc": {
@@ -719,6 +929,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T08:10:20.223029"
       }
+    ],
+    "current_units": "潮州分隊",
+    "units_history": [
+      {
+        "units": "潮州分隊",
+        "timestamp": "2026-10-04T07:53:20.034766"
+      }
     ]
   },
   "87ab4defd61097badf904ec579c730d0": {
@@ -736,6 +953,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T08:31:20.219263"
+      }
+    ],
+    "current_units": "龍泉分隊",
+    "units_history": [
+      {
+        "units": "龍泉分隊",
+        "timestamp": "2026-10-04T07:55:20.049829"
       }
     ]
   },
@@ -759,6 +983,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T08:56:20.482453"
       }
+    ],
+    "current_units": "枋寮分隊",
+    "units_history": [
+      {
+        "units": "枋寮分隊",
+        "timestamp": "2026-10-04T08:10:20.223029"
+      }
     ]
   },
   "2cd999ae62bf77430c182a02463b0849": {
@@ -781,6 +1012,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T09:31:20.772660"
       }
+    ],
+    "current_units": "萬丹分隊",
+    "units_history": [
+      {
+        "units": "萬丹分隊",
+        "timestamp": "2026-10-04T08:10:20.223029"
+      }
     ]
   },
   "6eb8f7731b1cd5568f17c4a0cb567739": {
@@ -798,6 +1036,13 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T08:22:20.311165"
+      }
+    ],
+    "current_units": "內埔分隊",
+    "units_history": [
+      {
+        "units": "內埔分隊",
+        "timestamp": "2026-10-04T08:21:20.197514"
       }
     ]
   },
@@ -825,6 +1070,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T08:47:20.449637"
       }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T08:22:20.311165"
+      }
     ]
   },
   "57240c0f08014b3768ceec1d24775da2": {
@@ -847,6 +1099,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T09:15:20.594003"
       }
+    ],
+    "current_units": "內埔分隊",
+    "units_history": [
+      {
+        "units": "內埔分隊",
+        "timestamp": "2026-10-04T08:24:20.479334"
+      }
     ]
   },
   "c5e63bf7d71dda557fe91f02e8aa8641": {
@@ -859,6 +1118,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T08:30:20.298802"
+      }
+    ],
+    "current_units": "琉球分隊",
+    "units_history": [
+      {
+        "units": "琉球分隊",
         "timestamp": "2026-10-04T08:30:20.298802"
       }
     ]
@@ -887,6 +1153,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T09:31:20.772660"
       }
+    ],
+    "current_units": "里港分隊",
+    "units_history": [
+      {
+        "units": "里港分隊",
+        "timestamp": "2026-10-04T08:31:20.219263"
+      }
     ]
   },
   "8c5df31a7cc41c9cb0a4e0708ad9b219": {
@@ -913,6 +1186,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T09:27:20.762120"
       }
+    ],
+    "current_units": "佳冬分隊",
+    "units_history": [
+      {
+        "units": "佳冬分隊",
+        "timestamp": "2026-10-04T08:34:20.322023"
+      }
     ]
   },
   "bee687461b1619e1dfecd8e8f943524d": {
@@ -927,6 +1207,13 @@
         "status": "已受理",
         "timestamp": "2026-10-04T08:35:20.409192"
       }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
+        "timestamp": "2026-10-04T08:35:20.409192"
+      }
     ]
   },
   "d03e1c75f7f90b76b15582815e2dede7": {
@@ -939,6 +1226,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T08:37:20.333820"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T08:37:20.333820"
       }
     ]
@@ -962,6 +1256,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T09:30:20.727197"
+      }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T08:54:21.770048"
       }
     ]
   },
@@ -989,6 +1290,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T09:44:21.022983"
       }
+    ],
+    "current_units": "新園分隊",
+    "units_history": [
+      {
+        "units": "新園分隊",
+        "timestamp": "2026-10-04T08:55:20.873161"
+      }
     ]
   },
   "fdf42fe973cb572606906d979d60189f": {
@@ -1015,6 +1323,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T10:22:21.116816"
       }
+    ],
+    "current_units": "瑪家分隊",
+    "units_history": [
+      {
+        "units": "瑪家分隊",
+        "timestamp": "2026-10-04T09:05:22.013077"
+      }
     ]
   },
   "a5472f1ed985427b539bd9b4c4ba0112": {
@@ -1037,6 +1352,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T09:52:21.037964"
       }
+    ],
+    "current_units": "竹田分隊",
+    "units_history": [
+      {
+        "units": "竹田分隊",
+        "timestamp": "2026-10-04T09:05:22.013077"
+      }
     ]
   },
   "8bb01011c49cfc2d934f9420b67debbe": {
@@ -1055,6 +1377,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T09:09:20.561378"
       }
+    ],
+    "current_units": "潮州分隊",
+    "units_history": [
+      {
+        "units": "潮州分隊",
+        "timestamp": "2026-10-04T09:06:20.636835"
+      }
     ]
   },
   "8bed3787a15b59cf51836e84d992a3a9": {
@@ -1067,6 +1396,13 @@
     "status_history": [
       {
         "status": "已出動",
+        "timestamp": "2026-10-04T09:17:20.699962"
+      }
+    ],
+    "current_units": "潮州分隊",
+    "units_history": [
+      {
+        "units": "潮州分隊",
         "timestamp": "2026-10-04T09:17:20.699962"
       }
     ]
@@ -1091,6 +1427,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T09:48:21.069223"
       }
+    ],
+    "current_units": "新埤分隊,潮州分隊",
+    "units_history": [
+      {
+        "units": "新埤分隊,潮州分隊",
+        "timestamp": "2026-10-04T09:19:20.687404"
+      }
     ]
   },
   "5f12cffee84f9f366dfde13b203dc4e3": {
@@ -1103,6 +1446,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T09:24:20.733270"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T09:24:20.733270"
       }
     ]
@@ -1126,6 +1476,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T10:37:20.211842"
+      }
+    ],
+    "current_units": "東港分隊",
+    "units_history": [
+      {
+        "units": "東港分隊",
+        "timestamp": "2026-10-04T09:24:20.733270"
       }
     ]
   },
@@ -1153,6 +1510,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T10:18:21.129206"
       }
+    ],
+    "current_units": "萬巒分隊",
+    "units_history": [
+      {
+        "units": "萬巒分隊",
+        "timestamp": "2026-10-04T09:40:21.072314"
+      }
     ]
   },
   "3fa14672cb061168df45f34d9e7b1124": {
@@ -1175,6 +1539,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T09:53:20.859419"
       }
+    ],
+    "current_units": "枋寮分隊",
+    "units_history": [
+      {
+        "units": "枋寮分隊",
+        "timestamp": "2026-10-04T09:40:21.072314"
+      }
     ]
   },
   "a4ac2dad44d308519ee6f71d59ebf7fe": {
@@ -1187,6 +1558,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T09:47:20.835727"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T09:47:20.835727"
       }
     ]
@@ -1211,6 +1589,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T10:41:20.134739"
       }
+    ],
+    "current_units": "崁頂分隊",
+    "units_history": [
+      {
+        "units": "崁頂分隊",
+        "timestamp": "2026-10-04T10:01:21.103671"
+      }
     ]
   },
   "ee8ea892eb35eab43df61aaa4e4c42ce": {
@@ -1232,6 +1617,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T10:25:20.086102"
+      }
+    ],
+    "current_units": "鹽埔分隊",
+    "units_history": [
+      {
+        "units": "鹽埔分隊",
+        "timestamp": "2026-10-04T10:11:21.077778"
       }
     ]
   },
@@ -1255,6 +1647,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T11:21:20.500891"
       }
+    ],
+    "current_units": "竹田分隊",
+    "units_history": [
+      {
+        "units": "竹田分隊",
+        "timestamp": "2026-10-04T10:13:21.079091"
+      }
     ]
   },
   "46bdce7b0016782d10c6935d05499bcf": {
@@ -1267,6 +1666,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T10:30:20.170936"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T10:30:20.170936"
       }
     ]
@@ -1291,6 +1697,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T11:24:20.405788"
       }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T10:31:20.116365"
+      }
     ]
   },
   "eef1c24d6f082166145926be2a28f1cd": {
@@ -1303,6 +1716,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T10:36:20.188908"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T10:36:20.188908"
       }
     ]
@@ -1327,6 +1747,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T11:45:20.625152"
       }
+    ],
+    "current_units": "林邊分隊",
+    "units_history": [
+      {
+        "units": "林邊分隊",
+        "timestamp": "2026-10-04T10:42:20.182123"
+      }
     ]
   },
   "a65b1e087c1a36ebeb939d726ae50805": {
@@ -1348,6 +1775,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T12:08:20.714444"
+      }
+    ],
+    "current_units": "長治分隊",
+    "units_history": [
+      {
+        "units": "長治分隊",
+        "timestamp": "2026-10-04T10:42:20.182123"
       }
     ]
   },
@@ -1371,6 +1805,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T12:02:20.730562"
       }
+    ],
+    "current_units": "新園分隊",
+    "units_history": [
+      {
+        "units": "新園分隊",
+        "timestamp": "2026-10-04T10:55:20.269855"
+      }
     ]
   },
   "cd78e72532b1696cedf5f2958d0b77ba": {
@@ -1392,6 +1833,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T11:47:20.687183"
+      }
+    ],
+    "current_units": "麟洛分隊",
+    "units_history": [
+      {
+        "units": "麟洛分隊",
+        "timestamp": "2026-10-04T11:05:20.367639"
       }
     ]
   },
@@ -1419,6 +1867,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T11:59:20.704075"
       }
+    ],
+    "current_units": "萬丹分隊",
+    "units_history": [
+      {
+        "units": "萬丹分隊",
+        "timestamp": "2026-10-04T11:09:20.344994"
+      }
     ]
   },
   "a13eaaa6ae2bcba0851df2a6acfd6407": {
@@ -1436,6 +1891,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T11:33:20.540066"
+      }
+    ],
+    "current_units": "佳冬分隊",
+    "units_history": [
+      {
+        "units": "佳冬分隊",
+        "timestamp": "2026-10-04T11:13:20.310836"
       }
     ]
   },
@@ -1458,6 +1920,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T12:09:20.736054"
+      }
+    ],
+    "current_units": "鹽埔分隊",
+    "units_history": [
+      {
+        "units": "鹽埔分隊",
+        "timestamp": "2026-10-04T11:17:20.326932"
       }
     ]
   },
@@ -1485,6 +1954,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T11:39:20.582260"
       }
+    ],
+    "current_units": "龍泉分隊",
+    "units_history": [
+      {
+        "units": "龍泉分隊",
+        "timestamp": "2026-10-04T11:21:20.500891"
+      }
     ]
   },
   "d726da1f74d9452feeb9632ee1114bf3": {
@@ -1502,6 +1978,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T12:39:20.934084"
+      }
+    ],
+    "current_units": "新埤分隊",
+    "units_history": [
+      {
+        "units": "新埤分隊",
+        "timestamp": "2026-10-04T11:22:20.499517"
       }
     ]
   },
@@ -1525,6 +2008,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T11:40:20.555774"
       }
+    ],
+    "current_units": "高樹分隊",
+    "units_history": [
+      {
+        "units": "高樹分隊",
+        "timestamp": "2026-10-04T11:25:20.419712"
+      }
     ]
   },
   "c9c85485e7365787259d4976ecac0e05": {
@@ -1537,6 +2027,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T11:26:20.474017"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T11:26:20.474017"
       }
     ]
@@ -1561,6 +2058,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T12:06:20.733330"
       }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T11:37:20.577725"
+      }
     ]
   },
   "77e9e3ae4cd26e0a9784e549799c6c59": {
@@ -1583,6 +2087,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T12:50:21.842939"
       }
+    ],
+    "current_units": "內埔分隊",
+    "units_history": [
+      {
+        "units": "內埔分隊",
+        "timestamp": "2026-10-04T11:58:20.721652"
+      }
     ]
   },
   "821618e238b30a0749baa02b47aca0ea": {
@@ -1604,6 +2115,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T12:38:20.921403"
+      }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T11:59:20.704075"
       }
     ]
   },
@@ -1635,6 +2153,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T12:42:20.961596"
       }
+    ],
+    "current_units": "高級救護隊",
+    "units_history": [
+      {
+        "units": "高級救護隊",
+        "timestamp": "2026-10-04T12:00:20.721862"
+      }
     ]
   },
   "3ab93a6697a8431976d0d9573cb603a1": {
@@ -1656,6 +2181,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T13:11:21.232828"
+      }
+    ],
+    "current_units": "滿州分隊",
+    "units_history": [
+      {
+        "units": "滿州分隊",
+        "timestamp": "2026-10-04T12:07:20.771069"
       }
     ]
   },
@@ -1679,6 +2211,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T13:05:21.068712"
       }
+    ],
+    "current_units": "鹽埔分隊",
+    "units_history": [
+      {
+        "units": "鹽埔分隊",
+        "timestamp": "2026-10-04T12:14:20.653325"
+      }
     ]
   },
   "73c3a9d2c346d78924f6ce8148291c9b": {
@@ -1691,6 +2230,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T12:27:20.874368"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T12:27:20.874368"
       }
     ]
@@ -1710,6 +2256,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T13:06:21.049284"
+      }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T12:31:20.802022"
       }
     ]
   },
@@ -1732,6 +2285,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T13:27:20.281806"
+      }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T12:38:20.921403"
       }
     ]
   },
@@ -1759,6 +2319,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T16:31:20.761942"
       }
+    ],
+    "current_units": "麟洛分隊",
+    "units_history": [
+      {
+        "units": "麟洛分隊",
+        "timestamp": "2026-10-04T12:47:20.927016"
+      }
     ]
   },
   "6989bce7cdac545fd549cd1b425aa1d2": {
@@ -1780,6 +2347,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T14:05:20.502737"
+      }
+    ],
+    "current_units": "新埤分隊",
+    "units_history": [
+      {
+        "units": "新埤分隊",
+        "timestamp": "2026-10-04T12:48:21.041024"
       }
     ]
   },
@@ -1807,6 +2381,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T13:54:20.399328"
       }
+    ],
+    "current_units": "佳冬分隊",
+    "units_history": [
+      {
+        "units": "佳冬分隊",
+        "timestamp": "2026-10-04T13:08:23.298618"
+      }
     ]
   },
   "a6b94ad11af979d21f290ab862cc084d": {
@@ -1829,6 +2410,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T13:38:20.369744"
       }
+    ],
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-04T13:09:21.721939"
+      }
     ]
   },
   "93aa5fc8efdfd8f69f8a9353dc912a5b": {
@@ -1850,6 +2438,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T13:55:20.410611"
+      }
+    ],
+    "current_units": "琉球分隊",
+    "units_history": [
+      {
+        "units": "琉球分隊",
+        "timestamp": "2026-10-04T13:18:21.177014"
       }
     ]
   },
@@ -1877,6 +2472,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T13:57:20.551303"
       }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T13:19:21.228546"
+      }
     ]
   },
   "9bc0cca5ee3a35f62ac0fa33138db9b6": {
@@ -1894,6 +2496,13 @@
       {
         "status": "已受理",
         "timestamp": "2026-10-04T13:31:20.335965"
+      }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T13:30:20.283244"
       }
     ]
   },
@@ -1917,6 +2526,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T14:38:20.802121"
       }
+    ],
+    "current_units": "萬丹分隊",
+    "units_history": [
+      {
+        "units": "萬丹分隊",
+        "timestamp": "2026-10-04T13:31:20.335965"
+      }
     ]
   },
   "54d38a30ad877d87d703be4b9a8f1c22": {
@@ -1939,6 +2555,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T15:09:21.049897"
       }
+    ],
+    "current_units": "內埔分隊",
+    "units_history": [
+      {
+        "units": "內埔分隊",
+        "timestamp": "2026-10-04T13:34:20.353402"
+      }
     ]
   },
   "f4d455c1356362d50c3e99bcf33644e7": {
@@ -1960,6 +2583,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T14:20:20.768024"
+      }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T13:51:20.445759"
       }
     ]
   },
@@ -1987,6 +2617,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T14:53:20.800746"
       }
+    ],
+    "current_units": "里港分隊",
+    "units_history": [
+      {
+        "units": "里港分隊",
+        "timestamp": "2026-10-04T13:55:20.410611"
+      }
     ]
   },
   "bd89c076821112a9bcabb9a34c97f234": {
@@ -2008,6 +2645,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T14:50:20.907519"
+      }
+    ],
+    "current_units": "新園分隊",
+    "units_history": [
+      {
+        "units": "新園分隊",
+        "timestamp": "2026-10-04T14:03:20.916648"
       }
     ]
   },
@@ -2031,6 +2675,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T15:02:20.890391"
       }
+    ],
+    "current_units": "長治分隊",
+    "units_history": [
+      {
+        "units": "長治分隊",
+        "timestamp": "2026-10-04T14:09:20.518349"
+      }
     ]
   },
   "1acc6fb1e58874f0f6c2417f65bbadaf": {
@@ -2043,6 +2694,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T14:10:20.554174"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T14:10:20.554174"
       }
     ]
@@ -2066,6 +2724,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T15:02:20.890391"
+      }
+    ],
+    "current_units": "林邊分隊",
+    "units_history": [
+      {
+        "units": "林邊分隊",
+        "timestamp": "2026-10-04T14:16:20.585328"
       }
     ]
   },
@@ -2093,6 +2758,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T15:23:21.150362"
       }
+    ],
+    "current_units": "墾丁分隊",
+    "units_history": [
+      {
+        "units": "墾丁分隊",
+        "timestamp": "2026-10-04T14:20:20.768024"
+      }
     ]
   },
   "b58a3259a883cb6e5511ae4d6ad14b5b": {
@@ -2114,6 +2786,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T15:45:21.225776"
+      }
+    ],
+    "current_units": "萬巒分隊",
+    "units_history": [
+      {
+        "units": "萬巒分隊",
+        "timestamp": "2026-10-04T14:29:20.662006"
       }
     ]
   },
@@ -2141,6 +2820,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T15:26:21.132181"
       }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T14:33:20.889851"
+      }
     ]
   },
   "32e502194c9d231ec0d3ee38b4850526": {
@@ -2162,6 +2848,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T15:20:21.059397"
+      }
+    ],
+    "current_units": "龍泉分隊",
+    "units_history": [
+      {
+        "units": "龍泉分隊",
+        "timestamp": "2026-10-04T14:39:20.917018"
       }
     ]
   },
@@ -2185,6 +2878,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T15:31:21.024271"
       }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T14:41:20.716589"
+      }
     ]
   },
   "6da27282f4624a31054a173baef690e3": {
@@ -2197,6 +2897,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T14:44:20.845324"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T14:44:20.845324"
       }
     ]
@@ -2221,6 +2928,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T15:37:21.068926"
       }
+    ],
+    "current_units": "竹田分隊",
+    "units_history": [
+      {
+        "units": "竹田分隊",
+        "timestamp": "2026-10-04T14:49:21.051445"
+      }
     ]
   },
   "315ccd5f11e6a493227ccebb74ab734a": {
@@ -2239,6 +2953,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T15:28:21.102404"
       }
+    ],
+    "current_units": "高級救護隊",
+    "units_history": [
+      {
+        "units": "高級救護隊",
+        "timestamp": "2026-10-04T14:52:20.785411"
+      }
     ]
   },
   "854a542dfa321e2f6b2aac1eddac4819": {
@@ -2251,6 +2972,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T14:56:20.889225"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T14:56:20.889225"
       }
     ]
@@ -2275,6 +3003,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T17:01:20.783766"
       }
+    ],
+    "current_units": "高樹分隊",
+    "units_history": [
+      {
+        "units": "高樹分隊",
+        "timestamp": "2026-10-04T14:56:20.889225"
+      }
     ]
   },
   "b9ba9235aa62d96365141cc8f3a26e83": {
@@ -2296,6 +3031,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T15:49:21.292641"
+      }
+    ],
+    "current_units": "萬丹分隊",
+    "units_history": [
+      {
+        "units": "萬丹分隊",
+        "timestamp": "2026-10-04T14:58:20.888668"
       }
     ]
   },
@@ -2319,6 +3061,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T16:11:21.390779"
       }
+    ],
+    "current_units": "里港分隊",
+    "units_history": [
+      {
+        "units": "里港分隊",
+        "timestamp": "2026-10-04T15:12:21.069430"
+      }
     ]
   },
   "79e529666ff46a8743fa6fd9054a88db": {
@@ -2340,6 +3089,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T16:16:21.350512"
+      }
+    ],
+    "current_units": "鹽埔分隊",
+    "units_history": [
+      {
+        "units": "鹽埔分隊",
+        "timestamp": "2026-10-04T15:23:21.150362"
       }
     ]
   },
@@ -2375,6 +3131,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T16:01:21.711409"
       }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T15:31:21.024271"
+      }
     ]
   },
   "67e2e2c64474db55891f1415185249fe": {
@@ -2397,6 +3160,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T16:09:21.406493"
       }
+    ],
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-04T15:33:21.112211"
+      }
     ]
   },
   "4cdf5761ad767a2ff9e391bae0ca4cef": {
@@ -2409,6 +3179,13 @@
     "status_history": [
       {
         "status": "已出動",
+        "timestamp": "2026-10-04T15:34:21.102116"
+      }
+    ],
+    "current_units": "南州分隊",
+    "units_history": [
+      {
+        "units": "南州分隊",
         "timestamp": "2026-10-04T15:34:21.102116"
       }
     ]
@@ -2432,6 +3209,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T16:51:20.915869"
+      }
+    ],
+    "current_units": "竹田分隊",
+    "units_history": [
+      {
+        "units": "竹田分隊",
+        "timestamp": "2026-10-04T15:37:21.068926"
       }
     ]
   },
@@ -2459,6 +3243,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T16:47:20.743823"
       }
+    ],
+    "current_units": "長治分隊",
+    "units_history": [
+      {
+        "units": "長治分隊",
+        "timestamp": "2026-10-04T15:50:21.330342"
+      }
     ]
   },
   "39216cbaa105b89fc58a58d63c6fc593": {
@@ -2485,6 +3276,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T16:38:20.855076"
       }
+    ],
+    "current_units": "高級救護隊",
+    "units_history": [
+      {
+        "units": "高級救護隊",
+        "timestamp": "2026-10-04T15:51:21.550403"
+      }
     ]
   },
   "0ea3b0c920314a4bf12e6ebd469e557f": {
@@ -2507,6 +3305,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T16:56:20.758756"
       }
+    ],
+    "current_units": "內埔分隊",
+    "units_history": [
+      {
+        "units": "內埔分隊",
+        "timestamp": "2026-10-04T15:57:21.467588"
+      }
     ]
   },
   "5879d00eca0337d7d237c548402abe4c": {
@@ -2528,6 +3333,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T17:50:20.952750"
+      }
+    ],
+    "current_units": "萬丹分隊",
+    "units_history": [
+      {
+        "units": "萬丹分隊",
+        "timestamp": "2026-10-04T16:02:21.378449"
       }
     ]
   },
@@ -2559,6 +3371,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T16:39:21.105394"
       }
+    ],
+    "current_units": "東港分隊",
+    "units_history": [
+      {
+        "units": "東港分隊",
+        "timestamp": "2026-10-04T16:03:21.336661"
+      }
     ]
   },
   "90788cb263312eb6bc10a3b0e213eefa": {
@@ -2571,6 +3390,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T16:22:21.362130"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T16:22:21.362130"
       }
     ]
@@ -2590,6 +3416,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T17:27:21.055006"
+      }
+    ],
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-04T16:25:20.668882"
       }
     ]
   },
@@ -2612,6 +3445,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T17:27:21.055006"
+      }
+    ],
+    "current_units": "麟洛分隊",
+    "units_history": [
+      {
+        "units": "麟洛分隊",
+        "timestamp": "2026-10-04T16:38:20.855076"
       }
     ]
   },
@@ -2639,6 +3479,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T17:20:20.794616"
       }
+    ],
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-04T16:44:20.673189"
+      }
     ]
   },
   "9576ad5b3af04c58aebac8f7dd756225": {
@@ -2656,6 +3503,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T17:50:20.952750"
+      }
+    ],
+    "current_units": "竹田分隊",
+    "units_history": [
+      {
+        "units": "竹田分隊",
+        "timestamp": "2026-10-04T17:08:20.841016"
       }
     ]
   },
@@ -2683,6 +3537,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T18:52:21.472754"
       }
+    ],
+    "current_units": "獅子分隊",
+    "units_history": [
+      {
+        "units": "獅子分隊",
+        "timestamp": "2026-10-04T17:26:21.017373"
+      }
     ]
   },
   "ba2fd85a305029d4fe1086882a8058be": {
@@ -2709,6 +3570,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T19:13:20.867916"
       }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T18:10:21.212865"
+      }
     ]
   },
   "34282bd6fda2d69cf641c03432d322ff": {
@@ -2730,6 +3598,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T19:01:20.666111"
+      }
+    ],
+    "current_units": "鹽埔分隊",
+    "units_history": [
+      {
+        "units": "鹽埔分隊",
+        "timestamp": "2026-10-04T18:15:21.265109"
       }
     ]
   },
@@ -2753,6 +3628,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T18:56:20.651790"
       }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T18:18:21.342994"
+      }
     ]
   },
   "82300580eb073f194468adb4635a9838": {
@@ -2771,6 +3653,13 @@
         "status": "已出動",
         "timestamp": "2026-10-04T18:23:21.431862"
       }
+    ],
+    "current_units": "瑪家分隊",
+    "units_history": [
+      {
+        "units": "瑪家分隊",
+        "timestamp": "2026-10-04T18:20:21.244378"
+      }
     ]
   },
   "3cdf8bb089a5d8977f85d8da63a307c6": {
@@ -2788,6 +3677,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T22:08:20.215470"
+      }
+    ],
+    "current_units": "瑪家分隊",
+    "units_history": [
+      {
+        "units": "瑪家分隊",
+        "timestamp": "2026-10-04T18:24:21.337796"
       }
     ]
   },
@@ -2815,6 +3711,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T20:08:20.436522"
       }
+    ],
+    "current_units": "高樹分隊",
+    "units_history": [
+      {
+        "units": "高樹分隊",
+        "timestamp": "2026-10-04T18:33:21.400409"
+      }
     ]
   },
   "9dd867b3bb093315c16b2734c41332d6": {
@@ -2840,6 +3743,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T20:04:20.622647"
+      }
+    ],
+    "current_units": "長治分隊",
+    "units_history": [
+      {
+        "units": "長治分隊",
+        "timestamp": "2026-10-04T18:34:21.664204"
       }
     ]
   },
@@ -2867,6 +3777,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T20:09:20.390172"
       }
+    ],
+    "current_units": "萬巒分隊",
+    "units_history": [
+      {
+        "units": "萬巒分隊",
+        "timestamp": "2026-10-04T18:44:21.340287"
+      }
     ]
   },
   "a388310ebbb457b60a8cfada7bfe0444": {
@@ -2889,6 +3806,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T19:09:21.015533"
       }
+    ],
+    "current_units": "潮州分隊",
+    "units_history": [
+      {
+        "units": "潮州分隊",
+        "timestamp": "2026-10-04T18:46:21.549896"
+      }
     ]
   },
   "a5a8c1b3bd2be19be49a310694a5c214": {
@@ -2910,6 +3834,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T19:35:21.091174"
+      }
+    ],
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-04T18:48:21.523032"
       }
     ]
   },
@@ -2941,6 +3872,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T19:26:21.026072"
       }
+    ],
+    "current_units": "麟洛分隊",
+    "units_history": [
+      {
+        "units": "麟洛分隊",
+        "timestamp": "2026-10-04T18:55:20.639138"
+      }
     ]
   },
   "931c2d5a9117c96ac173be9129ae8328": {
@@ -2967,6 +3905,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T19:49:21.168387"
       }
+    ],
+    "current_units": "東港分隊",
+    "units_history": [
+      {
+        "units": "東港分隊",
+        "timestamp": "2026-10-04T19:07:20.727054"
+      }
     ]
   },
   "68e1305e2a11143ebce078e44e32124d": {
@@ -2988,6 +3933,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T20:09:20.390172"
+      }
+    ],
+    "current_units": "竹田分隊",
+    "units_history": [
+      {
+        "units": "竹田分隊",
+        "timestamp": "2026-10-04T19:08:20.982863"
       }
     ]
   },
@@ -3015,6 +3967,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T20:04:20.622647"
       }
+    ],
+    "current_units": "鹽埔分隊",
+    "units_history": [
+      {
+        "units": "鹽埔分隊",
+        "timestamp": "2026-10-04T19:33:21.113626"
+      }
     ]
   },
   "291fcc2ad37995f3ca2402fa1ec7c7be": {
@@ -3032,6 +3991,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T20:06:20.608325"
+      }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T19:33:21.113626"
       }
     ]
   },
@@ -3055,6 +4021,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T20:21:20.439914"
       }
+    ],
+    "current_units": "內埔分隊",
+    "units_history": [
+      {
+        "units": "內埔分隊",
+        "timestamp": "2026-10-04T19:36:20.792509"
+      }
     ]
   },
   "166accb862a341f92a37181d5166ada9": {
@@ -3067,6 +4040,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T19:38:20.882885"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T19:38:20.882885"
       }
     ]
@@ -3091,6 +4071,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T20:17:20.464162"
       }
+    ],
+    "current_units": "崁頂分隊",
+    "units_history": [
+      {
+        "units": "崁頂分隊",
+        "timestamp": "2026-10-04T19:39:21.150973"
+      }
     ]
   },
   "1fa53acf9989e86ef9f830c635050319": {
@@ -3113,6 +4100,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T20:28:20.408183"
       }
+    ],
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-04T19:43:21.260094"
+      }
     ]
   },
   "889834263959eac9afb56a355945f48d": {
@@ -3130,6 +4124,13 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-04T19:45:21.050325"
+      }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T19:44:21.043455"
       }
     ]
   },
@@ -3165,6 +4166,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T21:00:20.685525"
       }
+    ],
+    "current_units": "滿州分隊",
+    "units_history": [
+      {
+        "units": "滿州分隊",
+        "timestamp": "2026-10-04T19:52:21.224028"
+      }
     ]
   },
   "55e91d0418507e0adc1931c97c90e970": {
@@ -3183,6 +4191,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T22:18:20.300992"
       }
+    ],
+    "current_units": "公館分隊,屏東分隊",
+    "units_history": [
+      {
+        "units": "公館分隊,屏東分隊",
+        "timestamp": "2026-10-04T19:54:21.212910"
+      }
     ]
   },
   "524178085fb8f1e736bcd2f17da45315": {
@@ -3195,6 +4210,13 @@
     "status_history": [
       {
         "status": "已受理",
+        "timestamp": "2026-10-04T20:04:20.622647"
+      }
+    ],
+    "current_units": "",
+    "units_history": [
+      {
+        "units": "",
         "timestamp": "2026-10-04T20:04:20.622647"
       }
     ]
@@ -3218,6 +4240,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T20:41:20.519289"
+      }
+    ],
+    "current_units": "東港分隊",
+    "units_history": [
+      {
+        "units": "東港分隊",
+        "timestamp": "2026-10-04T20:12:20.485156"
       }
     ]
   },
@@ -3245,6 +4274,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T20:58:20.686575"
       }
+    ],
+    "current_units": "里港分隊",
+    "units_history": [
+      {
+        "units": "里港分隊",
+        "timestamp": "2026-10-04T20:39:20.565873"
+      }
     ]
   },
   "0a2db060ad4208b4503b723ed77bce29": {
@@ -3270,6 +4306,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T22:01:20.100906"
+      }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T20:42:20.574986"
       }
     ]
   },
@@ -3297,6 +4340,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-05T05:23:20.791928"
       }
+    ],
+    "current_units": "墾丁分隊",
+    "units_history": [
+      {
+        "units": "墾丁分隊",
+        "timestamp": "2026-10-04T20:54:20.677050"
+      }
     ]
   },
   "06f8699633d9b986b1b844c616961102": {
@@ -3323,6 +4373,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T21:28:21.120696"
       }
+    ],
+    "current_units": "高級救護隊",
+    "units_history": [
+      {
+        "units": "高級救護隊",
+        "timestamp": "2026-10-04T20:59:20.717539"
+      }
     ]
   },
   "d47881c2b82c67a20162e4a143bcf8a4": {
@@ -3344,6 +4401,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T21:53:19.976883"
+      }
+    ],
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-04T21:07:20.703511"
       }
     ]
   },
@@ -3379,6 +4443,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T22:13:20.180804"
       }
+    ],
+    "current_units": "東港分隊",
+    "units_history": [
+      {
+        "units": "東港分隊",
+        "timestamp": "2026-10-04T21:32:20.931550"
+      }
     ]
   },
   "4652b0f28c2e8b2cbf962d620bf5d82f": {
@@ -3400,6 +4471,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T23:13:20.639172"
+      }
+    ],
+    "current_units": "長治分隊",
+    "units_history": [
+      {
+        "units": "長治分隊",
+        "timestamp": "2026-10-04T21:34:20.923281"
       }
     ]
   },
@@ -3423,6 +4501,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T22:32:20.253635"
       }
+    ],
+    "current_units": "牡丹分隊",
+    "units_history": [
+      {
+        "units": "牡丹分隊",
+        "timestamp": "2026-10-04T22:04:20.451442"
+      }
     ]
   },
   "aa66f74641a8b14dfbfb8e43c3e72856": {
@@ -3445,6 +4530,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T22:44:20.432556"
       }
+    ],
+    "current_units": "麟洛分隊",
+    "units_history": [
+      {
+        "units": "麟洛分隊",
+        "timestamp": "2026-10-04T22:07:20.131624"
+      }
     ]
   },
   "55c23f533869f2efdf7d714375f6c0d4": {
@@ -3462,6 +4554,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T22:41:20.352437"
+      }
+    ],
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-04T22:15:20.134543"
       }
     ]
   },
@@ -3489,6 +4588,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T22:55:20.534775"
       }
+    ],
+    "current_units": "東港分隊",
+    "units_history": [
+      {
+        "units": "東港分隊",
+        "timestamp": "2026-10-04T22:29:20.340170"
+      }
     ]
   },
   "287225a320b631f0db8f8e7732c56c0a": {
@@ -3510,6 +4616,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-04T23:28:20.641514"
+      }
+    ],
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-04T22:41:20.352437"
       }
     ]
   },
@@ -3545,6 +4658,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-04T23:15:20.545266"
       }
+    ],
+    "current_units": "高級救護隊",
+    "units_history": [
+      {
+        "units": "高級救護隊",
+        "timestamp": "2026-10-04T22:48:20.404023"
+      }
     ]
   },
   "de42cb8942bc860d0d2fc2480a123d80": {
@@ -3566,6 +4686,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-05T00:39:20.017266"
+      }
+    ],
+    "current_units": "里港分隊",
+    "units_history": [
+      {
+        "units": "里港分隊",
+        "timestamp": "2026-10-04T23:32:20.752349"
       }
     ]
   },
@@ -3589,6 +4716,13 @@
         "status": "已返隊",
         "timestamp": "2026-10-05T00:46:20.016166"
       }
+    ],
+    "current_units": "公館分隊",
+    "units_history": [
+      {
+        "units": "公館分隊",
+        "timestamp": "2026-10-04T23:57:20.771549"
+      }
     ]
   },
   "0995628f661f51b406a986a7e3191ee4": {
@@ -3610,6 +4744,13 @@
       {
         "status": "已返隊",
         "timestamp": "2026-10-05T01:16:20.270353"
+      }
+    ],
+    "current_units": "龍泉分隊",
+    "units_history": [
+      {
+        "units": "龍泉分隊",
+        "timestamp": "2026-10-05T00:00:20.788849"
       }
     ]
   }
