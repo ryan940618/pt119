@@ -2183,7 +2183,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市光復路",
     "units": "屏東分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2192,6 +2192,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-19T14:47:21.525516"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T14:55:21.534927"
       }
     ]
   },
@@ -2248,6 +2252,34 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-19T14:40:21.471295"
+      }
+    ]
+  },
+  "91bdffa9c3bd687e62c7be834022ccba": {
+    "time": "2026/10/19 14:52:43",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣枋寮鄉永翔路",
+    "units": "佳冬分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T14:53:26.159537"
+      }
+    ]
+  },
+  "5eb6f6e947380765aa6684125737d722": {
+    "time": "2026/10/19 14:55:29",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣內埔鄉勝利路",
+    "units": "內埔分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T14:56:21.528771"
       }
     ]
   }
