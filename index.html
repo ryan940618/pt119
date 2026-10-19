@@ -358,7 +358,7 @@
         renderTable(data, `目前顯示區間：${dateStr}`);
     }
 
-    function renderTable(dataObj, statusText) {
+	function renderTable(dataObj, statusText) {
         const tbody = document.getElementById('eventBody');
         tbody.innerHTML = ''; 
 
@@ -366,18 +366,20 @@
 
         if (events.length === 0) {
             document.getElementById('statusMessage').innerText = `${statusText} (目前無資料)`;
-            tbody.innerHTML = '<tr><td colspan="7" style="text-align:center; padding: 30px; color: #888;">選定之日期無案件紀錄</td></tr>';
+            tbody.innerHTML = '<tr><td colspan="6" style="text-align:center; padding: 30px; color: #888;">選定之日期無案件紀錄</td></tr>';
             return;
         }
 
         document.getElementById('statusMessage').innerText = `${statusText} (共 ${events.length} 筆)`;
 
+        // 依照時間新到舊排序
         events.sort((a, b) => new Date(b.time) - new Date(a.time));
 
         events.forEach(event => {
             const tr = document.createElement('tr');
 
-            const historyHtml = event.status_history.map(hist => {
+            // 1. 產生【狀態】歷史時間軸 HTML
+            const statusHistoryHtml = (event.status_history || []).map(hist => {
                 const dateObj = new Date(hist.timestamp);
                 const timeStr = dateObj.toLocaleTimeString('zh-TW', { 
                     hour12: false, 
@@ -390,13 +392,32 @@
                         </li>`;
             }).join('');
 
+            // 2. 產生【派遣分隊】歷史時間軸 HTML
+            let unitsHtml = event.units; // 預設降級方案 (萬一舊資料沒轉到)
+            if (event.units_history && event.units_history.length > 0) {
+                unitsHtml = '<ul class="history-list">' + event.units_history.map(hist => {
+                    const dateObj = new Date(hist.timestamp);
+                    const timeStr = dateObj.toLocaleTimeString('zh-TW', { 
+                        hour12: false, 
+                        hour: '2-digit', 
+                        minute: '2-digit' 
+                    });
+                    // 如果分隊字串為空，顯示 "無" 或 "尚未派遣"
+                    const displayUnits = hist.units ? hist.units : '<span style="color:#999;">(無)</span>';
+                    return `<li class="history-item">
+                                <span class="time-badge" style="background: #E63946;">${timeStr}</span> 
+                                <span>${displayUnits}</span>
+                            </li>`;
+                }).join('') + '</ul>';
+            }
+
             tr.innerHTML = `
                 <td data-label="受理時間">${event.time}</td>
                 <td data-label="案類">${event.category}</td>
                 <td data-label="發生地點">${event.location}</td>
-                <td data-label="派遣分隊">${event.units}</td>
-                <td data-label="狀態" class="status-highlight">${event.current_status}</td>
-                <td data-label="時間軸"><ul class="history-list">${historyHtml}</ul></td>
+                <td data-label="派遣分隊">${unitsHtml}</td>
+                <td data-label="狀態" class="status-highlight">${event.current_status || event.status || ''}</td>
+                <td data-label="時間軸"><ul class="history-list">${statusHistoryHtml}</ul></td>
             `;
             tbody.appendChild(tr);
         });
