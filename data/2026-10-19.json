@@ -1107,7 +1107,7 @@
     "category": "緊急救護",
     "sub_category": "",
     "location": "屏東縣內埔鄉國立屏東科技大學管理學院旁[屏東縣內埔鄉學府路",
-    "units": "",
+    "units": "瑪家分隊,龍泉分隊",
     "current_status": "已返隊",
     "status_history": [
       {
@@ -1131,11 +1131,15 @@
         "timestamp": "2026-10-19T09:33:20.526105"
       }
     ],
-    "current_units": "",
+    "current_units": "瑪家分隊,龍泉分隊",
     "units_history": [
       {
         "units": "",
         "timestamp": "2026-10-19T08:17:20.924290"
+      },
+      {
+        "units": "瑪家分隊,龍泉分隊",
+        "timestamp": "2026-10-19T15:43:00"
       }
     ]
   },
@@ -1636,7 +1640,7 @@
     "category": "緊急救護",
     "sub_category": "",
     "location": "屏東縣長治鄉中興路",
-    "units": "九如分隊,公館分隊",
+    "units": "公館分隊,屏東分隊",
     "current_status": "已返隊",
     "status_history": [
       {
@@ -1652,11 +1656,15 @@
         "timestamp": "2026-10-19T10:28:20.868012"
       }
     ],
-    "current_units": "九如分隊,公館分隊",
+    "current_units": "公館分隊,屏東分隊",
     "units_history": [
       {
         "units": "九如分隊,公館分隊",
         "timestamp": "2026-10-19T09:53:20.610296"
+      },
+      {
+        "units": "公館分隊,屏東分隊",
+        "timestamp": "2026-10-19T15:43:00"
       }
     ]
   },
@@ -2601,7 +2609,7 @@
     "category": "緊急救護",
     "sub_category": "",
     "location": "屏東縣東港鎮大鵬灣橋下/垮海大橋瞭望台對面",
-    "units": "東港分隊",
+    "units": "佳冬分隊,崁頂分隊,東港分隊,林邊分隊,第三大隊",
     "current_status": "已出動",
     "status_history": [
       {
@@ -2609,11 +2617,19 @@
         "timestamp": "2026-10-19T13:39:20.971687"
       }
     ],
-    "current_units": "東港分隊",
+    "current_units": "佳冬分隊,崁頂分隊,東港分隊,林邊分隊,第三大隊",
     "units_history": [
       {
         "units": "東港分隊",
         "timestamp": "2026-10-19T13:39:20.971687"
+      },
+      {
+        "units": "崁頂分隊,東港分隊,枋寮分隊,林邊分隊,第三大隊",
+        "timestamp": "2026-10-19T15:43:00"
+      },
+      {
+        "units": "佳冬分隊,崁頂分隊,東港分隊,林邊分隊,第三大隊",
+        "timestamp": "2026-10-19T15:45:00"
       }
     ]
   },
@@ -2892,7 +2908,7 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉元泰街",
     "units": "萬丹分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2901,6 +2917,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-19T15:22:21.104642"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T15:45:00"
       }
     ],
     "current_units": "萬丹分隊",
@@ -2917,7 +2937,7 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮瑞昌街",
     "units": "潮州分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2926,6 +2946,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-19T15:28:21.408358"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T15:43:00"
       }
     ],
     "current_units": "潮州分隊",
@@ -3020,7 +3044,7 @@
     "category": "緊急救護",
     "sub_category": "",
     "location": "屏東縣竹田鄉龍門路",
-    "units": "麟洛分隊",
+    "units": "竹田分隊",
     "current_status": "已返隊",
     "status_history": [
       {
@@ -3036,11 +3060,15 @@
         "timestamp": "2026-10-19T15:31:20.934611"
       }
     ],
-    "current_units": "麟洛分隊",
+    "current_units": "竹田分隊",
     "units_history": [
       {
         "units": "麟洛分隊",
         "timestamp": "2026-10-19T15:01:21.649631"
+      },
+      {
+        "units": "竹田分隊",
+        "timestamp": "2026-10-19T15:43:00"
       }
     ]
   },
@@ -3083,6 +3111,27 @@
       {
         "units": "屏東分隊",
         "timestamp": "2026-10-19T15:27:20.951283"
+      }
+    ]
+  },
+  "ea277ae6507b754c504af94edb8ffac3": {
+    "time": "2026/10/19 15:42:32",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣潮州鎮大仁路",
+    "units": "潮州分隊",
+    "current_units": "潮州分隊",
+    "units_history": [
+      {
+        "units": "潮州分隊",
+        "timestamp": "2026-10-19T15:43:21.253962"
+      }
+    ],
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T15:43:21.253962"
       }
     ]
   }
