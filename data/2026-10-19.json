@@ -2107,11 +2107,15 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉龍南路",
     "units": "竹田分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-19T14:09:21.365854"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-19T14:48:21.540720"
       }
     ]
   },
@@ -2157,7 +2161,7 @@
     "sub_category": "",
     "location": "屏東縣屏東市自立南路56巷",
     "units": "公館分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2166,6 +2170,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-19T14:40:21.471295"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T14:49:26.604831"
       }
     ]
   },
@@ -2175,11 +2183,15 @@
     "sub_category": "",
     "location": "屏東縣屏東市光復路",
     "units": "屏東分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-19T14:30:21.213280"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-19T14:47:21.525516"
       }
     ]
   },
