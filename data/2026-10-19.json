@@ -2107,7 +2107,7 @@
     "sub_category": "",
     "location": "屏東縣竹田鄉龍南路",
     "units": "竹田分隊",
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2116,6 +2116,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-19T14:48:21.540720"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T15:02:21.590924"
       }
     ]
   },
@@ -2139,7 +2143,7 @@
     "sub_category": "",
     "location": "屏東縣新園鄉四環路",
     "units": "新園分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -2152,6 +2156,10 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-19T14:28:21.307918"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T15:06:20.798803"
       }
     ]
   },
@@ -2219,11 +2227,15 @@
     "sub_category": "",
     "location": "屏東縣萬丹鄉元泰街",
     "units": "萬丹分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-19T14:37:21.426253"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-19T15:22:21.104642"
       }
     ]
   },
@@ -2233,11 +2245,15 @@
     "sub_category": "",
     "location": "屏東縣潮州鎮瑞昌街",
     "units": "潮州分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-19T14:38:21.413422"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-19T15:28:21.408358"
       }
     ]
   },
@@ -2247,11 +2263,19 @@
     "sub_category": "",
     "location": "屏東縣高樹鄉興中路",
     "units": "高樹分隊",
-    "current_status": "已出動",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-19T14:40:21.471295"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-19T15:06:20.798803"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T15:34:21.064844"
       }
     ]
   },
@@ -2261,11 +2285,15 @@
     "sub_category": "",
     "location": "屏東縣枋寮鄉永翔路",
     "units": "佳冬分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-19T14:53:26.159537"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-19T15:37:21.150231"
       }
     ]
   },
@@ -2275,11 +2303,65 @@
     "sub_category": "",
     "location": "屏東縣內埔鄉勝利路",
     "units": "內埔分隊",
-    "current_status": "已出動",
+    "current_status": "返隊中",
     "status_history": [
       {
         "status": "已出動",
         "timestamp": "2026-10-19T14:56:21.528771"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-19T15:34:21.064844"
+      }
+    ]
+  },
+  "17f162823fe7a7ed6c01e73f9aa193b8": {
+    "time": "2026/10/19 14:58:00",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣竹田鄉龍門路",
+    "units": "麟洛分隊",
+    "current_status": "已返隊",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T15:01:21.649631"
+      },
+      {
+        "status": "返隊中",
+        "timestamp": "2026-10-19T15:20:20.879984"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T15:31:20.934611"
+      }
+    ]
+  },
+  "122097a6c6cee70ed573bc1fcb542e51": {
+    "time": "2026/10/19 15:20:57",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣新埤鄉中正路",
+    "units": "新埤分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T15:22:21.104642"
+      }
+    ]
+  },
+  "6fb5efda5a5ee5ec3d6c830007a5b704": {
+    "time": "2026/10/19 15:25:58",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市自立路",
+    "units": "屏東分隊",
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T15:27:20.951283"
       }
     ]
   }
