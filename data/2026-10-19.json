@@ -3733,7 +3733,7 @@
         "timestamp": "2026-10-19T22:41:20.629229"
       }
     ],
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已派遣",
@@ -3746,6 +3746,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-19T23:19:00"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T23:21:00"
       }
     ]
   },
@@ -3770,7 +3774,7 @@
         "timestamp": "2026-10-19T22:53:00"
       }
     ],
-    "current_status": "返隊中",
+    "current_status": "已返隊",
     "status_history": [
       {
         "status": "已出動",
@@ -3779,6 +3783,10 @@
       {
         "status": "返隊中",
         "timestamp": "2026-10-19T23:04:00"
+      },
+      {
+        "status": "已返隊",
+        "timestamp": "2026-10-19T23:34:00"
       }
     ]
   },
@@ -3829,6 +3837,73 @@
       {
         "status": "已出動",
         "timestamp": "2026-10-19T23:06:20.850898"
+      }
+    ]
+  },
+  "0babcdd634665adecf5fe5b14b31c635": {
+    "time": "2026/10/19 23:21:36",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣佳冬鄉文昌街",
+    "units": "佳冬分隊",
+    "current_units": "佳冬分隊",
+    "units_history": [
+      {
+        "units": "佳冬分隊",
+        "timestamp": "2026-10-19T23:22:21.000681"
+      }
+    ],
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已派遣",
+        "timestamp": "2026-10-19T23:22:21.000681"
+      },
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T23:23:00"
+      }
+    ]
+  },
+  "55ed2ace013a7d3a0edf19c492fb708d": {
+    "time": "2026/10/19 23:21:23",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣屏東市廣東路",
+    "units": "屏東分隊",
+    "current_units": "屏東分隊",
+    "units_history": [
+      {
+        "units": "屏東分隊",
+        "timestamp": "2026-10-19T23:22:21.000681"
+      }
+    ],
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T23:22:21.000681"
+      }
+    ]
+  },
+  "59d4db4d5d368e7395c0904410276af1": {
+    "time": "2026/10/19 23:31:11",
+    "category": "緊急救護",
+    "sub_category": "",
+    "location": "屏東縣恆春鎮恆春旅遊醫院旁邊萬年宮/恆南路",
+    "units": "恆春分隊",
+    "current_units": "恆春分隊",
+    "units_history": [
+      {
+        "units": "恆春分隊",
+        "timestamp": "2026-10-19T23:35:21.011999"
+      }
+    ],
+    "current_status": "已出動",
+    "status_history": [
+      {
+        "status": "已出動",
+        "timestamp": "2026-10-19T23:35:21.011999"
       }
     ]
   }
